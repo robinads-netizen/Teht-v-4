@@ -1,0 +1,425 @@
+Sami Huhtakangas
+V Ink Tattoon visuaalisen identiteetin uudistaminen
+Toimialalla erottuminen visuaalisen ilmeen avulla
+Opinnäytetyö
+Kevät 2020
+SeAMK Liiketoiminta ja kulttuuri
+Kulttuurituottaja (AMK)
+2
+SEINÄJOEN AMMATTIKORKEAKOULU
+Opinnäytetyön tiivistelmä
+Koulutusyksikkö: Liiketoiminta ja kulttuuri
+Tutkinto-ohjelma: Kulttuurituottaja
+Suuntautumisvaihtoehto: Visuaalinen tuotanto
+Tekijä: Sami Huhtakangas
+Työn nimi: V Ink Tattoon visuaalisen identiteetin uudistaminen – Toimialalla erottuminen visuaalisen ilmeen avulla
+Ohjaaja: Juhani Haarala
+Vuosi: 2020 Sivumäärä: 31 Liitteiden lukumäärä: 2
+Visuaalinen identiteetti on yrityksen näkyvin osa. Yrityksen toiminnasta ja olemuksesta eli brändistä voidaan viestiä visuaalisen ilmeen avulla ja se on hyödynnettävissä yrityksen viestinnässä. Tämän produktiomuotoisen opinnäytetyön lähtökohtana oli toimeksiantajaosapuolen, V Ink Tattoo tatuointiyrityksen tarve saada käyttöönsä uudistettu visuaalinen identiteetti, joka kuvastaa yrityksen toimintaa.
+Opinnäytetyön kirjallisessa osuudessa käsitellään visuaalisen identiteetin merkitystä osana brändiä ja pohditaan uudistamistyön hyötyjä sekä riskejä. Visuaalisen
+identiteetin suunnittelutyön pohjana käytettiin Juha Pohjolan visuaalisen ilmeen
+suunnittelukehystä. Työssä haastateltiin toimeksiantajaa kvalitatiivisen tutkimusmenetelmän, teemahaastattelun avulla. Lisäksi toimeksiantajan toimialueen muista tatuointiyrityksistä toteutettiin kilpailija-analyysi, jota hyödynnettiin erottuvan visuaalisen identiteetin suunnittelemiseksi. Visuaalinen identiteetti uudistettiin toimeksiantajan kilpailijoista erottuvaksi sekä toimialaa kuvaavaksi kokonaisuudeksi. Produktion lopputuotteena syntyi graafinen ohjeisto, joka annettiin toimeksiantajan käyttöön visuaalisen ilmeen johtamisen työkaluksi.
+Visuaalisen identiteetin uudistuksesta johtuvan vaikuttavuuden mittaaminen rajattiin
+pois tästä opinnäytetyöstä. Tulosten mittaaminen on haastava ja pitkäaikainen prosessi, joka vaatisi tarkasti määriteltyjen vaikuttavuustekijöiden säännöllistä mittaamista.
+Avainsanat: visuaalinen identiteetti, brändi
+3
+SEINÄJOKI UNIVERSITY OF APPLIED SCIENCES
+Thesis abstract
+Faculty: School of Business and Culture
+Degree programme: Cultural Management
+Specialisation: Visual Management
+Author/s: Sami Huhtakangas
+Title of thesis: Redesigning visual identity for V Ink Tattoo – Visual design as a tool
+for standing out from the competitors
+Supervisor(s): Juhani Haarala
+Year: 2020 Number of pages: 31 Number of appendices: 2
+Visual identity is the most visible part of a business. With visual identity, it is possible
+to convey the professional field and brand of the business. This thesis was made as
+a production for the commissioner, V Ink Tattoo, which needed a new visual identity
+which would convey the company’s current operations.
+The written part of the thesis deals with the relevance of visual identity as part of the
+brand and discusses the benefits and risks of redesign work. Juha Pohjola’s template for visual design was used as a basis for designing the commissioner’s new
+visual identity. The commissioner was interviewed using a semi-structured interview, a qualitative research method. In addition, a competitor analysis was made of
+the other tattoo businesses in the commissioner’s operating area, which was used
+to design a distinctive visual identity. The commissioner’s visual identity was redesigned to make it stand out from its competitors and to convey the commissioner’s
+line of business. A graphic charter was made as the final product of the production,
+and it was given to the commissioner to be used as a tool for managing their visual
+identity.
+The measurement of the effectiveness of the redesigned visual identity was excluded from this thesis study. Measuring the results would be a challenging and a
+long-term process that would require the regular measurement of precisely defined
+impact factors.
+Keywords: visual identity, brand
+4
+SISÄLTÖ
+Opinnäytetyön tiivistelmä..................................................................... 2
+Thesis abstract.................................................................................... 3
+SISÄLTÖ............................................................................................. 4
+Kuva-, kuvio- ja taulukkoluettelo.......................................................... 6
+1 JOHDANTO .................................................................................... 7
+2 TYÖN TEORIATAUSTA.................................................................. 8
+2.1 Visuaalinen identiteetti ................................................................................8
+2.2 Brändi..........................................................................................................8
+2.3 Visuaalisen identiteetin johtaminen.............................................................9
+3 TOIMEKSIANTO........................................................................... 11
+3.1 Uudistamistyön tarve ja motiivit.................................................................11
+3.2 Uudistamisen hyödyt ja riskit.....................................................................11
+3.3 Tavoitteet ..................................................................................................13
+3.4 Visuaalisen ilmeen suunnittelukehys.........................................................13
+3.5 Aineistonkeruumenetelmät........................................................................14
+3.6 Haastattelun suunnittelu ja toteutus ..........................................................15
+3.7 Mittarit .......................................................................................................16
+4 POHJATYÖ................................................................................... 17
+4.1 Toimeksiantaja..........................................................................................17
+4.2 Toimialan lyhyt kuvaus..............................................................................17
+4.3 Kilpailijoiden visuaalinen ilme ja viestintä..................................................18
+4.4 Brändin ydin ..............................................................................................20
+5 UUDISTETTU VISUAALINEN IDENTITEETTI .............................. 21
+5.1 Logon ja liikemerkin suunnittelu ................................................................21
+5.2 Graafiset elementit....................................................................................22
+5.3 Värit...........................................................................................................24
+5.4 Muutokset ja toimeksiantajan välikommentit .............................................25
+5.5 Graafinen ohjeisto.....................................................................................25
+6 TULOKSET................................................................................... 27
+7 POHDINTA ................................................................................... 29
+5
+LÄHTEET.......................................................................................... 30
+LIITTEET........................................................................................... 31
+6
+Kuva-, kuvio- ja taulukkoluettelo
+Kuva 1. SWOT-analyysi........................................................................................12
+Kuva 2. Kultainen leikkaus ja sen soveltaminen liikemerkissä..............................22
+Kuva 3. Vanha liiketunnus ja uudistettu visuaalinen identiteetti ............................25
+Kuvio 1. Visuaalisen ilmeen suunnittelukehys ......................................................14
+7
+1 JOHDANTO
+Visuaalinen identiteetti on yrityksen näkyvin osa. Yrityksen toiminnasta ja olemuksesta eli brändistä voidaan viestiä visuaalisen ilmeen avulla ja se on hyödynnettävissä yrityksen viestinnässä. Selkeällä ohjeistuksella ja johtamisella yrityksestä voidaan antaa laadukas ja luotettava kuva. Tämän produktiomuotoisen opinnäytetyön
+lähtökohtana on toimeksiantajaosapuolen, V Ink Tattoo tatuointiyrityksen tarve
+saada käyttöönsä uudistettu visuaalinen identiteetti, joka kuvastaa yrityksen nykyistä toimintaa.
+Opinnäytetyön kirjallisessa osuudessa käsitellään visuaalisen identiteetin merkitystä osana brändiä. Lisäksi siinä käydään läpi uudistamistyöhön johtaneita syitä,
+sen hyötyjä ja riskejä. Visuaalisen identiteetin suunnittelutyössä käytetään Juha
+Pohjolan visuaalisen ilmeen suunnittelukehystä, jonka pohjalta on muodostettu kysymykset toimeksiantajan teemahaastattelua varten. Suunnittelutyön tukena käytetään toimeksiantajan luonnosta sekä kilpailija-analyysiä erottuvan visuaalisen ilmeen suunnittelemiseksi.
+Produktiomuotoisen opinnäytetyön lopputuotteena on toimeksiantajan käyttöön tarkoitettu graafinen ohjeisto, joka on liitteenä tämän opinnäytetyön lopussa. Graafisen
+ohjeiston tarkoituksena on konkretisoida toimeksiantajalle visuaalisen ilmeen käyttöä yritysviestinnässä ja toimia ilmeen johtamisen työkaluna.
+8
+2 TYÖN TEORIATAUSTA
+2.1 Visuaalinen identiteetti
+Malmelinin ja Hakalan (2007, 81) mukaan visuaalisella identiteetillä tarkoitetaan
+muun muassa yrityksen nimen, värien ja symboleiden muodostamaa kokonaisuutta.
+Pohjolan (2019, 15) mukaan arkikielessä puhutaan visuaalisesta ilmeestä. Hän lisää visuaalisen identiteetin olevan yrityksen näkyvin osa, jolla ilmennetään sitä mielikuvaa, joka yrityksestä halutaan luoda. Visuaalisen identiteetin olennaisin tehtävä
+on viestiä brändistä ja erottua kilpailijoista (Pohjola 2019, 108). Nieminen (2004, 41)
+täsmentää visuaalisen identiteetin olevan olennainen osa yrityskuvan rakentamista.
+Yhtenäisen ilmeen ja visuaalisen viestinnän tarkoitus on välittää yrityksen arvoja,
+toimintaperiaatteita, tavoitteita ja persoonallisuutta.
+Visuaalisen identiteetin muotoilussa huomioitava seikka on ajankestävyys, joka
+usein ajaa suunnittelua pelkistettyyn ja yksinkertaiseen suuntaan. Muotoilussa tulee
+kuitenkin muistaa viestinnän tärkeys. Perusmuotojen merkitys jää vähäiseksi, mikäli
+niiden tuottamat mielikuvat ja tarinallisuus eivät tue nimen muotoilua. Visuaalista
+ilmettä tulkitaan yleensä peruselementtien kautta, mutta visuaalisuus voidaan rakentaa erilaisten visuaalisten elementtien ja periaatteiden varaan. (Pohjola 2019,
+107–108.)
+2.2 Brändi
+Malmelinin ja Hakalan (2007, 18) mukaan brändi muodostuu yrityksen eri osa-alueista, kuten sen toiminnasta, viestinnästä ja olemuksesta. Tässä opinnäytetyössä
+brändi-termillä viitataan laajempaan kokonaisuuteen, joka pitää sisällään yrityksen
+visuaalisen identiteetin, tavan viestiä ja arvot.
+Tämän opinnäytetyön teemana on visuaalisen identiteetin johtaminen yritystoiminnassa. Visuaalisuus on kuitenkin yksi osa yrityksen laajempaa brändikokonaisuutta,
+joka on otettava huomioon suunnittelutyössä. Malmelinin ja Hakalan (2007, 40) mu-
+9
+kaan brändin avulla ohjataan koko organisaation toimintaa ja viestintää. Visuaalisella identiteetillä voidaan siis ohjata brändin viestintää haluttuun suuntaan. Malmelin ja Hakala (2007, 41) lisäävät että, vaikka brändin viestintä näkyy julkisesti, kohderyhmän on mahdollista tehdä viestinnästä omat tulkintansa yrityksestä riippumatta. Brändin ja visuaalisen identiteetin suunnittelua ei siis kannata miettiä liian
+pitkälle. Tärkeintä on, että valtaosa kohderyhmästä ymmärtää brändin viestinnän
+tarkoitetulla tavalla.
+Malmelin ja Hakala (2007, 74) kertovat, että vahvalla brändillä voidaan rakentaa
+tehokasta viestintää. Johdonmukaisuus edellyttää kuitenkin, että brändiä hyödyntävät tahot ymmärtävät, mikä brändin pohjimmainen tarkoitus on. Epätietoisuus näkyy
+helposti epäjohdonmukaisena viestintänä. Malmelin ja Hakala (2007, 170–171) toteavat, että brändi ja brändiajattelu ovat yritystoimintaa ohjaavia työvälineitä. Niiden
+hyödyntäminen edellyttää vahvan brändin ohella käsitystä yrityksen toiminnasta ja
+tavoitteista. Nämä seikat ovat mielestäni rinnastettavissa visuaalisen identiteetin
+johtamiseen. Selkeällä viestinnällä yritys osoittaa asiantuntevuutta ja vahvaa brändin hallintaa. Kuten brändiajattelu myös visuaalinen ilme on otettava omaksi ajattelutavakseen. Tämä edellyttää kuitenkin selkeää ohjeistusta sekä eri viestintäkanaviin sovellettavissa olevaa visuaalista identiteettiä.
+2.3 Visuaalisen identiteetin johtaminen
+Visuaalisen identiteetti on yrityksen toiminnan ilmentymä, jota tulisi hyödyntää kaikessa yrityksen viestinnässä (Visuaalisen viestinnän hankintaopas 2012). Visuaalisen identiteetin johtamisella tarkoitetaan millä keinoin ja missä yhteydessä yritykselle suunniteltuja visuaalisia elementtejä käytetään. Visuaalisen identiteetin hallinta edellyttää kuitenkin, että yrityksellä on selkeä kuva omasta toiminnastaan, palveluistaan, kohderyhmästään, sidosryhmistään ja kilpailijoistaan (Nieminen 2004,
+42). Liiketunnus, määritellyt värit sekä typografia eivät takaa vahvaa yhtenäistä viestintää, jos niitä ei hyödynnetä osana yrityksen ja brändin viestintää. Pohjolan (2019,
+138) mukaan yksittäisillä graafisilla elementeillä ja vahvalla tai suppealla ohjeistuksella visuaalisesta identiteetistä on mahdollista tehdä erottuva.
+10
+Visuaalisen identiteetin hallinta perustuu graafisten elementtien määrittelyyn, tunnistettavuuteen ja konkreettiseen käyttöön, mutta kaavamaista toistoa tulisi välttää
+(Pohjola, 133–135). Peruselementit ovat olemassa, mutta graafisia elementtejä ei
+tulisi käyttää aina samalla tavalla. Nieminen (2004, 87) nostaa visuaalisen ilmeen
+tärkeiksi ominaisuuksiksi myös tunnistettavuuden sekä persoonallisuuden ja kilpailijoista erottumisen. Toistuvuus ja tunnistettavuus ovat myönteisiä asioita, mutta saman kuvapohjan voi tehdä esimerkiksi sommittelemalla graafiset elementit kuvapohjaan eri tavoin.
+Nieminen (2004, 15) toteaa, että hallitsematon ja epäyhtenäinen ilme hämmentää
+asiakasta ja näin ollen asiakas voi tulkita halutunlaisen viestin toisella tavalla. Nieminen (2004, 27) lisää mielikuvan muodostumisen hankaloituvan visuaalisen linjan
+ja muodon muuttuessa. Visuaalisen identiteetin soveltaminen eri muodoissaan
+edellyttää ohjeistusta sekä ymmärrystä visuaalisen identiteetin toimivuudesta. Pääasia on, että peruselementit ovat samassa linjassa muun visuaalisuuden kanssa
+sekä säilyvät tunnistettavina havainnoitsijalle. Pohjola (2019, 135) muistuttaa, että
+kuvallisen viestinnän tehtävä on täydentää sanallista informaatiota. Julkaisuissa,
+joissa halutaan painottaa informaatioarvoa, tulee huomioida etteivät graafiset elementit peitä sanallista viestintää.
+11
+3 TOIMEKSIANTO
+3.1 Uudistamistyön tarve ja motiivit
+Uudistamistyö on tarpeellinen, jos aikaisempi tunnus ei kuvasta yrityksen nykyistä
+toimintaa, se on vanhentunut tai yritystä ollaan uudistamassa (Visuaalisen viestinnän hankintaopas 2012). Ensimmäisen toimintavuoden ajan toimeksiantajan käytössä oli hänen itse suunnittelemansa liiketunnus. Graafisia elementtejä tai sovelluksia ei ollut. Vanhan visuaalisen identiteetin kehittämistä ei jatkettu, koska yritystoiminnan käynnistäminen vei toimeksiantajan aikaa sekä resursseja.
+Toimeksiantajan motiivina oli kehittynyttä yritystoimintaa kuvastava visuaalinen
+identiteetti. Vanha ilme oli vanhentunut, joten tilanne haluttiin korjata visuaalisen uudistamistyön avulla. Tarve visuaalisen identiteetin uudistamiselle oli kokonaisvaltainen, koska aikaisempi tunnus ei ollut sovellettavissa graafisiin julkaisuihin.
+Opinnäytetyön tekijän näkökulmasta työ tarjosi otollisen näkökulman opinnäytetyön
+kantavaan teemaan ja pulmakohtaan eli visuaalisen identiteetin johtamiseen.
+3.2 Uudistamisen hyödyt ja riskit
+Huovila (2006, 206–207) kirjoittaa kolmesta eri tavasta toteuttaa visuaalisen uudistuksen. Ensimmäinen tapa sisältää pieniä muutoksia, joita tehdään kohderyhmän
+huomaamatta. Toisessa tavassa uudistuksia toteutetaan määräajoin, mutta ei pyritä
+herättämään huomiota. Kolmas keino on tehdä kertaluontoinen ja näkyvä muutos.
+Jälkimmäinen voi selkiyttää yrityksen viestintää ja tuoda lisää asiakkaita tai vanhoja
+asiakkuuksia voidaan menettää.
+Brändin viestinnän on oltava yhteisön kulttuurin ja periaatteiden mukaista. Mikäli
+brändi viestii näiden vastaisesti, se voi olla brändille vahingollista. (Malmelin & Hakala 2009, 122.) Toteamusta voidaan soveltaa visuaaliseen identiteetin uudistamistyöhön. Liian suuri muutos aikaisempaan ilmeeseen ja muista alan vastaavista toimijoista poikkeava viestintä voidaan tulkita riskitekijäksi. Niemisen (2004, 28) mie-
+12
+lestä muutostilanteiden vaikutus on pientä, mikäli yritys koetaan luotettavana ja asiantuntevana. Huovilan (2006, 206) mukaan visuaalisen identiteetin toistuvat ja samanlaiset peruselementit luovat turvallisuuden tunnetta, mutta riskinä on myös kohderyhmän kyllästyminen niihin.
+Uudistamistyön hyödyistä ja riskeistä muodostettiin SWOT-analyysi lähempää tarkastelua varten. SWOT-analyysin avulla voidaan määrittää tavoitteita ja ratkaisuja
+niiden saavuttamiseksi. Tiettyjen seikkojen suhteita voidaan selventää ja se auttaa
+jäsentämään tietoa. (Onnistu yrittäjänä, [viitattu 31.3.2020].)
+Kuva 1. SWOT-analyysi
+Opinnäytetyön tapauksessa kertaluontoiselle ja näkyvälle uudistukselle ei ollut esteitä. Toimeksiantajan yrityksen iän, asiakaskunnan ja myönteisen suhtautumisen
+huomioiden riskit painottuvat visuaalisen identiteetin yhtenäisyyteen ja toistuvuuteen. Lisäksi on epätodennäköistä, että vakioasiakkaat pelästyisivät uutta visuaalista ilmettä, mikäli he ovat olleet tyytyväisiä tatuointitöiden jälkeen.
+13
+3.3 Tavoitteet
+Toimeksiantajan sekä opinnäytetyön tavoitteiden mukaisesti uudistettu visuaalinen
+identiteetti suunnitellaan vastaamaan toimeksiantajan nykyisiä tarpeita ja toimialallaan erottuvaksi visuaaliseksi kokonaisuudeksi.
+Visuaalisen identiteetin tarkoituksena on kuvastaa toimeksiantajan yrityksen brändiä. Tämän opinnäytetyön produktio-osuudessa uudistettua visuaalista identiteettiä
+sovelletaan toimeksiannon mukaisella sovitulla tavalla. Toimeksiantajalle suunnitellaan uusi logo, tunnus ja graafiset elementit sekä määritellään käytettävät värit.
+Edellä mainittuja elementtejä sovelletaan tässä opinnäytetyössä käyntikorttiin, tarraan, mainosprinttiin ja ikkunateippaukseen. Toimeksiantajalle toteutetaan myös
+graafinen ohjeisto, jotta hän kykenee soveltamaan visuaalista identiteettiä jatkossa
+niin, että sen toistuvuus ja erottuvuus säilyvät.
+Opinnäytetyön tekijälle opinnäytetyö toimii ammattimaisena työnäytteenä. Samalla
+se toimii osoituksena hänen kyvyistään harjoittaa omaa ammattialaansa itsenäisesti
+ja luotettavaan teoriatietoon pohjaten. Opinnäytetyö antaa tekijälleen mahdollisuuden kehittyä ja perehtyä syvällisemmin ammattinsa teoreettisiin viitekehyksiin ja
+hyödyntää tutkintonsa aikana oppimiaan asioita.
+3.4 Visuaalisen ilmeen suunnittelukehys
+Pohjola (2019, 94–95) esittää kirjassaan keskeiset kysymykset sekä suunnittelukehyksen yrityksen visuaalisen identiteetin suunnittelutyötä varten. Hän kuitenkin huomauttaa, että yrityksien viestinnälliset tarpeet vaihtelevat. Opinnäytetyön tekijä on
+produktiotyössään huomioinut tämän ja hyödyntänyt Pohjolan suunnittelukehystä
+siltä osin, kuin se on produktiomuotoiselle opinnäytetyölle käytännöllistä. Suunnittelukehys ei sovellu sellaisenaan toimeksiantajan yritysmuotoon ja tarpeisiin nähden,
+joka on huomioitu haastattelun teemojen sekä kysymyksien asettelussa.
+14
+Kuvio 1. Visuaalisen ilmeen suunnittelukehys (Pohjola, 2019, 95).
+3.5 Aineistonkeruumenetelmät
+Uudistetun visuaalisen identiteetin suunnittelutyön apuna käytetään Pohjolan visuaalisen ilmeen suunnittelukehystä. Tarvittavan tiedon saamiseksi hyödynnetään
+kvalitatiivista tutkimuskeinoa, joka tämän opinnäytetyön tapauksessa on toimeksiantajan kanssa puhelimitse käyty teemahaastattelu. Haastattelun tavoitteena on
+15
+saada tietoa toimeksiantajan yrityksen nykytilasta, arvoista ja tavoitteista. Toimeksiantaja työskentelee yrityksessä yksin, joten teemahaastattelu on pääasiallisin ja
+käytännöllisin tapa tiedon keräämiseen. Tietoa hyödynnetään visuaalisen identiteetin suunnittelutyössä.
+Tietoa toimeksiantajan kilpailijoista saadaan kilpailija-analyysin avulla. Analyysin
+tarkoituksena on havainnoida kilpailijoiden visuaalista viestintää ja sen johtamista
+eri markkinointikanavissa. Havaintoja hyödynnetään visuaalisen identiteetin suunnittelussa.
+3.6 Haastattelun suunnittelu ja toteutus
+Teemahaastattelun kysymykset on suunniteltu Pohjolan (2019, 95) suunnittelukehystä apuna käyttäen. Kysymykset on muotoiltu visuaalisen identiteetin suunnittelun
+kannalta olennaisiin kysymyksiin. Haastattelulla pyritään muodostamaan yleiskuva
+toimeksiantajan yrityksestä ja arvoista sekä visuaalisen uudistamistyön tarpeesta ja
+mihin sitä sovelletaan. Kilpailijoiden osalta on olennaista tietää, minkälaisen alueen
+toimeksiantaja kokee toimialueekseen. Tällä tiedolla kilpailija-analyysia kyetään rajaamaan.
+Toimeksiantajalle kerrotaan ennen haastattelun alkua haastattelun yleisistä periaatteista, kulusta ja tarkoituksesta. Haastattelun teemat on jaettu neljään kohtaan. Ensimmäisessä kysytään toimeksiantajan ja yrityksen tarpeista sekä arvoista. Seuraavaksi käydään läpi, minkälaisia mielikuvia uudistetulla identiteetillä halutaan välittää.
+Kolmanneksi pohjustetaan kilpailijatilannetta ja viimeiseksi kysytään mihin uudistettua visuaalista identiteettiä pyritään soveltamaan tai miten sillä halutaan erottua.
+Koska haastattelu toteutetaan puhelimitse, molempien osapuolien käsitys kysymyksien sisällöstä varmistetaan. Huomiota pyritään kiinnittämään jo kysymysten asettelussa. Mikäli toimeksiantaja haluaa salata tai täydentää tietoja, häntä kehotetaan
+olemaan yhteydessä opinnäytetyön tekijään.
+16
+3.7 Mittarit
+Pohjolan (2019, 130–131) mukaan visuaalisen identiteetin vaikutuksia brändiin on
+haastavaa mitata. Hän toteaa kokonaisvaltaisten vaikutuksien mittaamisen vaativan
+toistuvaa ja säännöllistä mittaamista, useiden tekijöiden määrittämistä ja tutkimusten yhdistelemistä. Mittaamisen laajuuden ja moniulotteisuuden johdosta opinnäytetyön tekijä on päättänyt rajata vaikutuksien mittaamisen pois tämän opinnäytetyön
+puitteissa.
+17
+4 POHJATYÖ
+4.1 Toimeksiantaja
+Opinnäytetyön toimeksiantaja on Naantalin kaupungissa toimipaikkaansa pitävä tatuointiyritys V Ink Tattoo. Kirjoittamishetkellä yrityksen toiminta on ollut aktiivista
+noin yhden ja puolen vuoden verran. Toimeksiantajan yritys on kaupunkinsa ainoa
+rekisteröity tatuointiyritys. Toimeksiantaja kokee päätoimialueekseen Turun seutukunnan, mikä on huomioitu kilpailija-analyysin tekemisessä.
+V Ink Tattoon pääviestintäkanavana ovat yrityksen Facebook-sivut. Sivuilla ohjataan asiakkaita tekemään ajanvaraukset puhelimitse tai Facebook Messengerin yksityisviesteillä. Yrityksellä on myös Instagram-tili, jonka viestintä painottuu markkinointiin työnäytteiden muodossa. Yrityksellä ei ole verkkosivuja.
+Opinnäytetyön tekijän ja toimeksiantajan kommunikointi opinnäytetyön osalta käytiin Facebook Messengerin sekä puhelinkeskusteluiden välityksellä.
+4.2 Toimialan lyhyt kuvaus
+Tatuointiala on vakiintunut Suomessa 2010-luvulla. Selkeää kohderyhmää ei ole,
+mutta asiakkaita yhdistää arvostus tatuointeja kohtaan. Suomessa tatuointialan yrittäjien toiminta on vastuullista ja järjestäytyneisyys yleistä. Suomen tatuointipalvelujen sekä -värien valvonnasta vastaa Turvallisuus- ja kemikaalivirasto Tukes. Väreissä käytettyjen aineiden ja värien aiheuttamien allergisoivien reaktioiden takia
+toiminta edellyttää vastuullisuutta. Tutkitusti allergiaturvallisin värivaihtoehto on
+musta. Punaisen väriaineen kerrotaan aiheuttavan allergisoivia reaktioita yleisimmin. Yksi luotetuin väriaineiden maahantuoja Suomessa on Nordic Tattoo Supplies,
+josta tatuointialan yrittäjät hankkivat yleisimmin väriaineensa. (Kuukkanen 2018.)
+Haastattelussa toimeksiantajan kanssa keskusteltiin Kuukkasen (2018) artikkelissakin mainituista vastuullisuuteen sekä toiminnallisuuteen liittyvistä asioista. Varhon
+(2019) mukaan hän kiinnittää yrityksessään huomiota vastuulliseen toimintaan ja
+hankkii värinsä Kuukkasen artikkelissa mainitulta taholta. Haastattelussa yrityksen
+18
+brändin arvoiksi nostettiin luottamuksellisuus ja vastuullisuus. Varho (2019) tarkensi
+arvojen konkretisoituvan päivittäisessä toiminnassa hyvän hygienian sekä asiakastyytyväisyyden ylläpitämisenä.
+4.3 Kilpailijoiden visuaalinen ilme ja viestintä
+Kilpailija-analyysin avulla on mahdollista selvittää kilpailijoiden toimintatapoja sekä
+strategisia vahvuuksia ja heikkouksia. Analyysi auttaa myös tunnistamaan oman
+yrityksen menestystekijöitä ja kehittämiskohtia. (Suomi.fi, [viitattu 8.4.2020].) Tässä
+opinnäytetyössä kilpailija-analyysia on hyödynnetty toimeksiantajan kilpailijoiden
+havainnoinnissa. Toimeksiantajan yrityksen vertailukohdaksi valittiin eri tatuointiyrityksiä Turun seutukunnasta.
+Vertailtavia yrityksiä haettiin Googlen hakukoneen välityksellä avainsanoilla Naantali, tatuointiliike ja Turun seutu. Vertailukohteiksi valittiin Golden Eye Tattoo, Soulskin Tattoo Studio, Joker the Tattoo Shop ja Dreamyink modernin ja selkeän visuaalisen linjan takia. Havainnoinnissa on kiinnitetty huomiota heidän viestintäkanaviinsa
+sekä visuaalisen identiteetin käyttötapoihinsa.
+Ensimmäinen merkittävä ero toimeksiantajan ja kilpailijoiden yrityksien välillä olivat
+verkkosivut. Havainnoitujen yrityksien pääviestintäkanavina toimivat heidän verkkosivunsa, joista löytyi yleiset tiedot yrityksestä, tatuoinnin hoito-ohjeet sekä kuvagalleria työnäytteille. Ajanvarausten jättäminen vaihteli yrityskohtaisesti puhelinvarauksen tai sähköisen lomakkeen muodossa.
+Pohjolan mukaan (2019, 205–206) visuaalisen identiteetin soveltaminen verkkopalveluissa on sidoksissa käyttöliittymään, sisältörakenteeseen sekä julkaisualustan
+asettamiin rajoituksiin. Hän jatkaa tarkentamalla, että graafisia elementtejä voidaan
+yhdistää osaksi käytettävyyttä, jotta brändin mukainen käyttäjäkokemus toteutuisi.
+Kilpailijoiden verkkosivuilla visuaalisen identiteetin käyttö näkyi väri- ja kirjasinvalinnoissa. Pohjolan (2019, 206) mielestä tällaiset verkkosivujen tyylitiedostoon tehdyt
+elementtien väri- ja tekstityyppien muutokset ovat ensisijaisia ratkaisuja visuaalisuuden rakentamisessa. Muita kilpailijoiden käyttämiä keinoja olivat logotunnuksen nä-
+19
+kyvä sijoittelu ja yksinkertaisten graafisten elementtien, kuten kuvien ja kehysviivojen hyödyntäminen osana tekstiä. Jälkimmäiset keinot ovat todennäköisesti verkkosivujen julkaisualustalla tehtyjä ratkaisuja.
+Mustavalkoisuus tai mustan ja valkoisen eri sävyt olivat yleisiä kilpailijoiden värien
+käytössä. Mustaa tai valkoista käytettiin vallitsevana värinä, jonka kontrastiksi oli
+väristä riippuen valittu vaihtoehdoista toinen. Kahden värin tukena hyödynnettiin valokuvia visuaalisina elementteinä. Kaksi havainnoiduista yrityksistä käytti kolmatta
+tehosteväriä valokuvien lisäksi. Pääosin visuaalinen identiteetti oli pyritty rakentamaan pelkistettyjen ja yksinkertaisten graafisten elementtien varaan.
+Yhteneväinen tekijä kilpailijoiden ja toimeksiantajan välillä olivat yrityksien Facebook-sivut. Sivuilla jaettiin viimeaikaisia työnäytteitä ja tiedotettiin liikkeiden poikkeusaukioloajat. Todennäköisesti julkaisualustan vuoksi kilpailijoiden visuaalista
+identiteettiä oli hyödynnetty vain Facebookin käyttäjä- ja kansikuvan tasolla. Yksi
+kilpailijoista oli soveltanut visuaalista ilmettään teksti- ja kuvajulkaisuissa, joissa oli
+havaittavissa yrityksen verkkosivuillakin käytettyjä visuaalisia elementtejä.
+Kilpailijoiden visuaalinen identiteetti välittyi selkeästi heidän verkkosivuiltaan. Todennäköistä on, koska verkkosivut ovat heidän pääviestintäkanavansa, niihin on panostettu visuaalisesti eniten. Visuaalisen identiteetin johtamisen kannalta Nieminen
+(2004, 111) muistuttaa, että visuaalisen ilmeen tulee olla yhtenäistä kaikissa viestintäkanavissa. Kilpailijoiden Facebook-sivuissa oli yhtä poikkeusta lukuun ottamatta puutteita visuaalisen identiteetin johtamisessa.
+Verkkosivujen puutteellisuuden vuoksi toimeksiantaja voisi johtaa visuaalista identiteettiään tämänhetkiseen pääviestintäkanavaansa. Siten hän myös erottuisi havainnoiduista kilpailijoistaan. Verkkosivujen suunnittelua tai niiden tilausta toimeksiantajan on syytä harkita. Verkkosivut eivät ole Niemisen (2004, 110–111) mielestä
+ainoastaan osoitus yrityksen ajankohtaisuudesta vaan ne myös parantavat yrityksen toimintakulttuuria ja palvelun laatua. Tässä suhteessa toimeksiantajan kilpailijat
+ovat edelläkävijöitä.
+20
+4.4 Brändin ydin
+Malmelinin & Hakalan (2009, 128) mukaan mielikuvat brändistä muodostuvat yrityksen ja sen havainnoijan eri kohtaamispisteissä, kuten yrityksen viestinnän tai sen
+edustajan kautta. Mielikuvien kannalta Varho (2019) koki tärkeäksi, että uudistetusta visuaalisesta identiteetistä välittyy hänen yrityksensä toimiala. Hän halusi
+myös liiketunnuksen ilmentävän hänen tyyliään tehdä tatuointeja. Persoonallisen liiketunnuksen luomiseksi toimeksiantaja toimitti opinnäytetyön tekijälle suunnittelemansa luonnoksen hyödynnettäväksi suunnittelutyöhön.
+Viestinnän keskeisimpiä tehtäviä on kilpailijoista erottuminen, mutta sitä varten
+brändiltä edellytetään erottuvia ideoita (Malmelin & Hakala, 2009, 177). Opinnäytetyö keskittyy visuaalisen identiteetin johtamiseen, joten varsinaista brändin tutkimusta toimeksiantajan yritykselle ei ole tehty. Kilpailija-analyysia toteutettaessa voitiin kuitenkin havaita, että erottuvuutta pyrittiin henkilökohtaisen tyylin lisäksi tuomaan lisäpalveluiden avulla, kuten vegaanisilla tatuoinneilla, vierailevilla tatuointiartisteilla tai hierontapalveluilla. Toimialan vakiintumisesta Suomessa ei ole ajallisesti
+kauan, joten uusille liikeideoille ja innovaatioille on todennäköisesti tarvetta.
+Visuaalisen identiteetin puitteissa erottuvuusarvon saavuttamiseksi uudistetun identiteetin suunnittelutyössä vältetään samankaltaisia visuaalisia ratkaisuja, kuin kilpailijoiden viestinnässä. Huomioitavaa on, että visuaalisesta identiteetistä tulee käydä
+ilmi toimeksiantajan harjoittama toimiala.
+21
+5 UUDISTETTU VISUAALINEN IDENTITEETTI
+5.1 Logon ja liikemerkin suunnittelu
+Uudistetun visuaalisen identiteetin suunnittelutyö aloitettiin alkuhaastattelun sekä
+pohjatöiden jälkeen. Ensimmäinen työvaihe uudistamistyössä oli identiteetin näkyvimmän osan suunnittelu eli yrityksen logo ja liikemerkki. Opinnäytetyön tekijä suunnitteli toimeksiantajan luonnoksen pohjalta kaksi oman näkemyksensä mukaista ehdotusta logosta ja liikemerkistä. Ensimmäisessä ehdotuksessa muutokset olivat pienimuotoisia, jotka noudattivat vanhan liiketunnuksen muotoilua. Toinen ehdotus oli
+radikaalimpi täysimittainen uudistus. Toimeksiantaja ei kokenut ehdotuksien vastaavan hänen mielikuvaansa yrityksestään, joten hän pyysi lähettämänsä luonnoksen
+kaltaista ratkaisua.
+Avoin keskustelukulttuuri ja toimeksiantajan sekä suunnittelijan keskinäinen ymmärrys ovat avaintekijöitä graafisten tilaustöiden toteuttamisessa. Visuaalisen ilmeen
+uudistus edellyttää suunnittelijalta ymmärrystä toimeksiantajan identiteettiä, tavoitteita ja olemusta kohtaan (Visuaalisen viestinnän hankintaopas 2012). Visuaalisen
+identiteetin luonteesta keskusteltiin, jotta suunnittelutyö etenisi yhteisymmärryksessä. Opinnäytetyön tekijä päätti Visuaalisen viestinnän hankintaoppaan mukaisesti toteuttaa logon ja liikemerkin toimeksiantajan pyynnön mukaisesti. Toimeksiantajan pyyntö oli perusteltu henkilökohtaisen tyylin ja identiteetin näkyvyydellä.
+Huovilan (2006, 23) mukaan tunnuksen jatkuvuus ja aikaisempi tunnettavuus ovat
+hyödynnettävissä, mikäli suunnittelutyö toteutetaan vanhan tunnuksen pohjalta. Toimeksiantajan pyyntö oli myös perusteltavissa hänen luonnoksensa samankaltaisuuden vanhaan visuaaliseen identiteettiin verrattaessa.
+Toimeksiantajan luonnos ei ollut teknisesti toimiva sellaisenaan, joten sen uudelleen
+suunnittelussa sovellettiin kultaista leikkausta. Kultainen leikkaus on kuvailmaisussa
+käytetty sommittelusääntö tasapainoisen ja harmonisen lopputuloksen saavuttamiseksi (Toivanen, [viitattu 31.3.2020]). Uuden liikemerkin suunnittelussa sovellettiin kultaisessa leikkauksessa käytettyjä sääntöjä. Liikemerkki muotoiltiin kultaisessa leikkauksessa käytettyjä ympyrämuotoja hyödyntäen. Muotoihin sopimattomat pienet yksityiskohtaiset kulmat jätettiin liikemerkistä pois. Kultainen leikkaus
+22
+mahdollisti myös liikemerkin skaalautuvuuden ja toimivuuden suuressa sekä pienessä koossa.
+Kuva 2. Kultainen leikkaus ja sen soveltaminen liikemerkissä.
+Niemisen (2004, 92) mukaan logotyypin valinta tulee tehdä toimialan mukaan. Toimeksiantajan luonnoksen mukainen liikemerkki oli kirjainmuotoinen, joka kuvasti toimeksiantajan yritystä. Tämä helpotti logossa käytettävän kirjasimen valintaa. Kirjasimen etsinnässä käytettiin Google Fonts -sivustoa. Logon kirjasimeksi valittiin Pirata One, joka noudatti samankaltaista muotokieltä liikemerkin kanssa.
+5.2 Graafiset elementit
+Uudistamistyön toinen vaihe aloitettiin liiketunnuksen hyväksymisen jälkeen. Pohjolan (2019, 142) mukaan visuaalisen identiteetin suunnittelussa tulisi huomioida pelkän tunnuksen sijaan myös peruselementtien linkittyminen tunnukseen ja tukea niiden erilaista soveltamista eri käyttötarkoituksiin. Opinnäytetyön tekijä huomioi tä-
+23
+män omassa suunnittelutyössään. Graafiset elementit suunniteltiin uudistetun liiketunnuksen muotokieltä ja toimeksiantajan yrityksen toimialaa ja brändiarvoja ilmentäviksi visuaalisiksi muodoiksi.
+Reunaelementeiksi tarkoitetut kuviot suunniteltiin muodoltaan abstrakteiksi ja suomumaisiksi. Tällaisia muotoja on havainnoitavissa myös tatuoinneissa. Kuviot muistuttavat yrityksen toimialasta ja niiden abstraktimuoto mahdollistaa niiden yhdistämisen laajemmiksi visuaalisiksi kokonaisuuksiksi. Reunakuvioita on mahdollista
+sommitella graafisissa julkaisuissa eri tavoin. Huovila (2006, 52) kertoo, että dynaamista sommittelua hyödyntämällä visuaalisilla elementeillä pyritään luomaan epäsymmetristen erojen avulla tasapainoinen sommitelma. Tietyissä tapauksissa opinnäytetyön tekijä vältti kuvioiden sommittelulla luomasta lukitsevaa tai suljettua mielleyhtymää jättämällä julkaisujen reunoille tyhjää tilaa.
+Taustagrafiikaksi suunniteltiin tekstuuritausta, jolla haluttiin vahvistaa mielikuvaa yrityksen toimialasta. Tausta koostettiin kahdesta eri tekstuurikuvasta: karheasta paperista sekä maalipinnasta. Toimeksiantajan brändiarvojen johdosta taustagrafiikan
+karkeutta pehmennettiin, ettei siitä tule likaista vaikutelmaa.
+Pohjolan (2019, 194) mukaan viiva voi toimia keskeisenä elementtinä visuaalisessa
+ilmeessä, toimia rajaavana elementtinä ja olla osa sommittelua. Opinnäytetyön tekijä hyödynsi viivan käyttöä olennaisen informaation rajaamiseen tyhjästä tilasta esimerkiksi julisteen ja käyntikortin tapauksessa. Viivan paksuus ja muoto linkittävät
+sen elementtinä osaksi liiketunnusta ja viestivät yrityksen luottamuksesta.
+Visuaalisten elementtien avulla pyritään keskittämään huomiota viestittävään asiaan sekä luomaan esteettisesti eheä kokonaisuus (Huovila, 2006, 35). Opinnäytetyön tekijä rakensi suunnittelemistaan graafisista elementeistä toimeksiantajan eri
+tarkoituksiin tuotettuja visuaalisia julkaisuja. Julkaisuissa säilytettiin visuaalisen
+identiteetin yhtenäisyys ja teknistä toistoa vältettiin muotoilemalla ja sommittelemalla graafisia elementtejä eri tavoin.
+24
+5.3 Värit
+Värejä valitessa, huomioarvoa voidaan lisätä joko tummien tai vaaleiden sävyjen
+hallitsevalla käytöllä. Väriopillisesti on suositeltavaa käyttää pääväriksi valittua väriä
+paljon ja muita värejä tehosteväreinä dynaamisen lopputuloksen saavuttamiseksi.
+(Huovila 2006, 119–121.) Toimeksiantajan yrityksen viestinnässä käytettävien värien valinnassa huomioitiin visuaaliselle identiteetille tehdyt uudistukset, kilpailijaanalyysin tulokset ja toimeksiantajan toiveet ja brändi. Uudistetun visuaalisen identiteetin tavoitteiden saavuttamiseksi päätettiin valita kolme väriä, joita on perusteltu
+tarkemmin alla.
+Kilpailevien tatuointiyrityksien viestinnässä musta oli yleisimpiä käytettyjä värejä.
+Todennäköisesti mustan värin synnyttämä mielikuva yhdistetään tatuoinneissa käytettävään väriaineeseen. Luomajoki ([viitattu 30.4.2020]) määrittelee mustan värin
+kuvastavan ajattomuutta, tyylikkyyttä ja eleganttiutta. Hän kuitenkin muistuttaa värin
+olevan helposti johdettavissa suruun ja ahdistukseen. Opinnäytetyön tekijä ei kokenut mustan värin valitsemiselle olevan esteitä. Valintaa puoltaa väristä syntyvän
+mielikuvan yhdistyminen toimialaan ja negatiiviset assosioinnit ovat vältettävissä.
+Päävärin yhteydessä käytetään yrityksen tunnusta, tehostevärejä, graafisia elementtejä ja informatiivista tekstiä, joiden avulla havainnoijalle pyritään tekemään
+selväksi, mistä on kyse.
+Luomajoen ([viitattu 30.4.2020]) mukaan valkoinen väri kuvastaa puhtautta, aitoutta
+ja sillä voidaan korostaa tilaa ja uudistumista. Nieminen (2004, 105) lisää sen olevan
+myös hyvä kontrasti mustalle värille. Opinnäytetyön tekijä koki valkoisen värin olevan luonnollinen valinta yrityksen toiseksi väriksi. Valkoisen värin avulla yrityksestä
+kyetään viestimään luotettavana ja vastuullisena toimijana. Mustalla taustalla käytettynä valkoisella värillä voidaan keskittää havainnointia olennaisiin informaatioihin.
+Punainen väri edustaa voimakkaita tunteita ja sitä tulee käyttää harkiten. Toisaalta
+punainen väri viestii rohkeasta ja motivoituneesta yrityksestä. (Luomajoki, [viitattu
+30.4.2020]). Myös Pohjolan (2019, 191) mukaan Hansen (1976) kirjoittaa punaisen
+värin merkitsevän eurooppalaisessa heraldiikassa rohkeutta ja palveluintoa. Opinnäytetyön tekijä päätyi valitsemaan näillä argumenteilla punaisen tehostevärin ku-
+25
+vastamaan toimeksiantajansa yritystä. Voimakkaita mielleyhtymiä, kuten verta ja vihaa vältettiin sävyttämällä valittua punaista väriä keltaisella värillä. Punaisen värin
+käyttöä rajattiin graafisiin elementteihin, jolloin sitä ei esiinny hallitsevana värinä.
+Kuva 3. Vanha liiketunnus (vas.) ja uudistettu visuaalinen identiteetti (oik.).
+5.4 Muutokset ja toimeksiantajan välikommentit
+Lopputuotteisiin päätyneitä graafisia elementtejä sekä värejä muutettiin ja sommiteltiin uudelleen useasti ennen toimeksiantajan hyväksymistä. Opinnäytetyön tekijä
+teki muutoksia eri sovelluksiin suunnittelutöiden aikana toimeksiantajan välikommenttien perusteella. Välikeskusteluja käytiin, kun muutoksia aikaisempiin työluonnoksiin oli tapahtunut selkeästi. Jatkuvalla ja avoimella keskustelulla varmistettiin
+myös, ettei ensimmäisen suunnitteluvaiheen kaltaisia näkemyseroja syntynyt.
+5.5 Graafinen ohjeisto
+Graafisessa ohjeistossa määritellään yrityksen visuaalisen ilmeen ja sen elementtien käyttöä. Graafinen ohjeisto on tarkoitettu yrityksen oman henkilöstön käyttöön
+sekä yrityksen sidosryhmille ja yhteistyökumppaneille (Visuaalisen viestinnän hankintaopas 2012). Toimeksiantajan käyttöön koostetussa graafisessa ohjeistossa
+selvitetään uudistetun visuaalisen identiteetin käyttöä eri osa-alueittain. Ohjeistossa
+26
+määritellään logon, liikemerkin ja tunnuksen käyttötavat, typografia, värit sekä graafiset elementit. Näiden osa-alueiden soveltamista on havainnollistettu esimerkkikuvien kautta. Ohjeiston avulla toimeksiantajan on mahdollista huolehtia visuaalisesta
+yhtenäisyydestä yrityksensä viestinnässä.
+27
+6 TULOKSET
+Visuaalisen identiteetin uudistamisella on erilaisia vaikutuksia yrityksen toiminnalle
+uudistuksen mittaluokan mukaan. Näkyvässä uudistuksessa visuaalinen ilme suunnitellaan täysin uudelleen. Tällainen ratkaisu voi herättää laajemmin huomiota,
+mutta pelästyttää vanhat asiakkaat. Hienovaraisessa tai vaiheistetussa uudistuksessa muutokset ovat pieniä ja vakio asiakaskunta pidetään tyytyväisenä. Uudet
+asiakkaat eivät kuitenkaan välttämättä löydä yrityksen palveluita.
+Tässä opinnäytetyössä visuaalisen identiteetin uudistus toteutettiin näkyvästi. Toimeksiantajan yritystoiminnan käynnistymisestä on lyhyt aika ja aikaisempi identiteetti sisälsi ainoastaan liiketunnuksen. Tatuointialalla näkyvästä visuaalisesta uudistuksesta johtuvaa asiakaskatoa ei todennäköisesti tule, mikäli asiakkaat ovat olleet tyytyväisiä tatuointitöiden lopputuloksiin. Näkyvälle uudistukselle ei näin ollen
+todettu olevan esteitä.
+Todellista visuaalisen identiteetin uudistuksesta johtuvaa vaikuttavuutta on haastavaa mitata. Tulosten mittaaminen on pitkäaikainen prosessi ja tuloksiin vaikuttavat
+tekijät täytyisi määritellä tarkasti ja niitä tulisi mitata säännöllisesti. Tämän takia vaikuttavuuden mittaaminen on rajattu pois tässä opinnäytetyössä.
+Visuaalista identiteettiä pyrittiin uudistamaan toimeksiantajan toimialueen kilpailijoista erottuvaksi. Erottumisen menetelmänä hyödynnettiin kilpailija-analyysia, jossa
+havainnointiin kilpailijoiden käyttävän pääväreinään mustaa tai valkoista ja tehostevärinä kolmatta värisävyä. Graafisina elementteinä käytettiin viivoja ja muita pelkistettyjä muotoja. Uudistetun visuaalisen identiteetin erottumisen keinoina pyrittiin
+huomioimaan käytettyjen värien suhde ja kontrastisuus. Lopullisessa produktiossa
+käytettiin kilpailijoille tyypillisiä värejä, joita kuitenkin sovellettiin toimeksiantajan
+brändiarvojen mukaisesti. Graafiset elementit rakennettiin liiketunnuksen ympärille
+ja samankaltaista muotokieltä ei ollut havaittavissa kilpailijoiden visuaalisissa ilmeissä. Logon ja liikemerkin osalta hyödynnettiin toimeksiantajan lähettämää luonnosta, jotta hänen henkilökohtainen tyylinsä näkyisi visuaalisessa identiteetissä.
+28
+Visuaalinen identiteetti onnistuttiin uudistamaan toimeksiantajan toimialueen kilpailijoista erottuvaksi ja hänen toimialaansa kuvaavaksi kokonaisuudeksi. Toimeksiantaja oli tyytyväinen uudistettuun visuaaliseen identiteettiin, jota sovellettiin sopimuksen ja tavoitteiden mukaisesti graafisiin töihin. Graafinen ohjeisto jätettiin toimeksiantajalle hyödynnettäväksi jatkokäyttöä varten.
+29
+7 POHDINTA
+Produktiossa pohdinnan aiheeksi nousivat kommunikointi sekä toimeksiantajan tyytyväisyyden ja toiveiden huomiointi suunnittelutyössä. Visuaalisen identiteetin tarkoituksena oli ilmentää toimeksiantajaosapuolen yritystä ja hänen toimintaansa.
+Opinnäytetyön tekijä ei täysin ymmärtänyt toimeksiantajan yrityksen brändin olemusta, joten kompromisseja osapuolien välillä jouduttiin tekemään. Graafinen suunnittelija antoi kuitenkin lopullisen muodon visuaaliselle identiteetille, joka pohjasi
+taustatyöhön ja hänen ammattitaitoonsa. Tämä korosti avoimen keskustelukulttuurin tärkeyttä. Etätyöskentelyn takia opinnäytetyön produktio-osuus tuotti haasteita
+viestinnällisesti. Epätietoisuuden ja virheellisten tulkintojen välttämiseksi keskusteltavat asiat pyrittiin muotoilemaan selkeästi osapuolien välillä. Näkemyseroista kyettiin keskustelemaan avoimesti ja produktio saatiin päätökseen.
+Toivottavaa olisi, että uutta visuaalista identiteettiä sovelletaan jatkossa kaikessa
+toimeksiantajan yritysviestinnässä visuaalisen identiteetin pitkäikäisyyden, yhteneväisyyden sekä toistuvuuden takaamiseksi. Graafista ohjeistoa toimeksiantaja voi
+hyödyntää kilpailijoista erottumisen työkaluna. Visuaalinen identiteetti itsessään on
+pyritty suunnittelemaan kilpailijoista erottuvaksi. Sen johtaminen muihin yritystoiminnan osa-alueisiin on kuitenkin merkitsevää. Näennäisesti visuaalista ilmettä voidaan
+soveltaa kuva-, teksti- ja lomakepohjiin, mutta myös yrityksen liiketilaan ja julkisivuun. Visuaalinen identiteetti ei ole ainoastaan yrityksen markkinointia varten. Sen
+tarkoitus voi olla myös yrityksen brändin vahvistaminen, joka taas palvelee kilpailijoista erottumista.
+30
+LÄHTEET
+Hansen, W. 1976. Käytä oikein värejä. 2. p. Helsinki: Kustannusosakeyhtiö
+Tammi.
+Huovila, T. 2006. "Look": Visuaalista viestisi. Helsinki: Inforviestintä.
+Kuukkanen, T. 29.9.2018. Suomalainen tatuointiala ottamassa ison kehitysaskeleen: studioille on kehitteillä viimein yhtenäinen sopimuspohja, joka suojaisi
+sekä yrittäjiä että asiakkaita. [Verkkoartikkeli]. Helsinki: Yle. [Viitattu 31.3.2020].
+Saatavana: https://yle.fi/uutiset/3-10389160
+Luomajoki, N. Ei päiväystä. Väripsykologiaa brändinäkökulmasta. [Blogikirjoitus].
+WTF Design Oy. [Viitattu 30.4.2020]. Saatavana:
+https://www.wtfdesign.fi/blogi/varipsykologiaa-brandinakokulmasta
+Malmelin, N. & Hakala, J. 2007. Radikaali brändi. Helsinki: Talentum.
+Nieminen, T. 2004. Visuaalinen markkinointi. Helsinki: WSOY.
+Onnistu yrittäjänä. Ei päiväystä. Nosta yrityksesi seuraavalle tasolle SWOT-analyysilla. [Verkkosivu]. [Viitattu 31.3.2020]. Saatavana: https://www.onnistuyrittajana.fi/artikkeli/nosta-yrityksesi-seuraavalle-tasolle-swot-analyysilla
+Pohjola, J. 2019. Brändin Ilmeen Johtaminen. Helsinki: Alma Talent.
+Sitä saa mitä hankkii: Visuaalisen viestinnän hankintaopas. 2012. [Verkkojulkaisu].
+Helsinki: Grafia ry. [Viitattu 25.3.2020]. Saatavana: http://grafia.studio.crasman.fi/file/dl/i/daiWGQ/7efib0XqY42-q0oo-HPqeg/sitasaamitahankkii.pdf
+Suomi.fi. 4.4.2019. Kilpailija-analyysi. [Verkkosivu]. [Viitattu 8.4.2020]. Saatavana:
+https://www.suomi.fi/yritykselle/yrityksen-perustaminen/yritystoiminnan-suunnittelu/opas/yritysideasta-liiketoiminnaksi/kilpailija-analyysi
+Toivanen, A. 17.1.2015. Sommittelu. [Verkkosivu]. Graafinen. [Viitattu 31.3.2020].
+Saatavana: https://www.graafinen.com/suunnittelu/yleista/sommittelu/
+Varho, J. 2019. Yrittäjä. V Ink Tattoo. Haastattelu 26.11.2019.
+31
+LIITTEET
+Liite 1. Kysymykset toimeksiantajalle
+Liite 2. Graafinen ohjeisto
+1(1)
+Liite 1. Kysymykset toimeksiantajalle
+- Minkälainen tarve visuaalisen ilmeen uudistuksella pyritään täyttämään?
+- Mitkä arvot koet tärkeäksi yritystoiminnassasi?
+- Mitkä yritykset koet kilpailijoiksesi?
+- Minkälaisia mielikuvia uudistetulla ilmeellä halutaan välittää?
+1(11)
+Liite 2. Graafinen ohjeist
+o
+2(11)
+3(11)
+4(11)
+5(11)
+6(11)
+7(11)
+8(11)
+9(11)
+10(11)
+11(11)

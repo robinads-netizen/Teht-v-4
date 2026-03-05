@@ -1,0 +1,4037 @@
+1
+// Rantaroskien lajittelutila
+L ØA Opinnäytetyö
+Lahden ammattikorkeakoulu
+Muotoiluinstituutti
+Sisustusarkkitehtuuri
+Maiju Kuusniemi
+2018
+2
+TIIVISTELMÄ
+Løa // Rantaroskien lajittelutila
+Merten hyvinvointiin liittyvä uutisointi on viime vuosina lisääntynyt
+kiihtyvällä tahdilla. Tieto meriä
+uhkaavista ongelmista on levinnyt
+monien tietoisuuteen ja saanut niin
+yksilöt kuin yhteisötkin muuttamaan asenteitaan. Toimeksiantajani,
+Nordic Ocean Watch Finland on yksi
+monista merten suojeluun erikoistuneista järjestöistä, jonka yhtenä
+tavoitteena on vähentää mereen
+päätyvän muovin ja muun roskan
+määrää.
+Opinnäytetyöni esittelee konseptitasoisen suunnitelman rantaroskien lajittelutilasta. Rakennuksen
+tavoitteena on toimia konkreettisena
+keinona vähentää roskan määrää sekä
+tehostaa kiertotaloutta. Pyrkimyksenä
+on edistää ympäristön hyvinvointia tukevia elämäntapamuutoksia
+ja purkaa jätteiden kierrättämiseen
+liittyviä negatiivisia ennakkoasenteita.
+Tila on myös paikka oppimiselle, ajatustenvaihdolle ja verkostoitumiselle,
+ja siten uudenlaisen, kestävämmän
+kulttuurin rakentaja.
+Wellbeing of the oceans has been
+an increasingly frequent topic in the
+media and public discussions. The
+widespread information about the
+threats to oceans has caused a shift
+in attitudes of both individuals and
+communities. My thesis client, Nordic
+Ocean Watch Finland is one of the
+many organisations specializing in
+marine environment conservation.
+One of their main goals is to reduce
+the amount of plastic and other debris
+ending up in the oceans.
+My Bachelor thesis proposes a
+concept design for a beach litter
+sorting location. The objective of
+the building is to contribute to the
+reduction of marine debris and to
+enhance the circular economy. The
+aim is to promote lifestyle changes
+that support the wellbeing of the environment and to dismantle prejudices
+concerning recycling. The building is
+also designed as a space for learning,
+changing ideas and networking and
+thus, a place for building a new, more
+sustainable culture.
+Lahti University of Applied Sciences
+Institute of Design
+Degree Programme in Design
+Interior Architecture
+Maiju Kuusniemi
+Bachelor thesis
+91 pages
+Spring 2018
+ABSTRACT
+Løa // Beach litter sorting location
+Lahden ammattikorkeakoulu
+Muotoiluinstituutti
+Muotoilun koulutusohjelma
+Sisustusarkkitehtuuri
+Maiju Kuusniemi
+Opinnäytetyö
+91 sivua
+Kevät 2018
+Avainsanat:
+merten suojelu, roskaantuminen, meriroska, lajittelu, kiertotalous, ympäristöjärjestö, konseptisuunnittelu
+Keywords:
+marine conservation, littering, marine debris,
+waste sorting, circular economy, environmental organisation, concept design
+3
+01 JOHDANTO 5
+01.1 Aihe ja taustat
+01.2 Tutkimusasetelma
+01.3 Keskeiset käsitteet
+02 TOIMEKSIANTAJA 7
+02.1 NOW – Nordic Ocean Watch
+02.2 Toimeksianto
+03 MERET JA MUOVI 10
+03.1 Merten merkitys
+03.2 Merten uhat
+03.3 Muoviroska maailman merissä
+03.4 Muovi ja muu roska Suomen vesialueilla
+03.5 Ratkaisu merten muoviongelmaan
+04 KIERRÄTYS 15
+04.1 Kiertotalous
+04.2 Kierrätys ja jätehuolto
+04.3 Roskien eri materiaalit ja niiden kierrätys
+05 MUUTOKSEN AJURIT 18
+05.1 Demokratian muutos
+05.2 Muotoilu muutoksen asialla
+05.3 Open source design
+06 OHJEISTUS JA SÄÄDÖKSET 24
+06.1 Ympäristöystävällinen rakentaminen
+06.2 Puurakenteet
+06.3 Jätetilan suunnittelu
+06.4 Paloturvallisuus
+06.5 Rakennusjärjestys ja kaavoitus
+SISÄLLYSLUETTELO 07 SUUNNITELUTEHTÄVÄN ESITTELY 30
+07.1 Tehtävä
+07.2 Käyttäjät
+07.3 Sijainti
+08 TAVOITTEET JA RAJAUS 33
+08.1 Toiminnalliset ja rakenteelliset tavoitteet
+08.2 Visuaaliset tavoitteet
+08.3 Yhteiskunnalliset tavoitteet
+08.4 Rajaus
+09 SUUNNITTELUPROSESSI 38
+09.1 Sijainti ja sen luomat rajoitteet
+09.2 Toiminnot, tilantarve ja käyttäjäpolut
+09.3 Tila-analyysi
+09.4 Tilaohjelma
+09.5 Kalusteet
+09.6 Rakennuksen muotokieli ja rakenne
+09.7 Materiaalit ja pintakäsittely
+09.8	 Graafinen ilme ja opasteet
+10 SUUNNITELMA 65
+10.1 Yleissuunnitelma
+10.2 Rakennesuunnitelma
+10.3 Tilasuunnitelma
+10.4 Kalusteet
+10.5 Materiaalit
+10.6	 Graafinen ilme ja opasteet
+10.7 Visualisoinnit ja käyttöskenaariot
+11 ARVIOINTI 87
+11.1 Prosessi
+11.2 Suunnitelma
+11.3 Päätelmät ja jatkokehitys
+LÄHTEET 89
+4
+POHJUSTUS
+01 - 02
+Johdanto
+Toimeksiantaja
+5
+Meret ovat maapallomme elinehto.
+Niiden vaikutukset ilmastoomme
+sekä planeettamme biodiversiteet
+-
+tiin ovat mittaamattomat. Tieto
+merten jatkuvasti heikkenevästä
+hyvinvoinnista on saanut viime
+vuosina yhä enemmän huomiota.
+Ilmastonmuutoksen aiheuttamien
+muutosten lisäksi valtameristämme
+löydetyt jätepyörteet ja mikromuo
+-
+vit ovat antaneet ihmisille konk
+-
+reettisen huolenaiheen, johon on
+puututtava pikimmiten.
+Ongelmien globaalista luon
+-
+teesta huolimatta kansainvälis
+-
+ten sopimusten aikaansaanti on
+ollut heikkoa, eivätkä valtiotkaan
+ole reagoineet ongelmiin niiden
+vaatimalla kiireellisyydellä. Yksi
+-
+löiden ja kansalaisjärjestöjen
+vastuu on sitä myötä lisääntynyt
+ja niistä kumpuava vaikutusvoima
+kasvanut. Opinnäytetyöni toimek
+-
+siantaja, Nordic Ocean Watch, on
+01 JOHDANTO
+yksi monista tahoista, jotka ovat
+alkaneet tehdä työtä merten hyvin
+-
+voinnin eteen. Sen toiminnassa
+korostuu yksilöiden voima ja yksit
+-
+täisten tekojen merkitys puhtaam
+-
+pien vesistöjen vuoksi.
+Henkilökohtainen kiinnostukseni
+merten hyvinvoinnista toi minut
+toimeksiantajani ja opinnäytetyöni
+luo. Työn tarkoituksena on mah
+-
+dollistaa Nordic Ocean Watch
+Finlandin toiminta entistä katta
+-
+vammin ja luoda kollektiiville sekä
+muille asiasta kiinnostuneille oma
+kokoontumispaikka. Projekti tulee
+olemaan NOW Finlandille myös
+keino saada näkyvyyttä niin omalle
+kollektiivilleen kuin niille ongel
+-
+mille, joiden parissa se työskentelee.
+Itselleni opinnäytetyöni merkitsee
+merkityksellisen muotoilun luomista
+sekä oman panokseni antamista
+ongelmien parissa taistelevien jär
+-
+jestöjen eteen.
+01.1 Aihe ja taustat
+01 JOHDANTO
+http://www.ticotimes.net/2014/12/11/wonkblog-oceans-now-contain-5-trillion-pieces-of-floating-plastic // Kuva: Dimitar Dilkoff
+6
+Opinnäytetyöni tavoitteena on
+suunnitella toimeksiantajani
+tarpeita vastaava rakennus, joka
+toimii tehtävässään kannustaa
+yksilöitä ympäristöä suojeleviin
+tekoihin sekä elämäntapamuu
+-
+toksiin. Sen on tarkoitus toimia
+ajatuksia herättävänä esimerkkinä
+siitä, miten muotoilua voidaan
+hyödyntää myös voittoa tavoittele
+-
+mattomiin tarkoituksiin ja erilais
+-
+ten yhteisöjen toiminnan edistä
+-
+miseen. Olen pyrkinyt tutkimaan
+sekä oman suunnitelmani kannalta
+oleellista ainestoa, mutta myös
+ymmärtämään laajempaa ilmiötä
+sen taustalla. Olen pohtinut
+millainen rooli yksilöiden, yhtei
+-
+söjen ja järjestön toiminnalla on
+nykyajan yhteiskunnassamme, ja
+millä tavalla muotoilu voi palvella
+niiden asettamia tavoitteita.
+Tietoperustani koostuu suunnitel
+-
+maani taustoittavasta ja tukevasta
+materiaalista. Olen kerännyt
+aineistoa aiheita käsittelevistä alan
+tutkimuksista, artikkeleista sekä
+julkaisuista. Lisäksi informaa
+-
+tiona on toiminut RT-kortiston
+ohjeistukset sekä muu vahvasti
+omaan alaan sidottu kirjalli
+-
+suus. Tärkeänä vaikutteena on
+toiminut myös toimeksiantajani
+kanssa käydyt keskustelut, joiden
+kautta olemme käsitelleet järjestön
+toimintaa, sen taustalla olevia
+ongelmia sekä muita suunnitelman
+kannalta tarpeellisia seikkoja. Koin
+tärkeäksi ymmärtää toimeksianta
+-
+ja-järjestöni arvomaailmaa, joten
+lähdin liikkeelle niistä globaaleista
+ongelmista, joihin sen toiminta
+perustuu. Osa tietoperustasta
+koostuu konkreettisista, suunnitel
+-
+malleni muotoa antavista tiedoista
+ja ohjeista, kun taas osa käsittelee
+aihetta pohtivammasta, perinteistä
+muotoilukäsitystäkin haastavasta
+näkökulmasta.
+01.2 Tutkimusasetelma
+01 JOHDANTO
+http://www.parley.tv/oceanplastic/#parleyair
+6
+7
+Toimeksiantajana opinnäytetyössäni toimii ympäristönsuojeluun
+ja merten hyvinvointiin keskittyvä
+vapaaehtoisjärjestö Nordic Ocean
+Watch Finland. Järjestö perustettiin
+vuonna 2015 Norjassa paikallisten
+surffareiden toimesta. Sittemmin
+organisaatio on levittäytynyt
+myös Ruotsiin sekä Suomeen. Eri
+maiden kollektiivit toimivat itsenäisesti, mutta yhteistyö maiden välillä
+on vahvaa.
+Perinteisestä kansalaisjärjestöstä
+poiketen Nordic Ocean Watch
+ei peri jäseniltään jäsenmaksuja.
+NOW viittaakin itseensä usein kollektiivina, mikä kuvastaa sitä hyvin.
+Jäsenmaksuna toimii rahan sijaan
+toimintaan osallistuminen sekä
+oma panos ympäristön puolesta
+(Søbstad 2017).
+Nordic Ocean Watch pyrkii toiminnallaan lisäämään ihmisten
+tietoisuutta ympäristöön ja meriin
+02 TOIMEKSIANTAJA
+liittyvistä ongelmista. Tavoitteena
+on saada ihmiset kiinnostumaan
+merten hyvinvoinnista ja tekemään
+itse tekoja puhtaampien rannikkoja merialueiden hyväksi. Taustalla
+on ajatus siitä, ettei ympäristöongelmien ratkaisun tulisi olla ainoastaan poliitikkojen ja suurempien
+organisaatioiden vastuulla, vaan
+myös yksilöillä. Pelkästään muovin
+käyttöä vähentämällä, oikeaoppisella kierrätyksellä ja turhasta
+kulutuksesta luopumalla voidaan
+edistää ympäristöystävällisempää
+tulevaisuutta. NOW pyrkiikin
+nostamaan yksilöt ongelmanratkaisun keskiöön ja uskoo sieltä
+kumpuavaan muutoksen voimaan.
+(NOW Finland 2018).
+Yksilöiden kannustamisen lisäksi
+NOW järjestää myös erinäisiä
+tapahtumia ja tempauksia.
+Näihin kuuluu mm. rantasiivouksia, luentoja sekä elokuvailtoja.
+Toimintaa tehdään rennolla
+02.1 NOW – Nordic Ocean Watch
+02 TOIMEKSIANTAJA
+otteella ja hyvällä tunnelmalla.
+Tapahtumia järjestetään usein
+yhteistyössä muiden asian parissa
+työskentelevien tahojen kanssa.
+Suomessa yhteistyötä on tehty
+muun muassa Pidä Saaristo Siistinä
+Ry:n sekä vesiurheilupalveluja
+tarjoavan TwentyKnotsin kanssa.
+Tavaha
+[ta-va, ha-)
+Tavaha is the Nordic expression for taking
+care of the ocean: ta vare på havet. It is also
+referred to as the ‘nordic aloha’. Tavaha
+encompasses unity, understanding and
+solidarity across borders, generations and
+cultures. The ocean is what connects the world.
+It has always taken care of us and we cannot
+live without it. It’s time we return the favour.
+#tavaha 1
+1. nordicoceanwatch.no [Viitattu: 05.01.2018]
+1
+8
+Nordic Ocean Watchilta saamani
+toimeksianto käsittelee rantaros
+-
+kien kierrätykseen tarkoitettua
+rakennusta. Esimerkkinä projektille
+toimii NOW Norway:n Løa, joka
+perustettiin vuonna 2014. Raken
+-
+nuksen pääasiallinen funktio on
+rannalta löytyneen muovijätteen
+sekä muun roskan lajittelu. Sen on
+tarkoitus toimia myös kollektiivin
+tapaamispaikkana, jossa voidaan
+järjestää esimerkiksi opetustilai
+-
+suuksia sekä muita tapahtumia.
+Projektin aikataulu ja rakennuksen
+sijainti tulevat selkenemään tulevan
+kevään myötä, joten opinnäyte
+-
+työni tulee käsittelemään aihetta
+konseptuaalisesta, mutta toteutet
+-
+tavasta näkökulmasta. Alustavana
+ajatuksena on kuitenkin toteuttaa
+projekti vuosien 2018-2019 aikana
+Etelä-Suomen rannikolle meren
+läheisyyteen.
+02.2 Toimeksianto
+02 TOIMEKSIANTAJA
+Nordic Ocean Watch Norwayn vuonna
+2014 perustama Løa sijaitsee pienen
+majatalon kyljessä Norjan Hoddevikissä.
+4: Troels Rosenkrantz Andersen
+ 1: Troels Rosenkrantz Andersen 2: Mads Schwencke 3: Troels Rosenkrantz Andersen
+5: Torstein Vabø 6: Troels Rosenkrantz Andersen
+8
+9
+TIETOPERUSTA
+03 - 06
+Meret ja muovi
+Kierrätys
+Muutoksen ajurit
+Ohjeistus ja säädökset
+10
+Meret peittävät 71 prosenttia
+maapallon pinta-alasta ja sisäl
+-
+tävät 97 prosenttia kaikesta pla
+-
+neettamme vedestä (Oceanic Institute
+2018). Niiden merkitys maapallon
+elämälle on elintärkeä, sillä puolet
+hengittämästämme hapesta on
+merten tuottamaa. Meret myös
+sitovat itseensä yli puolet enemmän
+hiilidioksidia kuin ilmakehämme,
+ja hillitsevät siten ilmastonmuu
+-
+tosta. Meret säätelevät lämpö
+-
+tiloja ja säätä, ja tukevat siten
+koko maapallon elämää. Noin
+95 prosenttia maailman meristä
+03 MERET & MUOVI
+on tutkimatonta aluetta ja tun
+-
+nistettujen lajien uskotaan olevan
+murto-osa sen todellisesta määrästä
+(James 2014).
+Meret ja sen laaja biodiversiteetti
+tarjoavat myös miljoonien ihmisten
+elinkeinon muun muassa kalas
+-
+tuksen, turismin ja lääketieteen
+keinoin. Vaikka vain 40 prosenttia
+maailman väestöstä asuu ran
+-
+nikkoalueilla, vaikuttaa meret ja
+niiden hyvinvointi meidän kaikkien
+elämäämme (UN 2007).
+03.1 Merten merkitys
+03 MERET JA MUOVI
+https://fi.pinterest.com/pin/80150068346451867/
+11
+Tänä päivänä maailman meret
+ovat monella tapaa uhattuina.
+Ilmastonmuutos aiheuttaa merten
+lämpenemistä, joka uhkaa
+heikentää muun muassa kas
+-
+viplanktonin ja koralliriuttojen
+hyvinvointia. Lämpeneminen
+aiheuttaa myös merenpinnan
+nousua, joka tulee vaikuttamaan
+miljoonien ihmisten asuinalueisiin
+tulevien vuosikymmenten aikana.
+Ilmansaasteet, kemikaalit ja maa
+-
+talouden ravinteet ovat osaltaan
+vaikuttaneet merten happamoitu
+-
+miseen sekä merieläinten ruoka
+-
+ketjuihin. Tämä vaikuttaa myös
+ihmisiin, sillä mereen päätyneet
+saasteet päätyvät ruokaketjun
+kautta myös omalle lautasellemme.
+Ekosysteemeihin vaikuttaa myös
+pitkään jatkunut liikakalastus, joka
+uhkaa viedä kokonaisia lajeja suku
+-
+puuton partaalle.
+Myös vilkastunut laivaliikenne on
+muuttanut merten ekosysteemejä,
+kun vieraslajit ovat valloittaneet
+tilaa uusilta alueilta. Merenkulku
+tuo mukanaan riskin myös öljyon
+-
+nettomuuksista sekä kuormittaa
+ympäristöä päästöineen ja jätevesi
+-
+neen. (Orava 2016)
+03.2 Merten uhat
+03 MERET JA MUOVI
+https://visual.ly/community/infographic/other/most-dangerous-species-mediterranean
+Smäll Barcelonan Agencia Catalanalle
+tekemä juliste esittelee yhden Välimeren
+vaarallisimmista lajeista - muovin. 11
+12
+Yksi pahimmista meriä uhkaavista haasteista on sinne päätyvä
+muovi. Tutkimusten mukaan
+arviolta 8 miljoonaa tonnia
+muovia päätyy meriin vuosittain. Nykyisellään meressä arvioidaan olevan vähintään 150
+miljoonaa tonnia muovia. Vuosittain mereen päätyvän muovin
+määrän odotetaan kaksinkertaistuvan vuoteen 2030 mennessä ja
+nelinkertaistuvan vuoteen 2050
+mennessä, ellei epäkohtia pyritä
+korjaamaan. Tämä arvio tarkoittaa, että vuoteen 2050 mennessä
+merissä olisi enemmän muovia
+kuin kaloja. (Ellen MacArthur Foundation 2017)
+Mereen päätyvästä muovista noin
+80 prosenttia on peräisin maalta.
+Yleisimmäksi syyksi tähän on
+todettu heikko tai riittämätön
+jätteidenkäsittely sekä kierrätyksen tehottomuus. Maalta peräisin
+olevat roskat voivat kulkeutua
+mereen pitkien matkojen takaa
+sadevesien, jokien tai tuulen avulla.
+Loput 20 prosenttia päätyy mereen
+merenkulun, offshore-teollisuuden
+sekä kalastuksen kautta. (Prabhakar
+2016)
+Yli puolet meriin päätyvästä
+muovista on peräisin viidestä
+Aasian maasta; Kiinasta, Indonesiasta, Filippiineiltä, Vietnamista
+sekä Sri Lankalta (Jambeck et al
+2015). Muovijäte ei ole kuitenkaan
+paikallinen ongelma. Merivirrat ja
+tuulet kuljettavat jätteet valtamerten suuriin pyörteisiin. Tunnettuja
+jätepyörteitä on nykyään kuusi,
+joista puhutuin on itäisestä ja läntisestä pyörteestä koostuva pohjoisen
+Tyynenmeren jätepyörre. Yleisestä
+harhaluulosta poiketen jätepyörteet eivät ole silmällä erotettavia
+kelluvia lauttoja vaan alueita, joilla
+veteen on sekoittunut runsaasti
+pieneksi jauhautunutta muovia ja
+muita jätteitä (Fjäder 2016). Pelkät
+03.3 Muoviroska maailman merissä
+03 MERET JA MUOVI
+jätepyörteet eivät kuitenkaan kerro
+koko totuutta muoviongelman laajuudesta, sillä on arvioitu, että vain
+15 prosenttia mereen päätyvästä
+jätteestä jää kellumaan pinnalle,
+loppujen 70 prosentin vajotessa
+pohjaan ja 15 prosentin ajautuessa
+rantaan (UNEP 2005).
+Mereen päätyvästä jätteestä noin
+60-80 prosenttia arvioidaan olevan
+muovia ja joillain alueilla jopa 95
+prosenttia (Moore 2008). Pääasiallisiin muovijätteen lähteisiin kuuluu
+mm. pakkausmateriaalit ja muovipullot, muovipussit, kertakäyttöiset
+ruokailuvälineet sekä kosmetiikassa
+käytettävät mikromuovit. Monista
+muista jätteistä poiketen muovi ei
+ole biologisesti hajoavaa. Sen sijaan
+muovi pilkkoutuu ajan kuluessa
+pienemmiksi ja pienemmiksi
+osasiksi, eli mikromuoveiksi. Niin
+mikromuovit kuin suuremmatkin
+muovin kappaleet aiheuttavat
+merellä lukuisia ongelmia.
+Eläimet voivat jäädä roskiin kiinni
+tai erehtyä luulemaan muovin
+palasia ruoaksi. Tästä aiheutuu
+muun muassa tukehtumista, nääntymistä, epämuodostumia sekä
+muovien kemikaaleista johtuvia
+muutoksia eläinten toimintaan.
+Muovit ja niiden kemikaalit
+vaikuttavat ruokaketjun kautta
+myös ihmisiin. Lisäksi merivirtojen mukana liikkuvat makroroskat
+voivat kuljettaa vieraslajeja maanosista toisiin, aiheuttaen muutoksia
+ekosysteemeissä. Merijätteet
+aiheuttavat myös taloudellisia sekä
+sosioekonomisia haittoja mm.
+turismin ja kalastuksen kärsimisen
+vuoksi. (Watkins et al 2015)
+Mereen päätyvästä
+jätteestä noin 60-80
+prosenttia arvioidaan olevan
+muovia ja joillain alueilla
+jopa 95 prosenttia
+(Moore 2008)
+13
+Itämeren roskaantumista ei ole
+tutkittu vielä pitkään. Tutkimus on
+keskittynyt lähinnä rantaroskien
+seurantaan, jota Suomessa on ylläpitänyt vuodesta 2012 lähtien Pidä
+Saaristo Siistinä Ry. Organisaatio
+on järjestänyt myös Siisti Biitsi –
+kampanjan, jossa merten, järvien
+ja jokien rantoja on puhdistettu
+informaatiota keräten. Vuonna
+2012–2014 toteutettiin myös
+EU-rahoitteinen Marlin-hanke,
+jossa seurattiin neljän Itämeren
+maan (Suomi, Ruotsi, Viro &
+Latvia) rantojen roskaisuutta.
+(Setälä et al 2017). Rantaroskien on
+arvioitu olevan vain noin 15 prosenttia meriroskan kokonaismäärästä, joten seurannoista saatuja
+tietoja voidaan pitää lähinnä
+viitteinä meriroskan määristä, trendeistä sekä lähteistä. (UNEP 2005)
+Itämeren roskien lähteet ovat jotakuinkin samoja kuin muuallakin
+maailmassa. Pidä Saaristo Siistinä
+Ry listaa syiksi muun muassa
+ihmisten ajattelemattomuuden,
+laittoman roskien dumppaamisen,
+huonosti järjestetyn ja riittämättömän jätehuollon, rakentamisen,
+teollisuuden sekä liikenteen. Roska
+kulkeutuu meriin etenkin jokien,
+purojen ja hulevesien avulla.
+Merellä roskaa aiheuttavat merenkulku, kalastus sekä vesiviljely.
+Marlin-hankkeen avulla on myös
+arvioitu, että yksittäisen kuluttajan
+osuus mereen päätyvän roskan
+määrästä on yli puolet.
+Sekä Siisti Biitsi –kampanjan
+että Marlin-hankkeen myötä
+on selvinnyt, että ylivoimaisesti
+yleisin roskien materiaali on
+03.4 Muovi ja muu roska Suomen vesialueilla
+03 MERET JA MUOVI
+muovi. Sitä löydetään etenkin epämääräisinä, tunnistamattomina riekaleina. Muuten muovia löydetään
+muun muassa pullonkorkkien, pakkausmateriaalien, pussien ja kertakäyttöaterimien muodossa sekä
+vaahtomuovin palasina. Muihin
+rannoilta löydettyihin materiaaleihin kuuluu etenkin pahvi ja paperi,
+metalli sekä keramiikka. (Setälä et al.
+2017)
+Yleisin yksittäinen roskatyyppi
+Suomessa, Itämerellä sekä koko
+maailmassa on tupakantumpit, joita
+Suomenkin rannoilta löytyi Marlin-hankkeen
+aikana keskimäärin 300 kappaletta sataa
+metriä kohden. Niitä päätyy luontoon
+vuosittain noin 800 000 tonnia ja yli 40%
+maailman rannoilta kerätystä roskasta
+liittyykin jollain tavalla tupakoimiseen.
+Vaikka tumpit hajoavatkin luonnossa noin
+10 vuodessa, siirtyy niistä prosessin aikana
+luonnolle haitallisia yhdisteitä ja kemikaaleja
+luontoon.
+(Setälä et al. 2017).
+Muovi (sis. tumpit)
+Paperi/pahvi
+Metalli
+Lasi ja keramiikka
+Kangas
+Puumateriaali
+Orgaaninen
+Kumi
+Vaarallinen jäte
+Muu
+71,8%
+7,8%
+6,8%
+8,4%
+1,0%
+1,7%
+0,8%
+0,5%
+0,2%
+1,0%
+Eri valmistusmateriaalien suhteellinen
+osuus Siisti Biitsi -kampajan aikana
+löydetyistä roskista.
+(KUVA: Setälä et al. 2017)
+14
+03 MERET JA MUOVI
+Merten roskaisuus on vaikea,
+globaali ongelma. Sen ratkai
+-
+semiseksi vaaditaan paljon niin
+yksilöiltä, yrityksiltä, valtioilta kuin
+kansainvälisiltä sopimuksiltakin.
+Jo mereen päätyneiden roskien sii
+-
+voamisen lisäksi tärkeää olisi tukea
+myös roskaantumista ehkäiseviä
+toimenpiteitä ja estää niiden pääsy
+mereen.
+UNEP:in laatiman selvityksen
+mukaan ehkäisevinä ratkai
+-
+suina ongelmaan toimisivat muun
+muassa toimivaan jätehuoltoon
+satsaaminen, kierrätyksen lisää
+-
+minen ja pantti-järjestelmän
+tukeminen. Yritysten tekijävastuuta
+olisi lisättävä ja tuotesuunnittelua
+kehitettävä ympäristöystävällisem
+-
+pään suuntaan. Erilaisilla kielloilla
+ja säännöksillä voitaisiin saada
+muutosta aikaan sekä yksilöi
+-
+den että yritysten toiminnassa.
+Ehdottoman tärkeää olisi myös
+lisätä tietoutta ongelmaan liittyen
+ja saada ihmiset muuttamaan
+tapojansa ympäristön hyväksi.
+(UNEP 2005)
+Mereen jo päätyneille roskille on
+myös kehitettävä ratkaisuja. Vaikka
+roskaantumista ehkäiseviin toimiin
+ryhdyttäisiinkin ripeästi, tulee
+merten roskaongelma pahenemaan
+vielä tulevina vuosina. Merten
+siivoamiseksi onkin kehitelty
+lähivuosina useita mahdollisia
+keinoja. On kuitenkin epäselvää,
+kuinka hyvin nämä keksinnöt käy
+-
+tännössä toimisivat, sillä arviolta
+70% kaikista mereen päätyvästä
+muoviroskasta päätyy merenpoh
+-
+jaan, josta niitä ei ainakaan tähän
+mennessä ehdotettujen keinojen
+avulla pystytä siivoamaan (Eunomia
+03.5 Ratkaisu merten muoviongelmaan
+2016). Toivoa kuitenkin on ja
+ensimmäiset testit kelluvan roskan
+keräämiseksi on jo tehty. Näky
+-
+vyyttä ovat saavuttaneet etenkin
+jätepyörteiden siivoamiseksi
+kehitetty Ocean Cleanup –projekti
+2
+sekä mm. satama-altaisiin sijoitet
+-
+tava Seabin
+3
+.
+Merellä toteutettavien siivousten
+lisäksi myös rannoille päätyvää
+roskaa voidaan kerätä. Ranta
+-
+siivousten avulla voidaan myös
+lisätä paikallisten yhteisöjen
+tietoutta muovin ja muun roskan
+ongelmista sekä opastaa ihmisiä
+kohti ympäristöystävällisempää
+elämää. Lisäksi niin mereltä kuin
+rannoiltakin löytyvät roskat voivat
+toimia taloudellisina motivaatto
+-
+reina, kun materiaalit ja niiden
+arvo saadaan palautettua takaisin
+kiertoon. (Watkins et al 2015)
+https://mandy-barker.com/gallery.php?gallNo=3&photoNo=40
+Mandy Barker käyttää teoksissaan rannalta
+löytämiänsä muoviroskia. Ote teoksesta
+33.15N, 151.15E, 2012. 14 2. theoceancleanup.com [Viitattu: 27.03.2018]
+3. seabinproject.com [Viitattu: 27.03.2018]
+15
+04.1 Kiertotalous
+04 KIERRÄTYS
+Kiertotaloudella tarkoitetaan
+talousmallia, jossa resurssien ja
+materiaalien käyttöä tehostetaan
+siten, että raaka-aineet ja niiden
+arvo säilyvät kierrossa. Perinteiseen, lineaariseen malliin verrattuna kiertotalouden avulla voidaan
+säästää luontoa muun muassa
+uusiutumattomia luonnonvaroja
+sekä energian käyttöä vähentämällä. Tavoitteena on minimoida
+kaatopaikalle päätyvän jätteen
+määrä, vähentää neitseellisten raaka-aineiden tarvetta sekä vähentää
+energiankulutusta.
+Materiaalien ja raaka-aineiden
+jatkuvuuden lisäksi kiertotaloudella
+tarkoitetaan myös toimintamalleja,
+joissa tavaroiden korjaaminen,
+uudelleenkäyttö ja jakaminen
+yleistyvät ostamisen ja omistamisen
+sijaan. Myös aineettomien hyödykkeiden ja palveluiden lisääntyminen on omiaan vauhdittamaan
+kiertotalouteen siirtymistä.
+Oleellista kiertotaloudessa on
+jätteen synnyn ehkäisy. Tuotteiden
+elinkaaria pidennetään ja niiden
+muunneltavuus sekä uusiokäyttö
+mahdollistetaan. Tuotteet suunnitellaan helposti kierrätettäviksi
+ja materiaalina käytetään kierron
+kannalta tehokkaita vaihtoehtoja.
+Tehokkaan kierron avulla jätteiden
+määrä vähenee huomattavasti,
+eikä uusia raaka-aineita
+ja tavaroita tarvitsee
+tuottaa enää samalla
+tavalla kuin ennen.
+(Elinkeinoelämän keskusliitto 2018)
+RAAKA-AINEET SUUNNITTELU
+TUOTANTO /
+UUDELLEEN
+VALMISTUS
+JAKELU
+KULUTUS, KÄYTTÖ, 
+UUDELLEENKÄYTTÖ, 
+KUNNOSTUS
+KERÄYS
+KIERRÄTYS
+JÄÄNNÖSJÄTE
+Kiertotaloudessa neitseellisten raakaaineiden tarve pyritään minimoimaan
+tuotannossa ja kulutuksessa syntyvää
+jätettä vähentämällä.
+8 §
+Yleinen velvollisuus noudattaa etusijajärjestystä
+1) Ensisijaisesti on vähennettävä syntyvän jätteen määrää
+ja haitallisuutta.
+2) Jos jätettä kuitenkin syntyy, jätteen haltijan on
+ensisijaisesti valmisteltava jäte uudelleenkäyttöä varten tai
+toissijaisesti kierrätettävä se.
+3) Jos kierrätys ei ole mahdollista, jätteen haltijan
+on hyödynnettävä jäte muulla tavoin, mukaan lukien
+hyödyntäminen energiana.
+4) Jos hyödyntäminen ei ole mahdollista, jäte on
+loppukäsiteltävä.
+(Jätelaki 646/2011, 8 §)
+04 KIERRÄTYS
+https://peda.net/oppimateriaalit/e-oppi/lukiot/espoo/eyl/maantiede/t1mmoo3/ge-uusi-1f/1kjcsjj/kiertotalous
+16
+04.2 Kierrätys ja jätehuolto
+04 KIERRÄTYS
+Jätteiden keräys ja kierrätys ovat
+kiertotalouden tärkeimpiä proses
+-
+seja. Niiden avulla taataan, että
+elinkaarensa loppuun tulleiden
+tavaroiden materiaalit uudelleen
+käytetään ja palautetaan kiertoon.
+Kierrätyksen toimivuuden takaa
+toimiva ja kattava jätehuolto.
+Suomessa ensisijainen vastuu
+jätteistä kuuluu sen haltijalle.
+Asumisessa syntyneestä jätteestä
+eli yhdyskuntajätteestä vastuun
+kantaa kunta, jonka on järjestet
+-
+tävä sen kuljetus, hyödyntäminen
+ja käsittely. Kunta ei vastaa kuiten
+-
+kaan jätteistä, joita koskee tuot
+-
+tajavastuu. Tällaisten tuotteiden,
+kuten akkujen, sanomalehtien ja
+sähkölaitteiden jätehuollon järjes
+-
+tämisestä ja kustantamisesta vastaa
+tuotteen valmistaja tai maahan
+-
+tuoja. (Ympäristöhallinto 2013)
+Vuonna 2016 uudistetussa valta
+-
+kunnallisessa jätesuunnitelmassa
+tavoitteeksi on määritelty, että
+yhdyskuntajätteestä 50 prosenttia
+tulisi kierrättää materiaalina ja 30
+prosenttia hyödyntää energiana
+(SYKE 2018). Tilanne onkin paran
+-
+tunut viimeisten kymmenen
+vuoden aikana merkittävästi, sillä
+vain runsas kymmenesosa nykyään
+tuotetusta yhdyskuntajätteestä
+päätyy kaatopaikoille (Tilastokeskus
+2015).
+Suomi on Eunomian teettämän
+tutkimuksen mukaan sijalla 21, kun
+mitataan yhdyskuntajätteen kier
+-
+rätysastetta koko maailmassa (Gray
+2017). Kaikkialla tilanne ei ole kui
+-
+tenkaan näinkään hyvä, sillä jo pel
+-
+kästään jätehuollon olemattomuus
+piinaa monia maita. Tämä johtaa
+usein siihen, että roskat jätetään
+luontoon sellaisenaan, jolloin ne
+saastuttavat muun muassa pohjave
+-
+siä ja aiheuttavat harmia eläimille.
+Roskat voivat myös kulkeutua
+sadeveden tai tuulen mukana
+vesistöihin, mikä on suuri riski
+myös huonosti huolletuilla kaato
+-
+paikoilla. Monesti roskista pyritään
+eroon polttamalla, mikä vapauttaa
+runsaasti myrkyllisiä kaasuja sekä
+ilmansaasteita. Lojumaan jätetyt
+roskat houkuttelevat myös tuhoeläi
+-
+miä ja edesauttavat monien tautien
+leviämistä. (Nyakaana 1997)
+Kun jätteitä ei kerätä eikä kier
+-
+rätetä, on materiaalien uudelleen
+käyttö mahdotonta, eikä niiden
+taloudellistakaan hyötyä saada
+kiertoon. Riittämättömällä tai
+olemattomalla jätehuollolla on siis
+valtavat vaikutukset niin ympä
+-
+ristöön, ihmisten terveyteen kuin
+talouteenkin.
+http://www.beachplastic.com/Cavallo-Point-Prints
+One Plastic Beach kerää rannalta
+muoviroskia tehden niistä harkittuja
+kollaaseja. Bottles (vertical), 2008.
+17
+04.3 Roskien eri materiaalit ja niiden kierrätys
+04 KIERRÄTYS
+Suomessa jätteiden kierrätyksen
+mahdollisuudet vaihtelevat kunnittain. Kierrätyspisteet voivat olla
+kiinteistökohtaisia tai alueellisia,
+minkä lisäksi myös mm. kierrätyskeskukset avustavat kierrätyksen
+edistämisessä. (SYKE 2018)
+Vieressä on kuvattu yleisesti
+Suomessa kierrätetyt materiaalit.
+Jokaiselle niistä on omat lajitteluohjeensa, joita noudattamalla
+materiaalit voidaan saada tehokkaasti hyötykäyttöön. Esimerkiksi
+Helsingin seudun ympäristöpalvelun, HSY:n sivuilta voi tarkistaa
+eri materiaalien lajitteluohjeet tai
+hakea roskan nimellä sen oikeaa
+lajittelutapaa.4
+Keräyksen jälkeen materiaalit
+voidaan tarpeen mukaan esimerkiksi puhdistaa, erotella laadun
+mukaan tai murskata, minkä
+jälkeen ne toimitetaan eri teollisuudenaloille uudelleenkäytettäväksi.
+4. hsy.fi [Viitattu: 09.03.2018]
+Nordic Ocean Watch on kiinnostunut eritoten muoviroskan
+vähentämisestä. Muovijätteiden kierrätysmahdollisuudet
+ovat lähivuosina parantuneet huomattavasti ja jo yli 500
+Rinki-ekopisteeseen voi viedä myös muovipakkauksia.
+PVC:tä lukuunottamatta yleisimpien muovilaatujen kierrätys
+on mahdollista, mutta kierrätykseen tulisi laittaa ainoastaan
+muovipakkaukset, jotka kuuluvat tuottajavastuun piiriin.
+(Sallinen 2016)
+MUOVITYYPPI OMINAISUUDET KÄYTTÖKOHTEET
+Polyeteenitereftalaatti
+PET
+Kirkas, kova, kemikaaleja
+kestävä
+Virvoitusjuomapullot,
+uuninkestävät vuokapakkaukset,
+tekstiilit
+Korkeatiheyksinen polyeteeni
+PE-HD
+Samea tai värillinen, joustava,
+vahamainen pinta, lämpöä ja
+rasvaa kestävä
+Muovipussit, pullot, ämpärit,
+virvoitusjuomakorit
+Polyvinyylikloridi
+PVC
+Monimuotoinen- ja piirteinen,
+sisältää klooria, muuttuu usein
+taitekohdasta valkoiseksi
+Putket, rakennusmateriaalit,
+lelut, pankkikortit
+Matalatiheyksinen polyeteeni
+PE-LD
+Pehmeä, joustava, sitkeä,
+vahamainen pinta, vesihöyryä
+kestävä
+Muovikassit, pussit, kalvot
+Polypropeeni
+PP
+Jäykkä, sitkeä, ratiseva Elintarvikepakkaukset,
+paperipussien ikkunat, narut,
+rasiat
+Polystyreeni
+PS
+Kirkas tai värillinen, hauras Rasiat, purkit, kirkkaat, muoviset
+ruokailuvälineet, lämpöä
+eristävät pakkaukset
+Polyamidit ja yhdistelmämuovit
+O
+Luja, ylläolevien yhdistelmät ja
+muut materiaalit
+Tekstiilikuidut, narut ja köydet
+Muovi
+Paperi
+Pahvi ja kartonki
+Metalli
+Lasi
+Biojäte
+Sekajäte
+Tekstiilit
+Puu
+Puutarhajäte
+Sähkö- ja elektroniikkaromu (SER)
+Rakennusjäte
+Vaarallinen jäte
+https://www.aamulehti.fi/ihmiset/muovin-kierratys-ei-aina-kannata-heita-marinadin-tahmaama-broileripakkaus-sekajatteeseeen-23882930/
+18
+05.1 Demokratian muutos
+05 MUUTOKSEN AJURIT
+Maapallo on yhä useampien
+globaalien haasteiden edessä.
+Ilmastonmuutos, merten hyvin
+-
+vointi ja muut ympäristöön liittyvät
+ongelmat ovat vain yksi osa
+haasteista, mutta takuulla yksi tär
+-
+keimmistä. Globaalien ongelmien
+ratkaiseminen vaatii kuitenkin kan
+-
+sainvälistä päätöksentekoa, johon
+nykyajan valtiot eivät helposti
+taivu. Maiden välisten sopimus
+-
+ten aikaansaanti on kankeaa ja
+tehotonta, sillä kukin valtio tavoit
+-
+telee omaa etuaan, olematta valmis
+panostamaan omien rajojensa
+ulkopuolelle.
+Myös valtioiden sisäinen politiikka
+on murroksessa. Edustuksellisen
+demokratian ja puoluepolitiikan
+jähmeys on aikaansaanut tarpeen
+erilaisille vaikuttamisen väylille,
+joissa yksilöt pystyvät vaikutta
+-
+maan päätöksentekoon entistä
+suoremmin. Tätä kuvastaa esimer
+-
+kiksi Suomessakin vuonna 2012
+käyttöön otettu kansalaisaloite.
+Ihmiset ovat yhä valmiimpia
+ottamaan kantaa niin paikalli
+-
+siin epäkohtiin kuin globaalia
+huomiota vaativiin ongelmiin,
+joihin tämänhetkisellä politiikalla
+on vaikea ottaa kantaa.
+(Kiiski Kataja 2017)
+05 MUUTOKSEN AJURIT
+Arktisen alueen suojelu on esimerkki hankalasta, globaalia päätöksentekoa
+vaativasta ongelmasta, jossa kansainvälisten järjestöjen ponnistelu ja niiden
+valtioille asettama paine ovat tärkeässä asemassa.
+https://fi.pinterest.com/pin/115264071693661533/
+19
+Kansalaisjärjestöt ovat merkit
+-
+tävä yhteiskunnallinen voimavara
+sekä edustuksellisen demokratian
+täydentäjä. Ne kokoavat yhteen
+yksilötason toimijoita muodostaen
+kollektiivisen, muutoksen mahdol
+-
+listavan voiman. Kansalaisjärjestöt
+haastavat politiikan omilla vaati
+-
+muksillaan ja ovat siten tärkeä osa
+toimivaa demokratiaa. Politiikan
+lisäksi järjestöt voivat saavuttaa
+muutosta kansainvälisemmälläkin
+tasolla. Jo pelkästään sosiaalisen
+median avulla järjestöt voivat
+levittää sanomaansa yli maarajo
+-
+jen, saaden kuulijakuntaa ympäri
+maapalloa. Tietouden lisäämi
+-
+nen ja kansainvälisiin toimijoihin
+vaikuttaminen voivat edistää asiaa,
+vaikkei oma paikallishallinto asiaan
+tarttuisikaan. (Saukkonen & Lattunen
+2008)
+Järjestötoiminnan lisäksi neljännen
+sektorin kaupunkiaktivismi
+on nousussa. Tällä tarkoitetaan
+kansalaisten omaehtoista yhteis
+-
+toimintaa, joka tapahtuu yleensä
+järjestötoiminnan ulkopuolella.
+Kaupunkiaktivismilla pyritään
+paikallisiin, omaa elinympäristöä
+koskeviin muutoksiin. Jos omassa
+elinympäristössä koetaan olevan
+epäkohtia tai puutteita, pyritään
+niihin tarttumaan itse tai yhteisön
+voimin. Vastuuta päätöksistä ja
+prosessista ei siis jätetä poliittiselle
+vallalle, vaan hommiin ryhdytään
+itse, vaikka sääntöjä uhmaten.
+Kaupunkiaktivismiksi voidaan luo
+-
+kitella vaikkapa kaupunkiviljelmän
+perustaminen, kaupunkitapahtu
+-
+man järjestäminen tai luomu-ruo
+-
+kapiirin aloittaminen omassa
+yhteisössä. (Merilänen-Tenhu 2016)
+Tärkeintä mielestämme on havaita se,
+että kaupungistunut, digitalisoitunut ja
+korkeasti koulutettu kansalaisyhteiskunta
+on noussut historiallisen merkittäväksi
+yhteiskunnalliseksi voimavaraksi.
+(Pasi Mäenpää, Meriläinen-Tenhu 2016 mukaan)
+Helsingin Sompasaareen alunperin luvatta 05 MUUTOKSEN AJURIT
+pystytetty Sompasauna on hyvä esimerkki
+kansalaisten omaehtoisesta kaupunkiaktivimista.
+https://www.kauppalehti.fi/uutiset/sauna-kuuluu-kaupunkiin---tassa-kolme-hyvaa-vaihtoehtoa/MJaunaNv
+19
+20
+Toimeksiantajani, Nordic Ocean
+Watch, sijoittuu toimintansa
+puolesta järjestöjen ja neljännen
+sektorin välimaastoon. Vaikka
+kyseessä onkin järjestö, sen
+toiminta perustuu pitkälti samasta
+aiheesta kiinnostuneiden yksi
+-
+löiden yhteisölliseen voimaan.
+NOW vieroksuu järjestö-termiä,
+ja kutsuukin itseään mieluummin
+kollektiiviksi. Toiminta muistuttaa
+kaupunkiaktivismia sen paikal
+-
+lisuuden ja tee-se-itse-ajattelun
+vuoksi. Jos lähiranta on roskainen,
+se mennään siivoamaan ja jos
+lähistöllä ei ole lajittelupistettä ja
+jätteenkeräystä, sellainen peruste
+-
+taan.
+Sekä järjestöjen että neljännen
+sektorin toimintaa ja ajatuksia tulisi
+käyttää poliittisen päätöksenteon
+ja kaupunkisuunnittelun voimava
+-
+rana. Aktiivinen kansalaistoiminta
+on osa toimivaa demokratiaa ja
+antaa selvää osviittaa siitä, mihin
+suuntaan ihmiset haluavat kau
+-
+punkejansa ja elinympäristöjänsä
+kehitettävän.
+Monet tutkijat ja kansalaisjärjestöt pohtivat
+ratkaisuja globaalin päätöksenteon
+parantamiseksi. Nämä ratkaisuehdotukset
+ansaitsevat todellista huomiota.
+(Kiiski Kataja 2017)
+05 MUUTOKSEN AJURIT
+Kääntöpöytä on Dodo ry:n kaupunkiviljelypuutarha
+Pasilan ratapihalla, joka toimii myös kaupunkilaisten
+kahvilana, olohuoneena ja tapahtumakenttänä.
+1-3:https://www.flickr.com/photos/dodoorg/
+albums/72157628177512969/page1
+21
+05.2 Muotoilu muutoksen asialla
+Muotoilu voi toimia muutoksen
+edistäjänä kansalaisjärjestöjen
+ja kaupunkiaktivismin ajamien
+asioiden takana. Muotoilun työ
+-
+kalujen avulla voidaan vaikuttaa
+muun muassa järjestön näkyvyy
+-
+teen, sen uskottavuuteen, käyt
+-
+täjäryhmän laajuuteen sekä sen
+toiminnan onnistumiseen.
+Brändi ja visuaalinen identiteetti
+ovat merkittävässä roolissa voittoa
+tavoittelemattomien tahojen
+toiminnassa. Ne vaikuttavat muun
+muassa järjestön tunnistettavuu
+-
+teen ja sen vakuuttavuuteen ja
+voivat onnistuessaan tuoda lisää
+tukijoita järjestön ja sen asioiden
+taakse. Hyvän suunnittelun avulla
+laajatkin asiakokonaisuudet
+voidaan tuoda yhteen selkeällä
+tavalla ja järjestöjen haalima, usein
+tieteellinen tausta-aineisto voidaan
+saattaa tavalliselle lukijalle ymmär
+-
+rettävään muotoon. Iskevä ja
+mieleenpainuva graafinen ulosanti
+onkin nykypäivän mediavetoisessa
+yhteiskunnassa järjestöjen elinehto.
+05 MUUTOKSEN AJURIT WWF:n kampanja on vaikuttava
+yksinkertaisuudessaan. DDB:n toteuttamat
+kuvat sopivat järjestön brändiin ja sen
+missioon erityisen osuvasti.
+https://www.behance.net/gallery/9515289/More-Horrifying
+22
+Muotoilu mielletään eritoten
+esteettistä lisäarvoa tuottavana
+alana. Visuaalisuuden näyttävyyden lisäksi muotoilusta voidaan
+kuitenkin hyötyä monin muinkin
+keinoin. Muotoilun työkaluja
+hyödyntämällä myös järjestöjen
+toiminnasta voidaan tehdä monin
+tavoin toimivampaa.
+Esimerkiksi viime vuosina paljon
+puhuttanut suunnitteluajattelu
+(design thinking) on antanut lisää
+jalansijaa muotoilijoiden erityisosaamiselle ja antanut muotoilun
+työkaluja myös muiden ammattiryhmien ja yhteisöjen käytettäväksi.
+Sillä tarkoitetaan luovaa prosessia,
+jossa olemassa olevien ratkaisujen
+parantamisen sijaan lähestytään
+ongelmia tutkivammasta, ihmisläheisemmästä näkökulmasta, jolloin
+päästään käsiksi itse ongelmien
+ytimeen. (Brown 2009, 26–27)
+Muotoilun avulla voidaan parantaa
+muun muassa järjestöjen palveluja toimintamalleja ja selkeyttää
+siten järjestön ajatus- ja arvomaailmaa sen mahdollisille jäsenille.
+Muotoilun näkökulmia voidaan
+hyödyntää myös laajempia strategioita ja kokonaiskonsepteja pohdittaessa koherentin lopputuloksen
+saavuttamiseksi. Käyttäjälähtöisen
+muotoilun ja osallistavan suunnittelun näkökulmia käyttäen voidaan
+laajentaa järjestön jäsenkuntaa ja
+ottaa näiden eri toiveet ja tarpeet
+huomioon uusin tavoin. (Brown
+2009, 399–400). Yhtenäisen, selkeän
+ja mieleenpainuvan organisaation
+saavuttamisessa muotoilulla ja sen
+työkaluilla voikin olla siis merkittävä vaikutus. “The rise of design thinking
+corresponds to a culture change, and
+what excites the best thinkers today is
+the challenge of applying their skills
+to problems that matter.”
+(Brown 2009, 301)
+https://fi.pinterest.com/pin/386957792954111097/
+IDEO:n toimitusjohtajan Tim Brownin
+ajatuskartta suunnitteluajattelusta ja sen
+mahdollisuuksista.
+05 MUUTOKSEN AJURIT
+22
+23
+05.3 Open Source Design
+Jatkuvasti kehittyvä tekniikka ja
+tiedon jakamisen helppous ovat
+muuttaneet tapaamme suhtautua
+perinteisesti suunnittelijoiden
+suunnittelemiin ja yksittäisen tahon
+toteuttamiin hyödykkeisiin. Yhä
+useammin puhutaan open-sourcemuotoilusta, joka voi tarkoittaa
+esimerkiksi suunnitelmien ja tiedon
+avointa jakamista, mikä mahdol
+-
+listaa niiden toteuttamisen missä
+tahansa kenen tahansa toimesta,
+kunhan saa oikeat materiaalit ja
+laitteet käyttöönsä. 3D-printterei
+-
+den yleistymisen ja CNC-koneiden
+myötä esimerkiksi levyrakenteis
+-
+ten huonekalujen leikkaaminen
+ja kokoaminen onnistuu paikassa
+kuin paikassa, jos kalusteen piirus
+-
+tukset ovat vapaasti käytettävissä.
+(Avital 2011)
+Open-source-muotoilun taustalla
+on usein ajatus siitä, että tietoja ja
+innovaatioita jakamalla voidaan
+saavuttaa nopeampaa kehitystä ja
+laajempaa globaalia hyötyä. Teki
+-
+jänoikeuksien sijaan suunnitelmat
+jaetaankin muiden käytettäväksi
+ja kehitettäväksi, eikä rahallinen
+hyöty ole enää ainut tavoiteltava
+asia. Jo opittu tietous voidaan täten
+valjastaa yhä useampiin käyttötar
+-
+koituksiin ja uusiin, kaikkia hyödyt
+-
+täviin innovaatioihin globaalissa
+mittakaavassa, jolloin open-sour
+-
+ce-muotoilu voi toimia myös maail
+-
+manlaajuisten ongelmien ratkaisu
+-
+jen edistäjänä. (Laitio 2011)
+05 MUUTOKSEN AJURIT
+Dave Hakkensin Precious plastic -projekti
+toimii open source -periaatteella. Muovin
+kierrätystä ja uudelleenkäyttöä helpottavien
+laitteiden sekä tilojen piirustukset ovat
+vapaasti kenen tahansa hyödynnettävissä.
+design-c0bbb7479be
+3: https://medium.com/@ignaziomottola/what-dave-hakkens-tells-us-about-todays- 1-2: https://preciousplastic.com/en/videos/
+24
+06.1 Ympäristöystävällinen rakentaminen
+Ympäristöystävällisellä rakentamisella pyritään minimoimaan
+rakentamisesta koituvat luontoa
+rasittavat tekijät. Rakennuksen
+ekologisuuteen vaikuttavat niin
+rakennus- ja käyttövaihe kuin
+myös rakennuksen kestävyyteen
+ja huoltoon liittyvät seikat. Myös
+kylmien, eristämättömien tilojen
+suunnittelussa voidaan ottaa
+huomioon ekologiset tekijät. Käsittelenkin aihetta eritoten opinnäyteprojektini kannalta oleellista näkökulmasta.
+Tontin valinta ja rakennuksen
+sijoitus ovat ensimmäisiä ekologisuuteen vaikuttavia tekijöitä.
+Rakennuksen tulee olla saavutettavissa ja lähellä sen käytön kannalta
+oleellisia palveluita, etenkin jos
+liikkuminen tulee tapahtumaan
+autoitse. Valmiin infrastruktuurin
+äärelle rakentaminen säästää niin
+luontoa kuin rahaakin, kun hyö06 OHJEISTUS JA SÄÄDÖKSET
+dynnetään olemassa olevia teitä ja
+kunnallistekniikkaa uusien rakentamisen sijaan.
+Tontin luonnonolot tulisi ottaa
+huomioon suunnittelusta lähtien.
+Rakennuspaikka tulisi valita siten,
+että se kuormittaa luontoa mahdollisimman vähän ja sen muokkaaminen minimoidaan. Laadukkaalle
+maaperälle rakentaminen ei vaadi
+raskaita perustuksia, jolloin luonto
+voidaan jättää lähes ennalleen.
+Rakennuspaikan valinnalla
+vaikutetaan etenkin rakennuksen
+energiatehokkuuteen, mutta myös
+rakennuksen käyttömukavuuteen
+sekä kestävyyteen. Sijoittamalla
+rakennus oikein voidaan hyödyntää
+passiivista aurinkoenergiaa ja
+luonnonvaloa. Ympäröivällä
+luonnolla on suuri merkitys, sillä
+puuston avulla voidaan suojautua
+liialta auringolta ja tuulelta. Tontin
+maastonmuotoja on myös järkevä
+hyödyntää, sillä nekin suojaavat
+rakennusta säänvaihteluilta.
+Tilasuunnittelun kannalta on
+tärkeää ottaa huomioon ilmansuunnat sekä tilan todellinen
+tarve. Käyttötilat on parasta
+sijoittaa siten, että pystytään
+hyödyntämään auringonvaloa ja
+-lämpöä. Vähemmän käytön tilat
+ja varastot on järkevintä sijoittaa
+pohjoispuolelle, jolloin ne toimivat
+puskurina kylmää ja tuulta vastaan.
+Kompakti pohjan muoto on perusteltu myös lämmittämättömässä
+rakennuksessa, sillä tontin rasitus
+minimoidaan ja maisema-arvo
+säilytetään.
+Käytetyillä materiaaleilla vaikutetaan rakennuksen ekologisuuteen
+sen koko elinkaaren ajan. Materiaalien hiilijalanjäljissä on merkittäviä eroja, riippuen niiden raaka-aineista, valmistusmenetelmistä
+ja työstettävyydestä. Suositeltavaa
+olisi käyttää uusiutuvista luonnonvaroista valmistettuja, kierrätettävissä olevia materiaaleja. Tärkeää
+olisi myös huomioida materiaalien
+paikallisuus ja välttää turhia kuljetuksesta syntyviä päästöjä. Erilaisilla pintamateriaaleilla ja -käsittelyillä voidaan myös vaikuttaa
+materiaalien kierrätettävyyteen
+sekä luonnon kemikalisoitumisen
+estämiseen.
+Materiaalien kestävyys korostuu
+myös rakennuksen elinkaarta
+suunniteltaessa. Helposti ja luontoystävällisesti huollettava rakennus
+säästää energiaa ja mahdollistaa
+pitkän iän. Hyvin valitut materiaalit on myös helppo kierrättää
+kun rakennuksen elinkaari tulee
+päätökseensä. (Hänninen 2016)
+06 OHJEISTUS JA SÄÄDÖKSET
+25
+06.2 Puurakenteet
+Puurakentamisella on Suomessa
+pitkät perinteet. Puu on pitänyt
+puolensa rakennusmateriaalina
+etenkin pienrakentamisessa ja
+99% Suomen vapaa-ajan asun
+-
+noista onkin puurakenteisia. Puu
+on metsävaltaisessa Suomessa
+kestävä valinta niin ekologisesti
+kuin taloudellisestikin ja puuraken
+-
+tamisen osuutta onkin pyritty viime
+vuosina kasvattamaan. Tekniikan
+kehittyessä suuretkin rakenteet
+ovat mahdollistuneet ja esimerkiksi
+puukerrostalojen kehitystyötä on
+pyritty edistämään. (Karjalainen 2018)
+Puu on rakennusmateriaalina
+erinomainen. Se on paikallinen,
+itsestään uusiutuva materiaali,
+jota on helposti saatavilla. Se on
+matalaenergistä ja saasteetonta,
+ja se toimii myös hiilinieluna.
+Lisäksi puu on täysin kierrätettä
+-
+vissä ja lopulta hyödynnettävissä
+energiana.
+Puun rakenteelliset ominaisuudet
+ovat monipuoliset, minkä vuoksi
+se soveltuu monenlaiseen raken
+-
+tamiseen. Se on lujaa, mutta
+helposti työstettävää ja kevyttä. Se
+hengittää, mutta myös eristää ja
+varaa lämpöä. Paloherkkyydestään
+huolimatta se on myös paloturval
+-
+linen materiaali. Kaiken kaikkiaan
+puu on pitkäikäinen rakennusma
+-
+teriaali, joka kestää erinomaisesti
+oikein suunniteltuna, toteutettuna
+ja hoidettuna. (Puuinfo 2006)
+Puuta voidaan käyttää monipuo
+-
+lisesti eri rakenteissa palkistoista
+rakennuksen ulko- ja sisäverhouk
+-
+seen. Vakiintuneet puurakennus
+-
+järjestelmät ja standardisoidut puu
+-
+tuotteet antavat raamit rakenteiden
+suunnittelulle ja mitoitukselle,
+jolloin niiden toteuttaminen sujuu
+ongelmitta. (Viljakainen 2004)
+06 OHJEISTUS JA SÄÄDÖKSET
+Kehäpalkki
+Lattiapalkki
+Yläsidepuu
+Tukipuu
+Vinotuki
+Kattotuoli
+https://www.puuinfo.fi/sites/default/files/vaja_web.pdf
+26
+06.3 Jätetilan suunnittelu
+Rakennuksen varasto suunnitellaan
+jätetilojen suunnitteluohjeiden
+mukaisesti, joiden lähtökohtana
+ovat sijainti, tyhjennyskalusto,
+mitoitus, käyttäjäystävällisyys sekä
+työturvallisuus.
+Jätetilan on sijaittava tyhjennyska
+-
+luston ulottuvissa. On huomioitava
+tien kunto, kantavuus sekä riittävä
+leveys, jotta jäteauto pääsee sen
+lähettyville ongelmitta.
+Mitoituksen lähtökohtana toimii
+standardisoitujen jäteastioi
+-
+den koot. Oviaukon on oltava
+vähintään 400mm leveämpi kuin
+suurin tilassa käytetty jäteastia.
+Ovien tulee olla tukevarakentei
+-
+set sekä auki pidettävissä. Käsin
+siirrettävien astioiden tulee olla
+helposti siirreltävissä ilman muiden
+astioiden siirtämistä. Mahdollis
+-
+ten ramppien kaltevuus tulisi olla
+maksimissaan 12° tai muutoin on
+hankittava siirtämistä helpottavaa
+kalustoa jätteenkuljettajan avuksi.
+Jätetilan tulisi olla kovapohjainen
+ja kynnyksetön. Lattia ei saa olla
+liukas ja siinä tulee olla tarvittavat
+kallistukset valumavesien poista
+-
+miseksi. Lumi ei saa muodostaa
+estettä sisäänpääsylle, mikä tulee
+huomioida katon suunnittelussa.
+Tilan tulisi olla myös valaistu ja
+merkitty, jätteenkuljettajan työn
+helpottamiseksi. Lisäksi on huomi
+-
+oitava tuhoeläimet ja linnut.
+Tilassa tulee huomioida myös
+riittävä ilmastointi, tilan puhtaana
+pito ja paloturvallisuus. Myös ilki
+-
+vallan estämiseen tulee panostaa,
+mitä helpottaa muun muassa tilan
+lukitseminen siten, että asiatto
+-
+mien pääsy tilaan
+estetään. (RT
+69-11190 2015)
+06 OHJEISTUS JA SÄÄDÖKSET
+Yleisimmät käsin
+siirrettävien jäteastioiden koot:
+(l x s x k)
+140 l: 510 x 560 x 1080 mm
+240 l: 600 x 720 x 1100 mm
+300 l: 600 x 890 x 1100 mm
+660 l: 1370 x 850 x 1250 mm
+http://keywordsuggest.org/gallery/854665.html
+27
+06.4 Paloturvallisuus
+Suunniteltava rakennus on määri
+-
+teltävissä jätesuojaksi. Jätesuojille
+ei ole Suomessa omia palomää
+-
+räyksiään, joten on sovellettava
+ohjeistuksia muille kiinteistöille
+sekä autosuojille. Paloluokitukset
+on myös tarkistettava tapauskohtai
+-
+sesti rakennuspaikan ja paikallisten
+määräysten mukaisesti.
+Rakennus tulee kuuluumaan
+paloluokkaan P3. Se on yleisesti
+pientalojakin koskeva paloluokitus,
+joka ei aseta vaatimuksia rakennuk
+-
+sen kantaville rakenteille. Vaadit
+-
+tava turvallisuustaso pyritäänkin
+saavuttamaan rakennuksen kokoa
+ja henkilömäärää rajoittamalla.
+Suunniteltava rakennus tulee
+olemaan yksikerroksinen ja pieni
+-
+kokoinen (alle 25m
+2
+), joten suunni
+-
+telmaan vaikuttavia määräyksiä ei
+koon puolesta ole. Rakennus tulisi
+kuitenkin voida sijoittaa vähintään
+8 metrin päähän ympärillä olevista
+rakennuksista, tai muuten on
+rakenteellisin keinoin huolehdittava
+palon leviämisen rajoittamisesta.
+(Suomen rakentamismääräyskokoelma E1)
+Rakennusosat luokitellaan
+palo-ominaisuuksien mukaan
+kirjaimen ja palonkestävyysajan
+mukaan. Määreinä ovat kantavuus
+(R), tiiviys (E) ja eristävyys (I).
+Suunniteltavassa rakennuksessa
+ei ole vaatimuksia kantavuuden
+suhteen, mutta sen tulisi saavuttaa
+EI30-taso. Rakennusmateriaalit
+määritellään sen mukaan, miten
+ne osallistuvat palon syttymiseen
+ja leviämiseen. Tähän käytetään
+merkintää A1, A2, B, C, D, E ja F.
+Lisäksi määritetään savun tuotto (s)
+sekä palava pisarointi (d). Materi
+-
+aaleiltaan rakennuksen tulisi olla
+tasoa D-s2, d2. (Suomen rakentamis
+-
+määräyskokoelma E4). Tähän tasoon
+yltävät käytännössä lähes kaikki
+puutuotteet (Puuinfo 2012)
+.
+06 OHJEISTUS JA SÄÄDÖKSET
+Lähes kaikki puutuotteet
+soveltuvat käytettäväksi
+paloluokassa D.
+(Puuinfo 2012)
+https://www.maaseuduntulevaisuus.fi/mets%C3%A4/artikkeli-1.209276
+27
+28
+06.5 Rakennusjärjestys ja kaavoitus
+Rakentamista ohjaava rakennus
+-
+järjestys laaditaan kunnittain.
+Kaavoituksen ohella se auttaa
+maankäytön suunnittelussa ja
+edistää laadukkaiden elinympäris
+-
+töjen toteutumista. Rakennusjär
+-
+jestyksessä määritetään esimerkiksi
+lupamenettelyistä ja rakennusten
+soveltumisesta rakennettuun
+ympäristöön ja maisemaan. Lisäksi
+voidaan laatia myös erillisiä raken
+-
+tamistapaohjeita eli alueellisia
+suunnitteluohjeita. Näissä on usein
+määritelty suunniteltavien raken
+-
+nusten materiaaleja ja värejä, sekä
+esimerkiksi katon kaltevuuksia.
+(Helsingin kaupunki 2018)
+Suunniteltava rakennus pyritään
+tekemään siten, että se voidaan
+sijoittaa moniin eri ympäristöihin.
+Suunnitelma on kuitenkin tarkis
+-
+tettava sijoituskohteen mukaan ja
+tarpeen vaatiessa sitä on muokat
+-
+tava kunnan määräyksiin sopivaksi.
+Eristämättömien pienraken
+-
+nusten lupamenettelyissä ja
+neliörajoituksissa on eroja, jotka
+voivat vaikuttaa lupaprosesseihin
+merkittävästi. Monissa kunnissa
+toimenpideluvalla saa rakentaa 20
+tai 25 m2 kokoisen eristämättömän
+lisärakennuksen, mikä toimii tässä
+projektissa suuntaa antavana ohje
+-
+nuorana.
+06 OHJEISTUS JA SÄÄDÖKSET
+https://www.tillinmaki.fi/asuinalueemme/kaava-asiat/tillinmaen-asemakaava/
+29
+TEHTÄVÄ & TAVOITTEET
+07 - 08
+Suunnitelutehtävän esittely
+Tavoitteet ja rajaus
+30
+07.1 Tehtävä
+07 SUUNNITTELUTEHTÄVÄN ESITTELY
+Toimeksiantajani, Nordic Ocean
+Watch Finlandin minulle uskoma
+projekti on pieni, rannan läheisyyteen sijoitettava rakennus.
+Sen on tarkoitus toimia etenkin
+rannalta löytyvien roskien
+lajittelupaikkana ja tehokkaan
+kierrätyksen mahdollistajana.
+Lajittelun lisäksi tilassa tulisi voida
+kerätä yksinkertaista dataa löytyneistä roskista esimerkiksi valmistusmateriaalien tai roskatyyppien
+mukaan. Osa roskista on pystyttävä
+myös varastoimaan rakennuksessa, jotta roskien kuljetus voidaan
+suorittaa tehokkaasti kaikkien
+pussien ollessa täysiä.
+Rakennuksessa on tarkoitus
+järjestää erilaisia tapahtumia ja
+tempauksia. Tärkeimpänä näistä
+ovat rantasiivoukset, joiden aikana
+tilaa käytettäisiin sen pääasiallista tarkoitusta, lajittelua varten.
+Tämän lisäksi rakennuksen äärellä
+voitaisiin järjestää mm. keskustelutilaisuuksia, pop-up-toimintaa sekä
+rentoja kesäillanviettoja.
+07 SUUNNITTELUTEHTÄVÄN ESITTELY
+Rakennuksen on tarkoitus toimia
+myös paikkana, jossa voidaan
+kertoa merten hyvinvointiin
+liittyvistä ongelmista ja haasteista.
+Tapahtumien ja vierailujen kautta
+voidaan opastaa ihmisiä muuttamaan elintapojansa ympäristöystävällisemmiksi sekä herättämään
+ajatuksia mm. muovin kulutukseen
+liittyvissä aiheissa. Tähän liittyen
+voidaan järjestää esimerkiksi workshop-toimintaa sekä pienryhmien
+vierailuja.
+Lisäksi rakennus on tapaamispaikka Nordic Ocean Watchin
+jäsenille ja sen toiminnasta kiinnostuneille. Sen äärellä voidaan viettää
+kesäpäivää vaikkapa purjelautailun
+lomassa ja tuoda rannalta löytyneet
+roskat kierrätettäväksi. Se voi
+toimia myös linkkinä erilaisten
+ihmisten ja yhteisöjen välillä,
+tukien sosiaalista verkostoitumista
+ja ajatustenvaihtoa.
+L ØA
+ROSKAT
+- lajittelu
+-data
+-varastointi
+TAPAHTUMAT
+- rantasiivous
+- illanvietot
+- pop-up
+...
+OPETUS
+- yksilöt
+- ryhmät
+- workshop
+TAPAAMINEN
+- NOW
+- uudet ihmiset
+- linkki yhteisöjen
+välillä
+31
+07.2 Käyttäjät
+Suunniteltavan rakennuksen käyttäjänä voi toimia ketä tahansa
+alueella liikkuva ihminen. Ajatuksena on mahdollistaa rakennuksen
+käyttö kaikkina aikoina ja pitää
+ovet avoinna mahdollisille käyttäjille. Rakennuksen lukituksessa
+voidaan hyödyntää paikallisia
+yhteistyökumppaneita tai käyttää
+koodilukitusta vandalismin estämiseksi. Rakennus tulee toimimaan
+jokamiehen-periaatteella ja sen
+ylläpidossa luotetaan pääosin käyttäjiin. Käyttösäännöt opastavat
+käyttäjiä tarkemmin toimintaan ja
+ylläpitoon liittyvissä asioissa.
+Käyttäjäkunta koostuu etenkin
+Nordic Ocean Watchin jäsenistöstä ja sen toimintaan osallistuvista henkilöistä. Nykyisellään NOW on profiloitunut
+ympäristön hyvinvoinnista kiinnostuneiden 20–35-vuotiaiden yhteisöksi. Yhteistä heillä tuntuu olevan
+aktiivinen elämäntapa ja läheinen
+Suunnittelun kannalta tärkeimmät käyttäjäryhmät:
+suhde luonnossa liikkumiseen. Eri
+vesiurheilun muodot ovat edustettuina kollektiivin jäsenistössä ja se
+on tärkeä osa NOW:n identiteettiä.
+Lisäksi rakennuksen käyttäjäryhmään kuuluu alueella ulkoilevat
+ja asuvat ihmiset. Tapahtumien
+lisäksi he voivat osallistua roskankeruuseen omaehtoisesti ja käyttää
+rakennusta näin tehdessään.
+Omatoimisen toiminnan kannalta
+on tärkeää, että rakennuksen
+käyttö on yksinkertaista ja opasteet
+selkeitä. Lisäksi sen tulee olla visuaalisesti mielenkiintoa herättävä ja
+houkutella ihmiset käyttämään sitä
+ilman opastustakin.
+Rakennuksen on tarkoitus toimia
+myös opetus- ja workshop-tarkoituksessa. Tällöin käyttäjänä voi olla
+esimerkiksi pieni ryhmä partiolaisia tai koululaisia NOW:n jäsenten
+ohjauksessa. Mahdollisuus opetusryhmiin on otettava huomioon
+07 SUUNNITTELUTEHTÄVÄN ESITTELY
+etenkin rakennuksen mitoituksessa
+sekä infografiikan laadukkuudessa.
+Myös jätehuolto muodostaa
+yhden käyttäjäryhmän. Oli kyse
+sitten kunnallisesta jätehuollosta,
+paikallisesta yhteistyökumppanista
+tai yksittäisistä NOW:n jäsenistä,
+tulee jätteiden tyhjennyksen niin
+lajittelutilasta kuin varastostakin
+sujua ongelmitta.
+Olennaista projektissa on tietouden
+lisääminen ja mielenkiinnon herättäminen. Onnistuessaan rakennus
+voi houkutella lisää ihmisiä
+NOW:n toiminnan piiriin ja saada
+ihmiset toimimaan puhtaampien
+merien puolesta. Rakennuksen on
+puhuteltava siis kaiken ikäisiä, eri
+taustoista olevia ihmisiä. Suunnittelussa tulee tämän vuoksi pyrkiä
+vaikuttavaan, mutta neutraaliin
+lopputulokseen, jotta ihmiset eivät
+koe sitä luotaantyöntäväksi ja
+pienelle ryhmälle profiloituneeksi
+paikaksi.
+NOW:n jäsenet &
+toimintaan aktiivisesti
+osallistuvat
+Vierailevat ryhmät
+& tapahtumiin
+osallistuvat
+Alueella liikkuvat,
+rakennusta itsenäisesti
+käyttävät
+Jätehuolto
+32
+07.3	 Sijainti
+Projektia aloittaessani Nordic Ocean
+Watch ei ollut aloittanut rakennuksen
+mahdollisen sijoituspaikan etsintää.
+Kriteereinä rakennuksen sijainnille ovat
+etenkin sen toimintaan ja järjestön arvomaailmaan sidotut tekijät. Rakennuksen
+tulisi sijaita helposti roskaantuvan rannan
+läheisyydessä, joka tarjoaa vesiurheilu- ja
+vapaa-ajanviettomahdollisuuksia niin
+paikallisille kuin kauempaakin paikalle
+saapuville. Sen tulisi olla järkevän
+matkan päästä Helsingistä, sillä kollektiivin toiminta keskittyy tällä hetkellä
+pitkälti pääkaupunkiseudulle.
+Perehdyin kriteerit huomioiden muun
+muassa Suomen rannikon vesiurheilumahdollisuuksiin sekä rantojen käyttöön,
+roskaisuuteen ja kaavoitukseen. Tutkimuksen perusteella ehdotin mahdolliseksi
+sijainniksi Hangon Tulliniemeä, mihin
+olemme yhdessä kollektiivin kanssa
+sittemmin tutustuneet paikan päällä
+sekä ryhtyneet työstämään itse projektin
+toteutusta. Vaikkei ehdotetun sijainnin
+onnistumisesta olekaan vielä takeita,
+toimii se opinnäytetyössäni vähintäänkin
+esimerkkinä mahdollisesta sijoituksesta.
+07 SUUNNITTELUTEHTÄVÄN ESITTELY
+TULLINIEMI
+- vesiurheilu (surffaus, purjelautailu, purjehdus...)
+- uimaranta ja muu vapaa-ajanvietto
+- Tulliniemen luontopolku ja luonnonsuojelualue
+- rannalla roskaa niin mereltä kuin maalta
+- roska-astioiden pieni määrä
+- ei kierrätyspistettä (lähin asuinalueella)
+ - saavutettavissa autoitse
+- hiekka/moreeni-maaperä (helppo rakentaa)
+- asemakaavan muutos kehitteillä
+HANKO
+- alle 2 h matka Helsingistä
+- suosittu kesämatkakohde
+- kesätapahtumat
+- merellisyys ja vesiurheilu
+- luonto + urbaani ympäristö
+- kaksikielisyys
+Ranta
+Luontopolku
+Tie
+Rautatie
+TULLINIEMI
+KESKUSTA
+VIERASVENESATAMA
+33
+08.1 Toiminnalliset ja rakenteelliset tavoitteet
+08 TAVOITTEET JA RAJAUS
+Opinnäytetyöni pääasiallinen
+tavoite on täyttää toimeksiantajani
+asettamat toiminnalliset toiveet
+suunnitellussa rakennuksessa.
+Sen tulee toimia rantaroskien
+lajittelu- ja varastointipisteenä sekä
+mahdollistaa aiheesta oppiminen
+toiminnan ja visuaalisen opastuksen avulla. Lisäksi sen tulee olla
+paikka tapahtumille, ajanvietolle ja
+ajatustenvaihdolle. Suunnittelussa
+tulee ottaa huomioon erilaiset käyttäjäryhmät, jotta tuetaan rakennuksen monipuolista käyttöä.
+Suunnitelman tulee olla rakenteellisesti yksinkertainen
+ja talkoovoimin toteutettavissa.
+Työkuvien tulee olla selkeitä ja
+amatöörirakentajankin ymmärrettävissä. Materiaalien tulisi olla
+edullisia ja helposti työstettäviä,
+rakennuskustannusten minimoi08 TAVOITTEET JA RAJAUS
+miseksi. Lisäksi on huomioitava
+rakennuksen elinkaari ja sen huoltamisen mahdollistaminen.
+Rakennuksen tavoitteena on toimia
+myös esimerkkinä ja prototyyppinä mahdollisesti muuallekin
+sijoitettaville lajittelurakennuksille. Muiden projektien kannalta,
+turhan byrokratian välttämiseksi
+olisi tarkoituksenmukaista tähdätä
+20–25 m2
+ kokoiseen rakennukseen,
+jonka useissa kaupungeissa saa
+rakentaa tontillensa toimenpideluvan turvin.
+Nordic Ocean Watchin periaatteet
+on otettava huomioon läpi suunnittelun. Rakenteissa, materiaaleissa
+sekä pintakäsittelyissä on suosittava
+ekologisia, ympäristöä mahdollisimman vähän rasittavia ratkaisuja,
+ja muovin käyttöä on vältettävä.
+Rakennuksen tulee olla helppokäyttöinen ja ymmärrettävä.
+Tavoitteena on mahdollistaa sen
+vapaa käyttö milloin tahansa,
+ilman järjestön jäsenten läsnäoloa.
+Tätä varten lajittelu on tehtävä
+selkeäksi ja infografiikkaan on kiinnitettävä huomiota.
+Lisäksi on mietittävä, miten rakennuksen vandalisointi ja väärinkäyttö voidaan estää, sekä pohtia
+rakennuksen palvelumalli siltä osin
+toimivaksi. Turvallisuus ja siihen
+liittyvät säädökset on otettava
+huomioon taaten vaaraton yhteiskäyttöinen ympäristö.
+- toiminnalliset toiveet toteuttava
+- yksinkertainen
+- talkoovoimin toteutettavissa
+- edulliset ja helposti työstettävät materiaalit
+- huollon ja purun huomioon ottava
+- prototyyppi muille samanlaisille rakennuksille
+- NOW:n arvot huomioon ottava
+- helppokäyttöinen ja ymmärrettävä
+- väärinkäyttöä ehkäisevä
+- turvallinen
+34
+08.2 Visuaaliset tavoitteet
+Rakennuksen visuaalisuuteen
+vaikuttaa tässä projektissa etenkin
+toiminnallisuuteen, arvokysymyk
+-
+siin sekä toivottavaan yksinker
+-
+taisuuteen pohjautuvat tekijät.
+Rakenne, muotokieli sekä valitut
+materiaalit tulevat perustumaan
+pitkälti järjestön arvomaailman
+kannalta tärkeisiin seikkoihin,
+kuten ympäristöystävällisyyteen,
+materiaalitehokkuuteen, kierrä
+-
+tykseen sekä kestävyyteen. Raken
+-
+teellinen yksinkertaisuus sekä
+helposti työstettävien, edullisten
+materiaalien käyttö tulevat myös
+vaikuttamaan visuaalisen ilmeen
+suoraviivaisuuteen.
+Visuaalisilla valinnoilla pyritään
+vaikuttamaan etenkin rakennuk
+-
+sen houkuttelevuuteen ja sen
+käyttäjäryhmän laajuuteen.
+Ulkomuodolla ei haluta profiloitua
+liian suppeaan käyttäjäryhmään,
+vaan sen avulla halutaan välittää
+viesti siitä, että rakennusta saa
+käyttää kuka tahansa. Tavoit
+-
+teena onkin suunnitella neutraali,
+mielenkiintoa monen tyyppisissä
+ihmisissä herättävä rakennus.
+Rakennuksen on myös sovittava
+ympäristöönsä. Alueen perin
+-
+teinen rakennustyyli tulee ottaa
+huomioon, mutta on pyrittävä
+myös istuttamaan rakennus ympä
+-
+röivään luontoon, menettämättä
+maisemallista arvoa. Visuaalisesti
+olisi toivottavaa saavuttaa aikaa
+kestävä, vaatimattoman
+tyylikäs lopputulos, joka
+sulautuu niin ehdotetulle
+alueelle kuin muihinkin ran
+-
+nikkoympäristöihin
+.
+- mieleenpainuva
+- mielenkiintoa herättävä
+- kaikenlaisiin ihmisiin vetoava
+- käyttötarkoituksensa selittävä
+- erilaisiin ympäristöihin soveltuva
+- NOW:n arvoja edustava
+- aikaa kestävä
+- neutraali
+- tyylikäs
+1: http://www.feeldesain.com/boat-house-denmark.html
+2: https://www.designboom.com/architecture/hidemi-nishida-fragile-shelter/
+environmental-design-uc-berkeley-kengo-kuma-and-associates
+3: https://www.archdaily.com/592660/nest-we-grow-college-ofcamusdarach-sands-raw-architecture-workshop
+4: https://www.archdaily.com/519534/house-at08 TAVOITTEET JA RAJAUS
+35
+08 TAVOITTEET JA RAJAUS
+08.3 Yhteiskunnalliset tavoitteet
+Suunniteltavan rakennuksen on
+tarkoitus toimia yhteiskunnal
+-
+lisen muutoksen edistäjänä
+Nordic Ocean Watchin työstämien
+aiheiden parissa. On toivottavaa,
+että rakennus ja sen toiminta herät
+-
+täisivät mielenkiintoa ihmisten
+keskuudessa ja saisivat nämä
+toimimaan puhtaamman ympäris
+-
+tön ja vesistöjen puolesta. Projektin
+avulla voitaisiin luoda lisää kes
+-
+kustelua aiheen ympärille ja saada
+myös korkeammat tahot aktiivisten,
+ympäristöä suojelevien tekojen
+kannalle. Se edustaisikin oman
+-
+laistansa kaupunkiaktivismia, jossa
+kansalaisten teot näyttäisivät tietä
+korkeamman tahon päätöksille.
+Projekti toisi myös tunnet
+-
+tavuutta Nordic Ocean
+Watchille. Rakennuksen tulisikin
+kuvastaa järjestön arvo- ja ajatus
+-
+maailmaa ja ilmentää sitä rentoa
+tunnelmaa, jota he toiminnassaan
+vaalivat. Järjestön tavoitteena on
+levitä kiinnostuneiden yksilöiden
+kautta ympäri Suomea, mitä
+rakennuksen toteutus edistäisi.
+Itselleni projekti on ennen kaikkea
+kannanotto ja haaste. Tavoitteeni
+on tehdä järjestön yhteiskunnal
+-
+lisesti merkittävästä toimin
+-
+nasta entistäkin houkutte
+-
+levampaa ja näkyvämpää
+muotoilun keinoin. Laadukkaan
+ja toimivan suunnittelun avulla
+roskien lajittelu ja kierrätyskin
+voivat näyttäytyä miellyttäväm
+-
+pänä tekemisenä, joka johtaa myös
+ihmisten elintapojen muutokseen.
+http://www.phillysurfcrew.org/beach-cleanup/ Kuva: Chris String
+- muutoksen edistäjä
+- keskustelua herättävä
+- tunnettavuuden lisääminen
+- jäsenistön kartuttaminen
+- kantaa ottava
+- toiminnan edistäminen
+muotoilun keinoin
+35
+36
+08.4 Rajaus
+08 TAVOITTEET JA RAJAUS
+Lopullinen suunnitelma tulee
+esittämään konseptitasoisen,
+rantaroskien lajitteluun ja
+muuhun Nordic Ocean Watch
+-kollektiivin toimintaan
+soveltuvan pienrakennuksen.
+Se tulee toimimaan lähtökohtana
+Hangon kaupungin kanssa käytäville neuvotteluille sekä selontekona
+rakennuksen tavoitteista ja vaikutuksista sen ympäristöön. Suunnitelma tehdään kuitenkin siten, että
+se on ilman suurempia muutoksia
+sovellettavissa muihinkin rakennusympäristöihin. Tulliniemi toimii
+projektissa ehdotettuna sijaintina
+ja pyrkii konkretisoimaan rakennuksen käyttötarpeita ja -mahdollisuuksia.
+Konsepti esitellään ennen kaikkea
+tilasuunnitelman kannalta. Rakenteellisiin seikkoihin pyritään
+ottamaan kantaa niissä määrin,
+kuin ne vaikuttavat tilan ominaisuuksiin tai projektin periaatteisiin.
+NEUVOTTELUT
+SIJAINNISTA
+JATKOKEHITTELY
+MUIDEN
+AMMATTILAISTEN
+KANSSA
+RAHOITUS
+ESITTELY
+LUVAT
+TOTEUTUS
+KONSEPTI
+. . .
+37
+SUUNNITTELUPROSESSI
+09
+38
+09.1	 Sijainti ja sen luomat rajoitteet
+09 SUUNNITTELUPROSESSI
+Hangon Tulliniemi on esimerkilli
+-
+nen paikka rakennuksen sijoituk
+-
+selle. Se on urbaanin ympäristön ja
+luonnon rajamaastossa, infrastruk
+-
+tuurin saavutettavissa. Se antaa
+raamit suunnittelulle, mutta pohja
+-
+ratkaisua ja rakennetta suunnitel
+-
+taessa otetaan huomioon muutkin
+mahdolliset sijoitukset.
+Tulliniemi on Salpausselän harjun
+läntisin ja uloin merenpäällinen
+osa. Ehdotettu sijoitus raken
+-
+nukselle on kaakkoispuolen pitkä
+hiekkadyyniranta. Sen pohjois
+-
+puolelle tulee autotie ja alueella
+on muutamia virkistyskäyttöön
+tarkoitettuja rakennuksia: kahvila,
+uimakopit sekä bajamajat. Koil
+-
+lisessa sijaitsee Gunnarinrannan
+asuinalue, jonka ilmeeseen kuuluu
+punaiseksi maalatut, saaristomai
+-
+semaan tyypillisesti kuuluvat
+venevajat valkoisine puitteineen.
+Kapean puukaistaleen takana
+sijaitsevat ulkosatamaan vievä
+rautatie sekä sataman teollisuus
+-
+henkinen alue.
+09 SUUNNITTELUPROSESSI
+Hiekkarannan lisäksi alueelle
+on ilmeistä niittymäinen matala
+kasvusto sekä mäntypuut. Tulli
+-
+niemen maaperä koostuu hiekasta
+ja moreenista, joten perustukset
+onnistuvat ongelmitta. Vallitseva
+tuulensuunta Hangossa on lounas
+ja tuulet tunnetusti rajuja. Ranta
+on kesäaikaan auringossa aamusta
+iltapäivään ja parhaat maisemat
+näkyvät kaakon suunnalla.
+Olosuhteet kuvastavat hyvin kes
+-
+kivertorantaa Suomen rannikolla.
+Rajoitukset huomioon ottamalla
+on todennäköistä löytää rakennuk
+-
+selle lukuisia muitakin sijoituspaik
+-
+koja, etenkin jos suunnitelman voi
+myös peilata toiskätiseksi.
+Kahvila
+Ehdotettu rakennuspaikka
+http://map.hanko.fi/
+39
+09.2 Toiminnot, tilantarve ja käyttäjäpolut
+09 SUUNNITTELUPROSESSI
+Roskien lajittelu rakennuksessa
+perustuu pitkälti siihen, miten jäte
+-
+huolto kunnassa hoidetaan. Pai
+-
+kallinen kierrätysjärjestelmä antaa
+raamit tilan toiminnalle, jolloin
+kierrätys sujuu mutkattoman
+tehokkaasti. Tässä tapauksessa
+toimitaan siis Hangon kaupungin
+ohjeiden mukaisesti.
+Lajittelualue tulee suunnitella jous
+-
+tavasti, jotta se voidaan muuntaa
+eri sijainteihin ja käyttöön
+sopivaksi. Olemassa olevaa tietoa
+roskien määrästä ja niiden mate
+-
+riaaleista kannattaa hyödyntää,
+jolloin tilavaraukset vastaavat
+todellista tarvetta. Arvioitu mitoitus
+perustuu standardikokoisten jäte
+-
+säkkien kokoihin.
+Tulliniemen tapauksessa päädyin
+erottelemaan materiaalit siten,
+että yleisemmät ja enemmän tilaa
+vievät roskat muodostavat yhden
+ryhmän. Roskat, jotka ovat yleisiä,
+mutta volyymiltaan pienempiä ovat
+oma ryhmänsä ja harvinaisem
+-
+mat, kaatopaikalle vietävät jätteet
+omansa. Lisäksi lajittelutilassa on
+oltava oma alue lajittelemattomille,
+rannalta tuoduille roskille, jotta ne
+eivät päädy lattialle tilaa vieden ja
+tilan käyttöturvallisuutta heiken
+-
+täen.
+Roskien lajittelussa käytetään
+siihen tarkoitettua erottelijaa. Se
+muodostuu eri tasoista, joissa sil
+-
+märeikien koko pienenee alaspäin
+mentäessä. Sen avulla voidaan
+erotella helposti suuremmat roskat
+pienemmistä ja suorittaa mate
+-
+riaalien lajittelu tarkasti. Lisäksi
+se auttaa hahmottamaan roskien
+kokoluokkia, jolloin eri roskakoista
+voidaan kerätä tietoa materiaalien
+lisäksi.
+TILALLISET HUOMIOT:
+Riittävä valaistus
+Passiivisen lämmön hyödyntäminen
+Aukotus maisemaa kohti
+Lajittelualueen visuaalisuus ja siisteys
+Hajuhaittojen ja tuhoeläinten torjunta
+Muunneltavuus
+LAJITTELU
+L-ROSKAT
+muovi
+pantilliset
+sekajäte
+M-ROSKAT
+lasi
+metalli
+paperi
+kartonki
+(bio)
+S-ROSKAT
+puu
+rakennusjäte
+vaarallinen jäte
+SER
+...
+LAJITTELEMATTOMAT
+40
+09 SUUNNITTELUPROSESSI
+Rakennuksen jätehuolto tullaan
+hoitamaan pitkälti käyttäjien tai
+paikallisen yhteistyökumppanin voimin. Joissain tapauksissa
+rakennus voisi toimia virallisena
+jätekatoksena, josta jäteauto tulisi
+noutamaan täydet säkit. Tämän
+vuoksi varasto mitoitetaan standardikokoisille jäteastioille sopivaksi,
+jolloin mahdollisuus jäteauton
+hoitamalle tyhjennykselle on mahdollinen. Varaston suunnittelussa
+noudatetaan RT-kortiston antamia
+ohjeistuksia jätetilan suunnitteluun.
+Varasto suunnataan lähtökohtaisesti yleisimmille jätemateriaaleille
+sekä roskille, joille ei ole löydettävissä kierrätyspistettä lähialueelta.
+Hangossa varastoon voitaisiin
+sijoittaa esimerkiksi täysiä muoviroskasäkkejä, joita kerääntyy
+todennäköisesti eniten. Jäteastioiden lisäksi varastossa voitaisiin
+säilyttää myös tapahtuma-alueella
+käytettäviä tekstiilikatteita sekä
+esimerkiksi valkokangasta.
+TILALLISET HUOMIOT:
+Pohjoispuolelle puskuriksi
+Ei maiseman puolelle
+Hajuhaittojen ja tuhoeläinten torjunta
+Siisteys
+RT-standardit
+VARASTOINTI
+Roskien käsittely voi olla likaista
+puuhaa, joten rakennuksesta on
+löydyttävä käsienpesuun soveltuva
+vesipiste. Rakennusta ei ole
+tarkoitus liittää kunnan vesiverkkoon, mutta vesipiste mahdollistetaan sadevettä keräämällä. Käsienpesu on todennäköistä etenkin
+kahden toiminnon – lajittelun sekä
+varaston jätehuollon – yhteydessä.
+Tämän vuoksi vesipisteen tulisi
+sijaita niiden läheisyydessä.
+Sadeveden keruussa tulee
+huomioida sen rakenteelliset
+vaatimukset sekä ylivuotoveden
+ohjaus. Järjestelmän tulisi olla
+myös helppohoitoinen ja säätä
+kestävä. Lisäksi tulee olla tarkka
+käsienpesun aikana käytettävistä
+saippuatuotteista, sillä niiden tulisi
+ehdottomasti olla luontoystävällisiä
+ja hajusteettomia, jottei ympäröivää luontoa rasiteta.
+TILALLISET HUOMIOT:
+Rakenteelliset vaatimukset
+Luontorasituksen minimointi
+Kestävyys ja huollettavuus
+Sijoitus
+VESIPISTE
+41
+09 SUUNNITTELUPROSESSI
+Lajittelun yhteydessä voidaan
+kerätä tietoa rannalle päätyneistä
+roskista. Tietoa voidaan kerätä
+mm. valmistusmateriaalin, roskatyypin, roskien kokoluokan
+tai niiden alkuperän perusteella.
+Kirjatut tiedot ja niistä johdettu
+data voidaan myös luovuttaa
+muiden tahojen käytettäväksi,
+jolloin toiminta voi olla osa
+suurempaa verkostoa, niin Suomen
+kuin maailmankin mittakaavassa.
+Data kerätään lajittelun yhteydessä, joten jouheva kirjanpito
+ja järjestelmällisyys on otettava
+huomioon myös tilasuunnittelussa.
+Laskutila ja erilliset astiat tutkittaville roskille voivat olla tarpeen,
+kuten myös paikka kirjanpidon
+välineille. Lisäksi tilassa tulisi olla
+riippuvaaka, jotta jätteen määrää
+voidaan seurata painon mukaan.
+TILALLISET HUOMIOT:
+Riittävä valaistus
+Laskutila
+”Tutkimusastiat”
+Säilytystila
+Riippuvaaka
+Suomessa rantaroskien seurantaa harjoittava
+Pidä saaristo siistinä ry ottaa vastaan myös
+kansalaisten keräämää tietoa rantaroskista,
+joka tapahtuu valmistusmateriaalin mukaan,
+kappalemäärällisesti.
+International Coastal Cleanup on
+maailmanlaajuinen verkosto, joka kerää tietoa eri
+vesistöjen ja rantojen roskista eri roskatyyppien
+kappalemäärän ja painon mukaan.
+ROSKATYYPPI MÄÄRÄ (ilmoita kappalemäärinä) YHTEENSÄ
+Muovi
+Paperi ja pahvi
+Metalli
+Lasi ja
+keramiikka
+Kangas
+Puuaines
+Orgaaninen jäte
+Kumi
+Tupakantumpit
+Vaarallinen jäte
+(ent. ongelmajäte)
+Sähkö- ja elektroniikkajäte (SER)
+Muu
+Talkooryhmä / talkoolainen
+Osallistujamäärä
+Rannan sijainti / koordinaatit
+Siivouksen päivämäärä
+ Palauta kaavake talkoiden järjestäjälle, joka toimittaa sen Pidä Saaristo Siistinä ry:lle. Kiitos!
+Kommentteja:
+YMPYRÖI OIKEA VAIHTOEHTO: SIIVOAMME MEREN JÄRVEN JOEN RANTAA / POHJAA
+Citizen scientist: Pick up all trash and record all items
+you find below. No matter how small the items, the data
+you collect are important for Trash Free Seas. TRASH COLLECTED ®
+ITEMS OF LOCAL CONCERN:
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+= =
+=
+=
+= =
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ DEAD/INJURED ANIMAL STATUS ENTANGLED TYPE OF ENTANGLEMENT ITEM
+Dead or Injured Yes or No
+TOTAL #
+TOTAL #
+TOTAL #
+TOTAL #
+TOTAL #
+EXAMPLE:
+Plastic Bags: = 8
+Please DO NOT use words or check marks.
+Only numbers are useful data.
+TOTAL #
+Beverage Bottles (Plastic):
+Beverage Bottles (Glass):
+Beverage Cans:
+Grocery Bags (Plastic):
+Other Plastic Bags:
+Paper Bags:
+Cups & Plates (Paper):
+Cups & Plates (Plastic):
+Cups & Plates (Foam):
+PACKAGING MATERIALS:
+6-Pack Holders
+Other Plastic/Foam Packaging:
+Other Plastic Bottles (oil, bleach, etc.):
+Strapping Bands:
+Tobacco Packaging/Wrap:
+PERSONAL HYGIENE:
+Condoms:
+Diapers:
+Syringes:
+Tampons/Tampon Applicators:
+TOTAL #
+2.5cm
+(actual size)
+CLEANUP SUMMARY (circle units)
+MOST LIKELY TO FIND ITEMS:
+Cigarette Butts:
+Food Wrappers (candy, chips, etc.):
+Take Out/Away Containers (Plastic):
+Take Out/Away Containers (Foam):
+Bottle Caps (Plastic)
+Bottle Caps (Metal)
+Lids (Plastic) :
+Straws/Stirrers:
+Forks, Knives, Spoons:
+FISHING GEAR:
+Fishing Buoys, Pots & Traps:
+Fishing Net & Pieces:
+Rope (1 yard/meter = 1 piece):
+Fishing Line (1 yard/meter = 1 piece):
+OTHER TRASH:
+Appliances (refrigerators, washers, etc.):
+Balloons:
+Cigar Tips:
+Cigarette Lighters:
+Construction Materials:
+Fireworks:
+Tires:
+TINY TRASH LESS THAN 2.5CM:
+Foam Pieces
+Glass Pieces
+Plastic Pieces
+1. 2. 3.
+Number of Trash Bags Filled: Weight of Trash Collected: lbs/kgs Distance Cleaned: miles/km
+OCEAN TRASH DATA FORM
+1 CLEAN UP TRASH & COLLECT DATA
+2 ORGANIZE & ANALYZE DATA
+3 PUBLISH RESULTS
+4 REDUCE OUR IMPACT
+Ocean and waterway trash ranks as one of the most serious pollution problems choking our planet. Far more than an eyesore,
+a rising tide of marine debris threatens human health, wildlife, communities and economies around the world. The ocean faces
+many challenges, but trash should not be one of them. Ocean trash is entirely preventable, and data you collect are part of
+the solution. The International Coastal Cleanup is the world’s largest volunteer effort on behalf of ocean and waterway health.
+HERE IS HOW IT WORKS:
+Please return this form to your area coordinator.
+If you are unable to do so, please mail or email it to:
+Ocean Conservancy
+Attn: International Coastal Cleanup
+1300 19th Street, NW, 8th Floor
+Washington, DC 20036
+cleanup@oceanconservancy.org
+Trash Free Seas: www.oceanconservancy.org/cleanup
+Be a Green Boater: www.oceanconservancy.org/do-your-part/green-boating
+Sponsors: www.oceanconservancy.org/cleanupsponsors
+NUMBER OF VOLUNTEERS
+WORKING ON THIS CARD:
+adults children
+(under 12)
+SITE INFORMATION:
+Zone or
+County:
+Nearest Crossroad
+or Landmark:
+Land:
+State or
+Province:
+Underwater: Watercraft:
+Cleanup Site
+Name:
+Country:
+=20 =17 =19
+OCEAN
+TRASH
+INDEX
+REPORT
+MOST UNUSUAL ITEM COLLECTED: TYPE OF CLEANUP:
+TM
+®
+DATA
+1: https://oceanconservancy.org/trash-free-seas/international-coastal-cleanup/start-a-cleanup/
+2: http://www.siistibiitsi.
+42
+09 SUUNNITTELUPROSESSI
+Yksi rakennuksen päämääristä on
+levittää tietoa ja opettaa ihmisiä
+merten hyvinvoinnista, roskaongelmasta sekä kierrätyksestä. Opetus
+tapahtuu pitkälti tekemisen kautta,
+mutta tarkoituksenmukaista olisi
+mahdollistaa myös lyhyet järjestön
+vetämät opetustuokiot pienille
+ryhmille. Opetusta voitaisiin
+toteuttaa tilassa säilytettävien materiaalien ja esimerkiksi liitutaulun
+avulla.
+Lajitteluun käytettävä tila toimisi
+samalla myös opetustilana.
+Näin säästetään tilaa ja voidaan
+hyödyntää lajittelupisteiden materiaaleja ja muuta tilasta löytyvää
+opetuksen tukena. Opetustuokioiden aikana voidaan myös käydä
+läpi lajitteluohjeita ja opastaa
+ihmisiä käyttämään tilaa oikein.
+TILALLISET HUOMIOT:
+Tilan muunneltavuus
+Opetustilanteisiin sopiva pohjaratkaisu
+Istumatila
+Ryhmien huomiointi
+Opetusmateriaalien säilytys
+Liitutaulu tmv..
+OPETUS
+Eri toimintoja varten rakennuksesta tulee löytyä riittävä määrä säilytystilaa. Osa siitä tulee olla vain
+järjestön jäsenien ulottuvissa ja osa
+vapaasti käytettävissä.
+Roskien keruuta ja lajittelua varten
+tilassa tulisi säilyttää hanskoja ja
+keräyssäkkejä. Rantasiivouksen
+ajaksi olisi hyvä, jos vapaaehtoiset voisivat laittaa arvotavaransa
+lukkojen taakse sekä ripustaa ylimääräiset päällysvaatteet naulakkoon. Säilytystilassa voidaan pitää
+myös ensiaputarpeita mahdollisia
+haavoja varten. Lisäksi datankeruuseen liittyvät kirjanpitovälineet
+sekä opetusmateriaalit tulisi voida
+sijoittaa niille sopivalle paikalle. TILALLISET HUOMIOT:
+Lukollinen säilytystila
+Käyttötarkoitus > sijoitus
+Kompaktius
+Järjestelmällisyys
+Siisteys
+SÄILYTYS
+Ulkoterassille tai hiekalle tapahtumien yhteydessä sijoitettavia
+”kalusteita” ja tarvikkeita pitäisi
+säilyttää siten, että ne ovat ilman
+liian suurta vaivaa siirrettävissä
+paikoilleen. Tämä voi sisältää esim.
+riippukeinuja, kevyitä penkkejä,
+valkokankaan tai purjekatoksen.
+Myös yksinkertaiset siivousvälineet
+on oltava helposti saatavilla.
+43
+09 SUUNNITTELUPROSESSI
+Rakennus toimii myös Nordic
+Ocean Watchin ja muiden käyttäjien kohtaamispaikkana. Onkin
+toivottavaa, että tilan käytön
+yhteydessä voidaan myös oleskella
+rennosti siihen varatulla alueella.
+Sama alue voi toimia myös esimerkiksi rantasiivoustempausten tapaamispaikkana, jossa jaetaan myös
+välineet ja ohjeet siivousta varten.
+Varatun tilan ei tarvitse sijaita
+sisätiloissa, mutta ainakin osittainen kate on tarpeeseen, jotta tilaa
+voidaan käyttää monipuolisemmin. Sen tulisi suojata auringolta,
+sateelta ja tuulelta, ainakin osittain.
+Käyttömukavuuden kannalta on
+myös perusteltua, että oleskeluun
+varattu tila olisi terassin kaltainen,
+laudoitettu alue hiekkapohjan
+sijaan.
+Alueelle voitaisiin mahdollisuuksien mukaan sijoittaa istuinkalusteita joko irrallisina tai kiinteinä.
+Myös riippukeinuja tai muita
+vastaavia kalusteita voidaan harkita
+käytettäväksi. Nämä tulee voida
+varastoida säilytystiloihin.
+OLESKELU/
+TAPAAMINEN
+TILALLISET HUOMIOT:
+Ulkoilmassa
+Laajennettavissa hiekalle?
+Auringon ja maiseman puolella
+Osittain katettu
+Terassimainen
+Rakennuksessa voidaan järjestää
+rantasiivousten lisäksi myös muunlaisia tapahtumia, kuten elokuvailtoja, workshopeja sekä keskustelutilaisuuksia. Näiden aikana
+voidaan hyödyntää oleskelu- ja
+tapaamisaluetta, mutta suurempia
+henkilömääriä varten on mietittävä
+laajennusmahdollisuuksia.
+Rakennuksen on tarkoitus olla
+pienikokoinen, joten sen massaa ei
+suuria henkilömääriäkään varten
+haluta kasvattaa. Sen sijaan tapahtumille voidaan varata alue rakennuksen ympäristöstä siten, että
+sitä voidaan helposti hyödyntää
+erilaisiin tarkoituksiin.
+Tapahtumien ajaksi voitaisiin
+alueelle tuoda esimerkiksi kevytrakenteisia penkkejä tai vilttejä, sekä
+valkokangas. Alueen valinnassa
+on otettava huomioon auringon
+kulkusuunta ja tuuli, jotta esimerkiksi elokuvaillat saadaan teknisesti
+onnistumaan.
+TAPAHTUMAT
+TILALLISET HUOMIOT:
+Rakennuksen ympäristöön
+Sääolosuhteiden huomiointi
+Varusteiden säilytys
+Käyttömukavuus
+44
+L-roskat (muovi, pantilliset, sekajäte)
+~ 2000 x 500 x 1100
+Jätesäkeissä tmv. Kotelointi.
+M-roskat (lasi, metalli, paperi, kartonki, (bio))
+~ 2500 x 500 x 900
+Jätesäkeissä, laatikoissa tmv. Kotelointi.
+S-roskat (puu, rakennusjäte, SER, vaarallinen jäte)
+~ 1000 x 500 x 2000
+Laatikoissa hyllykössä.
+Lajittelemattomat roskat
+~ 1000 x 500 x 900
+Jätesäkeissä tmv. Kotelointi.
+Erottelija
+~ 1200 x 900 x 900
+Pöytämainen rakenne keskellä tilaa.
+Ympärille työskentelytilaa min. 800.
+Varastointi
+~ 3000 x 1000 x 2000
+Toimintojen alustava tilantarve
+Data
+~ 500 x 500 x 500
+Opetus
+~ 1000 x 300 x 1000
+Säilytystilaa kaapissa. Liitutaulu tmv.
+Säilytys
+~ 1500 x 500 x 2000
+Vesipiste
+Vesiastia ja käsienpesutila.
+Oleskelu/tapaaminen
+~ 15-20 m2
+Katettu/kattamaton terassi ulkona.
+Tapahtumaympäristö
+Luonnonmukainen tila. Ei rakenteita.
+09 SUUNNITTELUPROSESSI
+45
+Käyttäjäpolku #1
+NOW + 6 hengen ryhmä
+Ovien avaus
+Rantasiivouksen valmistelu:
+keräysvälineet ja ohjeet esiin
+Opetustuokion valmistelu:
+opetusmateriaalit esiin ja
+penkkien siistiminen
+Ryhmän tapaaminen
+Arvotavarat sisälle
+Ohjeistus ja keräysvälineiden
+jako
+Rantasiivous
+Siirtyminen lajittelutilaan
+Täydet säkit
+lajittelemattomat-astiaan
+Keräysvälineet paikoilleen
+Opetus materiaalien avulla
+(liitutaulu, boardit, roskat...)
+Toiminnan esittely
+(erottelija, lajittelu, data...)
+Ryhmä istumaan
+Datan keruu + roskien
+dokumentointi
+Lajitellut roskat jätesäkkeihin
+/ tarkempi analysointi
+Roskien lajittelu
+Säkkien tyhjentäminen yksi
+kerrallaan erottelualustalle
+Täysien lajiteltujen säkkien
+siirto varastoon
+Käsien pesu
+Paikkojen siistiminen:
+lattian lakaisu jne
+VALMISTELU RANTASIIVOUS
+Paikkojen tarkistus
+Ovet kiinni
+OPETUSTUOKIO LAJITTELU + DATA LOPETUS
+09 SUUNNITTELUPROSESSI
+Lajittelu
+Varastointi
+Oleskelu/tapaaminen
+Vesipiste
+Erottelija
+Data
+Opetus
+Säilytys
+46
+Käyttäjäpolku #2
+2 surffaria
+Oven avaus avaimella Muiden kävijöiden
+tapaaminen
+ROSKIEN KERUU LAJITTELU
+Paikkojen tarkistus
+Ovet kiinni
+AJANVIETTO LOPETUS
+Roskien keräys surffauksen
+yhteydessä
+Avaimen haku
+kahvilanpitäjältä
+Säkin tyhjennys
+erottelualustalle / roskat
+lajittelemattomat-astiaan
+Lajitellut roskat jätesäkkeihin
+Roskien lajittelu
+Käsien pesu
+Paikkojen siistiminen:
+lattian lakaisu jne
+Ajanvietto, oleskelu,
+auringonotto...
+09 SUUNNITTELUPROSESSI
+Avaimen palautus
+kahvilanpitäjälle
+Lajittelu
+Varastointi
+Oleskelu/tapaaminen
+Vesipiste
+Erottelija
+Data
+Opetus
+Säilytys
+47
+Käyttäjäpolku #3A
+Jäteauto / paikallinen yhteistyökumppani
+VARASTON TYHJENNYS
+Jäteauto tai yhteistyökumppani
+saapuu yhteydenoton tai
+määräaikaistyhjennyksen
+myötä
+Avaa varaston oven
+avaimellaan
+Tyhjentää varastoon sijoitetut
+jäteastiat
+Lukitsee oven
+Käsien pesu
+Käyttäjäpolku #3B
+NOW / paikallinen yhteistyökumppani
+LAJITTELUTILAN TYHJENNYS
+NOW:n jäsen tai
+yhteistyökumppani saapuu
+paikalle autolla
+Avaa oven avaimella
+Ottaa jätteet hyllyltä ja
+kaapista mukaansa
+Sulkee oven
+Ottaa jätesäkit telineistään
+mukaansa
+Vie roskasäkit autoonsa
+Käsien pesu
+09 SUUNNITTELUPROSESSI
+Lajittelu
+Varastointi
+Oleskelu/tapaaminen
+Vesipiste
+Erottelija
+Data
+Opetus
+Säilytys
+48
+09.3 Tila-analyysi
+09 SUUNNITTELUPROSESSI
+TILA TOIMINNOT TAVOITELLUT OMINAISUUDET KEINOT
+LAJITTELUTILA - roskien lajittelu
+- roskien tilapäinen säilytys
+- datan keruu
+- opetus
+- tavaroiden säilytys
+- valoisuus ja sopiva lämpö
+- siisteys ja järjestelmällisyys
+- ei jätekatosmainen
+- muunneltavuus
+- turvallisuus ja käyttäjien huomiointi
+- riittävät aukotukset
+- eheät, helposti puhdistettavat pinnat
+- miellyttävät materiaalit
+- tarkoitukseen suunnitellut kalusteet
+- järkevä, sopivan avara mitoitus
+VARASTO - lajiteltujen roskien säilytys
+- jätteiden pois vienti
+- muu säilytys
+- siisti ja hajuton
+- sopivan kokoinen
+- jäteauton tyhjennettävissä
+- eheät, helposti puhdistettavat pinnat
+- rakennuksen “kylmälle” puolelle
+- järkevä mitoitus
+- standardien mukainen suunnittelu
+TERASSI - oleskelu
+- tapaaminen
+- tapahtumien alustus ja ohjeistus
+- kulku
+- valoisuus
+- säänsuoja (sade, tuuli, aurinko)
+- rentous ja rauhallisuus
+- siisteys ja miellyttävyys
+- sopivat aukotukset ja katteet
+- kulkureittien huomiointi
+- “ulkokalusteet”
+- eheät, helposti puhdistettavat pinnat
+TAPAHTUMAYMPÄRISTÖ - tapahtumat, keskustelutilaisuudet,
+leffaillat, workshopit...
+- oleskelu
+- luonnontilainen
+- tasainen, istuttava alusta
+- monipuolisesti käytettävissä
+- tontin ja rakennuspaikan huomiointi
+- auringon kulun huomiointi
+- sopiva ympäristön valinta
+VESIPISTE - käsien pesu
+- vesi pintojen pyyhintään jne.
+- tilojen ja kulkureittien lähettyvillä
+- räystään kohdalla
+- siisteys ja kuivuus
+- helposti käytettävä
+- toimiva pohja ja kierto
+- ylivuodon hallinta ja johtaminen
+- toimiva tekniikka
+49
+09.4 Tilaohjelma
+09 SUUNNITTELUPROSESSI
+Rakennuksen koko määritellään
+sen toimintojen tilantarpeen
+mukaan. Tavoitteena on kuitenkin
+suunnitella pienikokoinen rakennus
+ja tähdätä 20–25m2
+ kokoluokkaan. Muodoltaan sen tulisi olla
+mahdollisimman vähän maisemaa
+peittävä, kompakti ja yksinkertainen. Todennäköinen pohjan
+muoto onkin suorakulmio, jota
+käytin lähtökohtana pohjaratkaisun
+luonnostelussa.
+Toimintojen ja käyttäjäpolkujen
+määrittelyn jälkeen tutkin rakennuksen mahdollisia pohjaratkaisuja. Pitäen mielessä ympäristön
+olosuhteet pohdin, miten eri
+toiminnot kannattaisi sijoitella.
+Lähtökohtaisesti pohdin siis vaihtoehtoja, joissa käyttö- ja oleskelutilat
+sijaitsisivat auringon ja maiseman
+puolella, kun taas varasto ja
+säilytystilat pohjoisessa, sisämaata
+kohden.
+Rajasin vaihtoehdot yhdeksästä neljään pohjaehdotusten toiminnallisuuden, rakenteen,
+muodon ja kokoluokan perusteella. Jatkokehittelyyn päätyivät vaihtoehdot 1, 4, 5 ja 8.
+Lajittelu
+Varastointi
+Oleskelu/tapaaminen
+Vesipiste
+#3
+#6
+#9
+#1
+#4
+#7
+#2
+#5
+#8
+50
++ toimiva kierto sisäänkäynniltä varastolle
++ varasto samassa massassa
++ oleskelutila etelän puolella
++ vesipisteen sijoitus
++ suojaisa terassi
+- sisäänkäynti piilossa
+- katettu oleskelutila pitkulainen
+- kierto rannalta sisälle oleskelutilan kautta
+#1
++ selkeä, kutsuva sisäänkäynti
++ rauhallinen oleskelutila
+- hankala kierto sisäänkäynniltä varastolle
+- varasto erillisenä massana
+- oleskelutila varjon puolella
+- pitkulainen muoto
++ varasto samassa massassa
++ oleskelutila etelän puolella
+- sisäänkäynti piilossa
+- pitkähkö kierto sisäänkäynniltä varastolle
+- katettu oleskelutila pitkulainen
+- pitkulainen muoto
+#4
++ toimiva kierto sisäänkäynniltä varastolle
++ katettu oleskelutila ei kierron tiellä
++ oleskelutila etelän puolella
+- sisäänkäynti piilossa
+- varasto erillisenä massana
+- katettu oleskelutila pienikokoinen
+#5 #8
+Lajittelu
+Varastointi
+Oleskelu/tapaaminen
+Vesipiste
+Valoa läpäisevät pinnat
+Tarkemman analysoinnin perusteella valitsin kehittelyyn pohjan numero 5.
+09 SUUNNITTELUPROSESSI
+51
+Lajitteluhuoneen tilaohjelma
+Rakennuksen tilaohjelman
+valintaan vaikutti myös lajitteluhuoneen luonnostelu, jota tein
+samanaikaisesti tilaohjelmien
+kanssa. Pyrin luonnostelussani
+havainnollistamaan alustavaa
+toimintojen asettelua käyttäjäpolkujen pohjalta sekä miettimään
+toimintojen mitoitusta ja massoittelua toisiinsa nähden. Apuna tässä
+toimi aiemmin määritelty alustava
+tilantarve, joka antoi summittaiset raamit luonnostelulle. Lisäksi
+mietin lajitteluhuoneen kannalta
+järkeviä aukotuksia sekä luonnonvalon pääsyä tilaan.
+Lajittelemattomat
+L-roskat
+M-roskat
+S-roskat
+Erottelija
+Säilytys
+Opetus
+Jatkokehittelyyn valitun tilaohjelman massoitteluluonnos. Data
+09 SUUNNITTELUPROSESSI
+52
+Ensimmäiset lajitteluhuoneen
+luonnokset tehtyäni havahduin
+tilan suuruuteen. Tavoitteeni oli
+saavuttaa 20 m
+2
+ kerrosala lajittelu
+-
+huone ja varasto yhteenlaskettuna,
+mikä ei luonnosten pohjalta olisi
+ollut mahdollista. Tutkin määritte
+-
+lemiäni tilantarpeita tarkemmin ja
+totesin, että tilan keskiosaan sijoit
+-
+tuvaa erottelijaa ja sen ympäröivää
+tilaa muokkaamalla voin saavuttaa
+sekä pienemmän neliömäärän että
+toivotun tilantarpeen eri toimin
+-
+noille.
+Päädyin siten siirtämään erotteli
+-
+jan osittain kalusteseinän sisään,
+mistä se voidaan tarvittaessa
+myös siirtää keskemmälle tilaa
+tai lähemmäs lajittelupisteitä, jos
+tarpeellista. Samalla saavutettiin
+myös paremmin määriteltyjä
+tilantarpeita vastaavat kalustekoot
+sekä neliötehokkaampi lattiatila.
+Muutosten avulla tilan neliömäärä
+putosi luonnostasolla lähes 20
+neliömetristä 12 neliömetriin.
+~ 20 m
+2 ~ 12 m
+2
+09 SUUNNITTELUPROSESSI
+53
+09.5 Kalusteet
+09 SUUNNITTELUPROSESSI
+Lajitteluhuoneen kalusteiden tulisi
+olla yksinkertaisesti paikan päällä
+rakennettavia. Runkomateriaalina
+voidaan käyttää kertopuuta ja levymateriaalina vaneria.
+Viihtyvyyden ja siisteyden vuoksi
+lajittelupisteet koteloidaan ja säilytettävät tavarat sijoitetaan ovien
+taakse. Osa ovista voidaan myös
+lukita, jolloin ainoastaan NOW:n
+jäsenillä on mahdollisuus päästä
+tavaroihin käsiksi.
+Suunnitelma tehdään joustavaksi ja
+muuttuviin tarpeisiin soveltuvaksi.
+Lopulliset tarpeet selviävät paikan
+päällä, jolloin eri roskatyyppien ja
+lajittelupisteiden määrää voidaan
+muokata tarpeiden mukaan.
+M-roskat
+(lasi, metalli, paperi, kartonki, (bio))
+Lajittelemattomat
+L-roskat
+(muovi, pantilliset, sekajäte)
+Arvotavarat, takit
+& siivousvälineet
+Keräystarvikkeet, EA,
+opetusmateriaalit &
+vaarallinen jäte Data, lajitteluohjeet,
+vaaka & jätesäkit
+S-roskat
+(puu, rakennusjäte, SER &
+yksittäiset seurattavat esim. pillit)
+54
+Kalusteseinälle tehdään erinäisiä
+säilytystarpeita varten niin lukollisia kuin avoimia kaappeja sekä
+hyllykkö vähäisempiä roskia varten.
+Lukollisissa kaapeissa säilytetään
+mm. keräysvälineitä, opetusmateriaaleja sekä vaarallisia jätteitä.
+Muissa kaapeissa on tilaa rantasiivouksen ajaksi sinne laitettaville
+päällysvaatteille ja arvotavaroille,
+lajitteluohjeille, datankeruu-materiaaleille sekä siivousvälineille.
+Hyllyssä voidaan säilyttää mm.
+kaatopaikalle kuljetettavia roskia
+sekä yksittäisesti seurattavia roskatyyppejä (esim. pillejä) laatikoissa ja
+erilaisissa purkeissa.
+KALUSTESEINÄ
+Lajittelupisteet koteloidaan siten,
+että niiden sisällä olevat jätesäkkitelineet saadaan helposti peittoon.
+Tällä pyritään saavuttamaan
+siisti ja yhtenäinen tila, jossa on
+mukava työskennellä. Kotelointeja
+käytetään pääosin niiden yläpintaan tehtyjen luukkujen kautta,
+mutta jätesäkkiä vaihdettaessa
+käytetään etupinnan ovea. Koteloinnit rakennetaan rungoiltaan
+niin vahvoiksi, että ne kestävät
+myös istumista, jolloin niitä
+voidaan käyttää myös korkeina
+penkkeinä esimerkiksi opetustilanteissa.
+KOTELOINNIT
+Tilan keskiosaan sijoitetaan roskien
+lajittelua ja tarkempaa tarkastelua varten rakennettu erottelija.
+Kolmeen päällekkäin asetettuun
+raamiin asennetaan verkko, jonka
+silmäkoko pienenee ylhäältä alas.
+Näiden avulla voidaan analysoida
+roskien kokoluokkia ja lajitella
+tarkasti myös pienemmät roskat.
+Raamit olisi hyvä suunnitella
+pöydästä irrotettaviksi, jolloin
+roskiin päästään helpommin
+käsiksi. Myös tasaisesta pöytälevystä voisi olla hyötyä, jotta erottelijaa voidaan käyttää normaalina
+pöytätasona.
+EROTTELIJA
+09 SUUNNITTELUPROSESSI
+55
+09.6 Rakennuksen muotokieli ja rakenne
+päätös tilaohjelmasta
++ yksinkertainen
+(pulpettikatto & suorat seinät)
++ sopivan avoin
++ mieleenpainuva muotokieli
+Rakennuksen pohjaratkaisujen
+ohella mietin myös koko rakennuksen muotokieltä. Tavoitteideni
+mukaisesti pyrin yksinkertaiseen
+rakenteeseen, joka olisi kuitenkin
+mielenkiintoa herättävä ja tyylikäs.
+Luonnostelin lukuisia erilaisia vaihtoehtoja, joita lähdin tutkimaan
+niiden toimivuuden ja kiinnostavuuden kautta.
+Tilaohjelman kehittyessä kehitin
+luonnoksia pidemmälle ja pohdin
+myös rakenteiden järkevyyttä ja
+toteutettavuutta. Rajasin pois
+vaihtoehdot, joissa oli tilan ominaisuuksia heikentäviä tekijöitä
+tai perusteluja uupuvia ratkaisuja.
+Päädyin lopulta kantavilta rakenteiltaan yksinkertaiseen ratkaisuun, jonka kokonaisilmeessä on
+kuitenkin nuorekasta kulmikkuutta
+ja tyylikkyyttä.
+09 SUUNNITTELUPROSESSI
+56
+Rakenne
+09 SUUNNITTELUPROSESSI
+Rakennuksen perustus tehdään
+ruuvipaaluja käyttäen. Se on hyvin
+pienrakennuksille sopiva perustusmenetelmä, joka voidaan asentaa
+käsin tai koneellisesti. Ruuvipaalu
+ei vaadi mittavia maansiirtotöitä,
+ja sen vaikutus rakennuspaikan
+luontoon on minimaalinen. Se
+soveltuu käytettäväksi hiekka- ja
+savimaastoon, sekä koneellisesti
+myös moreenipohjaan. Ruuvipaalu on kustannustehokas vaihtoehto, joka voidaan myös käyttää
+uudelleen tarpeen tullen.
+(Paalupiste 2018)
+PERUSTUS
+Lattia koostuu 50x150 ja 100x150
+puutavarasta vaadittavasta kantavuudesta riippuen. Mitoitus
+tehdään yleisiä käytäntöjä noudattaen. Palkit asennetaan ruuvipaalujen päälle U-kenkien avulla.
+Lattiamateriaalina käytettävät
+levyt ja laudat asennetaan suoraan
+palkkien päälle.
+LATTIARAKENNE
+Rakennus tehdään yksinkertaisena,
+eristämättömänä puurunkorakenteena. Rungossa käytetään
+50x100 puutavaraa. Suunnitelmassa käytetään puurakentamisen
+tavanomaisia mitoitusohjeita ja se
+pyritään tehdä mahdollisimman
+toteutuskelpoisesta näkökulmasta.
+Ulkoverhous kiinnitetään runkotolppiin kiinnitettyjen kiinnityslautojen avulla ja sisäverhous asennetaan suoraan tolppien pintaan.
+RUNKO
+Katossa käytetään 50x200
+palkkeja, mitkä asennetaan
+kantavien seinärunkojen varaan.
+Mitoitus tehdään yleisiä käytäntöjä noudattaen. Rungossa
+olevien aukkojen kohdalla kantavuutta parannetaan ylimääräisten
+palkkien avulla. Kattovaneri ja
+huopa asennetaan suoraan kattopalkkien päälle. Alapohja verhoillaan niin ulko- kuin sisätiloissakin
+levy- ja lautamateriaalilla.
+KATTORAKENNE
+57
+09.7 Materiaalit ja pintakäsittelyt
+09 SUUNNITTELUPROSESSI
+Rakennuksen ulkoverhouksessa
+käytetään puuta. Harkittuani
+esim. vaneria sekä lämpökäsiteltyä
+puuta, päädyin lopulta käsittelemättömään puutavaraan, joka
+on edullista ja omaa pienemmän
+hiilijalanjäljen kuin muut vaihtoehdot. Oikein käsiteltynä se voidaan
+rakennuksen elinkaaren päättyessä
+kierrättää, polttaa tai kompostoida.
+Päädyin käyttämään suunnitelmassani muotoon höylättyä, täyspontillista ulkoverhouslautaa UTS-profiililla, joka on eleettömän tyylikäs
+tiukkoine kulmineen. 120 mm
+levyisenä ja pystyyn verhoiltuna
+saadaan aikaan nuorekas, sopivan
+perinteikäs ilme rakennukselle.
+ULKOVERHOUS
+Käsittelemätön, hienosahattu 28x120
+ulkoverhouspaneeli UTS-profiililla
+Huttunen-Lipasti-Pakkanen Arkkitehtien
+suunnittelemassa Villa Mecklinissä on käytetty
+UTS-ulkoverhouspaneelia.https://h-l-p.fi/villa-mecklin/
+58
+Rakennuksen pintakäsittelyn tulee
+olla ympäristöystävällinen ja antaa
+käsittelemättömälle puulle kestävä
+suoja. Sen tulee kestää saaristo-olosuhteissa ja olla helposti huollettavissa. Aineen tulisi olla myös
+hinnaltaan huokeaa. Lisäksi sen ei
+tulisi muuttaa käsittelemättömän
+puun kierrätysmahdollisuuksia
+rakennuksen elinkaaren päättyessä.
+Tutkittuani eri pintakäsittelytuotteita, rajasin vaihtoehtoni kolmeen.
+Konseptin jatkokehittelyn kannalta
+kaikkia kolmea voidaan pitää mahdollisina vaihtoehtoina, mutta tässä
+tapauksessa valitsin käytettäväksi
+Organowood-puunsuojakäsittelyn,
+mikä luo puulle kauniin, luonnollisen harmaan pinnan, joka kestää
+säätä useiden vuosien ajan.
+PINTAKÄSITTELY
+PUNAMULTA
++ perinteikäs, alueelle sopiva
++ näkyvä ja helposti lähestyttävä
++ pirteä ja nuorekas
++ moderni muotokieli + perinne
+- ei istu luontomaisemaan
+- mahdollisesti liiankin perinteikäs
+- lyhyehkö huoltoväli (n. 2-3 vuotta)
+ORGANOWOOD
++ kestävä, luonnonmukainen suoja
++ istuu luontoon
++ eleettömän tyylikäs
++ neutraali ja helposti lähestyttävä
++ pitkä huoltoväli (n. 5 vuotta)
+- ei välttämättä mieluunpainuvin
+TERVA
++ perinteikäs, kulttuuriympäristöön sopiva
++ istuu luontoon
++ näyttävän tyylikäs
++ pitkä huoltoväli (n. 5 vuotta)
+- voi näyttää tumman synkältä
+- ei kovin helposti lähestyttävä
+5: https://fi.pinterest.com/pin/547046685971950791/ 6: https://tjarlek.se/en/
+1: http://www.hemnethemmet.se/ 2: http://naturalbuilding.fi/referenssit/luonnonmukainen-remontti/
+3: http://organowood.com/bilder/produktbilder/ 4: http://organowood.com/bilder/produktbilder/
+09 SUUNNITTELUPROSESSI
+59
+Terassi rakennetaan käsittelemättö
+-
+mästä terassilaudasta ja käsitellään
+Organowoodilla. Sen on tarkoitus
+värinsä puolesta istua ympäris
+-
+töönsä ja mukailla maastonmuo
+-
+toja sulautuen portaittaisesti kohti
+maaperän pintaa.
+TERASSI
+Rakennuksen kattomateriaalina
+käytetään huopaa. Se on helposti
+asennettavaa, edullista ja pien
+-
+rakennuksiin sopivaa. Vaikka se
+ei olekaan ympäristöystävällisin
+kattomateriaali, on sen käyttö
+tämän kokoluokan rakennuksessa
+perusteltua. Markkinoilla on myös
+kattohuopia, jotka edistävät ilman
+haitallisten typenoksidien hajoa
+-
+mista ja siten ilman laatua.
+KATTO
+1: http://organowood.com/bilder/produktbilder/
+2: https://www.byggmax.fi/katot/kattohuovat/kattohuopa-p17272
+09 SUUNNITTELUPROSESSI
+60
+Tein rakennuksen aukotuksien
+suhteen valinnan käyttää muovia
+lasin sijaan. Vaikka muovi onkin
+ristiriitainen materiaalivalinta
+järjestön arvot huomioon ottaen,
+puolsivat monet sen ominaisuudet
+sen käyttöä.
+Polykarbonaatista valmistetut
+kennolevyt ovat yleinen materiaali
+esimerkiksi kasvihuoneissa. Se on
+iskunkestävä, lämpötilanvaihte
+-
+luita sietävä ja lämpöä eristävä
+materiaali. Sen valonläpäisevyys
+on erinomainen ja se hajottaa
+auringonvaloa eikä vaadi erillistä
+varjostamista. Lisäksi se on helposti
+työstettävää ja kevyttä sekä asen
+-
+nettavissa ilman erityistyökaluja.
+(Vink 2018)
+AUKOTUKSET
+Kennolevyjen valinnassa on
+otettava huomioon laadulliset
+seikat. Polykarbonaatin tulee olla
+laadukasta ja UV-suojattua, jotta
+se kestää mahdollisimman pitkään
+muuttumattomana. Levyn pak
+-
+suudeksi valitsin 16mm, jolloin se
+kestää suuremmatkin painolastit ja
+iskut. Rakennuksessa voidaan mah
+-
+dollisesti käyttää myös kierrätettyjä
+kennolevyjä, mikä olisi järjestön
+kannalta ihanteellisempaa.
+2: https://architizer.com/projects/light-sheds/
+1: https://www.stark-suomi.fi/fi/kennolevy-northlite-3-9-m-kirkas
+09 SUUNNITTELUPROSESSI
+61
+Rakennuksen sisäpinnat verhoil
+-
+laan sen siisteyden lisäämiseksi,
+tuulen eristämiseksi ja rakenteen
+jäykistämiseksi. Liian vajamaista
+tunnelmaa välttääkseni valitsin
+rakennuksen sisäverhoukseen käy
+-
+tettäväksi 15mm koivuvaneria. Sen
+avulla saadaan aikaiseksi nuorekas
+tunnelma rakennuksen sisälle sekä
+sopiva kontrasti sisä- ja ulkotilojen
+välille. Vaneri on nopeasti asen
+-
+nettavissa ja siihen saadaan myös
+helposti kiinnitettyä esimerkiksi
+koukkuja tai hyllyjä tarpeen tullen.
+SISÄVERHOUS
+Valitsin lajitteluhuoneen lattiaan
+käytettäväksi mustan, viiraku
+-
+vioidun lattiavanerin 24mm
+paksuisena. Alun perin tilaan
+kaavailemani lattialaudoitus olisi
+ollut vaikeammin putsattavissa ja
+kärsinyt kosteudesta todennäköi
+-
+semmin. Valittu fenolipinnoitettu
+filmivaneri kestää kovaa kulutusta
+sekä kosteutta ja on myös helposti
+puhdistettavissa. Levytavarana se
+on myös helppo ja nopea asentaa.
+Filmivaneria käytetään myös
+varaston lattia- ja seinäpinnoissa.
+LATTIA
+plywood-0-4mm-thick-155cm-x-155cm-61-x-61/
+1: http://www.thewoodveneerhub.co.uk/birch-flexible12x1500x3000-mm-4-5-m%C2%B2
+2: https://www.stark-suomi.fi/fi/filmivaneri09 SUUNNITTELUPROSESSI
+62
+09.8	 Graafinen ilme ja opasteet
+09 SUUNNITTELUPROSESSI
+Rakennukselle suunniteltu
+graafinen ilme tulisi näkyä niin
+rakennuksen ulko- kuin sisäpuo
+-
+lellakin. Sen tulisi toimia myös
+rakennusta ja sen toimintaa
+mainostavissa materiaaleissa sekä
+esimerkiksi sosiaalisessa mediassa
+julkaistavissa jutuissa. Graafisen
+ilmeen on tarkoitus tukea raken
+-
+nuksen tunnettuutta ja tehdä sen
+toiminnasta näkyvää ja mieleen
+-
+painuvaa. Ilmeen tulisi myös sopia
+saumattomasti järjestön grafii
+-
+koihin ja viestittää rakennuksen
+olevan osa sen toimintaa.
+Ulkopuolelta katsottuna raken
+-
+nuksen tulee olla mielenkiintoa
+herättävä, kutsuva ja ymmär
+-
+rettävä. Rakennuksen ulkopin
+-
+noilla tulisi lukea rakennuksen
+tai järjestön nimi siten, että se on
+nopeasti tunnistettavissa. Tavoitel
+-
+tavaa on, että ohikulkija ymmär
+-
+täisi mahdollisimman helposti
+mistä mikä rakennuksen käyttötar
+-
+koitus on, jotta hän uskaltautuisi
+käyttämään sitä itsekin.
+Esimerkkejä tyylikkäistä, tekniikkansa
+puolesta mahdollisesti Løankin
+seinään sopivista julkisivuteksteistä.
+1: https://www.behance.net/gallery/32489805/PARTIDESIGN-MOSIA
+2: http://www.fabioongaratodesign.com.au/home/medibank
+3: https://www.behance.net/gallery/34959363/Bauhaus
+63
+Opasteissa ja muissa materiaa
+-
+leissa tulisi välittyä NOW:n rento,
+nuorekas tunnelma. Typografian
+tulisi olla selkeää ja yksinkertaista,
+mutta samaan aikaan mieleen
+-
+painuvaa. Helppo luettavuus ja
+symbolien käyttö olisi suotavaa,
+jotta toiminta tehdään käyttäjille
+mahdollisimman yksinkertaiseksi.
+Opasteiden tulisi olla helposti ja
+edullisesti tehtävissä. Mahdollisten
+järjestelymuutosten vuoksi kierrä
+-
+tystä helpottavia kylttejä on pystyt
+-
+tävä vaihtelemaan paikasta toiseen
+helposti. Opasteiden on myös kes
+-
+tettävä lämpötilan vaihteluja sekä
+kosteutta, mikä täytyy huomioida
+materiaaleja valittaessa.
+Sarita Walshin värikkäissä kierrätysjulisteissa
+on yksinkertainen, mieleenpainuva tyyli.
+Eri toiminnoille tulisi suunn itella sitä kuvaava,
+yksinkertainen symboli, jota voidaan käyttää kylteissä.
+Esimerkkejä Nordic Ocean Watch
+Norwayn Løa-grafiikoista.
+1: http://nordicoceanwatch.no/en/projects/tavaha-loa/
+2: https://iconcrafts.com/icons
+3: http://www.saritawalsh.com/design/
+09 SUUNNITTELUPROSESSI
+64
+SUUNNITELMA
+10
+65
+10.1 Yleissuunnitelma
+10 SUUNNITELMA
+Lopullinen suunnitelma soveltuu
+monenlaisiin maastoihin ja rakennusta kääntämällä tai peilaamalla
+se voidaan istuttaa useisiin eri
+ympäristöihin. Sen kaksi sivua ovat
+pitkälti avoinna auringon paisteelle
+ja valolle, ja toiset kaksi suljetumpia, antaen suojaa käyttötiloille.
+Rakennus koostuu neljästä eri
+tilasta; lajittelutilasta, varastosta,
+terassista sekä tapahtuma-alueesta.
+Sisätilat ovat tarkoitettu pääasiallista funktiota, roskien lajittelua
+ja niiden säilytystä varten. Suuri
+terassi kutsuu käyttäjät myös viettämään aikaa rakennuksen äärellä,
+tukien siten projektin sosiaalisia
+tavoitteita. Luonnontilainen tapahtuma-alue on katettavissa purjekatoksen avulla ja sitä hyödynnetään
+tilaisuuksien aikana suurempien
+ihmismäärien läsnä ollessa.
+Suunnitelma on tehty sen
+ajatuksen pohjalta, että lukituksesta
+vastaa paikallinen yhteistyökumppani, mikä mahdollistaa pitkätkin
+aukioloajat.
+10 SUUNNITELMA
+LAJITTELUTILA
+VARASTO
+TAPAHTUMA-ALUE
+TERASSI
+66
+10.2 Rakennesuunnitelma
+10 SUUNNITELMA
+Løa on suunniteltu yksinkertaisia
+puurakentamisen perusteita nou
+-
+dattaen. Runko rakentuu perintei
+-
+sestä ”kakkosnelosesta” ja kuten
+muutkin valitut rakennusmateriaa
+-
+lit, se on rautakauppojen hyllyiltä
+saatavaa bulkkitavaraa.
+Rakennesuunnitelma on pyritty
+tekemään helppoa toteutusta
+painottaen siten, että se voitai
+-
+siin rakentaa pitkälti talkoovoi
+-
+min paikan päällä. Materiaaleja
+voidaan työstää luonnon äärellä ja
+rakentaminen onnistuu perinteisillä
+työkaluilla ja laitteilla.
+Lajitteluhuone: 11,9 m
+2
+Varasto: 4,2 m
+2
+Kerrosala: 19,3 m
+2
+Kokonaispinta-ala: 47,5 m
+2
+HUOM. Käytävä läpi rakennesuunnitelijan kanssa.
+A
+D1
+VARASTO 4,2 m
+2
+LAJITTELUTILA 11,9 m
+2
+Vesipiste
+2-osainen liukuovi
++ 0.376
+67
+pohjoinen itä
+etelä länsi
+JULKISIVUT
+HUOM. Käytävä läpi rakennesuunnitelijan kanssa.
+10 SUUNNITELMA
+L ØA
+68
+RAKENNELEIKKAUS A
+± 0.376
++ 2.753
++ 2.476
++ 3.644
+HUOM. Käytävä läpi rakennesuunnitelijan kanssa.
+10 SUUNNITELMA
+69
+RAKENNEDETALJI D1
+Ruuvipaalu Ø89, U-kengällä
+Kantava lattiarakenne 100x150
+Pieneläinverkko
+Kiinnityslauta 22x100
+Pystyverhouslauta 28x120, UTS-profiili
+Alasidepuu 50x100
+Yläsidepuu 50x100
+Kiila
+Kattopalkki 50x200
+Kattovaneri 19mm & kattohuopa
+HUOM. Käytävä läpi rakennesuunnitelijan kanssa.
+10 SUUNNITELMA
+Runkotolppa 50x100
+70
+10.3 Tilasuunnitelma
+Løa on suunniteltu joustavaksi,
+tilanteen ja sijoitusympäristön
+mukaan muokattavaksi kokonai
+-
+suudeksi. Lajittelutilan kalusteet
+on pyritty suunnittelemaan siten,
+että ne palvelevat mahdollisimman
+monessa paikassa, yleiset tarpeet
+huomioiden. Tavaroiden tarkat
+sijoitukset määritellään käytön
+mukaan ja niitä voidaan muokata
+tarpeen tulleen.
+Varasto on mitoitettu standar
+-
+dikokoisia jäteastioita varten,
+joiden tyhjennyksen pohjoispuolen
+ramppi mahdollistaa. Samalla
+puolen rakennusta on sijoitet
+-
+tuna myös vesipiste sekä jäteastia
+lajittelemattomia roskia varten,
+mitä voidaan käyttää rakennuksen
+ollessa suljettu.
+Terassialue on paikka sosiaaliselle
+kanssakäymiselle ja oleskelulle.
+Kalusteina voidaan käyttää esimer
+-
+kiksi purjekankaasta valmistettuja
+raheja. Ne voidaan kiinnittää
+kettingeillä varkauksien estämiseksi
+ja säilöä varastossa talven yli.
+140 L 240 L 300 L 300 L 660 L
+Vesipiste
+Roskat
+2-osainen liukuovi
+10 SUUNNITELMA
+71
+TILAN TOIMINNALLISUUS 1/2
+10 SUUNNITELMA LAJITTELUTILA
+- roskien lajittelu
+- roskien säilytys
+- tavaroiden säilytys
+- datan keruu
+- opetus
+TERASSI
+- tapaamispaikka
+- oleskelu (siirreltäviä
+purjekankaisia raheja)
+- lajitteluhuoneen
+jatke
+VESIPISTE
+72
+10 SUUNNITELMA
+TILAN TOIMINNALLISUUS 2/2
+ROSKAT
+- lajittelemattomille
+roskille
+- tilan ollessa lukittu
+VARASTO
+- täysien säkkien säilytys
+- jätehuollon
+huolehdittavat jätteet
+- ulkona käytettävien
+tavaroiden säilytys
+TAPAHTUMA-ALUE
+- tilaisuudet
+(leffaillat, paneelit...)
+- workshopit
+- rakennuksen jatke
+73
+Roskien lajittelua varten tehdyt
+koteloinnit toimivat yläpinnasta
+aukeavien luukkujen avulla.
+Koteloinnit on mitoitettu yksinkertaisten 500x500x900–kokoisten
+jätesäkkitelineiden mukaan.
+Telineet voidaan asettaa paikoilleen etupinnan ovia käyttämällä,
+joten ne ovat helposti tyhjennettävissä jätesäkkien täytyttyä. Lajittelemattomien roskien kotelointia
+käytetään vain ylhäältä käsin, sillä
+sinne sijoitetaan rannalta kerätyt
+roskat pienemmissä pusseissa
+tai keräyssäkeissä. Kotelointeja
+voidaan käyttää myös korkeina
+penkkeinä opetustilanteissa.
+KOTELOINNIT
+10.4 Kalusteet
+1200
+1000
+39 1101 60
+1200
+21 66 847 66
+1000
+39 1101 60
+66 467 66 21
+1200
+620
+1200
+66 554
+620
+LAJITTELEMATTOMAT ROSKAT
+Kotelointien materiaalit:
+Runko: Kertopuu 39x66
+Pinnat: KoskiDecor Eco -vaneri, 21 mm, t.sininen RAL 5010
+Vetimet: Vanhoista köysistä
+Päältä Runko päältä
+Edestä Runko edestä
+HUOM. Käytävä läpi puusepän kanssa.
+10 SUUNNITELMA
+74
+L-ROSKAT
+21 600 571 571 647
+2410
+21 950
+1000
+29
+21
+39
+60 550 21 21 1208 39
+2410
+66 847 66 21
+1000
+550
+60 550 21 550 21 1169 39
+2410
+66 533 21
+620
+21
+39
+620 571 571 648
+2410
+66 554
+620
+Päältä Runko päältä
+Edestä Runko edestä
+HUOM. Käytävä läpi puusepän kanssa.
+10 SUUNNITELMA
+75
+M-ROSKAT
+609 571 571 571 608
+2930
+21 950 29
+1000
+39 559 21 550 21 550 21 550 21 559 39
+2930
+21 66 847 66
+1000
+39 559 21 550 21 550 21 550 21 559 39
+2930
+66 533 21
+620
+609 571 571 608
+2930
+66 554
+620
+571
+Päältä Runko päältä
+Edestä Runko edestä
+HUOM. Käytävä läpi puusepän kanssa.
+10 SUUNNITELMA
+76
+KALUSTESEINÄ
+S-roskat, säilytys & data
+579 521 521 500 500 1549
+316 350 350 450 529
+1100 1000
+2100
+4170
+21
+2621 1549
+4170
+450 21
+471
+Päältä
+Edestä
+Materiaalit:
+Runko ja pinnat:
+Koivuvaneri 21mm
+Ovet: Tikkurila Liitu-maali, sävytetty
+Kalusteseinä koostuu hyllyköstä
+sekä ovellisista kaapeista. Hylly
+-
+kössä säilytetään vähäisempiä,
+esim. kaatopaikalle kuljetettavia
+roskia laatikoissa tai purkeissa.
+Sinne voidaan myös kerätä roska
+-
+tyyppejä, joita halutaan seurata
+erityisesti (esim. pillejä). Lukolli
+-
+sissa kaapeissa säilytetään mm.
+keräysvälineitä, opetusmateriaaleja
+sekä vaarallisia jätteitä. Avoimissa
+kaapeissa on tilaa rantasiivouksen
+ajaksi sinne laitettaville päällysvaat
+-
+teille ja arvotavaroille, lajitteluoh
+-
+jeille, datankeruu-materiaaleille
+sekä siivousvälineille.
+HUOM. Käytävä läpi puusepän kanssa.
+10 SUUNNITELMA
+77
+537 1507
+4170
+450 21
+471
+1000 1000
+21
+537 1000 1000 1507
+316 350 350 450 443
+2100
+4170
+65
+21
+Runko päältä
+Runko edestä HUOM. Käytävä läpi puusepän kanssa.
+10 SUUNNITELMA
+78
+Roskien lajittelua ja analysointia
+varten tehty erottelija koostuu
+kolmesta päällekkäin asetettavasta raamista, joihin asetettujen
+verkkojen silmäkoko pienenee
+ylhäältä alaspäin. Raamit voidaan
+liu’uttaa pois rungosta tarpeen
+vaatiessa. Lisäksi päälle on asetettavissa normaalina työtasona toimiva
+vanerilevy. Erottelija liikkuu
+kalustepyörillä, joten sitä voidaan
+liikuttaa tilassa vapaasti.
+EROTTELIJA
+111 249 90 249 29 90 66 66
+66 884
+950
+1200
+1200
+900
+Päältä
+Edestä
+Havainnekuva
+Materiaalit:
+Runko: Höylätty puutavara 45x45
+Pöytätaso: KoskiDecor Eco -vaneri, 21 mm, t.sininen RAL 5010
+Kalustepyörät Ø50
+3 kpl 1100x900 raameja, joissa verkot eri silmäkoilla
+HUOM. Käytävä läpi puusepän kanssa.
+10 SUUNNITELMA
+79
+10.5 Materiaalit
+RAL 5011
+RGB 26 / 43 / 60
+Rakennuksen materiaalit ja pinta
+-
+käsittelyt on valittu ekologiset peri
+-
+aatteet huomioon ottaen. Valitut
+tuotteet ovat paikallisesti hankit
+-
+tavia ja mahdollisuuksien mukaan
+rakentamiseen voidaan käyttää
+myös kierrätettyä tavaraa.
+Pintakäsittelyt uusimalla tuotteet
+saadaan kestämään pitkän aikaa
+ja rakennuksen elinkaaren tullessa
+päätökseensä materiaalit ovat
+kierrätettävissä ja lopulta hyödyn
+-
+nettävissä energiana. Kierrätystä
+silmällä pitäen materiaalien pinnat
+tulee pitää mahdollisimman eheinä
+ja esimerkiksi levyjen asennuksessa
+tulee käyttää ruuveja naulojen
+sijaan.
+Muun muassa vetimissä ja ulkona
+käytettävissä varusteissa voidaan
+käyttää kierrätettyjä materiaaleja,
+kuten purjekangasta ja vanhoja
+köysiä.
+1 Organowood-puunsuojakäsittely
+julkisivuverhoilu & terassi
+2 Kirkas kennolevy, 16mm
+aukotukset
+3 Kierrätettyjä köysiä, 8mm
+kalusteiden vetimet
+4 Kierrätetty purjekangas
+terassikalusteet, tapahtuma-alueen
+kate & screen
+5 Koivuvaneri, 21mm,
+käsitelty värittömällä puuvahalla
+lajitteluhuoneen seinä- ja kattoverhous
+6 KoskiDecor Eco -vaneri, 21 mm,
+Tummansininen RAL 5010
+lajitteluhuoneen kalusteet
+7 Tikkurila Liitu-maali, sävytetty
+NCS S 7020-R80B
+kaappien ovet
+8 Filmivaneri 24 mm, viirakuvioitu, musta
+lajitteluhuoneen lattia,
+varaston seinä- ja lattiapinnat
+NCS S 7020-R80B
+RGB 3 / 21 / 49 1
+2
+4
+5
+6
+7
+1: http://organowood.com/bilder/produktbilder/
+2: https://www.dezeen.com/2017/08/17/governors-island-welcome-centre-office-iii-new-york/
+apsltd.comhtml
+3: http://www.
+bolinasail.it/en
+4: https://www.
+5: http://craftsmenhardwoods.com
+6: https://koskisen.fi/tuotteet/koskidecor-eco/
+com/wiremesh-plywood/
+8: http://www.kontrplakshop.
+8
+10 SUUNNITELMA
+3
+80
+10.6	 Graafinen ilme ja opasteet
+Ehdotettu graafinen ilme on
+yksinkertainen ja selkeä. Logo on
+helposti käytettävissä erilaisissa
+materiaaleissa ja sitä voidaan
+käyttää niin suuressa kuin pienessäkin skaalassa. Julkisivun lisäksi
+sitä voitaisiin mahdollisuuksien
+mukaan käyttää mm. keräyssäkeissä ja terassin purjekankaisissa
+raheissa. Muihin teksteihin valittua
+Europa-fonttia voidaan käyttää
+rakennuksen opasteissa ja ohjekylteissä. Värimaailman päädyin
+pitämään suppeana yhtenäisen
+ilmeen aikaansaamiseksi ja kustannusten vähentämiseksi.
+Opasteet teetetään säänkestäville
+materiaaleille ja ne kiinnitetään
+seinäpinnoille ruuvien avulla. Lajittelupisteiden materiaali-kyltit ovat
+siirreltävissä paikasta toiseen joustavuuden lisäämiseksi. Kaapeissa
+säilytettävät tarkemmat lajitteluohjeistukset sekä NOW:n muut
+infomateriaalit taitetaan samaa
+graafista ilmettä käyttäen.
+Esimerkkejä logon käytöstä rakennuksen
+julkisivussa ja roskien keräyssäkeissä.
+10 SUUNNITELMA
+L ØA
+L ØA
+Graafisessa ilmeessä käytettävät värit
+RGB 3 / 21 / 49
+RGB 41 / 82 / 150
+RGB 240 /244 / 238
+RGB 236 / 78 / 30
+81
+paperi
+papper
+kartonki
+kartong
+metalli
+metal
+10 SUUNNITELMA
+Logo: Futura, medium
+L ØA
+Otsikko: Europa, bold
+sekajäte
+Leipäteksti: Europa, light
+blandavfall
+Esimerkki lajittelupisteiden
+materiaalikylteistä, symboleista ja
+fontin käytöstä.
+140 L 240 L 300 L 300 L 660 L
+Vesipiste
+Roskat
+2-osainen liukuovi
+Vesipiste ja lajittelemattomat roskat
+OPASTEET & INFO FONTIT
+Løan esittely & käyttöohjeet
+Lajitteluohjeet & datalomakkeet
+Lajittelupisteiden materiaalikyltit
+Varasto / jätehuone
+82
+10 SUUNNITELMA
+10.7 Visualisoinnit ja käyttöskenaariot
+83
+84
+85
+86
+ARVIOINTI
+11
+87
+11.1 Prosessi
+11 ARVIOINTI
+Päädyttyäni opinnäytetyöni
+pariin tiesin valinneeni haastavan,
+moniulotteisen aiheen. Koin
+alusta alkaen tärkeäksi ymmärtää
+projektin taustalla olevia ongelmia
+ja taustoitukseni kautta sainkin
+mahdollisuuden tutustua kiinnostaviin, projektia tukeviin teemoihin.
+Työskentely Nordic Ocean
+Watchin kanssa oli palkitsevaa ja
+heidän luottamuksensa minuun
+motivoivaa.
+Prosessin edetessä oli kuitenkin
+hyväksyttävä myös omien tietojen
+ja taitojen rajallisuus. Ennestään
+vieraat teemat ja projektin rakenteellinen luonne pakottivat rajallisen ajan puitteissa paahtamaan
+eteenpäin, vaikka täyttä varmuutta
+asioista ei olisi ollutkaan. Vastaavien referenssien olemattomuus loi
+sekä haasteita että mahdollisuuksia,
+kun aihetta sai lähestyä tuoreesta
+näkökulmasta.
+11 ARVIOINTI
+Tavoitteeni oli luoda konseptitasoinen, myöhemmin jatkokehitettävä
+suunnitelma. Rajaus loi kuitenkin
+haasteita, sillä koin mm. rakenteellisten seikkojen vaikuttavan
+vahvasti projektin toteutettavuuteen. Päädyin lopulta käyttämään
+huomattavasti aikaa näiden kulmakivien parissa, mikä vähensi itse
+suunnitteluun käytettävää aikaa.
+Prosessin myötä kasvanut rakenteellinen ymmärrys johti myös
+pieniin muutoksiin ja kompromisseihin suunnitelman visuaalisuuden
+saralla, kun kaikkea ei osannut
+oman ammattitaitonsa puitteissa
+ottaa huomioon alusta alkaen.
+Valmis suunnitelma vastaa
+kuitenkin projektille asettamiani
+tavoitteita. Se on toiminnallisesti
+ja visuaalisesti toivotun kaltainen
+ja havainnollistaa Nordic Ocean
+Watchin projektin tavoitteita,
+toimien hyvänä lähtökohtana
+projektin jatkokehittämiselle.
+Opinnäytetyöni aiheeseen liittyvä uutisointi kiihtyi prosessini edetessä, havainnollistaen sen ajankohtaisuutta ja tarpeellisuutta. Projekti herätti mielenkiintoa ja
+kiinnostusta alkumetreiltä saakka, joten
+sen parissa oli motivoivaa työskennellä.
+Projekti vahvisti myös ajatustani siitä, että
+muotoilua ja sen työkaluja tulisi käyttää
+nykyistä monialaisemmin. Se loi uskoa
+siitä, että voin käyttää omaa ammattitaitoani merkittävien, itselleni vieraidenkin asioiden parissa, saavuttaen aitoa
+muutosta maailmassa.
+Lopputuotoksena syntynyt suunnitelma
+on hyvä pohja projektin jatkokehitykselle. Toteutuakseen, projektin äärelle
+tulee kuitenkin saada lisää osaamista
+esimerkiksi rakennustekniikan puolelta,
+jotta suunnitelmaa voidaan kehittää yhä
+toteutettavampaan suuntaan. Nykyisellään suunnitelma kuitenkin havainnollistaa lopullisia tavoitteita ja auttaa siten
+mahdollisten yhteistyökumppaneiden ja
+–kuntien löytämisessä.
+11.2 Suunnitelma 11.3 Päätelmät ja jatkokehitys
+88
+KIITOS
+Timo Sulkamo, Inkeri Halla-aho & Kai van der Puij
+Nordic Ocean Watch Finland
+Marko Cavén
+Perhe, ystävät & Risto
+SIKA14
+89
+Elektroniset lähteet
+LÄHDELUETTELO
+1. nordicoceanwatch.no/en/tavaha-2/ [Viitattu: 05.01.2018]
+2. theoceancleanup.com [Viitattu: 27.03.2018]
+3. seabinproject.com [Viitattu: 27.03.2018]
+4. hsy.fi/fi/asukkaalle/lajittelujakierratys/lajitteluohjeet [Viitattu:
+09.03.2018]
+Avital, M. 2011. The generative bedrock of open design. Open Design
+Now [Viitattu: 23.03.2018] Saatavissa: http://opendesignnow.org/index.
+html%3Fp=405.html
+Brown, T. 2009. Change by Design. E-kirja. New York: Harper Business.
+Ellen MacArthur Foundation. 2017. The New Plastics Economy: Rethinking
+the future of plastics & Catalysing action [Viitattu: 07.01.2018] Saatavissa:
+https://www.ellenmacarthurfoundation.org/assets/downloads/
+publications/NPEC-Hybrid_English_22-11-17_Digital.pdf
+Elinkeinoelämän keskusliitto. 2018. Mikä ihmeen kiertotalous? [Viitattu:
+12.01.2018] Saatavissa: https://ek.fi/syty-kiertotaloudesta/mika-ihmeenkiertotalous/
+Eunomia. 2016. Plastics in the Marine Environment [Viitattu: 19.01.2018]
+Saatavissa: http://www.eunomia.co.uk/reports-tools/plastics-in-themarine-environment/
+Fjäder, P. 2016. Merten roskaantuminen, muovit, mikromuovit ja haitalliset
+aineet. Suomen ympäristökeskuksen raportteja 37 [Viitattu: 08.01.2018]
+Saatavissa: https://helda.helsinki.fi/bitstream/handle/10138/167421/
+SYKEra_37_2016.pdf?sequence=1
+Gray, A. 2017. Which countries recycle the most? World Economic
+Forum [Viitattu: 12.01.2018] Saatavissa: https://www.weforum.org/
+agenda/2017/12/germany-recycles-more-than-any-other-country/
+Helsingin kaupunki. 2018. Helsingin kaupungin rakennusjärjestys.
+Rakennusvalvontavirasto [Viitattu: 23.03.2018] Saatavissa: https://www.
+pksrava.fi/doc/yleiset/rivi_309.pdf
+Hänninen, P. 2016. Ekorakentajan opas. Rakentajan Ekolaskuri [Viitattu:
+26.01.2018] Saatavissa: http://www.rakentajanekolaskuri.fi/taustatietoa.
+php
+Jambeck, J et al. 2015. Plastic waste inputs from land into the ocean. Science
+Magazine. Vol 347 Issue 6223 [Viitattu: 08.01.2018] Saatavissa: http://
+wedocs.unep.org/bitstream/handle/20.500.11822/17969/Plastic_
+waste_inputs_from_land_into_the_ocean.pdf?sequence=1
+James, A. 2014. 6 reasons you should be more concerned about ocean
+conservation. Matador Network [Viitattu: 07.01.2018] Saatavissa: https://
+matadornetwork.com/change/6-reasons-concerned-ocean-conservation/
+Jätelaki 646/2011, 8 § [Viitattu: 12.01.2018] Saatavissa: https://www.
+finlex.fi/fi/laki/alkup/2011/20110646
+Karjalainen, M. 2018. Puurakentaminen. Puuinfo [Viitattu: 05.03.2018]
+Saatavissa: https://www.puuinfo.fi/puutieto/puurakentaminen
+Kiiski Kataja, E. 2017. Demokratian vaikeuksista kohti tulevaisuuden
+osallisuutta. Sitra [Viitattu: 15.01.2018] Saatavissa: https://www.sitra.fi/
+julkaisut/demokratian-vaikeuksista-kohti-tulevaisuuden-osallisuutta/#1-
+demokratian-ja-osallisuuden-muutos
+Laitio, T. 2011. From best design to just design. Open Design Now [Viitattu:
+23.03.2018] Saatavissa: http://opendesignnow.org/index.html%3Fp=413.
+html
+Meriläinen-Tenhu, M. 2016. Kaupunkiaktivismi haastaa julkisen vallan ja
+uudistaa markkinoita. Helsingin yliopisto [Viitattu: 15.01.2018] Saatavissa:
+https://www.helsinki.fi/fi/uutiset/talous-yhteiskunta/kaupunkiaktivismihaastaa-julkisen-vallan-ja-uudistaa-markkinoita
+Moore, C. 2008. Synthetic polymers in the marine environment: a rapidly
+increasing, long-term threat. Algalita Marine Research Foundation
+[Viitattu: 08.01.2018] Saatavissa: https://www.ncbi.nlm.nih.gov/
+pubmed/18949831
+Nordic Ocean Watch Finland. 2018. Esittely järjestön Facebook-sivustolla
+[Viitattu: 05.01.2018] Saatavissa: https://www.facebook.com/nowfinland/
+Nyakaana, J. 1997. Solid waste management in urban centers. East African
+Geographical Review, 19:1. [Viitattu: 12.01.2018] Saatavissa: https://pdfs.
+semanticscholar.org/9abc/176cfe004f24de183ea16a35cab217a4306c.
+pdf
+Oceanic Institute. 2018. Aqua Facts [Viitattu: 07.01.2018] Saatavissa:
+https://www.oceanicinstitute.org/aboutoceans/aquafacts.html
+Orava, S. 2016. Merten monet uhat. Changemaker [Viitattu: 07.01.2018]
+Saatavissa: https://www.changemaker.fi/ajankohtaista/globalistiartikkeli/
+merten-monet-uhat/
+Paalupiste. 2018. Ruuvipaalu [Viitattu: 05.03.2018] Saatavissa: http://
+paalupiste.com/fi/ruuvipaalu
+Prabhakar, P. 2016. Plastic marine debris: Sources, distribution and impacts
+on coastal and ocean biodiversity. ResearchGate [Viitattu: 08.01.2018]
+Saatavissa: https://www.researchgate.net/publication/295919494_
+Plastic_marine_debris_Sources_distribution_and_impacts_on_coastal_
+and_ocean_biodiversity
+Puuinfo. 2006. Puurakentaminen. Rakentaja.fi [Viitattu: 05.03.2018]
+Saatavissa: https://www.rakentaja.fi/artikkelit/595/puurakentaminen.html
+Puuinfo. 2012. Pintojen ja katteiden paloluokat [Viitattu: 05.03.2018]
+Saatavissa: https://www.puuinfo.fi/sites/default/files/pintojen-jakatteiden-paloluokat.pdf
+RT 69-11190. 2015. Asuinkiinteistön jätehuolto. Rakennustietosäätiö.
+90
+Sallinen, M. 2016. Muovin kierrätys ei aina kannata – heitä marinadin
+tahmaama broileripakkaus sekajätteeseeen [Viitattu: 09.03.2018]
+Saatavissa: https://www.aamulehti.fi/ihmiset/muovin-kierratysei-aina-kannata-heita-marinadin-tahmaama-broileripakkaussekajatteeseeen-23882930/
+Saukkonen, P & Lattunen, T. 2008. Suomen poliittinen järjestelmä – 2.4
+Kansalaisjärjestöt ja yhteiskunnalliset liikkeet. Helsingin yliopisto [Viitattu:
+15.01.2018] Saatavissa: http://blogs.helsinki.fi/vol-spj/kansalaisjarjestot/
+suomalainen-kansalaisjarjestotoiminta/
+Setälä, O et al. 2017. Roskapostia – kansalaisen tietokirja meren
+roskaantumisesta. Pidä Saaristo Siistinä Ry [Viitattu: 08.01.2018] Saatavissa:
+http://www.pidasaaristosiistina.fi/projektit/roskapostia-tietokirja
+Suomen rakentamismääräyskokoelma E1. Rakennusten paloturvallisuus.
+2011. Ympäristöministeriö [Viitattu: 05.03.2018] Saatavissa: https://www.
+finlex.fi/data/normit/37126/E1_2011-fi.pdf
+Suomen rakentamismääräyskokoelma E4. Autosuojien paloturvallisuus.
+2005. Ympäristöministeriö [Viitattu: 05.03.2018] Saatavissa: https://www.
+finlex.fi/data/normit/28206/E4su2005.pdf
+SYKE. 2018. Kierrätys ja uudelleenkäyttö voivat vähentää kulutusta ja sen
+ympäristövaikutuksia [Viitattu: 12.01.2018] Saatavissa: https://ilmasto-opas.
+fi/fi/ilmastonmuutos/hillinta/-/artikkeli/8bde6ca5-7802-4c36-a4da34086e9c5287/kierratys-ja-uusiokaytto.html
+Søbstad, I. 2017. The ocean is drowning in plastic - Nordic Ocean Watch
+teaches us how to tavaha [Viitattu: 05.01.2018] Saatavissa: https://www.
+ntnuoc.no/blog/2017/11/23/wbqh6vfd4ajomz29tuemve2lkrljml
+Tilastokeskus. 2015. Jätteiden poltto ja kierrätys ovat korvanneet
+yhdyskuntajätteiden kaatopaikat [Viitattu: 12.01.2018] Saatavissa: http://
+www.stat.fi/til/jate/2015/jate_2015_2016-12-20_tie_001_fi.html
+UN. 2007. Percentage of total population living in coastal areas [Viitattu:
+07.01.2018] Saatavissa: http://www.un.org/esa/sustdev/natlinfo/
+indicators/methodology_sheets/oceans_seas_coasts/pop_coastal_areas.
+pdf
+UNEP. 2005. Marine Litter - An analytical overview [Viitattu: 08.01.2018]
+Saatavissa: http://www.cep.unep.org/content/about-cep/amep/marinelitter-an-analytical-overview/view
+Viljakainen, M. 2004. Avoin puurakennusjärjestelmä – paikalla
+rakentaminen. Wood Focus Oy [Viitattu: 05.03.2018] Saatavissa:
+https://www.puuinfo.fi/sites/default/files/content/rakentaminen/
+suunnitteluohjeet/avoin-puurakennusjarjestelma-paikalla-rakentaminen/
+paikalla-rakentaminen.pdf
+Vink. 2018. PC - Polykarbonaatti [Viitattu: 01.03.2018] Saatavissa: https://
+www.vink.fi/tuotteet/muovilevyt-ja-tangot/pc
+Watkins, E et al. 2015. Marine litter: socio-economic study. UNEP
+[Viitattu: 08.01.2018] Saatavissa: https://www.g7germany.de/
+Content/DE/_Anlagen/G7_G20/2015-06-01-marine-litter.pdf?__
+blob=publicationFile&v=4
+Ympäristöhallinto. 2013. Jätehuollon vastuut ja järjestäminen [Viitattu:
+12.01.2018] Saatavissa: http://www.ymparisto.fi/fi-FI/Kulutus_ja_
+tuotanto/Jatteet_ja_jatehuolto/Jatehuollon_vastuut_ja_jarjestaminen
+91
+Kuvalähteet
+s. 5
+http://www.ticotimes.net/2014/12/11/wonkblog-oceans-now-contain5-trillion-pieces-of-floating-plastic, Kuva: Dimitar Dilkoff
+s. 6
+http://www.parley.tv/oceanplastic/#parleyair
+s. 8
+Kuvat Nordic Ocean Watchin arkistosta
+1: Troels Rosenkrantz Andersen
+2: Mads Schwencke
+3: Troels Rosenkrantz Andersen
+4: Troels Rosenkrantz Andersen
+5: Torstein Vabø
+6: Troels Rosenkrantz Andersen
+s. 10
+https://fi.pinterest.com/pin/80150068346451867/
+s. 11
+https://visual.ly/community/infographic/other/most-dangerous-speciesmediterranean
+s. 14
+https://mandy-barker.com/gallery.php?gallNo=3&photoNo=40
+s. 15
+https://peda.net/oppimateriaalit/e-oppi/lukiot/espoo/eyl/maantiede/
+t1mmoo3/ge-uusi-1f/1kjcsjj/kiertotalous
+s.16
+http://www.beachplastic.com/Cavallo-Point-Prints
+s. 17
+https://www.aamulehti.fi/ihmiset/muovin-kierratys-ei-aina-kannata-heitamarinadin-tahmaama-broileripakkaus-sekajatteeseeen-23882930/
+s.18
+https://fi.pinterest.com/pin/115264071693661533/
+s. 19
+https://www.kauppalehti.fi/uutiset/sauna-kuuluu-kaupunkiin---tassa-kolmehyvaa-vaihtoehtoa/MJaunaNv, Kuva: Susa Junnola
+s. 20
+1-3: https://www.flickr.com/photos/dodoorg/
+albums/72157628177512969/page1
+s. 21
+https://www.behance.net/gallery/9515289/More-Horrifying
+s. 22
+https://fi.pinterest.com/pin/386957792954111097/
+s. 23
+1-2: https://preciousplastic.com/en/videos/
+3: https://medium.com/@ignaziomottola/what-dave-hakkens-tells-usabout-todays-design-c0bbb7479be
+s. 25
+https://www.puuinfo.fi/sites/default/files/vaja_web.pdf
+s. 26
+http://keywordsuggest.org/gallery/854665.html
+s.27
+https://www.maaseuduntulevaisuus.fi/mets%C3%A4/artikkeli-1.209276
+s. 28
+https://www.tillinmaki.fi/asuinalueemme/kaava-asiat/tillinmaenasemakaava/
+s. 34
+1: http://www.feeldesain.com/boat-house-denmark.html
+2: https://www.designboom.com/architecture/hidemi-nishida-fragileshelter/
+3: https://www.archdaily.com/592660/nest-we-grow-college-ofenvironmental-design-uc-berkeley-kengo-kuma-and-associates
+4: https://www.archdaily.com/519534/house-at-camusdarach-sandsraw-architecture-workshop
+s. 35
+http://www.phillysurfcrew.org/beach-cleanup/, Kuva: Chris String
+s. 38
+http://map.hanko.fi/
+s. 41
+1: https://oceanconservancy.org/trash-free-seas/international-coastalcleanup/start-a-cleanup/
+2: http://www.siistibiitsi.fi/
+s. 57
+https://h-l-p.fi/villa-mecklin/
+s. 58
+1: http://www.hemnethemmet.se/
+2: http://naturalbuilding.fi/referenssit/luonnonmukainen-remontti/
+3-4: http://organowood.com/bilder/produktbilder/
+5: https://fi.pinterest.com/pin/547046685971950791/
+6: https://tjarlek.se/en/
+s. 59
+1: http://organowood.com/bilder/produktbilder/
+2: https://www.byggmax.fi/katot/kattohuovat/kattohuopa-p17272
+s. 60
+1: https://www.stark-suomi.fi/fi/kennolevy-northlite-3-9-m-kirkas
+2: https://architizer.com/projects/light-sheds/
+s. 61
+1: http://www.thewoodveneerhub.co.uk/birch-flexible-plywood-0-4mmthick-155cm-x-155cm-61-x-61/
+2: https://www.stark-suomi.fi/fi/filmivaneri-12x1500x3000-mm-4-5-
+m%C2%B2
+s. 62
+1: https://www.behance.net/gallery/32489805/PARTIDESIGN-MOSIA
+2: http://www.fabioongaratodesign.com.au/home/medibank
+3: https://www.behance.net/gallery/34959363/Bauhaus
+s. 63
+1: http://nordicoceanwatch.no/en/projects/tavaha-loa/
+2: https://iconcrafts.com/icons
+3: http://www.saritawalsh.com/design/
+s. 79
+1: http://organowood.com/bilder/produktbilder/
+2: https://www.dezeen.com/2017/08/17/governors-island-welcomecentre-office-iii-new-york/
+3: http://www.apsltd.com/marlow-ropes-excel-pro-line.html
+4: https://www.bolinasail.it/en/classic-sail-bags-made-in-italy/829-
+original-recycled-sail-bag-with-leather-corners
+5: http://craftsmenhardwoods.com/wp-content/uploads/2016/03/
+Birch-Plywood.jpg
+6: https://koskisen.fi/tuotteet/koskidecor-eco/
+7: Maiju Kuusniemi
+8: http://www.kontrplakshop.com/wiremesh-plywood/

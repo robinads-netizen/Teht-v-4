@@ -1,0 +1,1147 @@
+Antti Heikura
+R&TTE-DIREKTIIVIN MUKAISTEN SRD-LAITTEIDEN
+TESTAUKSEN TUTKIMINEN JA TESTAUSOPPAAN
+LAATIMINEN
+Tietotekniikan koulutusohjelma
+2011
+R&TTE-DIREKTIIVIN MUKAISTEN SRD-LAITTEIDEN TESTAUKSEN
+TUTKIMINEN JA TESTAUSOPPAAN LAATIMINEN
+Heikura, Antti
+Satakunnan ammattikorkeakoulu
+Tietotekniikan koulutusohjelma
+Marraskuu 2011
+Ohjaaja: Nietola, Teijo
+Sivumäärä: 24
+Liitteitä: 1
+Asiasanat: R&TTE, EMC, direktiivi, opas
+____________________________________________________________________
+Tämän opinnäytetyön aiheena oli tutkia R&TTE-direktiivin mukaista SRD-laitteiden
+testausta ja laatia testausopas Rauman EMC-laboratoriolle. Työn suunnittelu aloitettiin jo keväällä 2011, mutta varsinainen työ tehtiin vasta syksyllä 2011.
+Työ aloitettiin aiheen rajaamisella. Työnä ollut tutkimus ja oppaan kirjoittaminen
+rajattiin koskemaan pelkästään lyhyen kantaman laitteita (SRD). Tämä päätös helpotti odotettavissa ollutta työtaakkaa, sillä se laski tutkittavan materiaalin määrää huomattavasti.
+Seuraavaksi täytyi koota tutkittava materiaali. Materiaali koostui harmonisoiduista
+standardeista ja testiraporteista. Työtä lähdettiin viemään eteenpäin tekemällä oppaalle runko, joka koostui selkeistä osista. Aluksi ei ollut täysin varmaa miten laaja
+ja millainen oppaasta tulisi. Tiedossa oli vain, että siinä tulisi esitellä R&TTEdirektiivin mukaisen SRD-laitteiden testauksen kymmenen tärkeintä testiä.
+Oppaaseen alettiin kerätä tietoa R&TTE-direktiivistä yleisesti, testausolosuhteista,
+teoriaa testeistä ja testausraportin kirjoittamisesta. Lisäksi oppaaseen sisällytettiin
+esimerkkejä eri testeistä tukemaan teoriapuolta. Oppaan tekemisessä käytetyt lähteet
+merkittiin näkyviin oppaan loppuun.
+Oppaan ensimmäinen versio valmistui noin puolitoista kuukautta ennen oppaan lopullista versiota. Ensimmäisestä versiosta löytyi paljon korjattavaa. Korjaukset tehtiin ja viikko viikolta opas kirjoitettiin sellaiseen kuntoon, että siitä tuli julkaisukelpoinen.
+Tutkimustyöstä ja oppaasta tuli kompakteja kokonaisuuksia. Oppaasta olisi voinut
+tehdä laajemmankin, mutta se on nykymuodossaan varsin hyvä. R&TTE-direktiivin
+mukaista testausta (SRD-laitteille ja muillekin) tulevaisuudessa tutkivat saavat nyt
+tehdystä tutkimuksesta ja oppaasta iskevän tietopaketin, jota voidaan jatkossa jalostaa.
+RESEARCH OF AND WRITING A MANUAL FOR TESTING OF SHORT
+RANGE DEVICES ACCORDING TO THE R&TTE DIRECTIVE
+Heikura, Antti
+Satakunnan ammattikorkeakoulu, Satakunta University of Applied Sciences
+Degree Programme in Information Technology
+November 2011
+Supervisor: Nietola, Teijo
+Number of pages: 24
+Appendices: 1
+Keywords: R&TTE, EMC, directive, manual
+____________________________________________________________________
+The purpose of this thesis was to make a research of Short Range Device testing according to the R&TTE directive and to write a manual for it to EMC laboratory of
+Rauma. Planning of the thesis began at the spring of 2011 but the actual work was
+done in the autumn of 2011.
+The first phase was to limit the subject. The research and the writing of the manual
+were limited to concentrate only on Short Range Devices. The decision to limit the
+subject to Short Range Devices was quite of a relief since it meant there was a lot
+less material to examine.
+After limiting the subject, the material for examination had to be found. The material
+consisted of harmonised standards and test reports. Next step was to structure the
+manual. At first it was not quite clear how much information the manual would have.
+The only thing certain in this phase was that the manual should have contained wide
+information of the ten most important tests in the testing of Short Range Devices according to the R&TTE directive.
+
+After a while, the manual began to form. It consisted of information of the R&TTE
+directive in general, testing conditions, theoretical information of the ten most important tests and a quick instruction of how to write a test report. In addition the manual
+had a chapter of examples of the tests to support the theoretical part.
+The first version of the manual was ready almost two months before the final version. There were a lot of errors in the first version. That version was corrected over
+and over again until the manual was good enough to be published.
+The research and the manual both became quite compact. The manual could have
+been wider but in its current form it is relatively good. For those people who are
+planning to research the testing (of Short Range Devices) according to the R&TTE
+directive this thesis is a useful piece of knowledge to be utilized in the future.
+LYHENNELUETTELO
+AM Amplitude Modulation
+EN European Standard
+ESO European Standards Organization
+ETSI European Telecommunications Standards Institute
+EU European Union
+FHSS Frequency Hopping Spread Spectrum devices
+FM Frequency Modulation
+ICT Information and Communications Technology
+R&TTE Radio and Telecommunications Terminal Equipment
+SRD Short Range Devices
+W-CDMA Wide-band Code-Division Multiple Access
+SISÄLLYS
+1 JOHDANTO................................................................................................................. 6
+1.1 Työn tarpeesta....................................................................................................... 6
+1.2 SRD-laitteen määritelmä ...................................................................................... 7
+1.3 EMC-testaus.......................................................................................................... 7
+1.4 Rauman EMC-laboratorio..................................................................................... 8
+1.4.1 Testauslaitteet................................................................................................. 8
+2 R&TTE-DIREKTIIVI................................................................................................ 10
+2.1 Direktiivin historia.............................................................................................. 10
+2.2 Direktiivin sisältö................................................................................................ 11
+2.2.1 Artikla 3.2..................................................................................................... 12
+2.3 Direktiivin tarpeellisuus ja sovellettavuus.......................................................... 12
+3 ETSI JA HARMONISOIDUT STANDARDIT......................................................... 13
+3.1 ETSI ............................................................................................................ 13
+3.1.1 Harmonisoidut standardit ............................................................................. 13
+4 R&TTE-DIREKTIIVIN MUKAINEN TESTAUS.................................................... 14
+4.1 Yleistä ............................................................................................................ 14
+4.2 Testausolosuhteet................................................................................................ 15
+4.2.1 Normaaliolosuhteet ...................................................................................... 15
+4.2.2 Ääriolosuhteet .............................................................................................. 15
+4.3 Testit ............................................................................................................ 16
+4.3.1 Frequency Error............................................................................................ 16
+4.3.2 Conducted Average Power........................................................................... 16
+4.3.3 Effective Radiated Power............................................................................. 17
+4.3.4 Spread Spectrum Modulation....................................................................... 18
+4.3.5 Transient Power............................................................................................ 18
+4.3.6 Adjacent Channel Power.............................................................................. 18
+4.3.7 Modulation Bandwith................................................................................... 19
+4.3.8 Unwanted Emissions in the Spurious Domain............................................. 19
+4.3.9 Frequency Stability under Low Voltage Conditions.................................... 19
+4.3.10 Duty Cycle.................................................................................................. 20
+4.4 Testauspöytäkirja ja -raportti.............................................................................. 20
+5 TESTAUSOPPAAN LAATIMINEN ........................................................................ 21
+6 YHTEENVETO ......................................................................................................... 23
+LÄHTEET....................................................................................................................... 24
+LIITTEET
+6
+1 JOHDANTO
+1.1 Työn tarpeesta
+Kun valmistetaan tuotteita, joita on tarkoitus laittaa markkinoille myyntiin, on tärkeää varmistaa, että ne toimivat siten kuin niiden kuuluu toimia. Elektronisten laitteiden osalta se on jopa tärkeämpää kuin muiden laitteiden. Siksi on olemassa testilaboratorioita, joissa laitteiden vaatimustenmukaisuudet varmennetaan.
+Eräs näistä testilaboratorioista, Rauman EMC-laboratorio, halusi, että tutkittaisiin
+tietynlaisten elektronisten laitteiden testausta ja laadittaisiin opas niiden testaamista
+varten. Laitteet, joiden testaamista haluttiin tutkittavan, olivat R&TTE-direktiivin
+alaisia SRD-laitteita.
+Tutkimukselle ja oppaalle oli tarvetta, sillä R&TTE-direktiivin mukaisille SRDlaitteille ei ollut vielä olemassa suomenkielistä testausopasta. Opinnäytetyön yhtenä
+osana laadittu testausopas pyrittiin tekemään mahdollisimman selkeäksi ja yksityiskohtaiseksi ohjeistukseksi testausprosessia ajatellen.
+Testausoppaasta ei ollut tarkoitus tehdä täydellistä läpileikkausta R&TTE-direktiivin
+mukaisten SRD-laitteiden testaukseen, vaan tiivis suomenkielinen tiivistelmä tärkeimmistä testeistä ja testausolosuhteista. Oppaasta ei siis haluttu sellaista, että se
+olisi ainoa testauksessa apuna käytettävä dokumentti, vaan yksi testausta tukevista
+ohjeista.
+7
+1.2 SRD-laitteen määritelmä
+SRD-laitteella (Short Range Device) tarkoitetaan laitetta, jonka lähetysteho on usein
+hyvin alhainen ja näin ollen myös sen toiminta-alue ei ole kovinkaan laaja. Tällaisia
+laitteita ovat muun muassa:
+- monet kaukosäätimet
+- hälyttimet
+- langattomat kuulokkeet, mikrofonit ja (peli)ohjaimet
+- paikallisverkot (LAN)
+- RFID-tunnisteet (Radio Frequency Identification)
+Jos SRD-laite asetetaan myyntiin EU:n alueella, sen on täytettävä ne vaatimukset,
+jotka R&TTE-direktiivissä (1999/5/EY) on asetettu.
+1.3 EMC-testaus
+Euroopan Unionin alueella myynnissä olevien elektroniikkalaitteiden tulee olla
+EMC-standardien mukaisesti testattuja. Erilaisille laitteille on omat tuoteperhestandardinsa, jotka löytyvät Euroopan Unionin virallisesta lehdestä. Standardit määrittelevät mitä testejä laitteille tulee tehdä ja millaisia rajoja testeillä on.
+EMC:n määritelmä on: ”Laitteen tai järjestelmän kyky toimia tyydyttävällä tavalla
+elektromagneettisessa ympäristössä siten, ettei laite tuota sietämätöntä elektromagneettista häiriötä millekään ympäristössä.” (Williams 2007, 1)
+Elektromagneettisia häiriöitä testaamalla voidaan varmistua siitä, etteivät laitteet häiritse toisiaan. EMC-testaus on lain mukaan pakollinen kaikille markkinoilla oleville
+elektroniikkalaitteille. Aiheesta on asetettu EMC-direktiivi 2004/108/EY.
+8
+1.4 Rauman EMC-laboratorio
+Rauman EMC-laboratorio sijaitsee Rauman Kaivopuiston teollisuusalueella. EMClaboratorio on paitsi testauslaboratorio yrityksille, myös Satakunnan ammattikorkeakoulun opetusyksikkö. Se on perustettu vuonna 1996.
+EMC-laboratoriossa työskentelee laboratorioinsinööri Teijo Nietola, joka testaa yritysten tarpeiden mukaan erilaisia elektronisia laitteita ja on vastannut Satakunnan
+ammattikorkeakoulun opiskelijoiden opetuksesta muun muassa elektroniikan testauksen osalta.
+Laboratoriossa tapahtuva testaus tapahtuu EMC-standardien mukaan ja tulokset ovat
+luotettavia.
+1.4.1 Testauslaitteet
+Rauman EMC-laboratoriossa on seuraavanlaisia R&TTE-direktiivin mukaisten SRDlaitteiden testaukseen liittyviä testauslaitteita ja -tiloja:
+- radiokaiuton huone (kuva 1)
+- sääkaappi (kuva 2)
+- spektrianalysaattori (kuva 3)
+Radiokaiuttomassa huoneessa voidaan mitata laitteen tuottamaa elektromagneettista
+säteilyä. R&TTE–testauksessa radiokaiutonta huonetta käytetään monissa testeissä.
+Spektrianalysaattorilla analysoidaan laitteen tuottamia ja saamia säteilyarvoja.
+9
+Kuva 1. Radiokaiuton huone Rauman EMC-laboratoriossa (Satakunnan ammattikorkeakoulun verkkosivut 2011)
+Sääkaappia käytetään olosuhdetestaukseen. Rauman EMC-laboratorion sääkaapin
+lämpötila-alue on -40°C - +150°C ja ilmankosteutta voidaan säädellä välillä 20-98%.
+R&TTE-direktiivin mukaan testattavien SRD-laitteiden ääriolosuhdetestausta voidaan suorittaa sääkaapissa.
+Kuva 2. Sääkaappi Rauman EMC-laboratoriossa (Satakunnan ammattikorkeakoulun
+verkkosivut 2011)
+Spektrianalysaattoria käytetään useissa R&TTE-direktiivin mukaisissa testeissä.
+Rauman EMC-laboratoriossa on käytössä Rohde & Schwarz -yhtiön spektrianalysaattori, jolla päästään seitsemän (7) gigahertsin (GHz) taajuuksiin.
+10
+Kuva 3. Rohde & Schwarzin spektrianalysaattori (Rohde & Schwarzin verkkosivut
+2011)
+Rauman EMC-laboratoriosta löytyy yllämainittujen laitteiden lisäksi shokkitestikaappi, jota käytetään ääriolosuhdetestauksessa. EMC-laboratoriossa on myös tärinätestilaite, mutta sitä ei käytetä R&TTE-testauksessa.
+2 R&TTE-DIREKTIIVI
+2.1 Direktiivin historia
+Direktiivi 1999/5/EY, direktiivi radio- ja telepäätelaitteista ja niiden vaatimuksenmukaisuuden vastavuoroisesta tunnistamisesta, astui voimaan 8.4.2000. Tämän jälkeen aiemman menettelyn mukaisia hyväksyntöjä ei ole enää myönnetty, mutta aiemmin valmistetut ja markkinoille saatetut radio- ja telepäätelaitteet saavat pysyä
+markkinoilla vanhojen määräysten alla. (Viestintäviraston verkkosivut 2008)
+Aiempi menettely, eli kansallinen tyyppihyväksyntä, siis poistui R&TTE-direktiivin
+astuttua voimaan. R&TTE-direktiivillä saatiin yhtenäistettyä koko EU:n alueen ra-
+11
+dio- ja telepäätelaitteita koskevat määräykset. (Euroopan Komission verkkosivut
+2010)
+R&TTE-direktiivin käyttöönotolla tähdättiin paitsi määräysten yhtenäistämiseen,
+myös siihen, että laitteiden testauksesta tulisi yksinkertaisempaa ja että laitteet saataisiin toimimaan mahdollisimman vähillä olennaisilla vaatimuksilla. Lisäksi R&TTEdirektiivin käyttöönotto oli reagointia muuttuneisiin tarpeisiin elektronisten laitteiden
+markkinoilla. Aiemmassa menettelyssä ei ollut kiinnitetty huomiota näihin seikkoihin. (Williams 2007, 54)
+Suomessa direktiivi saatettiin voimaan Radiolailla ja Viestintäviraston määräyksillä.
+Direktiiviä ei Suomessa otettu käyttöön heti, vaan sille annettiin vuoden verran siirtymäaikaa. 7.4.2001 jälkeen ei markkinoille saanut enää saattaa aiempien määräysten
+mukaan valmistettuja ja testattuja laitteita. (Viestintäviraston verkkosivut 2008)
+2.2 Direktiivin sisältö
+R&TTE-direktiivissä on kaikkiaan 22 artiklaa. Direktiivi sisältää muun muassa:
+- tiedon siitä, millaisille laitteille direktiiviä sovelletaan ja millaisille ei
+- olennaiset vaatimukset laitteille
+- ohjeet laitteiden markkinoille saattamisesta ja käyttöönotosta
+- vaatimustenmukaisuuden arviointimenettelyt
+- tiedot CE-merkinnän liittämisestä laitteisiin
+- ohjeet kansalliseen lainsäädäntöön saattamiseen
+- entisen direktiivin kumoamisen
+R&TTE-direktiivin mukaan testattujen laitteiden tekniset vaatimukset on eritelty tarkemmin harmonisoiduissa standardeissa, jotka julkaistaan Euroopan Unionin virallisessa lehdessä. Direktiivissä itsessään ei siis ole mitään testausrajoja tai vaatimuksia
+laitteen toimintaa koskien.
+R&TTE-direktiivin artiklassa kolme (3) on direktiivin olennaisinta informaatiota, eli
+se, mihin direktiivillä pyritään. Artiklassa 3.2 esitellään se idea, johon on ollut direk-
+12
+tiiviä laatiessa tavoitteena pyrkiä; saada laitteiden käyttämä spektri käytettyä mahdollisimman tehokkaasti.
+2.2.1 Artikla 3.2
+”Radiolaitteet on-- rakennettava siten, että laitteistot käyttävät tehokkaasti maanpäälliseen tai avaruudessa tapahtuvaan radioviestintään varattua spektriä ja rataresursseja
+haitallisen häirinnän välttämiseksi.” (Euroopan Unionin oikeuden verkkosivut 2011)
+2.3 Direktiivin tarpeellisuus ja sovellettavuus
+Kuten jo aiemmin todettua, R&TTE-direktiivi on tarpeellinen yhtenäistämään Euroopan Unionin radio- ja telepäätelaitteiden käyttämän spektrin käyttöä. Aiemmat
+menettelyt (TTE-direktiivit 1998/13/EC ja 1991/263/EC) osoittautuivat huonoiksi,
+koska niissä oli nykyiseen verrattuna ankarammat määräykset ja rajat, joita piti noudattaa. Tämän vuoksi EU-maat sovelsivat niitä vapaammin kuin nykyistä direktiiviä.
+(Williams, T. 2007)
+R&TTE-direktiiviä sovelletaan:
+- radiolähettimiin
+- radiovastaanottimiin
+- radiolähetinten ja -vastaanottimien yhdistelmiin
+- kiinteän verkon telepäätelaitteisiin
+R&TTE-direktiiviä ei sovelleta:
+- kaapelointiin ja kytkentään
+- radioamatöörikäyttöön tarkoitettuihin ei-kaupallisiin laitteisiin
+- laivavarusteista annetussa asetuksessa (925/1998) tarkoitettuihin radiolaitteisiin
+- ainoastaan yleisradiolähetysten vastaanottamiseen tarkoitettuihin radiovastaanottimiin (myös TV)
+- ilmailuradioviestinnässä käytettäviin radiolaitteisiin.
+13
+Direktiiviä ei myöskään sovelleta radio- ja telepäätelaitteisiin, jotka on tarkoitettu
+yksinomaan:
+- yleisen turvallisuuden varmistamiseen
+- sotilaalliseen maanpuolustukseen
+- valtion turvallisuuteen
+- rikosten selvittämiseen tai esitutkintaan (Viestintäviraston verkkosivut 2008)
+3 ETSI JA HARMONISOIDUT STANDARDIT
+3.1 ETSI
+ETSI (European Telecommunications Standards Institute) tuottaa maailmanlaajuisesti hyväksyttäviä standardeja ICT-alan yrityksille. Euroopan Unionin alueella ETSI on
+tunnettu myös nimellä ESO (European Standards Organization). ETSI:n standardit
+on suunnattu pääsääntöisesti eurooppalaiseen käyttöön.
+ETSI on voittoa tavoittelematon yritys, jolla on toimijoita 62:sta eri valtiosta ympäri
+maailman. ETSI:n käyttämät tutkimuslaitokset ovat puolueettomia ja niistä saatavat
+tulokset ovat hyvin luotettavia. ETSI on saanut laatustandardin ISO 9001:2008.
+(ETSI:n verkkosivut 2011)
+3.1.1 Harmonisoidut standardit
+R&TTE-direktiivin mukaisessa testauksessa käytetään harmonisoituja standardeja.
+Standardit määrittelevät testauksen olosuhteet, rajat ja tavat. Standardit ovat käytössä
+kaikissa EU-maissa, joissa elektronisia laitteita on markkinoilla. Ne ovat kaikille EUmaille yhdenmukaiset.
+Tärkeimmät standardit R&TTE-direktiivin mukaisessa SRD-laitteiden testauksessa
+ovat EN 300 220-1 V2.3.1, EN 300 330-1 V1.5.1 ja EN 300 440-1 V1.4.1. Standardit
+14
+ovat tarkoitettu eri taajuuskaistalla toimiville laitteille. EN 300 220-1 V2.3.1 on taajuusalueella 25 MHz – 1 000 MHz käytettäville radiolaitteille, joiden teho on enintään 500 milliwattia; EN 300 330-1 V1.5.1 taajuusalueella 9 kHz - 25 MHz toimiville radiolaitteille ja taajuusalueella 9 kHz - 30 MHz toimiville induktiivisille kehäantennijärjestelmille; EN 300 440-1 V1.4.1 taajuusalueella 1 GHz - 40 GHz käytettäville radiolaitteille.
+Kaikissa standardeissa viitataan R&TTE-direktiivin artiklaan 3.2, joka on esitelty
+aiemmin tässä opinnäytetyössä (luku 2.2.1).
+SRD-laitteiden R&TTE-direktiivin mukaisessa testauksessa tulee ottaa huomioon
+myös kaikille elektronisille laitteille pakolliset EMC-vaatimukset. Harmonisoiduista
+standardeista löytyy standardit myös EMC-vaatimuksille. EMC-vaatimuksia esittelevät standardit lähtevät standardista EN 300 489-1 päättyen standardiin EN 300 489-
+9. Ne kattavat jokaisen radio- ja telepäätelaitteen. (Euroopan Unionin virallinen lehti
+2011)
+4 R&TTE-DIREKTIIVIN MUKAINEN TESTAUS
+4.1 Yleistä
+R&TTE-direktiivin mukaisesta testauksesta ei ole olemassa paljoakaan suomenkielistä materiaalia. Tässä luvussa kerrotaan yleisellä tasolla R&TTE-direktiivin mukaisessa testauksessa käytettävistä olosuhteista, keskeisimmistä testeistä sekä testausraportin laatimisesta. Tarkempi erittely joka osa-alueesta löytyy liitteenä olevasta testausoppaasta.
+15
+4.2 Testausolosuhteet
+ETSI:n standardissa EN 300 220-1 V2.3.1 on esitelty kattavasti ne olosuhteet, joissa
+laitteita testataan. Laitteen valmistaja kertoo testaajalle mihin käyttötarkoitukseen ja
+missä olosuhteissa laitetta on tarkoitettu käytettäväksi. Tämän mukaan valitaan testausolosuhteet. Olosuhteisiin lukeutuvat lämpötila, suhteellinen ilmankosteus ja laitteen käyttämä virtalähde. Testauksessa käytetyt olosuhteet tulee merkitä testin aikana
+testauspöytäkirjaan sekä testauksen jälkeen tehtävään testausraporttiin.
+4.2.1 Normaaliolosuhteet
+Testaus suoritetaan aina vähintään normaaliolosuhteissa. Normaaliolosuhteissa lämpötila on +15 - +35°C, suhteellinen ilmankosteus on 20% - 70% ja laitteen käyttämä
+virtalähde on joko paristo, akku ja/tai verkkovirta. Virtalähteen käyttämä jännite tulee merkitä testauspöytäkirjaan ja -raporttiin. Jos virtalähteenä toimii akku, sen käyttämä jännite on kerrottava 1,1:llä ja testata näin saatavalla jännitteellä. Esimerkiksi,
+jos jännite on kuusi (6) volttia, testausjännitteen on oltava 1,1 * 6 volttia = 6,6 volttia. Normaaliolosuhdetestauksessa ei tarvita sen suurempia testauslaitteita, kuten
+lämpö- tai shokkikaappia; säädettävä virtalähde verkkovirtaa käyttäville laitteille riittää.
+4.2.2 Ääriolosuhteet
+Jos laitteen valmistaja on tarkoittanut laitetta käytettävän muissa kuin normaalioloissa, laite on testattava myös ääriolosuhteissa. Ääriolosuhteiden valinta riippuu laitteelle määritellystä käyttötarkoituksesta. Ääriolosuhteiden lämpötilarajat on eritelty
+käyttötarkoituksen mukaan kolmeen kategoriaan: 1) Yleiset laitteet -20°C - +55°C,
+2) Siirreltävät laitteet -10°C - +55°C ja 3) Normaaliin sisäkäyttöön tarkoitetut laitteet
++5° - +35°C.
+Ääriolosuhteiden testausjännitteet määräytyvät virtalähteiden mukaan. Verkkovirtaa
+käyttävät laitteet testataan niin, että käytetään ±10% normaalin verkkovirran jännitteestä. Täten testausjännitteen alarajaksi tulee 230 volttia * 0,9 = 207 volttia ja ylära-
+16
+jaksi 230 volttia * 1,1 = 253 volttia. Akkua virtalähteenään käyttävät laitteet testataan
+niin, että käytetään alarajana 90% ominaisjännitteestä ja ylärajana 130%.
+4.3 Testit
+R&TTE-direktiivin mukaisessa SRD-laitteiden testauksessa suoritettavat testit on
+valittu standardista EN 300 220-1 V2.3.1. Testejä on kaikkiaan kymmenen. Kaikkia
+testejä ei suoriteta kaikille laitteille, vaan testejä voidaan jättää suorittamatta esimerkiksi antennin tyypistä tai virtalähteestä riippuen. Kaikkien SRD-laitteiden tulee läpäistä sille kuuluvat testit. Seuraavassa esitellään lyhyesti kukin testi ja millaisia laitteita kullakin testillä testataan.
+4.3.1 Frequency Error
+Taajuusvirhetesti suoritetaan kaikille R&TTE-direktiivin mukaisille SRD-laitteille.
+Se on säteilevän tehon testin ja ei-haluttujen harhalähetteiden testin ohella yksi tärkeimmistä suoritettavista testeistä.
+Testissä testataan laitteen valmistajan laitteelle ilmoittaman ominaistaajuuden ja mitatun kantoaaltotaajuuden välistä erotusta. Taajuuksien erotuksen suurin sallittu määrä riippuu siitä, millaista kanavointia laite käyttää. Jos erotus on liian suuri, laite ei
+läpäise taajuusvirhetestiä.
+4.3.2 Conducted Average Power
+Johtumalla kulkevan kantoaallon tehon testaus suoritetaan vain sellaisille R&TTEdirektiivin mukaisille SRD-laitteille, joissa on ulkoinen antenni. Jos laitteessa on sisäänrakennettu antenni, testiä ei voida suorittaa.
+Testissä testataan laitteen yhden radiotaajuusjakson aikana lähettämää tehokeskiarvoa. Laitteen käyttämästä taajuusalueesta riippuen tehokeskiarvo saa olla yhdestä
+500:aan milliwattia.
+17
+4.3.3 Effective Radiated Power
+Säteilevän tehon testaus suoritetaan niille R&TTE-direktiivin mukaisille SRDlaitteille, joissa on sisäänrakennettu antenni. Tämä testi on taajuusvirhetestin ja eihaluttujen harhalähetteiden testin ohella yksi tärkeimmistä suoritettavista testeistä.
+Testissä testataan laitteesta säteilevää tehoa, eli sitä tehoa, joka säteilee maksimikentänvoimakkuuden suuntaan. Esimerkkikuvan dipoliantennissa rastit merkkaavat
+paikkaa, jossa on maksimikentänvoimakkuus:
+
+Kuva 4. Dipoliantennin kentänvoimakkuudet kuvaajassa (Wikipedia 2011)
+Säteilevän tehon testauksessa käytetään monia eri testauslaitteita, kuten spektrianalysaattoria/mittavastaanotinta, erilaisia testiantenneja ja signaaligeneraattoria. Säteilevää tehoa testataan kaiuttomassa testauskammiossa.
+18
+4.3.4 Spread Spectrum Modulation
+Laajaspektrimodulaatiotesti suoritetaan sellaisille R&TTE-direktiivin mukaisille
+SRD-laitteille, jotka käyttävät toiminnassaan laajaspektrimodulaatiota, esimerkiksi
+W-CDMA-laitteet. W-CDMA-laitteita ovat muun muassa matkapuhelimet.
+Testissä testataan laitteen käyttämää spektriä ja laitteen toimintaa käyttämässään
+spektrissä. Testattavat laitteet jaotellaan FHSS-laitteissin ja ei-FHSS-laitteisiin.
+FHSS-laite toimii monella eri taajuudella ”hyppien” niiden välillä. Jos laite on sekä
+FHSS- että ei-FHSS-laite, se testataan kumpanakin.
+4.3.5 Transient Power
+Hetkellisen tehon testi suoritetaan kaikille R&TTE-direktiivin mukaisille SRDlaitteille. Tämä testi on tärkeä siltä kannalta, että laitteen käyttämä teho saataisiin pysymään kyseisen laitteen käytössä eikä se karkaisi viereiseen kaistaan.
+Testissä testataan laitteen käyttämän kaistan viereiseen kaistaan ”karkaavaa” tehoa
+kytkettäessä laitetta päälle ja pois päältä. Tämä on laitteen toiminnan kannalta hukkatehoa.
+4.3.6 Adjacent Channel Power
+Viereisen kanavan tehon testi suoritetaan sellaisille R&TTE-direktiivin mukaisille
+SRD-laitteille, joiden käyttämä kaistanleveys on 25 kilohertsiä (kHz) tai alle. Tällä
+tarkoitetaan siis kapeaa kaistanleveyttä käyttäviä laitteita.
+Testissä testataan sitä tehoa, jota laitteen käyttämän kanavan viereiset kanavat (yläja alapuolella) käyttävät laitteen käyttämän kanavan käyttämään tehoon verrattuna.
+Jos laite käyttää montaa eri kanavaa, se testataan kaikilla sen käyttämillä kanavilla.
+19
+4.3.7 Modulation Bandwith
+Modulaatiokaistanleveystesti suoritetaan sellaisille R&TTE-direktiivin alaisille SRDlaitteille, joiden kaistanleveys on yli 25 kilohertsiä (kHz). Tämä tarkoittaa sellaisia
+laitteita, jotka eivät sovi viereisen kanavan tehon testiin, eli laajakaistaisia laitteita.
+Testissä testataan laajaa kaistanleveyttä käyttävien laitteiden kaistanleveyttä. Laitteen
+käyttämien taajuuksien ylä- ja alarajat testataan ja niiden erotus merkitään testin tuloksena testausraporttiin.
+4.3.8 Unwanted Emissions in the Spurious Domain
+Ei-haluttujen harhalähetteiden testi suoritetaan kaikille RTTE-direktiivin alaisille
+SRD-laitteille. Taajuusvirhetestin ja säteilevän tehon testin lisäksi tämä on yksi tärkeimmistä suoritettavista testeistä.
+Testissä testataan laitteen lähettämiä harhalähetteitä, sekä säteilemällä että johtumalla
+kulkevia. Jos laitteessa on ulkoinen antenni, sille tehdään sekä johtuvien että säteilevien harhalähetteiden testi, mutta jos laitteessa on sisäänrakennettu antenni, sille tehdään vain säteilevien harhalähetteiden testi.
+Säteilevien harhalähetteiden testaus on samanlaista kuin aiemmin tässä luvussa esitellyssä säteilevän tehon testissä. Se tapahtuu kaiuttomassa testauskammiossa.
+4.3.9 Frequency Stability under Low Voltage Conditions
+Taajuuden pysyvyyttä alhaisilla jännitearvoilla testataan vain paristokäyttöisistä
+R&TTE-direktiivin alaisista SRD-laitteista. Taajuuden pysyvyyttä onkin hyvä mitata
+paristokäyttöisistä laitteista, sillä paristojen virran vähetessä laitteen toiminta saattaa
+muuttua.
+Testissä testataan pysyykö laite sille määritellyllä kanavalla tai taajuuskaistalla laitteelle annetun jännitteen laskeutuessa alle sille määritellyn jännitealarajan kohti nol-
+20
+laa (0) volttia. Testin hyväksyttynä tuloksena pidetään sellaista tilannetta, jossa laite
+lakkaa toimimasta, kun sille syötetään tarpeeksi vähän jännitettä. Laite ei saa missään
+tilanteessa poistua käyttämältään kanavalta/taajuuskaistalta. Testissä tarvitaan säädettävää virtalähdettä, jolloin jännitettä voidaan kontrolloidusti laskea alle määritellyn
+jännitealarajan.
+4.3.10 Duty Cycle
+Duty Cycle ilmoitetaan kaikista R&TTE-direktiivin alaisista SRD-laitteista. Duty
+Cyclelle ei ole varsinaista suomenkielistä käännöstä, mutta vapaasti suomennettuna
+se tarkoittaa päällä-pois-suhdetta.
+Laitteen päällä-pois-suhteen määrittelee laitteen valmistaja. Päällä-pois-suhde tarkoittaa sitä, millä suhteella laite käyttää sille tarkoitettua kaistaa. Esimerkiksi, jos
+laite on päällä joka neljäs sekunti, sen päällä-pois-suhde on 25%. Päällä-pois-suhde
+voi laitteen käyttötarkoituksesta riippuen vaihdella SRD-laitteiden osalta 0,1%:sta
+100%:iin.
+4.4 Testauspöytäkirja ja -raportti
+Testauksen aikana on pidettävä testauspöytäkirjaa. Pöytäkirjaan suositellaan kirjattavaksi testauksessa käytettävä(t):
+- lämpötila(t)
+- jännite/jännitteet
+- ilmankosteus
+- testaustila(t)
+- testauslaite/-laitteet.
+Testien tulokset suositellaan niin ikään kirjattavaksi testauspöytäkirjaan. Testauspöytäkirjan pohjalta laaditaan testauksen jälkeen testausraportti. Testausraportin kieli on
+englanti. Testausraporttiin suositellaan kirjattavaksi kaikki testauspöytäkirjaan kirjatut asiat sekä:
+- testaajan ja testauslaitoksen nimi
+ - testauspäivämäärä
+21
+ - testattavan laitteen tiedot (nimi, malli, sarjanumero)
+ - valmistajan yhteystiedot
+ - standardi, jonka mukaan testi on suoritettu
+ - tehdyt testit ja kuvaus testausprosessista
+ - merkintä siitä, että onko testi hyväksytty vai hylätty
+ - kuvia testausprosessista.
+5 TESTAUSOPPAAN LAATIMINEN
+Osana tätä opinnäytetyötä valmistui R&TTE-direktiivin mukaisten SRD-laitteiden
+testausopas, joka tehtiin Rauman EMC-laboratoriolle. Testausopas pyydettiin laadittavaksi siksi, koska R&TTE-direktiivin mukaisesta SRD-laitteiden testauksesta ei
+ollut aiemmin olemassa suomenkielistä opasta. Niinpä opasta piti lähteä laatimaan
+tutkimalla englanninkielisiä dokumentteja.
+Testausoppaan laatimiseksi oli tutustuttava R&TTE-direktiiviin ja tutkittava sen mukaisia testejä. Aiempi tietämys EMC-testauksesta auttoi tässä asiassa. Valmiista oppaasta piti löytyä kuvaukset kymmenestä keskeisestä R&TTE-direktiivin mukaisesta
+testistä.
+Aluksi teoriapainotteinen lähestyminen tuotti stressiä, koska aiheesta ei meinannut
+saada mitään irti. Hetki hetkeltä, kun standardeihin uppoutui, asia alkoi aueta. Oppaan tekoa lähdettiin lähestymään siten, että selvitettiin testaamisessa käytettävät
+olosuhteet. Olosuhteet löytyivät standardista EN 300 220-1 V2.3.1. Olosuhteet eriteltiin oppaaseen, kuten standardeissakin ne on eritelty. Ensin esiteltiin testauksessa
+käytettävät virtalähteet yleisesti, sitten yksityiskohtaisemmin normaalien olosuhteiden mukaisen testauksen lämpötilat ja virtalähteet, sekä lopuksi ääriolosuhdetestauksessa käytettävät lämpötilat ja virtalähteet.
+Sitten havahduttiin sellaiseen ajatukseen, että oppaassa olisi hyvä olla jokin johdantokin. Niinpä etsittiin tietoa R&TTE-direktiivistä, SRD-laitteista ja harmonisoiduista
+standardeista ja niistä koottiin oppaaseen pienimuotoinen johdanto. Tämä osuus työstä oli ehkäpä se helpoin. Työn edetessä johdantoon lisäiltiin muutamia asioita.
+22
+Kun johdanto oli valmis, työn runko alkoi hahmottua selkeänä. Siihen kuuluivat johdanto, olosuhteet, testit, esimerkit, testausraportin laatimisohje ja lähteet. Seuraavaksi
+edettiin tutkimaan testejä. Alun alkaen oli sovittu, että oppaassa esiteltäisiin mahdollisimman kattavasti kymmenen keskeisintä testiä. Työn edetessä nuo alkuperäiset
+testit muuttuivat hieman; kaksi testiä muuttui kokonaan ja muutamasta muusta muuttui nimi. Tämä oli hyvä huomata suhteellisen ajoissa.
+Testeihin tutustuminen vei aikaa ja koska lähdemateriaali oli englanniksi, käännöstyö
+otti myös oman aikansa. Selkeät testit, joiden kaltaisiin oli tutustuttu jo aiemmin
+EMC-testauksen yhteydessä, olivat selkeähköjä selvittää, mutta sitten muissa oli
+useita ongelmakohtia. Tietyistä testeistä ei meinannut saada minkäänlaista informaatiota irti.
+Testeistä saatiin kirjoitettua keskeisimmät osat, jonka jälkeen siirryttiin etsimään
+esimerkkitestejä. Esimerkit auttoivat hahmottamaan testien luonnetta paremmin ja
+niiden ohessa esitetyt tulokset antoivat kuvan siitä millaisiin tuloksiin milläkin laitteella pitäisi päästä. Valitettavasti muutama testi jäi ilman esimerkkiä, niitä kun ei
+löytynyt mistään.
+Oppaan loppuun lisättiin testausraportin laatimisohje. Se on ikään kuin muistin virkistämiseksi mukana, sillä oppaan tulevat käyttäjät ovat mitä luultavimmin tehneet
+useita raportteja työuriensa varrella eivätkä näin ollen raportin teossa suurempaa
+opastusta kaipaisi. Sitä pidettiin silti hyvänä ideana, ettei opas loppuisi esimerkkitesteihin, se olisi tuntunut keskeneräiseltä. Alkuperäisissä suunnitelmissa oli tehdä jonkinlainen yhteenveto oppaan loppuun, mutta se idea hylättiin typeränä.
+Ensimmäisen versio oppaasta tuli valmiiksi noin puolitoista kuukautta ennen kuin
+lopullinen versio valmistui. Tuolloin siinä oli vielä paljon korjattavaa, sekä asiasisällön että muotoilun suhteen. Lopullinenkaan versio ei ole täydellinen, mutta siinä on
+jo paljon enemmän hyödyllistä tietoa kuin alun perin.
+23
+6 YHTEENVETO
+Aloitettaessa tätä työtä oli selvää, että kyseessä on mielenkiintoinen aihe. Nyt päästäisiin tutkimaan jotain sellaista, jota kovin moni ei ollut vielä tutkinut. Työn piti olla
+sopivan haasteellista ja siltä tämä vaikuttikin. Tutkimustyöhön lähdettiin suurella innokkuudella.
+Työn alussa kuitenkin iski epäilys, olikohan tämä sittenkin liian vaativa työ tehtäväksi? Työ aloitettiin ja huomattiin, että tekstiä kyllä syntyy. Kuinka johdonmukaista ja
+fiksua teksti sitten oli alkuun, on toinen tarina. Työn edetessä teksti muokkautui lopulliseen muotoonsa vaihe vaiheelta, vähän kerrallaan.
+Tutkimus- ja kirjoitusprosessin aikana keskusteltiin siitä, miten opasta voisi parannella ja kehittää. Ehdotuksia kuunneltiin ja opasta muokattiin sen mukaan. Oppaasta
+löytyvän tekstin tuli olla oikeaa ja luotettavaa, koska elektroniikan testaus on tarkkaa
+työtä.
+Oppaasta tuli, ei nyt niinkään syväluotaava, muttei mikään pelkkä pintaraapaisukaan
+R&TTE-direktiivin mukaisten SRD-laitteiden testaukseen. Tutkimusprosessi oli aikaa vievää toimintaa ja miltei täysipäiväistä työtä. Tutkimusta voidaan jatkaa ja varmasti jatketaankin tulevaisuudessa. Nyt tehty tutkimus ja samalla valmistunut testausopas tulevat toimimaan apuna sekä testauksessa että tutkimuksen jatkamisessa.
+24
+LÄHTEET
+ETSI:n verkkosivut. Viitattu 10.10.2011. http://www.etsi.org/
+Euroopan Komission verkkosivut. Viitattu 12.10.2011.
+http://ec.europa.eu/enterprise/sectors/rtte/index_fi.htm
+Euroopan Unionin oikeuden verkkosivut. Viitattu 12.10.2011. http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0005:FI:HTML
+Euroopan Unionin virallinen lehti. Viitattu 12.10.2011. http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2011:277:FULL:FI:PDF
+Rohde & Schwarzin verkkosivut. Viitattu 10.10.2011. https://webstore.rohdeschwarz.com/fi/r-srespi7.html
+Satakunnan ammattikorkeakoulun verkkosivut. Viitattu 10.10.2011.
+http://www.samk.fi/emc
+Viestintäviraston verkkosivut. Viitattu 12.10.2011
+http://www.ficora.fi/index/saadokset/ohjeet/radiotaajuudet/1999_5_ey.html
+Wikipedia. Viitattu 2.11.2011. http://fi.wikipedia.org/wiki/Dipoliantenni
+Williams, T. 2007. EMC for Product Designers. Cornwall: Elsevier. Viitattu
+12.10.2011
+LIITE 1 (25/64)
+
+R&TTE-TESTAUSOPAS
+SRD-LAITTEILLE
+Antti Heikura
+Satakunnan ammattikorkeakoulu
+2011
+
+LIITE 1 (26/64)
+SISÄLLYS
+1 R&TTE-DIREKTIIVISTÄ LYHYESTI...................................................................... 28
+1.1 SRD-laitteen määritelmä ...................................................................................... 30
+1.2 Harmonisoidut standardit SRD-laitteille.............................................................. 30
+1.2.1 R&TTE-direktiivin artikla 3.2...................................................................... 31
+1.3 EMC-standardit SRD-laitteille............................................................................. 32
+2 TESTAUSOLOSUHTEET .......................................................................................... 33
+2.1 Yleistä testausolosuhteista.................................................................................... 33
+2.2 Virtalähteet ........................................................................................................... 33
+2.2.1 Verkkovirta................................................................................................... 33
+2.2.2 Paristo/akku virtalähteenä............................................................................. 33
+2.3 Normaalit testausolosuhteet ................................................................................. 34
+2.3.1 Normaali testauslämpötila ja ilmankosteus .................................................. 34
+2.3.2 Normaali testausjännite eri virtalähteillä...................................................... 34
+2.4 Testaus ääriolosuhteissa ....................................................................................... 35
+2.4.1 Ääriolosuhdetestauksessa käytettävät lämpötilat ......................................... 35
+2.4.2 Ääriolosuhdetestauksessa käytettävät jänniterajat eri virtalähteille ............. 37
+3 TESTIT JA TESTIEN SOVELTUVUUS ERI LAITTEILLE..................................... 38
+3.1 Johdanto ............................................................................................................ 38
+3.2 Frequency Error (Taajuusvirhe) ........................................................................... 38
+3.3 Conducted Average Power (Johtumalla kulkeva kantoaallon teho) .................... 39
+3.4 Effective Radiated Power (Säteilevä teho)........................................................... 40
+3.5 Spread Spectrum Modulation (Laajaspektrimodulaatio) ..................................... 42
+3.6 Transient Power (Hetkellinen teho) ..................................................................... 43
+3.7 Adjacent Channel Power (Viereisen kanavan teho)............................................. 44
+3.8 Modulation Bandwidth (Modulaatiokaistanleveys) ............................................. 46
+3.9 Unwanted Emissions in the Spurious Domain (Ei-halutut harhalähetteet).......... 47
+3.10 Frequency Stability under Low Voltage Conditions (Taajuuden pysyvyys
+alhaisilla jännitearvoilla) ....................................................................................... 49
+3.11 Duty Cycle (Päällä-pois-suhde).......................................................................... 50
+4 ESIMERKKITESTEJÄ................................................................................................ 53
+4.1 Johdanto ............................................................................................................ 53
+4.2 Frequency Error (Taajuusvirhe) ........................................................................... 53
+4.3 Conducted Average Power (Johtumalla kulkeva kantoaallon teho) .................... 55
+4.4 Effective Radiated Power (Säteilevä teho)........................................................... 57
+4.5 Modulation Bandwidth (Modulaatiokaistanleveys) ............................................. 58
+4.6 Unwanted Emissions in the Spurious Domain (Ei-halutut harhalähetteet).......... 59
+LIITE 1 (27/64)
+4.7 Frequency Stability under Low Voltage Conditions (Taajuuden pysyvyys
+alhaisilla jännitearvoilla) ....................................................................................... 61
+5 TESTAUSRAPORTIN LAATIMISOHJE .................................................................. 62
+LÄHTEET....................................................................................................................... 64
+LIITE 1 (28/64)
+1 R&TTE-DIREKTIIVISTÄ LYHYESTI
+R&TTE-direktiivi 1999/5/EY (direktiivi radio- ja telepäätelaitteista ja
+niiden vaatimuksenmukaisuuden vastavuoroisesta tunnustamisesta)
+saatettiin radiolaitteiden osalta voimaan Suomessa Radiolailla
+(1015/2001) ja Viestintäviraston määräyksellä 1B/2001 M. Telepäätelaitteiden osalta direktiivi saatettiin voimaan Viestintäviraston määräyksellä 22E/2001 M.
+R&TTE-direktiivin täytäntöön panemiseksi säädetyt menettelyt astuivat
+voimaan 8.4.2000, mistä lähtien aiemman menettelyn mukaisia hyväksyntöjä ei ole enää myönnetty. Aikaisempien säännösten mukaan hyväksyttyjen laitteiden markkinoille saattamiselle annettiin siirtymäaikaa
+7.4.2001 asti.
+R&TTE-direktiivi koskee vain uusien laiteyksiköiden saattamista EUalueen markkinoille; näin ollen vanhojen menettelyjen mukaan hyväksyttyjen laitteiden käyttö ja myynti on edelleen sallittua.
+R&TTE-direktiiviä sovelletaan radio- ja telepäätelaitteisiin: radiolähettimiin, radiovastaanottimiin ja näiden yhdistelmiin sekä kiinteän televerkon telepäätelaitteisiin.
+Direktiiviä ei sovelleta:
+- kaapelointiin ja kytkentään
+- radioamatöörikäyttöön suunniteltuihin ei-kaupallisiin laitteisiin
+- laivavarusteista annetussa asetuksessa (925/1998) tarkoitettuihin
+radiolaitteisiin
+- yksinomaan yleisradiolähetysten vastaanottamiseen tarkoitettuihin
+radiovastaanottimiin, myös TV
+- ilmailuradioviestinnässä käytettäviin radiolaitteisiin
+- yleisen turvallisuuden varmistamiseen käytettäviin radio- ja telepäätelaitteisiin
+- sotilaalliseen maanpuolustukseen käytettäviin radio- ja telepäätelaitteisiin
+LIITE 1 (29/64)
+- valtion turvallisuuteen käytettäviin radio- ja telepäätelaitteisiin
+- yksinomaan rikosten selvittämisessä tai esitutkinnassa käytettäviin
+radio- ja telepäätelaitteisiin.
+R&TTE-direktiivin mukaiset laitteet ovat myös EMC-standardin
+(Electromagnetic Compatibility) alaisia laitteita, radio- ja telepäätelaitteiden EMC-vaatimukset eivät sinällään ole muuttuneet.
+Laitteiden tekniset vaatimukset on annettu pääsääntöisesti harmonisoiduissa standardeissa, joiden viitenumerot julkaistaan EU:n virallisessa
+lehdessä (http://ec.europa.eu/enterprise/sectors/electrical/emc/).
+R&TTE-direktiivissä säädetyt vaatimukset koskevat sähkömagneettista yhteensopivuutta ja radiospektrin tehokasta käyttöä.
+Radiospektrin tehokas käyttö tähtää haitallisen radiohäiriön välttämiseen. Radiohäiriön piiriin kuuluvat mm. seuraavat käsitteet:
+- harhalähetteet
+- taajuusstabiilisuus
+- rf-teho
+- viereisen kanavan teho
+- modulaatio
+- keskinäismodulaatio
+- vastaanotinvaatimukset (sovelluksesta riippuen)
+Käytännössä vaatimukset ovat sama kuin aiemmassa kansallisessa
+tyyppihyväksynnässä, jonka vaatimukset perustuivat pääosin ETSI:n
+(European Telecommunications Standards Institute) standardeihin. EUkomissio voi tämän lisäksi erikseen vahvistaa erityisvaatimuksia, jotka
+julkaistaan EU:n virallisessa lehdessä. Erityisvaatimukset perustuvat
+ETSI:n standardeihin.
+(Lähde: Viestintäviraston verkkosivut)
+LIITE 1 (30/64)
+1.1 SRD -laitteen määritelmä
+SRD -laitteella (Short Range Device) tarkoitetaan laitetta, jonka lähetysteho on usein hyvin alhainen ja näin ollen myös sen toiminta-alue ei
+ole kovinkaan laaja. Tällaisia laitteita ovat muun muassa:
+- monet kaukosäätimet
+- hälyttimet
+- langattomat kuulokkeet, mikrofonit ja (peli)ohjaimet
+- paikallisverkot (LAN)
+- RFID-tunnisteet (Radio Frequency Identification)
+(Lähde: ETSI:n verkkosivut. SRD-laitteet)
+Jos SRD-laite asetetaan myyntiin EU:n alueella, sen on täytettävä ne
+vaatimukset, jotka R&TTE-direktiivissä (1999/5/EY) on asetettu. Sen
+tulee näin ollen läpäistä ne testit, jotka on esitelty tässä oppaassa.
+1.2 Harmonisoidut standardit SRD-laitteille
+R&TTE-testauksessa käytetään harmonisoituja standardeja. Kullekin laitteelle on käyttötarkoituksensa mukaan määritelty standardi.
+Standardin mukaan määräytyvät R&TTE-testauksessa käytettävät
+testausrajat.
+Yleisimmät testattavat laitteet ovat lyhyen kantaman laitteita (SRD
+= Short Range Devices). Lyhyen kantaman laitteille tärkeimmät
+EN-standardit ovat:
+EN 300 220-2 V2.3.1
+Sähkömagneettinen yhteensopivuus ja radiospektriasiat
+(ERM); Lyhyen kantaman laitteet (SRD); Taajuusalueella
+25-1000 MHz toimivat radiolaitteet, joiden teho on enintään 500 mW; Osa 2: Yhdenmukaistettu standardi (EN),
+LIITE 1 (31/64)
+joka kattaa R&TTE-direktiivin artiklan 3.2 mukaiset
+olennaiset vaatimukset.
+EN 300 330-2 V1.5.1
+Sähkömagneettinen yhteensopivuus ja radiospektriasiat
+(ERM); Lyhyen kantaman laitteet (SRD); 9 kHz:n ja 25
+MHz:n välisellä taajuusalueella toimivat radiolaitteet ja 9
+kHz:n ja 30 MHz:n välisellä taajuusalueella toimivat kehäantennijärjestelmät; Osa 2: Yhdenmukaistettu standardi
+(EN), joka kattaa R&TTE-direktiivin artiklan 3.2 mukaiset olennaiset vaatimukset.
+EN 300 440-2 V1.3.1
+Sähkömagneettinen yhteensopivuus ja radiospektriasiat
+(ERM); Lyhyen kantaman laitteet (SRD); Taajuuskaistalla 1-40 GHz käytettävät radiolaitteet; Osa 2: Yhdenmukaistettu standardi (EN), joka kattaa R&TTEdirektiivin artiklan 3.2 mukaiset olennaiset vaatimukset. Sähkömagneettinen yhteensopivuus ja radiospektriasiat.
+(Lähde: Euroopan Unionin virallinen lehti. Harmonisoidut standardit)
+1.2.1 R&TTE-direktiivin artikla 3.2
+”Radiolaitteet on lisäksi rakennettava siten, että
+laitteistot käyttävät tehokkaasti maanpäälliseen tai
+avaruudessa tapahtuvaan radioviestintään varattua
+spektriä ja rataresursseja haitallisen häirinnän välttämiseksi.” (Euroopan Unionin virallinen lehti.
+R&TTE-direktiivi)
+LIITE 1 (32/64)
+1.3 EMC-standardit SRD-laitteille
+R&TTE-testauksessa täytyy ottaa huomioon myös kaikille elektronisille laitteille pakolliset EMC-vaatimukset. Harmonisoiduista standardeista löytyy standardit tällekin osalle testausta. Tärkeimmät standardit
+ovat:
+EN 301 489-1 V1.8.1
+Sähkömagneettinen yhteensopivuus ja radiospektriasiat
+(ERM); Sähkömagneettinen yhteensopivuusstandardi
+(EMC) radiolaitteille ja -järjestelmille; Osa 1: Yleiset tekniset vaatimukset
+EN 301 489-3 V1.4.1
+Sähkömagneettinen yhteensopivuus ja radiospektriasiat
+(ERM), sähkömagneettinen yhteensopivuusstandardi
+(EMC) radiolaitteille ja järjestelmille; Osa 3: Erityisehdot
+lyhyen kantaman laitteille (SRD) taajuusalueella 9 kHz –
+40 GHz
+Muutkin EN 301 489 -perheen standardit on tapauskohtaisesti sovellettavissa laitteen EMC-testaukseen, mutta yllämainitut ovat kaksi tärkeintä SRD-laitteiden testauksessa.
+EMC-testaus eroaa SRD-laitteiden R&TTE-testauksesta siten, että siinä
+testataan RF-linkillisen laitteen yleistä toimintakykyä, se ei keskity laitteen käyttämän spektrin käytön testaukseen. EMC-testauksessa testataan muun muassa laitteen toimintaa sähkömagneettisessa kentässä tietyillä taajuuksilla, nopeita jännitepulsseja, jännitehäviöitä ja radiotaajuutta.
+(Lähde: Euroopan Unionin virallinen lehti. Harmonisoidut standardit)
+LIITE 1 (33/64)
+2 TESTAUSOLOSUHTEET
+Tässä luvussa esitellyt testausolosuhteet ovat ETSI:n EN-standardin
+300 220-1 V2.3.1 mukaisia.
+2.1 Yleistä testausolosuhteista
+- Testaus tulee aina suorittaa normaaleissa testiolosuhteissa. Laitteen
+käyttötarkoituksesta ja valmistajan toiveesta riippuen päätetään suoritetaanko testaus myös ääriolosuhteissa.
+- Testeissä käytettävä virtalähde määräytyy siten, että jos laite voi käyttää virtalähteenään sekä verkkovirtaa että paristoa/akkua, se testataan
+määritellyissä olosuhteissa ensin käyttäen verkkovirtaa, sitten testi uusitaan käyttäen paristoa/akkua.
+- Testeissä käytetty virtalähde tulee aina merkitä testausraporttiin.
+2.2 Virtalähteet
+2.2.1 Verkkovirta
+
+- Testauksessa on käytettävä säädettävää virtalähdettä, jolla saadaan
+tuotettua sekä normaalien että ääriolosuhteiden mukaisia jännitearvoja.
+Käytetyn virtalähteen sisäisen impedanssin tulee olla niin pieni, ettei se
+vaikuta testituloksiin.
+- Testauksessa jännite tulee mitata laitteen sisääntuloportin (input terminal) kohdalta. Säteilymittauksissa kaikki ulkoiset virtalähteiden johdot tulee järjestää niin, etteivät ne vaikuta testitulokseen.
+- Testauksen aikana jännite ei saa vaihdella enempää kuin ±1%.
+2.2.2 Paristo/akku virtalähteenä
+- Testauksessa tulee käyttää täyteen ladattuja paristoja/akkuja. Käytettävät paristot/akut päättää ja/tai toimittaa testipaikalle testauksen tilaaja
+eli laitteen valmistaja.
+LIITE 1 (34/64)
+- Jokaisen testin lopussa jännitteen tulee olla vaihdellut enintään ±5%
+testin alussa mitatusta ja määritellystä jännitteestä. Kaikista poikkeavuuksista tulee tehdä merkintä testausraporttiin.
+- Pariston/akun voi tarvittaessa korvata verkkovirralla, kunhan testauksessa käytetyt jännitteet ovat samat kuin työn tilaajan määrittelemällä
+paristolla/akulla.
+2.3 Normaalit testausolosuhteet
+
+2.3.1 Normaali testauslämpötila ja ilmankosteus
+
+- Testauksessa voidaan käyttää mitä tahansa rajojen sisältä löytyvää
+lämpötila + ilmankosteus –yhdistelmää.
+ - Rajat ovat:
+ - Lämpötila: +15°C - +35°C
+ - Suhteellinen ilmankosteus: 20% - 75%
+- Jos on epäkäytännöllistä suorittaa testausta näiden rajojen sisällä, testausraporttiin tulee merkata millä olosuhteilla testi suoritettiin ja on lisäksi kirjattava ympäröivän ilmanalan lämpötila ja suhteellinen ilmankosteus.
+2.3.2 Normaali testausjännite eri virtalähteillä
+- Verkkovirta: Normaalisti testauksessa käytetään normaalia verkkovirtaa, jonka jännite on 230V.
+- Akku: Jos laite käyttää virtalähteenään akkua, testissä käytettävä jännite saadaan kertomalla akun ominaisjännite 1,1:llä ja testata näin saadulla jännitteellä (esim. 6 V*1,1 = 6,6 V).
+- Muut virtalähteet: Jos laitteen virtalähteenä käytetään muuta kuin
+verkkovirtaa tai akkua, laitteen valmistajan tulee määritellä testausjännite ja testauslaboratorion tulee hyväksyä se. Määritelty testausjännite
+merkitään testausraporttiin.
+LIITE 1 (35/64)
+2.4 Testaus ääriolosuhteissa
+2.4.1 Ääriolosuhdetestauksessa käytettävät lämpötilat
+
+- Ennen testauksen alkua: Laitteen tulee saavuttaa lämpötasapaino lämpökaapissa. Laitteen tulee olla pois päältä lämpötilan tasaamisen aikana. Lämpökaapin ilmankosteus tulee tarkastaa testauksen, ettei testauksen aikana synny epätoivottavaa ylimääräistä kondensoitumista. Jos
+laitteessa itsessään on lämpötilan tasapainottavia piirejä, nämä piirit tulee kytkeä testauksen alussa pois päältä ja kytkeä takaisin päälle 15 minuuttia testauksen alkamisesta.
+- Äärilämpötilarajat:
+Joko:
+1) laitteen valmistajan määrittelemät rajat
+tai
+ 2) laitteen käyttötarkoituksesta riippuen yksi seuraavista rajoista:
+a) Yleinen laite: -20°C - +55°C
+b) Siirreltävä laite: -10°C - +55°C
+c) Normaaliin sisäkäyttöön tarkoitettu laite: +5°C - +35°C
+
+ - Testausraportissa tulee olla merkintä siitä, mitä lämpötilarajoja on käytetty.
+
+- Testausmenetelmät ovat erilaiset jatkuvasti päällä oleville laitteille ja
+sellaisille laitteille, jotka ovat välillä standby- tai off-tilassa.
+- Jatkuvasti päällä olevien laitteiden äärilämpötilatestaus:
+- Äärilämpötilan ylärajaa testatessa laite tulee asettaa
+lämpökaappiin ja tasata sen lämpötila. Tämän jälkeen laite tulee kytkeä lähetystilaan (päälle) puoleksi tunniksi (30
+min.), jonka jälkeen lämpökaapin lämpötilan tulee olla
+määritellyllä ylärajalla.
+- Äärilämpötilan alarajaa testatessa laite tulee asettaa
+lämpökaappiin ja tasata sen lämpötila. Tämän jälkeen lai-
+LIITE 1 (36/64)
+te tulee kytkeä lähetystilaan (päälle) yhdeksi (1) minuutiksi, jonka jälkeen lämpökaapin lämpötilan tulee olla
+määritellyllä alarajalla.
+ - Laitteiden, jotka ovat välillä stand by- tai off -tilassa, äärilämpötilatestaus:
+ - Laite tulee asettaa lämpökaappiin ja tasata sen lämpötila.
+- Äärilämpötilojen ylärajaa testatessa menetellään tämän
+jälkeen seuraavasti:
+- Laite tulee asettaa valmistajan määrittelemään duty cycleen ja käyttää laitetta päällä
+viiden (5) minuutin ajan, jonka jälkeen laite
+sammutetaan viideksi (5) minuutiksi ja annetaan lämpötilan saavuttaa määritelty yläraja.
+TAI
+- Jos valmistajan määrittelemä laitteen kerrallaan ”päällä”-tilassa oleva aika ylittää yhden (1) minuutin, laite tulee laittaa päälle alle yhdeksi (1) minuutiksi, jonka jälkeen se
+asetetaan stand by -tilaan neljäksi (4) minuutiksi. Tämän jälkeen lämpötilan annetaan saavuttaa määritelty yläraja.
+- Äärilämpötilojen alarajaa testatessa menetellään lämpötilan tasauksen jälkeen seuraavasti:
+- Laite asetetaan stand by- tai vastaanottavaan (recieving mode) tilaan yhdeksi (1)
+minuutiksi. Tämän jälkeen lämpötilan annetaan saavuttaa määritelty alaraja.
+LIITE 1 (37/64)
+2.4.2 Ääriolosuhdetestauksessa käytettävät jänniterajat eri virtalähteille
+- Verkkovirta: Laite tulee testata jännitteellä, joka on ±10% normaalista
+verkkovirrasta, eli 0,9*230 V = 207 V ja 1,1*230 V = 253 V.
+- Akku: Kuten normaaleissa testiolosuhteissa testatessakin, mutta akun
+jännite tulee tässä kertoa 1,3:lla ja 0,9:llä. ”Gel-cell” -tyyppisissä akuissa kertoimet ovat 1,15 ja 0,85.
+- Erikoistapauksia: Testauksessa käytettävä alaraja Leclanché- ja litium-paristoa virtalähteenään käyttäville laitteille saadaan kertomalla pariston ominaisjännite 0,85:llä. Nikkeli-kadmium-paristoa käyttäville
+laitteille alaraja saadaan kertomalla pariston ominaisjännite 0,9:llä. Ylärajoina näissä erikoistapauksissa käytetään pariston ominaisjännitettä.
+- Muut: Ääriolosuhteet tulee sopia laitteen valmistajan ja testauslaboratorion kesken. Määritellyt rajat tulee merkitä testausraporttiin.
+(Lähde lukuun 2: EN 300 220-1 V2.3.1)
+LIITE 1 (38/64)
+3 TESTIT JA TESTIEN SOVELTUVUUS ERI LAITTEILLE
+3.1 Johdanto
+- Tässä luvussa käsitellään ETSI:n standardin EN 300 220-1 mukaisia
+testejä. Luvussa esitellään kymmenen testiä: kerrotaan, millaisille laitteille testit tulee suorittaa, mitä laitteita testeissä käytetään ja annetaan
+lyhyt kuvaus siitä, kuinka testausprosessin tulisi edetä. Luvussa neljä
+on esimerkit kustakin testistä, joten sieltä saa käytännönläheistä lisätietoa testeistä.
+R&TTE-direktiivin mukaisessa testauksessa on tärkeää, että testit tehdään oikein ja niistä saadaan hyväksytty tulos. Oppaan tämä luku antaa
+tukea testaamisprosessissa.
+3.2 Frequency Error (Taajuusvirhe)
+- Taajuusvirheellä tarkoitetaan valmistajan laitteelle määrittelemän ja
+ilmoittaman ominaistaajuuden ja mitatun, moduloimattoman, kantoaallon taajuuden välistä erotusta.
+Millaisille laitteille testi suoritetaan?
+Taajuusvirhetesti suoritetaan kaikille R&TTE-direktiivin mukaisille
+RF-linkin sisältäville laitteille. Taajuusvirhetesti on yksi tärkeimmistä
+R&TTE-laitteiden testeistä. Laitteen käytössä ei saa ilmetä virheitä eri
+testausolosuhteissa enempää kuin ETSIn EN-standardien mukaan on
+sallittua.
+Mitä laitteita testauksessa käytetään?
+1) Spektrianalysaattori
+LIITE 1 (39/64)
+Miten testataan?
+- Laite testataan normaalioloissa ja valmistajan määrittämän käyttötarkoituksen mukaisissa äärioloissa. Olosuhteet merkitään testauspöytäkirjaan.
+- Laitteen moduloimaton kantoaalto mitataan spektrianalysaattorilla.
+Kantoaalto mitataan kaikissa eri testiolosuhteissa. Testaustulokset
+merkitään testauspöytäkirjaan.
+- Testauspöytäkirjaan merkitään myös valmistajan antama, testissä
+käytettävä ominaistaajuus.
+- Mitattua kantoaaltotaajuutta verrataan ominaistaajuuteen ja erotukset
+merkitään testauspöytäkirjaan.
+- Rajat löytyvät standardeista (EN 300 220-1 V2.3.1, luku 7.1.3).
+3.3 Conducted Average Power (Johtumalla kulkeva kantoaallon teho)
+- Testissä testataan yhden radiotaajuusjakson aikaista tehokeskiarvoa,
+joka laitteesta lähtee (50Ω:n impedanssi).
+Millaisille laitteille testi suoritetaan?
+Testi suoritetaan sellaisille R&TTE-direktiivin alaisille laitteille, joissa on ulkoinen antenniliitin (permanent external antenna connector).
+Jos laitteessa on sisäänrakennettu antenni, testiä ei suoriteta.
+Mitä laitteita testissä käytetään?
+1) Spektrianalysaattori (50 Ω:n impedanssi)
+LIITE 1 (40/64)
+Miten testataan?
+- Testaus tapahtuu sekä normaaliolosuhteissa että valmistajan laitteelle määrittämissä käyttötarkoituksen mukaisissa ääriolosuhteissa. Käytetyt olosuhteet merkitään testauspöytäkirjaan.
+- Laitteen radiolähetin kytketään spektrianalysaattoriin (50 Ω:n impedanssi). Eri taajuuksilla toimivilla laitteilla on eri rajat, joiden sisälle
+testauksella pitäisi päästä. Rajat löytyvät standardeista (EN 300 220-1
+V2.3.1, luku 7.2.3).
+- Saadut tulokset merkitään testauspöytäkirjaan.
+3.4 Effective Radiated Power (Säteilevä teho)
+- Testissä testataan sitä tehoa, joka säteilee maksimikentänvoimakkuuden suuntaan. Kullekin modulaatiolle on oma mittaustekniikkansa. Jos
+laite on suunniteltu toimivaksi monin eri kantoaallon tehoin, laitteen
+valmistajan tulee määritellä teho, jonka mukaan laitetta testataan.
+Millaisille laitteille testi suoritetaan?
+Kaikille R&TTE-direktiivin alaisille RF-linkillisille laitteille, joissa
+on sisäänrakennettu antenni.
+Mitä laitteita testissä käytetään?
+1) Spektrianalysaattori/mittavastaanotin
+2) Signaaligeneraattori
+3) Korvikeantenni (substitution antenna)
+4) Testausantenni
+5) Kaiuton testauskammio/-huone
+LIITE 1 (41/64)
+Miten testataan?
+- Testi suoritetaan kaiuttomassa testauskammiossa/-huoneessa.
+- Testiantenni kytketään mittavastaanottimeen.
+- Testattava laite asetetaan testauspöydälle kolmen (3) metrin päähän
+testiantennista. Testiantennin tyyppi valitaan siten, että se sopii testattavan laitteen taajuusalueeseen. Testiantenni viritetään ensin pystysuuntaisen polarisaation mukaan (EN 300 220-1 V.2.3.1, liite
+A.1.1).
+- Testattava laite kytketään päälle ja spektrianalysaattorilla haetaan
+laitteen käyttämä taajuus. Taajuus kirjataan testauspöytäkirjaan.
+- Testattavaa laitetta (tai testauspöytää) pyöritetään 360° ja etsitään
+maksimisignaalitaso. Tämä kirjataan testauspöytäkirjaan.
+- Testattava laite korvataan korvikeantennilla (substitution antenna/dipoli).
+- Korvikeantenni kytketään kalibroituun signaaligeneraattoriin.
+- Korvikeantenni asetetaan testauspöydälle ja signaaligeneraattorilla
+korvikeantennille syötetään testattavan laitteen taajuutta vastaavaa
+signaalia. Täten saadaan spektrianalysaattorista näkyviin maksimisignaalitaso, jota laite käyttää.
+- Signaaligeneraattorista nähdään tehotaso, jolla maksimisignaalitaso
+saatiin näkyviin. Tämä merkitään testauspöytäkirjaan tehotasona.
+- Tuloksia kirjattaessa on otettava huomioon testauslaitteiden antennivahvistukset (dipoliantennissa ei ole) ja kaapelivaimennukset (Kuva
+1).
+- Testi toistetaan siten, että testi- ja korvikeantennit ovat viritetty vaakasuuntaisen polarisaation mukaan.
+- Testeistä saaduista tehoarvoista suurempi merkitään testauspöytäkirjaan ja -raporttiin tehotasona.
+- Rajat löytyvät standardeista (EN 300 220-1 V2.3.1, luku 7.3.3).
+LIITE 1 (42/64)
+Kuva 1. kuvaus Effective Radiated Power -testauksen kulusta substitution antennan kanssa, kuvassa
+on esitetty myös testin tuloksia laskettaessa huomioon otettavat kaapelivaimennus ja antennivahvistus
+3.5 Spread Spectrum Modulation (Laajaspektrimodulaatio)
+- Testissä testataan joko FHSS-laitteita (Frequency Hopping Spread Spectrum devices) tai ei-FHSS-laitteita. FHSS-laitteella tarkoitetaan laitetta, joka toimii monella eri
+taajuudella ja ”hyppii” niiden välillä. Jos laite toimii sekä FHSS-laitteena että eiFHSS-laitteena, testataan se kumpanakin. Testin tarkoitus on selvittää miten laite
+toimii käyttämässään spektrissä, eli pysyykö se standardeissa määritellyissä rajoissa
+(EN 300 220-1 V2.3.1, luvut 7.4.1.3 ja 7.4.2.2).
+Millaisille laitteille testi suoritetaan?
+Sellaisille laitteille, jotka käyttävät laajaspektrimodulaatiota, esimerkiksi W-CDMA-laitteet (Wide-band Code-Division Multiple Access).
+Mitä laitteita testauksessa käytetään?
+1) Spektrianalysaattori
+ 2) Kaiuton testauskammio/-huone
+LIITE 1 (43/64)
+Miten testataan?
+- Jos kyseessä on FHSS-laite, sitä testataan testin 3.3 mukaisesti kiinnittämällä laite spektrianalysaattoriin ja tarkkaillaan pysyykö se standardeissa määrätyissä rajoissa (EN 300 220-1 V2.3.1, luku 7.4.1.3)
+kaistallaan. FHSS-laite saa hyppiä taajuudeltaan, mutta vain rajojen
+sallimalla alueella.
+- FHSS-laitetta testataan standardeista (EN 300 220-1 V2.3.1, luku
+6.1.3) löytyvien kriteerien mukaan: laitteen valmistaja kertoo minkä
+taajuuksien välillä laite saa ”hyppiä” ja testi suoritetaan niiden mukaan.
+- Jos kyseessä on ei-FHSS-laite, testataan laitteen säteilytehoa testin
+3.4 (ERP) mukaisesti kaiuttomassa testikammiossa/-huoneessa tietyillä taajuusalueilla, jotka on määritelty standardeissa (EN 300 220-1
+V2.3.1, luku 7.4.2.2).
+3.6 Transient Power (Hetkellinen teho)
+- Testissä testataan tehoa, joka ”karkaa” viereiseen kaistaan, kun laite kytketään päälle/pois päältä, eli laitteen kannalta hukkatehoa.
+Millaisille laitteille testi suoritetaan?
+Kaikille RF-linkillisille laitteille, joita R&TTE-direktiivi koskee.
+Mitä laitteita testauksessa käytetään?
+1) Spektrianalysaattori
+2) Signaaligeneraattori
+ 3) Kaiuton testauskammio/-huone
+LIITE 1 (44/64)
+Miten testataan?
+- Moduloitu testisignaali (signaali, joka moduloi kantoaaltoa) syötetään laitteelle. Käytetty modulaatio merkitään testauspöytäkirjaan.
+- Laite kiinnitetään spektrianalysaattoriin (josta pitää löytyä quasi
+peak -tunnistin). Analysaattorin kaistaksi asetetaan 120 kHz.
+- Sitten laitetta käytetään päällä ja pois päältä vähintään viisi (5) kertaa 60 sekunnin aikana (päällä- ja pois päältä -ajat saisivat mielellään
+olla yli yksi (1) sekunti kerrallaan). Saadut tehotasot mitataan viereisistä näkyvistä kanavista ja kirjataan testauspöytäkirjaan.
+- Jos tässä vaiheessa 120 kHz:n kaistan maksimiteho 60 sekunnin mittausajan aikana ylittää standardeissa määritellyn rajan (EN 300 220-1
+V2.3.1, luku 7.8.3), niin jatketaan testausta, mutta jos ei, testaus jätetään tähän ja tehoarvot kirjataan lopulliseen testausraporttiin.
+- Tehoarvojen ylittyessä jatkotestaus tapahtuu seuraavasti: laitetta testataan 60 sekuntia kuten ennenkin, mutta laitetta ei käytetä pois päältä. Tässä testauksessa tehoarvot eivät saa ylittää standardeissa (EN
+300 220-1 V2.3.1, luku 7.5.3) määriteltyjä rajoja.
+3.7 Adjacent Channel Power (Viereisen kanavan teho)
+- Testissä testataan tehoa, jota laitteen käyttämän kanavan viereiset kanavat (ylä- ja
+alapuolella, sama kaistanleveys kuin testattavalla laitteella) käyttävät laitteen käyttämän kanavan käyttämään tehoon verrattuna.
+Millaisille laitteille testi suoritetaan?
+Kapeaa kaistanleveyttä (25 kHz tai alle) käyttäville laitteille.
+Mitä laitteita testauksessa käytetään?
+1) Spektrianalysaattori/mittavastaanotin
+2) Signaaligeneraattori
+LIITE 1 (45/64)
+Miten testataan?
+- Jos testattava laite on FHSS-laite, olosuhteet katsotaan standardeista
+(EN 300 220-1 V2.3.1, luku 6.1.3).
+- Testattavaa laitetta moduloidaan hyväksytyllä moduloidulla testisignaalilla (EN 300 220-1 V2.3.1, luku 6.1).
+- Testissä testataan johtumalla kulkevaa tehoa. Laite kytketään spektrianalysaattoriin ja signaaligeneraattoriin kuvan 2 mukaisesti.
+
+Kuva 2. Adjacent Channel Power -testaus
+- Lähettimen ulostuloliitäntä (output) tulee kytkeä spektrianalysaattorin sisäänmenoliitäntään (input) 50Ω:n vaimennuksen kautta (50Ω
+power attenuator), jotta laitteen impedanssi olisi varmasti 50Ω.
+- Varsinainen testaus (kun laite on kytketty testauslaitteisiin kuvan 2
+osoittamalla tavalla) etenee seuraavin vaihein:
+1) Laitetta operoidaan normaalilla kantoaallon teholla.
+2) Laitteelle syötetään moduloimatonta kantoaaltosignaalia. Mittavastaanotinta/spektrianalysaattoria viritetään siten, että laitteelta saadaan
+maksimivaste (maximum response), eli 0 dB-piste, näkyviin. Mittavastaanottimesta/spektrianalysaattorista kirjataan tämä piste testauspöytäkirjaan.
+3) Mittavastaanottimen/spektrianalysaattorin taajuutta säädetään siten,
+että lähin kantoaallon yläpuolinen -6 dB -vaste (-6 dB response) on
+standardeista löytyvän taulukon (EN 300 220-1 V2.3.1, luku 7.6.2,
+LIITE 1 (46/64)
+taulukko 8) mukaisesti kanavoinnista ja kaistanleveydestä riippuen
+tietyn ”matkan” päässä testattavan laitteen käyttämästä kanavasta
+(displacement of the -6 dB point from the nominal carrier frequency).
+4) Tämän jälkeen laitteelle syötetään moduloitua testisignaalia (EN
+300 220-1 V2.3.1, luku 6.1).
+5) Mittavastaanottimen/spektrianalysaattorin muunneltavaa vaimenninta säädetään siten, että saadaan näkyviin sama 0 dB -vaste kuin
+kohdassa 2.
+6) Verrataan kohdissa 2 ja 5 mittavastaanottimella/spektrianalysaattorilla saatuja arvoja. Niiden erotus on sama kuin
+viereisen kanavan tehon suhde kantoaallon tehoon.
+- Testi toistetaan siten, että kohdassa 3 etsitään ensimmäinen kantoaallon alapuolinen -6 dB -vaste (-6 dB response).
+- Testin tuloksiksi merkitään sekä ylä- että alapuolista kanavaa testatessa kohdassa 6 saaduista kahdesta arvosta se korkeampi.
+3.8 Modulation Bandwidth (Modulaatiokaistanleveys)
+- Testissä testataan laajaa taajuuskaistaa (yli 25 kHz), eli niitä, joille ei tehdä testiä
+3.7, käyttävien laitteiden kaistanleveyttä.
+Millaisille laitteille testi suoritetaan?
+Niille R&TTE-direktiivin alaisille laitteille, jotka eivät sovi testissä
+3.7 testattavien laitteiden ETSI:n EN-standardien rajoihin.
+Kuten testissä 3.7, myös tässä testissä on tärkeää, että valmistajan
+määrittämien rajojen sisäpuolella pysytään kaikissa olosuhteissa.
+Muuten laitteet, jotka käyttävät samaa kaistan-/kanavanleveyttä voivat
+häiritä toisiaan.
+LIITE 1 (47/64)
+Mitä laitteita testauksessa käytetään?
+1) Spektrianalysaattori.
+Miten testataan?
+- Jos laitteessa on ulkoinen antenniliitin, laite kytketään
+spektrianalysaattoriin (50 Ω:n impedanssi).
+- Jos laitteessa on sisäänrakennettu antenni, sitä testataan standardeista
+ löytyvän testiasetelman mukaisesti (EN 300 220-1 V2.3.1, luku
+ 6.1.3)
+- Testattavaa laitetta käytetään (riippuen onko laitteessa ulkoinen antenniliitin vai sisäänrakennettu antenni) joko testissä 3.3 (ulkoinen) tai
+3.4 (sisäänrakennettu) mitatulla kantoaallon teholla. Laitetta moduloidaan normaalilla testisignaalilla.
+- Laitteen käyttämien taajuuksien ylä- ja alarajat merkitään testauspöytäkirjaan. Näiden erotus, eli testattava asia, merkitään niin ikään
+testauspöytäkirjaan.
+- Myös laitteen valmistajan määrittämät lähetystehon vaihtelurajat
+merkitään testauspöytäkirjaan.
+- Rajat löytyvät standardeista (EN 300 220-1 V2.3.1, luku 7.7.3).
+3.9 Unwanted Emissions in the Spurious Domain (Ei-halutut harhalähetteet)
+- Testissä testataan laitteen lähettämiä harhalähetteitä, siis muita, kuin
+laitteelle määriteltyjä taajuuksia ja niiden rinnakkaiskanavataajuuksia.
+Millaisille laitteille testi suoritetaan?
+Kaikille R&TTE-direktiivin alaisille RF-linkillisille laitteille.
+LIITE 1 (48/64)
+Mitä laitteita testauksessa käytetään?
+1) Spektrianalysaattori/mittavastaanotin
+2) Signaaligeneraattori
+3) Korvikeantenni (substitution antenna)
+4) Testausantenni
+5) Kaiuton testauskammio/-huone
+Miten testataan?
+- Riippuen siitä, onko laitteessa ulkoinen vai sisäänrakennettu antenni, testataan joko johtuvia että säteileviä harhalähetteitä.
+- Jos testattava laite käyttää pulssikoodimodulaatiota, mittavastaanottimen quasi-peak-detektorin pitää olla asetettu CISPR 16:n spesifikaation mukaan.
+- Jos laitteen taajuus ylittää 1000 MHz:n rajan, mittaus tulee suorittaa
+spektrianalysaattorilla. Tällöin tulee käyttää spektrianalysaattorin
+”max hold” –toimintoa.
+- Laitteelle, jossa on ulkoinen antenniliitin (external antenna connector), tehdään sekä johtuvien että säteilevien harhalähetteiden testit a) ja
+b):
+a) Johtuvat harhalähetteet:
+- Laite kytketään spektrianalysaattoriin (50 Ω:n impedanssi).
+- Jos laitteen käyttämä taajuus on alle 470 MHz, sitä testataan
+taajuusalueella 9 kHz - 4 GHz.
+- Jos laitteen käyttämä taajuus on yli 470 MHz, sitä testataan
+taajuusalueella 9 kHz - 12,75 GHz.
+- Laite kytketään päälle ja etsitään spektrianalysaattorin avulla
+harhalähetteitä määritellyltä taajuusalueelta. Joka taajuudelta,
+josta löytyy harhalähetteitä, merkitään testauspöytäkirjaan lähetteen tehotaso.
+- Rajat löytyvät standardeista (EN 300 220-1 V2.3.1, luku
+7.8.3).
+LIITE 1 (49/64)
+b) Säteilevät harhalähetteet:
+- Testausprosessi jäljittelee testiä 3.4 (Effective Radiated Power), mutta laitteeseen kytketään testattaessa artificial antenna
+(EN 300 220-1 V2.3.1, luku 6.2).
+- Jos laitteen käyttämä taajuus on alle 470 MHz, sitä testataan
+taajuusalueella 25 MHz - 4 GHz.
+- Jos laitteen käyttämä taajuus on yli 470 MHz, sitä testataan
+taajuusalueella 25 MHz - 12,75 GHz.
+- Testauspöytäkirjaan merkitään löydettyjen harhalähetteiden
+tehotasot.
+- Rajat löytyvät standardeista (EN 300 220-1 V2.3.1, luku
+7.8.3).
+- Sisäänrakennetulle antennille tehdään vain säteilevien harhalähetteiden testi c):
+c) Säteilevät harhalähetteet:
+- Testausprosessi on samanlainen kuin testissä 3.4 (Effective
+Radiated Power).
+3.10 Frequency Stability under Low Voltage Conditions (Taajuuden pysyvyys alhaisilla jännitearvoilla)
+- Testissä testataan laitteen pysymistä sille määrätyllä kanavalla/taajuuskaistalla laitteen saaman jännitteen laskeutuessa alle määritellyn jännitealarajan (kohti 0 V).
+Millaisille laitteille testi suoritetaan?
+Vain paristokäyttöisille, RF-linkillisille R&TTE-direktiivin alaisille
+laitteille.
+
+LIITE 1 (50/64)
+Mitä laitteita testauksessa käytetään?
+1) Spektrianalysaattori
+2) Ulkoinen säädettävä virtalähde
+Miten testataan?
+- Laite kytketään spektrianalysaattoriin ja ulkoiseen, säädettävään virtalähteeseen.
+- Virtalähteestä annetaan valmistajan laitteelle määrittelemän jännitealarajan mukaista jännitettä ja lähdetään pudottamaan annettua jännitettä kohti nollaa (0) volttia (V).
+- Spektrianalysaattorilla tarkkaillaan, koska joko:
+a) laite ei pysy kanavallaan tai laitteen käyttämä taajuus alkaa heitellä
+siltä taajuuskaistalta, joka sille on määritelty (rajat löytyvät standardeista, EN 300 220-1 V2.3.1, luku 7.1.3) tai
+b) laite ei toimi, koska jännite on liian alhainen.
+- Testissä testataan pysyykö laite sille määritellyllä kanavalla tai taajuuskaistalla laitteelle annetun jännitteen laskeutuessa alle sille määritellyn jännitealarajan. Testin läpäistääkseen laite ei saa poistua käyttämältään kaistalta, vaikka jännite tippuisi. Laite voi lakata toimimasta, kun jännite putoaa tarpeeksi alhaiseksi. Testin hyväksytty tulos on
+siis, että laite pysyy kaistallaan, mutta jännitteen ollessa tarpeeksi alhainen, laite lakkaa toimimasta.
+- Testin tulos ja käytetyt rajat merkitään testauspöytäkirjaan.
+3.11 Duty Cycle (Päällä-pois-suhde)
+Duty cycle tarkoittaa laitteen maksimaalista päälläoloajan suhdetta reaalisesti kuluvaan aikaan. Reaalinen aika johon verrataan, on yksi (1) tunti, eli 60 minuuttia. Laitteen valmistaja määrittelee mihin duty cycle -luokkaan testattava laite kuuluu (EN
+300 220-1 V2.3.1, luku 7.2.3).
+LIITE 1 (51/64)
+Laitteen valmistajan tulee muutenkin tuoda ilmi miten laitetta on tarkoitus käyttää.
+Laitteen toiminnasta on myös kerrottava; onko kyseessä automaattisesti toimiva laite
+vai pitääkö sen jotain painiketta painaa.
+Laitteen duty cycle tarkoittaa siis sitä, millä prosentilla laite käyttää sille tarkoitettua
+kaistaa. Duty cycle voi vaihdella laitteesta riippuen 0,1%:sta 100%:iin.
+Duty cycle ei ole niinkään testattava asia, vaan laitteen valmistaja kertoo testaajalle
+mikä duty cycle -luokka laitteella on. Testausraporttiin merkitään tieto laitteen duty
+cycle -luokasta.
+Duty cyclen voi varmentaa esimerkiksi oskilloskoopilla, jonka avulla tarkkaillaan
+laitteen RF-signaalin toimintaa. Kuvassa kaksi (2) on graafinen esitys laitteen, jonka
+duty cycle on 50%, toiminnasta.
+Millaisille laitteille duty cycle määritellään?
+Kaikille R&TTE-direktiivin alaisille RF-linkillisille laitteille.
+Mitä laitteita määrittelyssä voidaan käyttää?
+ 1) Oskilloskooppi
+LIITE 1 (52/64)
+Kuva 2. kuvaaja laitteen, jonka duty cycle on 50%, toiminnasta
+(Lähde lukuun 3: EN 300 220-1 V2.3.1)
+LIITE 1 (53/64)
+4 ESIMERKKITESTEJÄ
+4.1 Johdanto
+Tässä luvussa esitellään jokaisesta luvussa kolme (3) esitellystä testistä yksi
+esimerkki. Testit on tehty erilaisille laitteille ja joka esimerkin alussa on esitelty
+testattava laite sekä testissä käytetyt muut parametrit, kuten esimerkiksi testauslämpötila.
+4.2 Frequency Error (Taajuusvirhe)
+Laite: ilmastointilaitteen kaukosäädin, sisäinen antenni (EN 300 220-1 V2.3.1)
+Käyttötarkoitus: säätää ilmastointilaitteen asetuksia langattomasti
+Lämpötilarajat: normaali lämpötila: 23°C
+ äärilämpötilat: 0°C ja 55°C
+Suhteellinen ilmankosteus: 23%
+Jänniterajat: normaali jännite: 3,6 V
+ ääriolosuhteiden jännitteet: 3,44 V ja 4,68 V
+Testaus
+Ensin laite testataan normaalilämpötilassa normaalilla testausjännitteellä (23°C
+ja 3,6 V). Laite kytketään spektrianalysaattoriin ja sen taajuus mitataan (taajuuskaistana käytetään 100 kHz). Tulos merkitään testauspöytäkirjaan.
+Tämän jälkeen testi toistetaan äärilämpötiloissa ja äärijännitteillä. Tulokset
+merkitään testauspöytäkirjaan.
+LIITE 1 (54/64)
+Taulukko 1. testaustuloksia (Frequency Error)
+Tn = normaalilämpötila
+Tmin = äärilämpötilan alaraja
+Tmax = äärilämpötilan yläraja
+Vn = normaalijännite
+Vmin = äärijännitteen alaraja
+Vmax = äärijännitteen yläraja
+Taajuusvaihtelu on ääriolosuhteilla mitatun taajuuden ja normaaliolosuhteissa
+mitatun taajuuden välinen erotus. Taajuusvaihtelu ei saa olla suurempi kuin
+määritelty raja (100 ppm). Rajat löytyvät standardeista (EN 300 220-1 V2.3.1,
+luku 7.3.1).
+LIITE 1 (55/64)
+4.3 Conducted Average Power (Johtumalla kulkeva kantoaallon teho)
+Laite: 802,11g 54 Mbps ADSL Modem Router (EN 300 220-1 V2.3.1)
+Laitteen käyttötarkoitus: langaton modeemi, jota käytetään Internetiin yhdistämiseen
+Lämpötilarajat: normaali: 25°C
+ äärilämpötilat: -20°C - +70°C
+Suhteellinen ilmankosteus: 65%
+Jänniterajat: normaali: 230 V
+ äärijännitteet: 207 V ja 253 V
+Antennityyppi: dipoli
+Käytetty kaistanleveys: 1 MHz
+Testaus
+Laitteen radiolähetin kytketään keinotekoiseen antenniin ja sille annetaan rajojen mukaista jännitettä. Testissä testataan laitteen antaman kolmen taajuuden
+tuottamaa tehoa; tehopiikkiä ja keskiarvotehoa (dBm). Ensin testaus suoritetaan
+normaaliolosuhteissa kullakin taajuudella ja sitten testaus toistetaan ääriolosuhteissa. Tulokset merkitään testauspöytäkirjaan.
+Rajat löytyvät standardeista (EN 300 220-1 V2.3.1, luku 7.2.3).
+LIITE 1 (56/64)
+Taulukko 2. testaustuloksia (Conducted Average Power)
+Tn = normaalilämpötila
+Tmin = äärilämpötilan alaraja
+Tmax = äärilämpötilan yläraja
+Vn = normaalijännite
+Vmin = äärijännitteen alaraja
+Vmax = äärijännitteen yläraja
+Testauksen rajat kaikissa olosuhteissa: 20 dBm / -10 dBW
+(Lähde: Testiraportti. Conducted Average Power)
+LIITE 1 (57/64)
+4.4 Effective Radiated Power (Säteilevä teho)
+Laite: ilmastointilaitteen kaukosäädin, sisäinen antenni (EN 300 220-1 V2.3.1)
+Käyttötarkoitus: säätää ilmastointilaitteen asetuksia langattomasti
+Testauslämpötila: 23°C
+Suhteellinen ilmankosteus: 40%
+Käytetty kaistanleveys: 100 kHz
+Pöydän korkeus: 1,5 m
+Testaus
+Laite asetetaan testikammioon kolmen (3) metrin päähän testiantennista. Laitetta tulee pystyä kääntämään 360° testauksen aikana. Mittauksia laitteelle tehdään kaksi (2); antennin polarisaation ollessa pystysuuntainen ja vaakasuuntainen.
+Ensin testataan pystysuuntaisessa polarisaatiossa. Laitetta (tai pyörivää pöytää,
+jolla laite on) pyöritetään 360° ja etsitään signaalitason maksimi. Tämä maksimi merkitään testauspöytäkirjaan.
+Laite korvataan korvikeantennilla (substitution antenna). Korvaava antenni
+kytketään signaaligeneraattoriin. Signaaligeneraattorilla aletaan syöttää korvikeantennille taajuutta, jolla saadaan esiin antennin ja testattavan laitteen maksimisignaalitasot. Kun nämä ovat löytyneet, signaaligeneraattorista lähtevä teho
+merkitään testauspöytäkirjaan tehotasona. Tuloksen merkinnässä on otettava
+huomioon kaapelivaimennus sekä mahdollinen antennivahvistus.
+Testaus toistetaan vaakasuuntaisessa polarisaatiossa. Testauspöytäkirjaan merkittävä tehotaso on saaduista kahdesta mitatusta tehotasosta se, joka on suurempi.
+Testaustulos Mitattu tehotaso (mW/dBm)
+ 0,0673 mW / -11,72 dBm
+LIITE 1 (58/64)
+4.5 Modulation Bandwidth (Modulaatiokaistanleveys)
+Laite: Advanced Radiotech Corp. Flex 12EX (EN 300 220-1 V2.3.1)
+Laitteen käyttötarkoitus:
+Lämpötilarajat: normaali: 23°C
+ äärilämpötilat: -20°C ja 55°C
+Suhteellinen ilmankosteus: 44%
+Jännite: 3 V
+Kanavointi: 25 kHz
+Laitteen käyttämä teho: 0,25 mW
+Taajuuskaista: 433,000 – 434,525 MHz = 1,525 MHz
+Testaus
+Laite kytketään spektrianalysaattoriin (50 Ω:n impedanssi). Laite testataan ensin normaaleissa olosuhteissa. Laitteelle annetaan 3 V jännite säädettävästä virtalähteestä ja tutkitaan laitteen käyttämien taajuuksien ylä- ja alaraja. Sitten testi toistetaan ääriolosuhteissa. Tulokset merkitään testauspöytäkirjaan.
+Taulukko 4. testaustulokset (Modulation Bandwidth)
+(Lähde: Testiraportti. Modulation Bandwidth)
+LIITE 1 (59/64)
+4.6 Unwanted Emissions in the Spurious Domain (Ei-halutut harhalähetteet)
+Laite: ilmastointilaitteen kaukosäädin, sisäinen antenni (EN 300 220-1 V2.3.1)
+Käyttötarkoitus: säätää ilmastointilaitteen asetuksia langattomasti
+Testauslämpötila: 22°C
+Suhteellinen ilmankosteus: 40%
+Käytetty kaistanleveys: 999,9 – 1100 MHz
+Pöydän korkeus: 1,5 m
+Testaus
+Testaus tapahtuu kaiuttomassa testauskammiossa. Harhalähetteitä mitataan taajuusalueelta 25 – 12750 MHz. Testaus suoritetaan sekä pysty- että vaakasuuntaisella antennin polarisaatiolla.
+Ensin testataan pystysuuntaisessa polarisaatiossa. Laite asetetaan pöydälle kolmen (3) metrin päähän testiantennista. Laite pannaan päälle. Laitetta tai testauspöytää pyöritetään 360°, kunnes löydetään maksimisignaalitaso. Tämä
+merkitään testauspöytäkirjaan.
+Laite korvataan korvikeantennilla (substitution antenna). Korvaava antenni
+kytketään signaaligeneraattoriin. Signaaligeneraattorilla aletaan syöttää korvikeantennille taajuutta, jolla saadaan esiin antennin ja testattavan laitteen maksimisignaalitasot. Kun nämä ovat löytyneet, signaaligeneraattorista lähtevä teho
+merkitään testauspöytäkirjaan tehotasona. Tuloksen merkinnässä on otettava
+huomioon kaapelivaimennus sekä mahdollinen antennivahvistus.
+Testaus toistetaan vaakasuuntaisessa polarisaatiossa. Testauspöytäkirjaan merkittävä tehotaso on saaduista kahdesta mitatusta tehotasosta se suurempi.
+LIITE 1 (60/64)
+Taulukko 5. testaustulokset (Unwanted Emissions in the Spurious Domain), kun
+laite on käynnissä
+Kun laite on stand by -tilassa, taajuusalueella ei havaittu merkittäviä harhalähetteitä.
+Taulukko 6. mittauksessa saadut tulokset (Unwanted Emissions in the Spurious
+Domain)
+LIITE 1 (61/64)
+4.7 Frequency Stability under Low Voltage Conditions (Taajuuden pysyvyys alhaisilla jännitearvoilla)
+Laite: ilmastointilaitteen kaukosäädin, sisäinen antenni (EN 300 220-1 V2.3.1)
+Käyttötarkoitus: säätää ilmastointilaitteen asetuksia langattomasti
+Testauslämpötila: 25°C
+Suhteellinen ilmankosteus: 32%
+Lähtöjännite: 3,6 V
+Jännitteelle määritelty alaraja: 3,24 V
+Testaus
+ Laite kytketään säädettävään virtalähteeseen ja spektrianalysaattoriin. Jännitettä lähdetään tuomaan alaspäin 3,6 voltista kohti nollaa ja tarkkaillaan, millä
+jännitearvolla joko a) laite putoaa kanavaltaan/kaistaltaan tai b) lakkaa toimimasta kokonaan.
+Testissä käytetty kaistanleveys: 433,050 – 433,790 MHz
+Testin tulos
+Testissä testataan pysyykö laite sille määritellyllä kanavalla tai taajuuskaistalla
+laitteelle annetun jännitteen laskeutuessa alle sille määritellyn jännitealarajan,
+eli tässä tapauksessa 3,24 V. Laite läpäisi testin, sillä se pysyi sille määritellyllä
+kanavalla kunnes se lakkasi toimimasta jännitteen ollessa 1,8 V.
+LIITE 1 (62/64)
+5 TESTAUSRAPORTIN LAATIMISOHJE
+Testausraportin kieli on englanti.
+Testausraporttiin suositellaan kirjattavaksi seuraavat asiat:
+- kuka on testannut
+- mitä laitetta on testattu (nimi, malli, sarjanumero)
+- minkä standardin mukaan laitetta on testattu
+- mitä testejä laitteelle on tehty
+- mitä tuloksia testeistä on saatu
+- saako laite hyväksyttäviä tuloksia testeistä
+- milloin testaukset on suoritettu
+- mitä testejä on tehty ja miksi
+- kuvia testausprosessista
+Etusivulle suositellaan merkittäväksi:
+- tieto siitä, että kyseessä on R&TTE-testi (esim. TEST REPORT –
+Spectrum usage)
+- laitteen tiedot (nimi, malli, sarjanumero)
+- valmistajan yhteystiedot
+- testauslaboratorion yhteystiedot
+- EN-standardi(t), jonka/joiden mukaan testataan
+- päiväys
+- tilaajan ja testaajan nimet ja allekirjoitukset
+Sisällysluetteloon suositellaan merkittäväksi kaikki raportissa esiintyvä sisältö.
+LIITE 1 (63/64)
+Raporttiin suositellaan merkittäväksi:
+- tiedot laitteesta (valmistajan antamat):
+- nimi, malli, sarjanumero
+- laitteen käyttämä jännite ja virtalähteen tyyppi
+- kanavointi
+- kantoaaltotaajuus
+- äärilämpötilarajat
+- käytettävät kaapeloinnit
+- käytetyt testauslaitteet
+- mahdollinen kuva laitteesta
+- R&TTE-testit, myös ne, joita ei tehty, ja syy siihen, miksi ei tehty
+- testit yksi kerrallaan:
+ - testin standardi
+ - päiväys
+ - testauslämpötila (normaali- ja äärilämpötilat erikseen)
+ - testausilmankosteus
+ - testausjännite (normaali- ja äärijännitteet)
+ - taajuus (mikäli testataan taajuutta)
+ - teho (mikäli testataan tehoa)
+ - sanallinen kuvaus testistä
+ - testaustulokset
+ - lopputulos (hyväksytty/hylätty)
+- testeissä käytetyt laitteet
+- kuvia testausprosessista
+LIITE 1 (64/64)
+LÄHTEET
+EN 300 220-1 V2.3.1. Viitattu 20.9.2011.
+http://www.tempwatch.se/Pdf/en_30022001v020301c.pdf
+ETSI:n verkkosivut. SRD-laitteet. Viitattu 10.10.2011.
+http://www.etsi.org/website/Technologies/ShortRangeDevices.aspx
+Euroopan Unionin virallinen lehti. Harmonisoidut standardit. Viitattu 29.9.2011.
+http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2011:277:0001:0035:FI:PDF
+Euroopan Unionin virallinen lehti. R&TTE-direktiivi. http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0005:FI:HTML (viitattu 29.9.2011)
+Testiraportti. Conducted Average Power. Viitattu 26.9.2011.
+http://downloads.trendnet.ru/Certifications/TEW-435BRM/TEW435BRM_CE_RF.pdf
+Testiraportti. Modulation Bandwidth. Viitattu 27.9.2011. http://iemsarc.ru/assets/files/R&TTE.pdf
+Viestintäviraston verkkosivut. Viitattu 12.9.2011.
+http://www.ficora.fi/index/saadokset/ohjeet/radiotaajuudet/1999_5_ey.html

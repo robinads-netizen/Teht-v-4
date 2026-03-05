@@ -1,0 +1,1265 @@
+U 13 -ikäisten koripalloilijoiden liiketaitojen, voiman ja nopeuden
+kehittäminen
+Carl Husso
+Haaga-Helia ammattikorkeakoulu
+Liikunta-alan koulutus
+Valmennus
+2023
+Tiivistelmä
+Tekijä
+Carl Husso
+Tutkinto
+Liikunnanohjaaja, YAMK
+Raportin/Opinnäytetyön nimi
+U 13 -ikäisten koripalloilijoiden liiketaitojen, voiman ja nopeuden kehittäminen
+Sivu- ja liitesivumäärä
+55 + 8
+Opinnäytetyön tavoitteena oli kehittää Turun NMKY:n alle 13 vuotiaiden koripalloa pelaavien
+nuorten perusliiketaitoja, voimaa ja nopeutta. Projektissa huomioitiin vammojen ennaltaehkäisy. Tavoitteiden saavuttamiseksi laadittiin alku- ja lopputestit, sekä ennen projektin alkua
+ja sen aikana hyödynnettiin Turun NMKY:n pää- ja apuvalmentajien sparrausta.
+Alku- ja lopputestien välissä oli kahdeksan viikon ohjelmoitu valmennus, sen toteutuksesta
+vastasi ulkopuolinen fysiikkavalmentaja. 1. päivänä valmennus kohdistui perusliiketaitojen,
+voimien, askeltiheyden, rytmitajun, koordinaation, syklisen pikavoiman, suunnanmuutosnopeuden ja plyometrisen elementtien kehitykseen. 2. päivänä keskityttiin perusliiketaitojen,
+voimien, askeltiheyden, rytmitajun, reaktionopeuden ja plyometrisen elementtien kehitykseen, sekä suoran eli lineaarisen nopeuden kehitykseen. Valmennuksen aikana huomioitiin
+yksilöt joukkueen sisällä.
+Ketteryystestien ja yhden jalan 3-loikan loppumittausten tulokset olivat paremmat kuin alkumittausten tulokset. Lane agility testien (LAT) ero osoittautui riippuvien otosten t-testillä merkitseväksi: t (16) = 3,40, p = 0,004, 2-suuntainen. Modified agility t-testien (MAT) ero osoittautui riippuvien otosten t-testillä erittäin merkitseväksi: t (16) = 4,10, p = < 0,001, 2-suuntainen. 1 jalan 3-loikan (THD) oikean alaraajan ero osoittautui riippuvien otosten testillä merkitseväksi: t (16) = -3,02, p = 0,008, 2-suuntainen. 1 jalan 3-loikan (THD) vasemman alaraajan
+ero osoittautui riippuvien otosten testillä erittäin merkitseväksi: t (16) = -3,94, p = 0,001, 2-
+suuntainen.
+Testien ja valmennuksen perusteella luotiin suosituksia siitä, mihin U13 harjoittelussa tulisi
+kiinnittää erityistä huomiota, jotta nuoret kehittyvät sekä vammoilta vältyttäisiin. Tästä kaikesta laadittiin Turun NMKY:n nuorten koripallo lajivalmentajien ja seuran käyttöön kirjalliset
+ohjeet sekä videokirjasto. Alku- ja lopputestien tulokset avattiin lajivalmentajille. Tulosten perusteella voidaan päätellä, että tämänkaltainen harjoittelu ja testaaminen olisivat hyödyllsiä ja
+tärkeitä sisällyttää juniori koripallon oheisharjoitteluun.
+Asiasanat
+Nuoret, fyysinen kehitys, nopeus, ketteryys, voima
+Sisällysluettelo
+1 Johdanto .................................................................................................................................... 1
+2 Nuorten kasvu ............................................................................................................................ 3
+2.1 Kehityksen erityispiirteet.................................................................................................... 3
+2.2 Biologinen ikä.................................................................................................................... 5
+2.3 Hermo-lihasjärjestelmiä..................................................................................................... 6
+2.4 Luut, nivelet, jänteet ja nivelsiteet...................................................................................... 7
+2.5 Energiantuottojärjestelmiä................................................................................................. 8
+3 Urheilijan polku......................................................................................................................... 10
+3.1 Lapsuusvaihe.................................................................................................................. 10
+3.2 Valintavaihe..................................................................................................................... 12
+4 Pitkän aikajänteen mallit ja herkkyyskausien harjoittelu............................................................ 15
+5 Vammojen ennaltaehkäisy ....................................................................................................... 27
+5.1 Riskitekijät....................................................................................................................... 27
+5.2 Erityispiirteitä................................................................................................................... 27
+5.3 Suositukset ennaltaehkäisyyn ......................................................................................... 28
+6 Fyysiset ominaisuudet.............................................................................................................. 30
+6.1 Voima.............................................................................................................................. 30
+6.2 Nopeus............................................................................................................................ 32
+6.3 Kestävyys........................................................................................................................ 34
+7 Ohjelmoinnin käsitteet .............................................................................................................. 35
+7.1 Vaiheet............................................................................................................................ 35
+7.2 Mallit ............................................................................................................................... 35
+7.3 Jaottelu ........................................................................................................................... 36
+8 Tutkimusten kuvaus ja valinta................................................................................................... 37
+9 Tutorointi .................................................................................................................................. 39
+10 Projekti ..................................................................................................................................... 40
+11 Projektin tavoite........................................................................................................................ 41
+12 Projektin vaiheet....................................................................................................................... 42
+12.1 Valmentaja tapaaminen................................................................................................... 42
+12.2 Ideointi ja suunnitelma..................................................................................................... 42
+12.3 Ohjelmointi ...................................................................................................................... 43
+12.4 Toteutus.......................................................................................................................... 44
+12.5 Testaus ........................................................................................................................... 44
+12.6 Valmennus ...................................................................................................................... 44
+12.7 Sparraus ......................................................................................................................... 45
+13 Tulokset.................................................................................................................................... 46
+13.1 Tiivistelmä ....................................................................................................................... 46
+13.2 Johdanto ......................................................................................................................... 46
+13.3 Menetelmät ..................................................................................................................... 46
+13.4 Tulokset .......................................................................................................................... 46
+13.5 Johtopäätökset................................................................................................................ 48
+14 Valmentaja palaute................................................................................................................... 49
+15 Pohdinta................................................................................................................................... 50
+Lähteet.......................................................................................................................................... 56
+Liitteet........................................................................................................................................... 61
+Liite 1. Turun NMKY Ohjelma................................................................................................... 61
+1
+1 Johdanto
+Opinnäytetyö toteutettiin toimeksiantona Turun NMKY:n juniori koripallo jaostolle. Turun NMKY:llä
+valmentaja sparrauksessa tuli esille, että liikunta- ja rasitusvammat olivat lisääntyneet, etenkin nilkan ja polven alueilla. Tämän projektityön ensisijaisena tavoitteena oli nuorten U 13 koripalloilijoiden perusliiketaitojen, voimien ja nopeuden kehittäminen. Valmennusprojektissa huomioitiin nuorten kehitys- ja kasvutekijät ja vammojen ennaltaehkäisy.
+Nuorten harjoitusohjelmissa tulee huomioida kokonaisvaltaisesti kasvun ja kypsyyden eri vaiheet.
+Fyysiset ja hormonaaliset muutokset kasvu- ja kypsyysvaiheessa vaikuttavat harjoitus vasteeseen,
+millä saattaa olla merkittäviä tekijöitä tulevaisuuden kehitykselle (Brennan, 2023). Motorisia perusliiketaitoja ja lajikohtaisia taitoja tulee harjoittaa koko lapsuuden ja nuoruuden ajan, painotukset vaihtelevat yksilön kehityksen mukaan. Voiman ja nopeuden kehittäminen Youth Physical Development
+(YPD) model eli fyysisen valmennusmallin mukaan tulee olla osana kokonaisvaltaista harjoittelua
+kaikissa kehitysvaiheissa (Lloyd & Oliver, 2012). Uudemmassa nuorten kehitysmallissa eli Composite Youth Development model (CYD) huomioidaan varhainen lapsuus, keskilapsuus ja nuoruusvaiheet. Viitekehyksessä ei huomioida vain fyysistä suorituskykyä, vaan mukana ovat myös filosofiset ja psykososiaaliset näkökulmat (Lloyd ym. 2015).
+Monipuolisia harjoitteita, kuten plyometrista, voimaa, pikajuoksua, COD (reaktio-, liike- ja suunnanmuutos) harjoituksia erikseen ja näiden yhdistelmä harjoituksia voidaan käyttää muun muassa COD
+kehitykseen nuorilla urheilijoilla (Nygåård Falch, Guldteig Rædegård & Van Den Tillaar, 2019). Behringer ym. (2011) sekä Lloyd ja Oliverin (2012) perusteella on suositeltavaa teettää vastusharjoittelua lapsille ja nuorille. Sen todetaan olevan tehokas keino kehittämään paitsi nuorten motorisia perustaitoja, niin myös suorituskykyä nopeudessa esimerkiksi esineen heitossa, hypyissä ja lyhyissä
+juoksu (sprint) matkoissa (Behringer ym. 2011; Lloyd & Oliver, 2012).
+Voimaa tarvitaan, kun liikutetaan itseään tai vastustajaa, sekä energian tuottajana eri lajeissa. Ilman
+perusvoimaa eivät lajissa vaadittavat voimat kehity tai se on ainakin rajoittava tekijä. Harjoittelussa
+huomioitavia asioita ovat muun muassa keskivartalon vahvistaminen, koordinaatio ja ketteryys, nopeus, hyppy-, loikka- ja juoksutekniikka harjoitukset sekä liikkuvuus (Hämäläinen ym. 2023, 221–
+228; Brennan, 2023). Voimaharjoittelulla on monia terveyttä edistäviä elementtejä, kuten hermolihasjärjestelmän kehitys, nivelrustojen kuormituksen ja kestävyyden parantaminen, sekä luumassan
+tiheyden kasvu. Valmentajien tulee huomioida yksilölliset erot joukkuelajeissa esimurros- ja murrosiässä, kuten ikäerot kehityksessä, samoin pituuskasvun ja sen huippuvaiheen (PHV, Peak High Velocity) tekijät. Yksipuolinen luuston kuormitus liian yksipuolisesti tai intensiiviset hyppy- ja loikkaharjoitukset hallitsemattomalla tekniikalla saattavat aiheuttaa apofyyseissa luun pituuskasvun (luun
+2
+kasvualue) häiriöitä. Pituuskasvun huippuvaiheessa riski on suurimmillaan (Hakkarainen ym. 2008,
+7–8).
+Nopeus on tärkeä ominaisuus monissa lajeissa. Nopeutta tulee harjoittaa paljon lapsena ja nuorena,
+koska tuolloin hermolihasjärjestelmät kehittyvät parhaiten. Nopeus kehittyy myös luonnollisesti, geneettisen perimän ja lapsilla leikkien ja pelien kautta. Nopeusvoiman harjoittelussa liikenopeudella
+ja voimantuotolla on merkitystä. YPD mallissa korostetaan myös herkkyyskausia, tutkimusten mukaan muita rajoittavia tekijöitä ei ole (Hämäläinen ym. 2023, 236–239; Mero ym. 2016, 242–249;
+Lloyd & Oliver, 2012). Reaktionopeus tarkoittaa aikaa, mikä menee liikkeen aloitukseen tai tuottamiseen ärsykkeen saatuaan. Räjähtävällä nopeudella tarkoitetaan yksittäistä ja nopeaa suoritusta.
+Siinä vaaditaan nopeusvoimaa, jossa korostuu hermoston käskytysnopeus. Syklinen pikavoima on
+toistuvaa suoritusta, missä agonisti ja antagonisti lihakset toimivat vuorotellen, tätä tapahtuu liikenopeudessa, muun muassa uinnissa ja pikajuoksussa (Mero ym. 2004, 293; Mero ym. 2016, 242).
+Plyometrinen harjoittelu on tehokasta, se keskittyy lihasten nopeaan supistumiseen ja venytyslyhenemissykliin. Plyometrinen harjoittelu auttaa kehittämään lihaksen jänneheijasteita, kimmoisuutta
+ja hermoston kykyä käskyttää ja käyttää lihaksia nopeasti. Plyometrisen harjoitteilla pyritään parantamaan urheilijan suorituskykyä, erityisesti lajeissa, joissa nopeusvoima, räjähtävä- ja pikavoima ja
+suunnanmuutokset sekä liikkumisentaidot ovat tärkeitä, kuten palloilulajit, uinti ja yleisurheilu.
+Plyometrisen harjoittelun hyötyjä ovat muun muassa side- ja tukikudoksien, hermolihasjärjestelmän
+iskunsietokyvyn ja luuaineksen (mineraalitiheys) vahvistuminen (Athletica 9.9.2022; Verkhoshansky & Stiff 2009, 40–45).
+3
+2 Nuorten kasvu
+2.1 Kehityksen erityispiirteet
+Kasvun ja kehityksen aikana kehossa tapahtuu paljon muutoksia, kuten kasvupyrähdys varhaisnuoruudessa ja painon nousu. Murrosiässä fyysinen kasvu, kuten kehon rakenteiden koon ja mittasuhteiden kasvua esimerkiksi lihas- ja rasvamassan muutokset. Hormonaaliset tekijät eivät vaikuta
+vain fyysiseen kehitykseen, ne vaikuttavat myös käytökseen, mielialaan ja tunteisiin ja se on tavallaan projekti, jossa nuoret entistä enemmän itsenäistyvät, kykenevät tekemään päätöksiä ja tulevat
+vastuullisemmiksi. Nuorten kehitys eli kypsyys tarkoittaa myös emotionaalisten, sosiaalisten ja kognitiivisten taitojen kehittymistä, joiden avulla nuori kykenee navigoimaan aikuisiän haasteissa. Puberteettiin eli murrosikään liittyvät seksuaalisten toissijaisten toimintojen kehitys, kuten tytöillä rintojen kasvu ja pojilla karvojen kasvua, näitä ohjaavat hormonaaliset muutokset, tytöillä estrogeeni ja
+pojilla testosteroni (Hämäläinen ym. 2023, 52–62).
+Syntymän jälkeen lapsuudessa ja nuoruudessa kasvuhormonin yksi tärkeimmistä tehtävistä on stimuloida luiden ja kudosten kehitystä ja kasvua kehossa, sillä on merkittävä rooli kehon säätelyjärjestelmässä, varsinkin unen aikana sen eritys on voimakkainta. Kasvun kehitykselle tärkeä hormoni
+on myös kilpirauhashormoni, sekä sukupuolihormonit, koska niilläkin on omat roolinsa kasvussa ja
+kehityksessä. Ravitsemus, nesteytys ja selkeä ateriarytmi ovat myös tärkeässä roolissa kasvun aikana (Hakkarainen ym. 2008, 6–8; Hämäläinen ym. 2023, 63–64).
+Kehossa tapahtuu suuria muutoksia lapsuudessa ja nuoruudessa ja nämä tapahtumat kehossa vaikuttavat lapsen ja nuoren suorituskykyyn arjessa ja urheilussa. Elinjärjestelmien koko suurenee, kehon mittasuhteiden koko kasvaa sekä painon ja pituuden muutoksilla viitataan fyysiseen kypsyyteen.
+Hormonaalisten ja sukupuolielinten toimintojen kehittymisellä tarkoitetaan biologista kypsyyttä. Lapsuudessa hermosto kehittyy nopeaan tahtiin ja murrosiässä aivot ovat aikuisen kokoluokkaa, tämän
+seurauksena hermoston kehittyminen on hitaampaa kuin toisaalla elimistössä. Tämän takia monipuolinen motorista hermosta kuormittava harjoittelu olisi poikkeuksellisen tärkeää aina murrosikään
+asti, toki ketteryyttä, nopeutta, taitoa ja tasapaino elementtejä kyetään tietyssä määrin kehittämään
+senkin jälkeen (Mero, Nummela, Kalaja & Häkkinen, 2016, 61–62).
+Tutkimuksen perusteella nuorille tehtäviä harjoitusohjelmia ei tulisi kopioida ja noudattaa suoraan
+aikuisten harjoittelua. Ohjelmoinnissa tulisi olla selkeät ja erityiset ohjeet, missä huomioidaan kokonaisvaltaisesti kasvun ja kypsyyden eri vaiheet, koska fyysiset ja hormonaaliset muutokset kasvuja kypsyysvaiheessa vaikuttavat harjoitus vasteeseen ja sillä saattaa olla merkittäviä tekijöitä tulevaisuuden kehitykselle (Brennan, 2023).
+4
+Taulukko 1. Kypsyysaste ja ennuste % aikuisen pituudesta, muokattu (Brennan 2023)
+KYPSYYSVAIHE % OSUUS ENNUSTETUSTA AIKUISEN PITUUDESTA
+Esi murrosikä < 85 %%
+Aikainen murrosikä 85–91 %
+Myöhäinen murrosikä 91–95 %
+Murrosiän jälkeen ≥ 95 %
+Picarion ym. (2019) artikkelista selviää, miten kypsyys, voima ja liikkuminen, kun saadaan tasapainoon, niin miten se vaikuttaa nuoren motorisiin taitoihin. Murrosiässä ja erityisesti pituuskasvun
+huippuvaiheessa olisi tärkeää urheilijan motoriikan kehitys ja koko kehon vahvistaminen, koska joillakin lapsilla saattaa esiintyä ns. kömpelyyttä nopean kasvun takia. Kypsyysvaiheen aikana eli fyysisessä prosessissa nuoren kehossa tapahtuu suuria muutoksia muun muassa kehon massan ja
+pituuden muutokset sekä neuromuskulaarisen koordinaation osalta (Picardo ym. 2019).
+Kasvuiässä perheen ja sisarusten tuki ovat tärkeitä urheilijalle, myös toimivat sosiaaliset verkostot
+eli ystävien, toisten urheilijoiden ja valmentajien merkitys ovat isossa roolissa. Valmentajien rooli
+on paitsi fyysisten ominaisuuksien kehitys, niin he kykenevät vaikuttamaan myös urheilijan henkiseen kehitykseen (Rees ym. 2016).
+Taulukko 2. Kypsyysvaihe ja ennustettu ikä ja kasvu (cm) tytöillä ja pojilla (Brennan 2023)
+KYPSYYSVAIHE TYTÖT
+Vuosi (Y) Pituus (cm)
+POJAT
+Vuosi (Y) Pituus (cm)
+Esi murrosikä 6–10 5 6–12 5
+Aikainen murrosikä 11 ± 2 6–8 13 ± 2 7–9
+Myöhäinen murrosikä 13 ± 2 3–6 15 ± 2 3–7
+Murrosiän jälkeen 14 ± 2 1–2 16 ± 2 1–2
+5
+2.2 Biologinen ikä
+Biologinen ikä urheilussa saattaa viitata pelaajan tai urheilijan fyysiseen kehitykseen ja kypsyysasteeseen suhteessa ikätovereihinsa ja se voi vaihdella suuresti yksilöstä toiseen saman ikäryhmän
+sisällä, lisäksi tulokset esimerkiksi testeistä, saattavat olla merkityksettömiä tai ristiriitaisia. Valmentajien tulisi ottaa huomioon yksilölliset tekijät. Nuoruusiässä fyysinen kehitys voi vaihdella suuresti
+eli toiset kehittyvät fyysisesti nopeammin kuin ikätoverinsa ja toiset saattavat tarvita enemmän aikaa ja harjoittelua saavuttaakseen saman fyysiseen kehityksen. Esimerkiksi joukkueurheilussa, kuten jääkiekossa, koripallossa tai käsipallossa, missä fyysinen voima ja koko voivat olla merkittäviä
+tekijöitä, niin nuori kuka on biologisesti ja fysiikaltaan kehittyneemmällä tasolla voi olla etulyöntiasema, koska hän saattaa olla vahvempi, nopeampi tai suorituskykyisempi kuin samanikäiset vastustajansa (Hakkarainen ym. 2008, 6; Hämäläinen ym. 2023, 65–68).
+Taulukko 3. Suomalaisten poikien ja tyttöjen kasvuvaiheet, muokattu (Hämäläinen ym. 2023, 66)
+KASVUVAIHE TYTÖT POJAT
+Kasvupyrähdyksen alku 8,2–10,3 v 10–12,1 v
+Kasvun huippuvaihe 11,3–12,2 v 13,3–14,4 v
+Kasvun laantuminen 13–15,5 v 13,5–17,5 v
+Lihasmassan kasvun huippu alkaen 13–15 v alkaen 14–17
+Biologisen iän ja suhteellisen iän vaikutuksia on tutkittu paljon eri lajeissa. Joukkuelajien valintavaiheessa 13–15 vuoden ikäisinä yleisesti valintaan vaikuttaa se, ketkä ovat syntyneet kolmen (3) ensimmäisen kuukausien aikana. Heillä saattaa olla suuremmat mahdollisuudet tulla valituksi joukkueeseen, kuin ne saman ikäluokan urheilijat, ketkä ovat syntyneet viimeisen kolmen (3) kuukauden
+aikana. Tämän katsauksen mukaan biologisessa iässä pitäisi huomioida muitakin tekijöitä, kuin
+vain fyysinen suorituskyky, kuten kognitiiviset ja muut tarkoituksen mukaiset elementit (Baker,
+Schorer & Wattie, 2018).
+Kasvuiässä kehossa tapahtuu siis isoja muutoksia ja pitkällä aikavälillä fyysisen suorituskyvyn, ja
+taitojen kehittäminen ovat myös ratkaisevassa roolissa. Pitkäjänteisellä harjoittelulla, myös urheilijat tai pelaajat, keillä biologinen kasvu tapahtuukin myöhemmin, saattaa olla edelleen mahdollisuus
+harjoittelun ja kehityksen kautta päästä huipulle. Nuorten urheilussa ja tapahtumissa pyritään usein
+6
+tasoittamaan biologista ikää, ottamalla huomioon pelaajien fyysinen kypsyys eli kaikki pelaavat,
+usein myös yhdistellään ikäryhmiä, tämän mahdollistamiseksi.
+2.3 Hermo-lihasjärjestelmiä
+Hermojärjestelmät voidaan jakaa kahteen pääosaan eli keskushermostoon (CNS, Central Nervous
+System) ja ääreishermostoon (PNS, Peripherial Nervous System). CNS kuuluvat aivot ja selkäydin.
+Aivot ovat keskeinen osa, ne vastaavat muun muassa liikkeiden säätelystä, oppimisesta, tunteista
+ja ajattelusta, kun taas selkäydin toimii tiedon välittäjänä aivojen ja ääreishermoston välillä. PNS
+kuuluvat somaattinen ja autonominen hermosto. Somaattinen hermosto vastaa tahdonalaisista liikkeistä ja aistimuksista. Somaattinen hermosto myös välittää tietoa keskushermostolle eri aistinelimien kautta, kuten jänteet, lihakset ja nivelet sekä ihon, silmien ja korvien kautta aivoihin.
+Autonominen hermosto säätelee sydämen sykettä, hengitystä, ruoansulatusta ja verenpainetta.
+Autonomista hermostoa voidaan edelleen jakaa sympaattiseen ja parasympaattiseen hermostoon,
+ne tasapainottavat kehon toimintoja toimiessa vastakkaisina järjestelminä. Hermojärjestelmän monimutkaisuus mahdollistaa kehon monien erilaisten toimintojen koordinoinnin ja säätelyn, ja se on
+keskeinen osa ihmisen elintoimintoja ja käyttäytymistä ja motorista kehitystä aina sikiöstä aikuiseen (Rytkönen 2018, 26–27; Hämäläinen ym. 2023, 69–71).
+Hermojärjestelmän toiminta perustuu hermosoluihin eli alfamotoneuroneihin, jotka ovat erikoistuneita soluja. Kyseiset solut voivat lähettää sähköisiä signaaleja ja välittää tietoa hermostossa. Lihassolut, joita kutsutaan myös lihassäikeiksi tai lihassyiksi, toimivat aktiini- ja myosiiniproteiinien
+vuorovaikutuksen perusteella. Hermoimpulssin saavuttaessa lihassolun, se laukaisee kemiallisia
+reaktioita, ne johtavat aktiini filamenttien ja myosiinifilamenttien liukumiseen toistensa suhteen,
+mikä aiheuttaa lihaksen supistumisen. Tätä prosessia säätelee kalsiumionien vapautuminen solun
+sisällä. Lihassolut voivat muuttua kooltaan ja voimiltaan riippuen harjoittelusta ja käytöstä. Synapsi
+on liitoskohta kahden hermosolun välillä tai hermosolun ja lihassolun tai rauhassolun välillä, jossa
+tapahtuu hermoimpulssien siirto. Synapsit ovat avainasemassa hermoston toiminnassa, niiden
+kautta hermoimpulsseja välitetään eri osien välillä kehossa. Ne mahdollistavat hermoston reagoinnin ulkoisiin ärsykkeisiin ja ohjaavat kehon toimintoja (Verkhoshansky & Stiff 2009, 35–39).
+Lihassolut sopeutuvat kuorman mukaan kasvaen vahvemmiksi ja kestävämmiksi, kun niitä käytetään säännöllisesti. Kasvuiässä luut kasvavat pituutta ja lihakset ja jänteet tulevat hieman jäljessä.
+Tämän johdosta voimakasta lihassolujen kasvun kehitystä voimaharjoittelun näkökulmasta ei suositella, johtuen myös lihaskudoksen elastisuuden alentumisesta, tämä olisi syytä huomioida nuorten valmennuksessa (Hämäläinen ym. 2023, 70).
+7
+2.4 Luut, nivelet, jänteet ja nivelsiteet
+Luuston kehittyminen on monimutkainen biologinen prosessi, joka vaatii riittävää ravintoa, erityisesti kalsiumia ja D-vitamiinia, terveellistä elämäntapaa, kuten liikuntaa ja geneettistä taustaa. Ravinto ja liikunta ovat erityisen tärkeitä lapsille ja nuorille, kun luusto kasvaa ja kehittyy. Kasvuiän
+viimeisinä vuosina ja ennen murrosikää, tulisi suosia myös sellaisia liikuntamuotoja, missä on mukana hypyt ja tärähdykset, koska silloin luumassan kehitys on voimakkainta. Murrosiässä ja pituuskasvun huippuvaiheessa olisi hyvänä muistisääntönä pitää, että apofyysit eli kasvurustot ja niissä
+tapahtuva luiden pituuskasvu ovat erittäin herkkiä rasitusvammoille, jos niitä kuormitetaan kovaa ja
+yksipuolisesti. Tämä tulisi ottaa huomioon kaikkien, ketkä valmentavat nuoria urheilijoita. Kasvuiässä myös muut tukirakenteet, kuten nivelsiteet ja jänteet kehittyvät kasvun aikana (Hämäläinen
+ym. 2023, 71).
+Jänteet ja nivelsiteet liittävät lihakset luihin ja luut toisiinsa nivelissä, ne myös tarjoavat vakautta
+nivelille, se mahdollistaa myös lihasten tehokkaamman voimantuoton. Ne ovat osa kehon tuntoaisti
+eli proprioseptiivista järjestelmää, jotka antavat aivoille tietoa kehon asennoista ja liikkeistä. Tämän
+hermostollisen palautteen avulla aivot kykenevät säätämään lihas- ja liike aktiivisuutta tarpeen mukaan. Jänteet ja nivelsiteet ovat olennainen osa liikuntaa ja voimantuottoa kehossa sekä niiden toimintaa koordinoimalla kehoa kyetään liikuttamaan tehokkaasti ja voimakkaasti eri tilanteissa. Elastinen energia eli venymislyhenemissyklin aikana lihas supistuu ja silloin se venyttää siihen liittyvää
+jännettä. Tämä venytys varastoi elastista energiaa jänteeseen ja lihaksen rentoutuessa elastinen
+energia vapautuu. Venymislyhenemissykli tarkoittaa siis syklistä (ballistista) liikettä, missä eksentrisen vaiheen jälkeen aiheutuu lyhyt isometrinen lihastyön vaihe ja tämän jälkeen seuraa välittömästi
+konsentrinen lihastyön vaihe. Harjoittelussa olisi tärkeää huomioida, että eksentrisen lihastyön jälkeen aiheutuu ensin lyhyt isometrinen ja heti perään konsentrinen lihastyön vaihe. Lisäksi todetaan, että mitä tehokkaampaa on lihaksen aktiivinen työ, sitä tehokkaammin kyetään elastisuutta
+hyödyntämään ja se edistää liikenopeutta, voimantuottoa ja energiatehokkuutta (Mero ym. 2016,
+93–97; Rytkönen 2018, 96–97; Hämäläinen ym. 2023, 72).
+Jänteillä on merkittävä rooli elastisen energian varastoinnissa ja vapauttamisessa. Varsinkin nopeassa syklisessä eli SEC (series elastic component) liikkeessä jänteissä tapahtuu huomattavaa
+elastisen energian varastointia, johtuen siitä, kun aktiivisesti jatkuvasti supistuva lihas vastustaa
+venytystä suurella voimalla. Mitä suurempi on venytysnopeus eksentrisen (jarruttavan) supistumisen aikana, sitä suurempi on elastisen energian varastointi ja vapauttaminen konsentriseen vaiheeseen eli kun lihasjänne komponentit lyhenevät. Lihasten korkeampi tonus (jännitys) antaa jänteille ja nivelsiteille pienemmän rasituksen esimerkiksi hyvässä ryhdissä seisoessa (Verkhoshansky & Stiff 2009, 40–45).
+8
+2.5 Energiantuottojärjestelmiä
+Maitohapollinen harjoittelu lapsilla ja nuorilla ennen murrosikää ei ole tutkimusten mukaan kovinkaan vahvaa näyttöä, koska hormoni- ja lihastoiminnot eivät ole täysin kehittyneet. Lisäksi lasten
+motivointi koviin suorittuksiin ja testeihin on hankalaa. Ennen murrosikää ei näytä olevan suuria
+eroja poikien ja tyttöjen välillä, sen jälkeen pojilla kuitenkin anaerobinen kynnys on korkeampi eli
+he kykenevät tuottamaan energiaa glukoosista ilman hapen läsnäoloa tyttöjä tehokkaammin. Tähän kaikkeen vaikuttavat molemmilla kehon mittasuhteet ja niiden muutokset, lihasmassa ja paino.
+ATP ja KP eli välttämättömät energiavarastot lisääntyvät lapsuudesta aikuisikään noin viisinkertaiseksi, tosin ei tiedetä tarkalleen missä vaiheessa näin tapahtuu (Hämäläinen ym. 2023, 75–77).
+Lihassoluja on kolmea erilaista. Tyyppi I:n lihassolujen supistumiskyky on suhteellisen hidas, ne
+kestävät hyvin väsymystä, ne soveltuvat matala intensiiviseen kestävyysurheiluun, sillä niissä on
+runsaasti mitokondrioita, ne käyttävät vähän ATP:tä ja ne hyödyntävät happea tehokkaasti. Tyyppi
+II A lihassolujen supistumiskyky on nopeampi, ne kestävät kohtalaisesti väsymystä ja sisältävät
+kohtalaisen määrän mitokondrioita. II A tyypin soluja käytetään I tyypin jälkeen, kun tarvitaan irtiottoa ja kohtalaista intensiteettiä, jotka sisältävät jatkuvia supistuksia, muun muassa pidemmät pikajuoksut (sprintti) tai kovemmat ratapyöräilyt. II A tyypin solut tasapainottelevat aerobisen ja anaerobisen aineenvaihdunnan välillä, ne ovat sopeutuvaisia ja kykenevät mukautumaan erilaisiin vaatimuksiin. Tyyppi II B lihassolut ovat supistumiskyvyltään nopeita ja niillä on suuri voimantuotto,
+myös räjähtävän voiman tuotto. II B lihassolut väsyvät helposti, niillä on alhainen hapettumiskyky ja
+vain vähän mitokondrioita. Energian tuotossa aineenvaihdunta tapahtuu anaerobisen kynnyksen
+kautta. Ne ovat käytössä vain korkean intensiteetin ja lyhytkestoisen suorituksen aikana, kuten painonnosto, hypyt ja loikat sekä lyhyemmät sprintit (Verkhoshansky & Stiff 2009, 55–60; Hämäläinen
+ym. 2023, 69–70).
+Mitokondriot ovat soluissa olevia hengityskeskuksia, ne pilkkovat eri ravintoaineita, kuten sokeria ja
+rasvoja, muuttaen ne ATP:ksi (adenosiinitrifosfaatti). Ne ovat tärkeitä muun muassa urheilussa ja
+liikunnassa solujen toiminnalle, koska ne tuottavat suurimman osa solujen vaatimasta energiasta
+(solunetti 2006). ATP koostuu adenosiinistä, riboosista (sokeri) ja kolmesta fosfaattiryhmästä. Solu,
+kun tarvitsee energiaa, ATP-molekyyli voi luovuttaa yhden tai useamman fosfaattiryhmän ja muuttua adenosiinidifosfaatiksi (ADP) tai adenosiinimonofosfaatiksi (AMP). Tämä vapauttava reaktio
+tuottaa energiaa, jota solu voi käyttää erilaisiin tehtäviin, kuten urheiluun, aineenvaihduntaan, proteiinien synteesiin ja moniin muihin biologisiin prosesseihin (verywellhealth 2023).
+Ennen kouluikää runsaan ja monipuolisen liikunnan avulla saadaan riittävästi anaerobisia elementtejä kehitettyä, vaikka enemmän kiinnitetään huomiota motoristen perustaitojen kehitykseen, tämä
+9
+kaikki tapahtuu pelien, leikkien ja pienten kilpailujen yhteydessä. Alakoululaisilla eli 7–13 vuotiailla
+edetään samalla kaavalla, lisäten mukaan nopeus elementtejä, kuten huomattavan lyhyt kestoisia
+kiihdytyksiä, lisäksi eri pallopelit, kehon hallinta ja voimaharjoittelu kehon painolla sekä kepin avulla
+tehtävät tankoharjoittelu tekniikat tulevat mukaan. Murrosiässä painotetaan peruskestävyyden ja
+voimien kehitystä, toki mukaan tulee jo nopeuskestävyyden harjoitteita, missä suoritus pituudet
+ovat vielä kuitenkin alle 10 sekunnin pituisia. Murrosiässä maitohapon tuotto kehittyy ja sen sietokyky paranee harjoittelun edetessä. Sitä ei tulisi harjoittaa kuitenkaan, kuten aikuisilla ja hermoston
+kannalta levon suhteuttaminen harjoittelun määrään olisi tärkeää. Tietyissä lajeissa kestävyys kehittyy lajiharjoittelun ohessa, kuten jääkiekko ja salibandy. Murrosiän jälkeen voidaan anaerobista
+ja muita suorituskykyä kehittäviä elementtejä harjoittaa kuten aikuisilla. Painotusalueet määräytyvät kuitenkin lajin ja yksilön mukaan, lisäksi tulee olla tarkkana kuormituksen ja levon suhteen. Kovat nopeuskestävyys harjoitukset vaativat urheilijalta vahvoja perusominaisuuksia ja palautumiskykyä sekä laadukasta ohjelmointia (Hämäläinen ym. 2023, 316–318).
+Ihmisen energiantuottojärjestelmät ovat kehon tapa tuottaa juuri oikea määrä oikeaan aikaan energiaa fyysisessä suorituksessa eli kuinka intensiivistä se on ja kuinka pitkään se kestää. ATP ja KP
+hyödyntäminen on nopein energiantuottojärjestelmä ja soveltuu lyhytkestoiseen ja erittäin intensiiviseen suoritukseen, kuten räjähtävään voimantuottoon ja lyhytkestoiseen voimaharjoitteluun, kuten painonnosto. Anaerobinen järjestelmä tuottaa energiaa glukoosista ilman happea ja se on tehokas lyhytaikaisissa ja voimakkaissa suorituksissa, kuten lyhyissä juoksumatkoissa. Aerobinen
+järjestelmä käyttää happea hajottamaan ravinteita, kuten hiilihydraatteja ja rasvoja, tuottaakseen
+ATP:tä. Aerobinen järjestelmä on tehokas pitkäaikaisissa, matalissa ja kohtalaisen intensiivisissä
+liikuntamuodoissa, kuten pitkän matkan juoksussa tai maantiepyöräilyssä. Näiden järjestelmien tehokas yhteispeli mahdollistaa keholle sopeutumisen erilaisiin fyysisiin haasteisiin.
+10
+3 Urheilijan polku
+3.1 Lapsuusvaihe
+Asiantuntijaryhmässä tarkasteltiin lapsuusvaihetta aina 13 ikävuoteen asti. Valitettavan usein tehdään aivan liian aikaisin yhteen lajiin erikoistuminen, toki monet taitolajit, kuten voimistelu, taitoluistelu ja uinti tukevat tätä ajatusta. Lapsuusvaiheessa ei kuitenkaan tulisi keskittyä vain yhteen lajiin.
+Annetaan heidän kokeilla ja harrastaa monipuolisesti eri lajeja, koska tässä vaiheessa ei ole vielä
+ns. päätavoitetta, mihin edetä urheilijan polulla. On esitetty myös, että 6–12 vuoden iässä (sampling) harrastetaan monia eri lajeja ja vasta 13–15 vuotiaana erikoistutaan (spezialisation) yhteen
+lajiin. Tutkimukset osoittavat myös sen, että lapsuus- ja varhaisvaiheessa korkealla harjoittelumäärällä olisi suora vaikutus menestykseen. Lapsuusvaiheen aikana tulisi harjoittaa kaikkia fyysisiä perusominaisuuksia, lisäksi liian kovat tavoitteet (talent identification), sekä jo lapsuusvaiheessa keskittyminen vain yhteen lajiin ja yksipuoliseen harjoitteluun saattaa urheilijan kehitys pysähtyä ja into
+lopahtaa (drop out), aina on tietenkin poikkeuksia (Finni ym. 2012).
+Muutamien vuosikymmenien ajan on ollut maailmalla eliitti tason akatemioita, missä on keskitytty
+ns. ”talent programs” eli vain korkean suorituskyvyn omaavien lapsien urheilullisuuden kehitykseen. Tästä kaikesta vanhemmat ovat maksaneet suuria summia lastensa takia, jotta lapset voisivat kehittyä urheilullisessa ympäristössä, missä heistä tehdään aikaisessa vaiheessa huippuja (talent). Yleensä näissä on keskitytty yhteen lajiin ja vähäiseen ulkopuoliseen aktiviteettiin. Tähän
+kaikkeen liittyvät myös eettiset kysymykset ja niitä on monia, kuten kuka on ja kuka ei talentti ja miten se yleensäkin määritellään. Talentin tunnistamisessa pitäisi huomioida fysiologiset, fyysiset,
+kognitiiviset ja muut tarpeelliset ominaisuudet, eikä pelkästään suorituskykyä, mitä valmentajat ja
+kykyjenetsijät usein edellyttävät. Toisaalta ei myöskään lyhyen aikajänteen ominaisuudet ole relevantteja, vaikka niihin valmentajat usein esimerkiksi urheiluleireillä kiinnittävät huomiota (Baker ym.
+2018).
+”No pain No Gain” eli tekemällä oppii ja mitä enemmän harjoittelua sitä enemmän se kehittää taitoja, mikä osaltaan toki pitää paikkansa. Ericsson ym. (2013) tutkimuksessa todettiin, että 10000
+tunnin sääntöä tulisi noudattaa harjoittelussa, mikäli tähdätään huipulle, mikä tarkoittaa kolmea
+tuntia päivässä, 10 vuoden ajan. Tutkimus on saanut kosolti kritiikkiä, koska tutkimuksessa huomioitiin vain tietyn instrumentin muusikoita tai tieteentekijöitä, tämän takia sillä ei ole taitojen osalta
+suoraa yhteyttä esimerkiksi palloilulajeihin (Ericsson. Krampe & Tesch-Römer 1993). Lapsuusvaiheessa monipuolisella harjoittelulla luodaan edellytykset ja tarvittavat tuntimäärät kehitykselle, kun
+mukana on omaehtoinen liikunta harrastusten päälle.
+11
+Lapsia tulisi jo pienestä pitäen ohjata liikunnallisuuteen ja tässä iässä tarkoitetaan kaikenlaisia pelejä leikkimielisesti. Hyvä tapa on aikuiset yhdessä lapsien kanssa pelaamaan katulätkää, jalkapalloa ja muita ns. joukkuepelejä. Lapsen kehityksen kannalta olisi hyvä sekoittaa joukkueita ja osallistuja määriä eli haastaa lasta. Lisäksi erilaiset kiipeilyt, hypyt ja loikat sekä kaikenlainen juoksut,
+niin kaikki nämä kehittävät lapsien motorisia liike taitoja, kestävyyttä, voimia ja tukevat kognitiivista
+kehitystä. Tämän jälkeen lapsen on hyvä siirtyä eteenpäin ja kokeilla monia eri urheilulajeja, hauskuutta ja ilonpitoa ei tulisi kuitenkaan unohtaa (Côte, Baker & Abernethy, 2007).
+Mero ym. (2016) mukaan urheilijan polun menestystekijöitä ja omistautumista kuvataan kolmella
+vaiheella, mitkä on pilkottu erikseen kuuteen vaiheeseen (1–6). Kokeiluvaiheita on kaksi, iän ollessa 6–12 v. 1 Vaiheessa lapsen kiinnostus herää kokeilemaan eri pelejä sekä aktiviteetteja ja
+vaiheessa 2 lapsi haluaa oppia uusia asioita, kehittää omia taitojaan ja omaehtoinen aktiivisuus lisääntyy. Erikoistumisvaiheita on kaksi, iän ollessa 13–15 v. 3 vaiheessa lajivalinta on usein tehty ja
+nuori haluaa kehittää itseään urheilijana, siihen sisältyy myös omaehtoista harjoittelua, hänellä on
+omia tavoitteita ja suunta mihin pyrkiä. 4 vaiheessa nuori haluaa menestyä valitsemassaan lajissa
+ja miettii, miten hän kykenee omien taitojen kehityksen ohella auttamaan seuraa tai joukkuetta mihin on sitoutunut. Panostusvaiheita on myös kaksi, iän ollessa 16–19 v. Vaiheessa 5 toiminnasta
+tulee entistä enemmän tavoitteellista, energia tulisi suunnata osa-alueille millä tarvitaan kehitystä,
+siinä oma tahtotila vie eteenpäin. Tässä vaiheessa on myös tärkeää tehdä itsearviointia ja oman
+toiminnan seuraamista. 6 vaiheessa urheilusta tulee usein elämäntapa. Tämä vaatii usein muun
+muassa elämänvalintojen muutoksia, sitoutumista, pohdintaa missä jatkaa uraansa (koulutus, ulkomaat jne.), sekä urheilijan tulisi itsenäisesti huolehtia omasta terveydestään. Toimintaympäristön
+tulisi olla urheilijaa tukevaa (Mero ym. 2016, 35–38).
+Lapsia tulisi innostaa ja tukea ja harjoittelun tulisi olla monipuolista lapsen kehitystä tukevaa. Yksilöt pitäisi huomioida ja työn pitäisi olla pitkäjänteistä sekä tavoitteellista sekä tuetaan terveellistä,
+liikunnallista ja urheilullista elämäntapaa. Lapsille pitäisi luoda turvalliset olosuhteet ja kaikkien tulisi saada osallistua. Lapsia tulisi ohjata monilajisuuteen, eikä suosia vain yhteen lajiin erikoistumista liian varhaisessa vaiheessa. Monilajisuus kehittää myös itse päälajissa suoriutumista, koska
+se mahdollistaa kilpailukokemuksia eri lajeista ja sitä kautta saattaa löytyä myös se itselle mieleinen ja sopiva laji. Pitäisi huomioida myös, että onko lapsi itse valinnut yhden lajin vai onko se ulkopuolisen järjestelmän tietoinen valinta. Pitäisi huomioida myös fyysisten tekijöiden lisäksi psyykkiset ja sosiaaliset tekijät ja kokonaisvaltainen lapsen kehitys. Aikoinaan liikunnallisuuteen kasvettiin,
+kun mukana olivat lähiöissä tapahtuvat kaikenlaiset pihapelit ja urheilukilpailut, ne olivat osa joka
+päiväistä lapsen elämää. Tämän takia jatkossakin tulisi kannustaa lapsia omatoimisuuteen, ja
+tässä ovat vanhempien lisäksi valmentajat isossa roolissa. Lapsen toimintaympäristön kannalta
+tärkeimmät pelaajat (aikuiset) ovat hänelle vanhemmat ja valmentaja, se vaatii valmentajalta myös
+12
+monipuolista osaamista, kuten tietoa kasvatuksesta ja hyviä vuorovaikutustaitoja. Vanhemmilla ja
+valmentajilla tulisi olla hyvä vuorovaikutussuhde ja se ei saisi perustua pelkästään menestykseen.
+Koulun ja urheilun sovittaminen olisi myös tärkeää lapsen kasvatuksen ja kehityksen osalta (Hämäläinen ym. 2023, 27–33).
+Kuva 1. Lasten urheilun laatutekijät ”pakattu urheilureppu” (mukaillen Finni ym. 2012)
+3.2 Valintavaihe
+Paljon on tehty erilaisia tutkimuksia liittyen valmentautumiseen ja harjoitteluun, sekä juniorien siirtyessä aikuisten sarjoihin. Suomessa asiantuntijaryhmän työssä keskityttiin urheilijan polussa valintavaiheeseen, ikävuodet määriteltiin 13–19 välille ja siinä urheilija oli keskiössä. Tällöin nuoret tekevät itsenäisiä päätöksiä, niihin kuuluvat esimerkiksi opiskelupaikan valinta, urasuunnitelmat, ystävien valinta, harrastukset, terveystottumukset ja muut elämäntyyliin liittyvät valinnat, sekä maailmankatsomus alkaa hahmottua. Tässä vaiheessa myös lajivalinta tulee ajankohtaiseksi, yleensä
+13–15 vuoden ikäisenä. Sanonta ”laji valitsee urheilijan” ei pidä paikkaansa, vaan urheilija valitsee
+itse lajinsa, tätä tukee se ajatus, että nuori on kokeillut useita lajeja. Nuorta pitäisi kohdella yksilönä, ei kohteena. Tässä vaiheessa nuoret voivat kohdata erilaisia haasteita ja mahdollisuuksia, ja
+he tarvitsevat tukea ja ohjausta näissä päätöksissä vanhemmilta, perheeltä, ystäviltä, valmentajilta
+jne. (Mononen ym. 2014).
+INNOSTAMINEN URHEILUUN SYNTYY, KUN
+tuetaan koettua pätevyyttä, sosiaalista
+yhteenkuuluvuutta vahvistetaan,
+autonomia mahdollistetaan ja motivaatio
+ilmasto on tehtäväsuuntautunut
+MONIPUOLISET LIIKUNTATAIDOT
+KEHITTYVÄT, KUN toiminta on
+lapsilähtöistä, pidetään suoritusten
+määrä korkealla, huolehditaan
+monipuolisesta tekemisestä ja toiminnan
+tulee olla todellista ja loogista
+FYYSISEN HARJOITETTAVUUDEN
+RAKENTAMINEN SYNTYY, KUN kasvua ja
+kehitystä kunnioitetaan yksilöllisesti,
+pitkäjänteisyys ja tavoitteellisuus
+toiminassa säilytetään, kokonismäärä on
+korkea ja harjoitus/liikunta monipuolista
+URHEILULLINEN ELÄMÄNTAPA TARTTUU,
+KUN terveysasiat huomioidaan
+kehityksessä, aloitetaan niihin kasvatus,
+kasvattiminen on tietoista ja aktiivista ja
+kodit/vanhemmat sekä seurat/
+valmentajat ohjaavat lapsia
+LAPSUUSVAIHE
+13
+Monosen ym. (2014) mukaan nuoren urheilijan elämään tulisi mahtua muutakin kuin urheilun laatutekijät. Asiantuntijoiden mukaan tämän ei tulisi myöskään olla vain huippu yksilöiden etsitään tarkoitettu työkalu, eikä myöskään valmennusopas (Mononen ym. 2014). Seuraavassa kuvassa on
+prosessin omaisesti esiteltynä urheilijapolun laatu- ja menestystekijöitä samaisesta tutkimuksesta,
+siinä on huomioitu urheilijanpolun kaikki eri vaiheet, aina huipulle asti. Tässä opinnäytetyössä keskityttiin lapsuus- ja valintavaiheisiin.
+Kuva 2. Urheilijan polun laatu- ja menestystekijät (Mukaillen Mononen ym. 2014)
+Valintavaiheeseen kuuluu monia eri osa-alueita, kuten innostuksesta intohimoon, motivaatiotekijät
+liittyen urheiluun, taitoharjoittelun merkitys, fyysisestä harjoittelusta systemaattiseen harjoitteluun
+siirtyminen ja urheilua tukeva toimintaympäristö. Kaiken tavoitteena olisi hyvä päivä, mihin liittyy
+myös arkivalmennus. Valintavaiheessa urheilusta kehittyy intohimo ja innokkuus säilyy, kun sisäistä motivaatiota tuetaan eri tavoin. Nuoren pitäisi pystyä vaikuttamaan itseään koskeviin asioihin, hänen pitää tuntea olevansa osa joukkuetta tai seuraa. Tässä vaiheessa toiset kilpailevat tosissaan ja tähtäin on korkealla ja toisilla liikunta täyttää edelleen osan arkea, mutta he omistautuvat jollekin toiselle elämänalueelle. Pelkkä menestyminen ei saa olla se juttu, vaikka kilpaileminen
+olisi enemmän motivaation lähde. Valintavaiheessa on hyötyä aikaisemmasta monipuolisista lajikokeiluista, koska silloin on yleensä pohjat luotu monipuolisten perusliiketaitojen osalta ja harjoittelumäärät ovat olleet korkealla taitojen kehitykselle. Tässä vaiheessa liikkeiden varioiminen on tärkeää, samoin liikkuvuus, tasapaino, voima ja nopeus elementtien kehittäminen. Kognitiivisten taitojen harjoittaminen on myös tärkeää. Harjoittelun laatu ja määrä kasvavat päälajin löydyttyä ja siihen omistautuessa. Pitää kuitenkin huomioida yksilölliset erot ja pituuskasvu ja niiden asettamat
+vaatimukset, sekä levon ja harjoittelun välinen suhde. On huolehdittava, että fyysinen, psyykkinen
+ja sosiaalinen puoli ovat tasapainossa, samoin ravinto, lepo ja päihteet eli tuetaan urheilijan oman
+LAPSUUSVAIHE
+•Innostus urheiluun
+•Monipuoliset
+liikuntataidot
+•Hyvä fyysinen
+harjoitettavuus
+•Urheilullinen
+elämäntapa ja rytmi
+VALINTAVAIHE
+•Innostuksesta
+intohimoon
+•Monipuolisista
+taidoista lajitaitoihin
+•Siirtyminen entistä
+systemaattisempaan
+harjoitteluun
+•Elämäntapa ohjaa
+terveeksi urheilijaksi
+HUIPPUVAIHE
+•Menestyksen
+avaimet ovat tahto,
+motivaatio ja
+intohimo
+•Harjoittelun
+optimointi ja
+kilpailuissa
+menestyminen
+•Terveyttä edistävä
+suorituskyky
+14
+terveysosaamisen kehittämistä. Laatutekijöihin kuuluu myös urheilijaa tukeva toimintaympäristö.
+Perhe ja vanhemmat ovat ratkaisevassa roolissa. Valmentaja viettää enemmän aikaa urheilijan
+kanssa, tavoitteet on laadittu ja tekeminen on laadukasta ja innostavaa. Ystävät merkitsevät urheilijalle paljon, yhteenkuuluvuuden tunne ja yhteisöllisyys ovat tärkeitä. Koulu ja opiskelu pitää osata
+rytmittää urheiluun, vaikka pitäisi joinakin päivinä viettää useampi tunti harjoituksissa. Valmentajan
+tulisi luoda positiivisia ja myönteisiä tuntemuksia urheilijalle ja tehdä arkivalmennuksesta kokonaista yksilön kehittämistä (Hämäläinen ym. 2023, 34–41; Mero ym. 2016, 31–33).
+15
+4 Pitkän aikajänteen mallit ja herkkyyskausien harjoittelu
+Vuosikymmenien ajan on tutkittu erilaisia pitkän aikajänteen malleja The long-term athlete development (LTAD) eli nuorille laadittu fyysiseen kehitykseen tähtääviä harjoitusohjelmia perustuen kronologiseen ikään. Niissä on kuitenkin huomattu joitakin sudenkuoppia, kuten rajoittunut lähestyminen ja varsinkin nopeuden ja voiman kehityksien suhteen. Lisäksi jos lapsi on pituuskasvun huippuvaiheessa, eikä tällöin ole kykenevä osallistumaan tai ole lupaa tiettyyn fyysisten harjoitusten
+suorittamiseen, niin saako hän uutta näytönpaikkaa omasta potentiaalistaan? Tutkijat ovat jälkeenpäin myöntäneet nämä sudenkuopat (Lloyd & Oliver, 2012).
+Artikkelissa Balyi & Hamilton (2003) esittivät kuusi (6) vaiheisen long term athletic development
+(LTAD) mallin ikään perustuen. Vaihetta 1 kutsutaan nimellä fundamental (perustaito), ja se on ikävuosille pojat 6–9 ja tytöt 6–8 vuotta. Suosituksena on perusliiketaitojen harjoittelua ja motoristen
+taitojen kehitystä. Mukana pitäisi olla iloa, hauskanpitoa ja lapsia innostavaa toimintaa. Vaihetta 2
+kutsutaan learning to train (opetellaan harjoittelemaan), siinä pojat ovat 9–12 ja tytöt 8–11 vuoden
+ikäisiä. Tässä vaiheessa tulevat mukaan urheilullisemmat harjoitteet ja nopeammat motoriset koordinaatio harjoitteet. Harjoittelu tulisi sisältää myös liikkuvuutta, voimaharjoittelua kuntopalloilla,
+isoilla jumppapalloilla ja oman kehon painolla. Lisäksi harjoitellaan ja ohjataan oikeanlaiset hyppy
+ja loikka tekniikat yksilöllisesti ja turvallisesti edeten. Vaiheessa 3 pojat ovat 12–16 ja tytöt 11–15
+vuoden ikäisiä. Tätä kutsutaan englanniksi training to train (harjoitellaan kilpailun omaisesti) vaiheeksi, missä hiotaan lajitaitoja, taktiikoita ja kilpaillaan enemmän. Aerobinen, voimaharjoittelu ja
+nopeuden kehittäminen korostuvat, myös liikkuvuuteen tulisi keskittyä ja sen ylläpitoon. Tämän vaiheen aikana olisi tärkeää huomioida pituuskasvun huippuvaiheet, lisäksi harjoittelu tulisi yksilöidä,
+jotta vältytään rasitusvammoilta. Projektityössä olivat keskiössä nuoret alle 13 vuotiaat, niin tässä
+ei avata 4–6 vaiheita erikseen mitä ja miten harjoitellaan. Vaihe 4 on training to complete eli harjoitellaan suoriutumaan haastavista harjoittelusta, vaihe 5 on training to win eli opetellaan voittamaan
+ja vaihe 6 on competition eli varsinainen huippu-urheilu tai kilpailuvaihe (Balyi & Hamilton, 2003).
+Seuraavalla sivulla on kuva kyseisestä LTAD mallista, siinä on huomioitu tyttöjen ja poikien väliset
+erot. Se antaa hyvän käsityksen, miten ja missä vaiheessa lapsilla ja nuorilla fyysisiä ominaisuuksia kyetään harjoittelemaan. Harjoittelu ei kuitenkaan nykykäsityksen mukaan saisi perustua pelkästään ikäkausi ajatteluun. Kaikkia ominaisuuksia kyetään harjoittelemaan myös päällekkäin ja
+sillä tavoin kyetään paremmin tukemaan lasten ja nuorten kehitystä.
+16
+Kuva 3. Lasten ja nuorten kehittävän harjoittelun malli (mukaillen Balyi & Hamilton, 2003).
+Artikkelissa Lloyd & Oliver (2012) esittivät uudemman LTAD mallin, nimeltään YPD. Se on vaihtoehtoinen pitkän aikajänteen lasten ja nuorten fyysisen kehityksen malli eli Youth Physical Development (YPD) model. Siinä oli tarkoituksena laatia fyysisen harjoittelun ohjeet ja uudet kehittävät
+mallit tutkittuun ja tieteelliseen näyttöön perustuen sekä tytöille että pojille erikseen. Tässä fyysisen
+valmennuksen mallissa huomioidaan myös lapsen kasvussa ja kypsyysvaiheessa tärkeät elementit
+ja nämä tulisi myös lajivalmentajien sekä fysiikkavalmentajien huomioida, ketkä tekevät kasvuikäisten kanssa yhteistyötä. Tässä myös kehitetään lapsen sisäistä motivaatiota harjoitteluihin osallistumiseen, mikä edistää urheilullista hyvinvointia, koettua osaamista ja taitojen kehittymistä, millä taas
+luodaan tyytyväisyyttä ja positiivista käyttäytymistä, sekä muita sosiaalisia malleja (Lloyd & Oliver,
+2012).
+YPD mallin mukaisesti FMS (fundamental movement skills) eli perusliiketaitoja harjoittelevat kaikki.
+Tämä tarkoittaa sitä, että FMS ja SSS (sport-specific skills) lajikohtaisia taitoja harjoitellaan
+17
+lapsuuden ja koko nuoruuden ajan, painotukset vain vaihtelevat yksilön kehityksen mukaan. Voiman kehittäminen YPD mallin mukaan pitäisi olla osana kokonaisvaltaista harjoittelua kaikissa kehitysvaiheissa, niin tytöillä kuin pojilla. YPD mukaan voimalla ei pyritä vain suorituskyvyn edistämiseen, sillä on tutkimusten mukaan myös vammoja ennaltaehkäiseviä elementtejä. Lloydin ja Oliverin (2012) YPD malli ehdottaa, että ennen murrosikää keskitytään enemmän voiman hankintaan ja
+kasvupyrähdyksen jälkeen mukaan tulisi ottaa myös hypertrofiaa (lihamassa) tukevaa harjoittelua.
+YPD malissa ehdotetaan myös, että teho (power) harjoittelua pitäisi olla matkassa koko lapsuuden
+ajan aina murrosiässä ja sen jälkeen. Siinä intensiteetti ja volyymi vain vaihtelevat iän ja kehityksen
+mukaan, samoin on nopeus harjoittelun kohdalla (Lloyd & Oliver, 2012).
+Lloyd ja Oliver (2012) huomioivat tuohon aikaan myös, että lastenlääketieteen tutkimuksissa ketteryyttä (agility) on tutkittu yllättävän vähän, vaikka se on olennainen osa suurimmassa osassa urheilulajeja. Tämän artikkelin tutkijat pitävät sitä tärkeänä osana kokonaisvaltaista lasten ja nuorten kehitystä ja se pitäisi huomioida harjoittelussa. Liikkuvuus harjoittelua piitäsi sisällyttää ennen murrosikää ja siinä saavutettu taso pitäisi ylläpitää nuorilla sekä aikuisilla. Kestävyys (endurance) ja
+aineenvaihdunta (metabolic condition) harjoitteluun ei laadita erikseen ohjeistusta, koska kestävyys
+kehittyy yleensä aerobisen lajiharjoittelun yhteydessä, toki lapsilla se tulee myös leikkien ja pelien
+yhteydessä. Tutkimusten mukaan lapsille ja ennen murrosikää kovat maitohapolliset harjoittelut eivät ole relevantteja, koska hormoni- ja lihastoiminnot eivät ole täysin kehittyneet, lisäksi lasten motivointi koviin suorituksiin ja testeihin on hankalaa ennen murrosikää. Tyttöjen ja poikien välillä ei
+ole suuriakaan eroja YPD mallin mukaan. Pituuskasvu alkaa tytöillä (n. 10 v) ennen poika (n. 12 v)
+ja pituuskasvun huippu (PHV) tytöillä 12 ja pojilla 14 vuoden iässä. Hormonaaliset muutokset tytöillä saattavat aiheuttaa nivelten löysyyttä (laxity), kun pojilla taas joustavuus (flexibility) on vähäisempää, nämä asiat pitäisi huomioida ohjelmoinnissa ja valmennuksessa (Lloyd & Oliver, 2012).
+Seuraavilla sivuilla on kuvat kyseisistä malleista pojille ja tytöille erikseen laadittuna. Ne antavat
+hyvän kuvan, miten ja missä vaiheessa lapsilla ja nuorilla fyysisiä ominaisuuksia kyetään harjoittelemaan eli hyvinkin varhaisessa vaiheessa, pitää vaan tietää mitä tekee. Tässä artikkelissa laaditut
+suositukset ovat hyviä ja edelleen ajankohtaisia, niistä ei tulisi tinkiä, näin vältetään myös mahdolliset liikunta- ja rasitusvammat, urheilijan motivaatio säilyy ja terve urheilija kehittyy urheilijan polulla.
+18
+Kuva 4. YPD malli pojille, käännetty alkuperäisestä suomen kielelle (Aapro, 2015, 37)
+Kuvalla viitataan aikaisempaan ja alkuperäiseen artikkeliin, kuvaan ja tekstiin YPD eli lasten ja
+nuorten fyysisen kehityksen malliin eli mitä ja missä vaiheessa lapsen- ja nuoren kehitystä tulisi
+harjoittaa. Kuvassa olevat vaalean sininen esittää esimurrosiässä tapahtuvia adaptaatioita eli fyysisen sopeutumisen muutoksia ja tummempi sininen taas murrosiässä tapahtuvia adaptaatioita. Alkuperäisessä kuvassa FMS (fundamental movement skills) tarkoittaa perusliiketaitoja eli tässä näkyvä PT ja SSS (sport-specific skills) lajikohtaisia taitoja eli LT. Alkuperäisessä Endurance (kestävyys) ja MC (metabolic conditioning) perusaineenvaihduntaa ja kestävyys olivat samassa lokerossa, tässä kestävyys mainittuna. PHV (peak height velocity) pituuskasvun huippuvaihetta ja
+tässä mainittu kasvupyrähdys (Lloyd & Oliver, 2012).
+19
+Kuva 5. YPD malli tytöille, käännetty alkuperäisestä suomen kielelle (Aapro, 2015, 36)
+Alkuperäisessä artikkelissa kuvassa vaaleampi pinkki esittää esimurrosiässä tapahtuvia adaptaatioita eli fyysisen sopeutumisen muutoksia ja tummempi pinkki taas murrosiässä tapahtuvia adaptaatioita. Alkuperäisessä Endurance (kestävyys) ja MC (metabolic conditioning) perusaineenvaihdunta ja kestävyys olivat samassa lokerossa, tässä käännöksessä on vain kestävyys mainittuna
+(Lloyd & Oliver, 2012).
+Kuva 6. YPD mallin kestävyys ja perusaineenvaihdunta (mukaillen Lloyd & Oliver 2012)
+20
+Lasten ja nuorten harjoittelussa perusliiketaitojen harjoittelu olisi tärkeää, tällöin tulisi kuormittaa
+kaikkia kehon eri järjestelmiä ja fyysisiä ominaisuuksia monipuolisesti. Kaikki kehittyvät omaan tahtiin. Valmennuksessa tulisi kaikkia ominaisuuksia harjoittaa herkkyyskausina, koska silloin kyetään
+hyödyntämään tiettyjä fyysisiä ominaisuuksia tuloksekkaasti ja kehittämään niitä pitkällä aikajänteellä. Herkkyysjaksot eivät noudata mitään tiettyä kaavaa tai aika järjestystä eli harjoittelu voidaan
+aloittaa jo hyvinkin nuorena, kunhan huomioidaan yksilölliset erot eli biologinen kypsyys ja kasvutekijät, jotka saattavat vaihdella paljonkin yksilöiden välillä. Yleistaitavuudeksi kuuluvat muun muassa
+motoriset taidot, koordinaatio, kestävyys, liikkuvuus, tasapaino, voima ja nopeus. Tämän lisäksi urheilutaitojen oppiminen ja kehittäminen ovat tärkeitä lapsen fyysisen ja motorisen kehityksen kannalta. Lajitaitavuudella tarkoitetaan muun muassa, että osaa toimia eri ympäristöissä ja soveltaa
+opittua tekniikkaa eri tilanteissa sekä uusien taitojen oppiminen on sujuvaa. Lapsi oppii myös tiimityöskentelyn, vuorovaikutuksen ja keskittymiskyvyn taitoja sekä lajin sääntöjä ja niiden noudattamista. (Hakkarainen ym. 2008, 6–11; Mero ym. 2016, 40–41). YPD mallin mukaisesti perusliiketaitoja harjoittelevat kaikki. Tämä tarkoittaa sitä, että perusliiketaitoja ja lajikohtaisia taitoja harjoitellaan lapsuuden ja koko nuoruuden ajan, painotukset vain vaihtelevat yksilön kehityksen mukaan.
+Voiman kehittäminen YPD mallin mukaan pitäisi olla osana kokonaisvaltaista harjoittelua kaikissa
+kehitysvaiheissa, niin tytöillä kuin pojilla (Lloyd & Oliver 2012). Tästä on uudempi nuorten kehitysmalli eli Composite Youth Development model (CYD), siinä huomioidaan fyysisyyden lisäksi myös
+filosofinen ja psykososiaalinen viitekehys. Artikkelin mukaan jo olemassa olevia malleja kyetään
+muokkaamaan. Kaiken tarkoituksena on integroida ne kokonaisvaltaiseksi urheilijan poluksi, mikä
+kehittää nuoria fyysisesti. CYD malli tulisi olla joustava lähestymistapa myös valmentajille, heidän
+laatiessaan ohjelmointia ja edistäessään nuorien kehitystä kokonaisvaltaisesti. Mallissa on huomioitu varhainen lapsuus, keskilapsuus ja nuoruusvaiheet (Lloyd ym. 2015). Seuraavalla sivulla on
+kuva kyseisestä mallista tytöille ja pojille erikseen laadittuna. Tässä opinnäytetyön projektissa tehtiin samanlaisella kaavalla ohjelmointi ja valmennus tutkittuun tietoon perustuen, kuin YPD ja CYD.
+Lasten ja nuorten hyvä fyysinen kehittäminen on pitkäjänteistä valmennusta. Lisäksi valmentajan
+ammattiin, lisäkoulutuksiin lasten- ja nuorten valmennuksesta sekä pitkään kokemukseen fysioterapiasta ja fysiikkavalmennuksesta lasten- ja nuorten keskuudessa tukevat myös näitä malleja.
+21
+Kuva 7. Nuorten kehittämisen malli CYD (mukaillen Lloyd ym. 2015)
+22
+Hämäläisen (2023) ja Meron (2004, 2016) mukaan lapsille suunnattu taitoharjoittelu tulisi sisältää
+sellaisia toimia, mitkä kehittävät lasta niin fyysisten kuin motoristen perustaitojen osalta, näin tuetaan myös lapsen kokonaisvaltaista kehitystä ja terveyttä. Kaiken tarkoituksena on kehittää varsinkin motorisia perustaitoja ja koordinaatiota, tasapainoa, lihasvoimaa ja kestävyyttä, kuin myös lapsen sosiaalisia ja psyykkisiä taitoja. Fyysisen taitoharjoittelun tulisi olla hauskaa ja lasta motivoivaa. Aikuisten ja valmentajien tehtävänä on tarjota lapsille turvallinen ympäristö, missä kannustetaan liikkumiseen ja fyysiseen aktiivisuuteen. Taito ja tekniikka harjoittelun kautta syntyvät hyvät
+urheilusuoritukset ja senkin takia niitä tulee harjoittaa lapsuudessa, koska hermosto kypsyy ja kehittyy varhaisessa iässä. Hermosto on kehittynyt jo 5–6 vuoden ikäisenä n. 80–90 % aikuisen hermoston kokoon nähden, sen jälkeen kehitys on hitaampaa, toki tämänkin jälkeen kyetään hermostoa ja taitoja harjoittamaan ja ylläpitämään. Kirjallisuuden mukaan yleistaitavuus kehittyy parhaiten
+1–5 (6) ikävuoden välillä ja lajitaitavuus 6–10 (7–12) ikävuosien välillä. Nuorilla pyritään kehittämään myös motorisia ja fyysisiä perustaitoja, koordinaatiota, liikkuvuutta, voimaa ja kestävyyttä.
+Tämä on tärkeää nuoren hyvinvoinnin ja terveyden kannalta. Nuoria tuetaan, jotta myös itsetunto
+ja itseluottamus kehittyvät, sekä joukkueessa tai ryhmässä toiminta paranevat. Harjoittaminen tulisi
+olla monipuolista ja yksilöt huomioivaa ja sitä tulisi soveltaa iän ja fyysisen kunnon mukaan. Harjoittelun tulee olla myös turvallista ja motivoivaa (Mero ym. 2004, 21, 241–245; Mero ym. 2016,
+44–46, 233, 241; Hämäläinen ym. 2023, 194–197).
+Hyvän hermoston kehityksen kannalta kaikkia taidon osa-alueita olisi harjoiteltava jatkuvasti lasten
+ja nuorten valmennuksessa. Harjoittelussa tapahtuva runsas vaihtelu lisää oppimista. Perustaitojen
+oppimista on myös kuvattu kolmella vaiheella eli kognitiivinen (alkuvaihe), assosiatiivinen (harjoitteluvaihe) ja automaatio (lopullinen vaihe). Kognitiivisessa vaiheessa keskitytään perustaitojen oppimiseen sekä niiden ymmärtämiseen. Kognitiivinen vaihe on erittäin tärkeä monimutkaisten tehtävien tai uusien käsitteiden oppimisessa ja se saattaa tuntua urheilijasta tylsältä, koska liikesuoritukset ovat hitaita, siinä opitaan usein virheiden ja toistojen kautta. Assosiatiivisessa vaiheessa opittuja taitoja vahvistetaan ja virheitä korjataan opittujen perusasioiden pohjalta. Toistuva harjoittelu,
+rakentava palaute ja ohjaus valmentajalta saattavat auttaa urheilijaa. Automaatiovaiheessa eli lopullisessa vaiheessa taitojen suorittaminen vaatii entistä vähemmän tietoista huomiota ja suoritus
+on lähes automaattinen, sekä virhemarginaali on pienempi (Mero ym. 2016, 39, 234–241; Hämäläinen ym. 2023, 194–199, 203–204; Human Kinetics, 2023).
+Tutkimusten mukaan ennen murrosikää 6–12 vuoden ikäisinä pitäisi keskittyä motorisiin perusliiketaitoihin, ohjata kehon painolla voimaharjoittelua, vahvistaa keskivartaloa ja muita tukikudoksia, samoin harjoittaa liikkuvuutta, aloittaa iskuttavan työn (plyometrinen) ja juoksun perustekniikan opettelua, ne voidaan sisällyttää peleihin ja leikkeihin. Harjoittelun tulisi sisältää iloa ja hauskanpitoa ja
+olla lapsia motivoivaa. Murrosiän alkuvaiheessa 11–13 vuotiailla tulisi yksilöt huomioida
+23
+joukkuelajeissa, koska pitäisi tietää ikäerot kehityksessä ja tietää pituuskasvun ja sen huippuvaiheen tekijät. Harjoittelussa tulisi keskittyä edelleen perusliiketaitoihin ja keskivartalon vahvistamiseen, hypyt ja loikat muokataan yksilöllisesti. Harjoitetaan haastavampia kehonpaino liikkeitä, koordinaatiota sekä ketteryyttä ja nopeusvoimaa, lisäpainot ovat varsin keveitä, liikkuvuus pidetään mukana harjoittelussa. Myöhäisessä murrosiässä eli 13–15 vuotiailla ns. pituuskasvun huippuvaiheessa mukana ovat kaikki edellä mainitut elementit, lisäksi harjoittelussa tulisi keskittyä lajitaitojen
+kehittämiseen. Tässä vaiheessa voimaharjoittelun liiketekniikoita opetellaan ensin levytangolla ja
+kehityksen mukaan lisätään nopeastikin vastusta. Voimaharjoittelu pitäisi tapahtua valvonnassa.
+Tytöillä lantion- ja keskivartalon vahvistaminen on tärkeää. Kasvuun liittyvien hormonien kasvuvauhti kiihtyy ja sillä on positiivinen vaikutus kudosten vahvistumiselle. Murrosiän jälkeen 14–18
+vuotiailla tulisi keskittyä aikuismaisempaan voimaharjoitteluun, mutta pitää ensin varmistaa urheilijan taustat, taso ja suoritustekniikat, ennen intensiteetin (kuorman) lisäystä. Lajitaitojen kehitykseen keskitytään myös entistä enemmän, myös lihasmassa harjoittelu lisätään ohjelmaan, sekä
+tehoharjoittelua eli anaerobinen harjoittelu ns. alaktinen teho ja kapasiteetti harjoittelua. Pikkuhiljaa
+tässä ikävaiheessa, kunhan varmistetaan, että pituuskasvu on ohitse tai lopuillaan, lantion- ja keskivartalon lihasten voimatasot ja hallinta ovat hyvällä tasolla, sekä suoritustekniikat kunnossa, niin
+itsenäinen voimaharjoittelu saattaa tulla kyseeseen. Valvottuna ja ohjattuna voimaharjoittelu on turvallista ja tehokkaampaa, koska valmentaja myös kellottaa palautukset, määrittää intensiteetin ja
+volyymin harjoituksessa, sekä motivoi ja on henkisenä tukena (Brennan, 2023; Hämäläinen ym.
+2023, 224–228).
+Vastusharjoittelua on tutkittu paljonkin. Siitä on hyötyä lapsille ja nuorille, se on turvallista ohjattuna, sekä terveyttä edistävää, eikä sen aloittamiselle ole tieteellistä ala ikärajaa. Alku- ja loppulämmittelyt tulisivat aina sisällyttää harjoitteluun. Välineinä voidaan käyttää oman kehon painoa,
+käsipainoja, kahvakuulia, kuminauhoja, kuntopalloja ja levytankoja. Harjoitukset missä käytetään
+lisävastuksia, tulisi sovittaa aina iän ja kehityksen mukaan, tämä tulisi valmentajien huomioida.
+Suosituksena olisi teettää lajiharjoittelun rinnalle vastusharjoittelua 2–3 kertaa viikossa (Behm,
+Faigenbaum, Falk & Klentrou, 2008). Jaimesa (2022) tutkimuksessa ryhmäjako toteutettiin seuraavasti eli hyppy-, kelkka- ja mäkijuoksu ryhmän kesken. Tulosten perusteella kaikki ryhmät paransivat testien tuloksia eli hyppyjen suorituskyvyt paranivat, juoksu nopeus parantui ja ketteryys elementit kehittyivät. Ryhmien välillä ei ollut huomattavia eroja. Tutkimuksen perusteella suositellaan
+suunnitelmallisia harjoitusohjelmia ohjattuna lasten motorisen suorituskyvyn parantamiseksi. Valvottuna ja ohjattuna kevyet hypyt ja juoksut eri suuntiin toimivat hyvin alkulämmittelyssä, samoin
+pelikaveria voidaan käyttää vastuksena (Jaimesa, 2022).
+Räjähtävää nopeutta tarvitaan esimerkiksi liikkeelle lähdössä. Johtuen lihassupistuksen voimakkuudesta, se on luontaista eri lihastyötavoille, kuten räjähtävä isometrinen, räjähtävä ballistinen ja
+24
+räjähtävä reaktiivinen ballistinen. Räjähtävää isometristä toimintaa tapahtuu muun muassa painonnosto liikkeissä, missä vaaditaan liikkeen lopulla maksimaalista isometristä voimaa, kuten myös
+plyometrisen liikkeen aikana, missä eccentrinen vaiheen jälkeen tapahtuu lyhyt isometrinen jännitys ennen konsentrista vaihetta. Räjähtävää ballistista toimintaa tapahtuu muun muassa tennis
+syötössä ja kuulantyönnössä, näissä vaaditaan liikkeen alulta ja keskivaiheelta maksimaalista liikevoimaa. Räjähtävä reaktiivinen ballistinen on edellisen kaltainen, sillä erotuksella, että siinä esivenytysvaihe on terävä ja voimakas, minkä jälkeen tapahtuu välitön lihasten supistuminen, tällaista
+tapahtuu kokovartalo liikkeissä, kuten nyrkkeilyn lyönnin aikana ja pikajuoksussa, missä askeltiheys ja tempo ovat korkeat (Verkhoshansky & Stiff 2009, 128–141).
+Meta-analyysin katselmuksessa huomioitiin kasvun ja kehityksen eri vaiheet, siinä käsiteltiin sekä
+tyttöjen että poikien tutkimuksia. 1 ryhmä koostui kuntopalolla työnnöistä ja heitoista, 2 ryhmä
+koostui ylöspäin suuntautuvista hypyistä ja eteenpäin suuntautuvasta vauhdittomasta pituus hypystä ja 3 ryhmä koostui suorasta juoksusta ja sukkulajuoksuista. Lopputuloksena tutkijat totesivat
+ja suosittelevat vastusharjoittelua lapsille ja nuorille, koska se on tehokas keino kehittämään nuorten motorisia perustaitoja sekä suorituskykyä heittämisessä, hyppäämisessä ja juoksemisessa
+(Behringer, Vom Heede, Matthews & Mester, 2011). Hieman uudemmassa ja laajassa kirjallisuus
+katsauksessa tutkittiin ennen PHV, PHV huipun aikana ja jälkeen tapahtuvia muutoksia voimantuotossa vastusharjoittelun jälkeen. Kaikissa ikä ryhmissä tapahtui positiivisia muutoksia, ennen
+PHV alkua muutos ei ollut merkittävää, PHV huippuvaiheessa oli nähtävissä suurimmat ja merkittävimmät muutokset, myös sen jälkeen havaittiin merkittäviä muutoksia voimantuotossa. Ennen PHV
+voima kyllä kehittyy, mutta lihasmassa ei, tähän vaikuttavat hormonaaliset tekijät. Tutkijat suosittelevat ensisijaisesti vastusharjoittelua PHV aikana ja sen jälkeen. Ennen PHV sitä tulisi myös harjoittaa, silloin sen tulisi olla enemmän motoristen perusliiketaitojen ja omalla keholla tapahtuvaa
+voimaharjoittelua tai keveillä vastuksilla (Moran ym. 2016). Vuoden mittaiseen yhdistelmä harjoitteluun sisältyivät perinteinen voimaharjoittelu, plyometrinen harjoittelu ja painonnostoa ja toisessa ne
+tehtiin ilman painonnosto harjoittelua. Tutkimuksen perusteella tutkijat suosittelevat pitkällä aikajänteellä tehtäviä voimaharjoitus ohjelmia nuorille urheilijoille, tähän tulisi myös valmentajien sekä urheilijoiden kiinnittää huomiota (Pichardo ym. 2019).
+Valmentaessa nopeusvoimaa lapsille ja nuorille, se haastaa valmentajia, koska valmentajan tulee
+tietää nopeuden harjoittamisen vaatimukset, kuten mitkä ovat yksilön suorituskyvyn taso ja keskittyminen, kehityksen eri vaiheet ja painopisteet, sekä vammoihin sisältyvät riskitekijät. Harjoittelu
+tulisi tapahtua valvottuna, jotta suoritustekniikat ovat biomekaanisesti oikeat (asento- ja liikehallinta), näin vältetään vääränlaiset liikeradat ja ylirasitustilat, mitkä saattavat olla vahingollisia kehitysvaiheessa olevalle keholle. Lasten- ja nuorten harjoituksia ja ohjelmia suunnitellessa yksilöllinen
+huomioiminen ja kannustamien ovat avainasemassa. Tutkimusten mukaan oikeanlainen
+25
+nopeusharjoittelu edistää lasten- ja nuorten motorista taitoja ja kehitystä, lihasvoimia ja kestävyyttä. Nopeus on monen tekijän summa, suurelta osin siihen vaikuttavat lihasten supistumiskyky,
+hermolihasjärjestelmän kyky toimia nopeasti eri tilanteissa ja energia aineenvaihdunta. Harjoittelun
+avulla kyetään kehittämään lajissa vaadittavia elementtejä, kuten reaktiokykyä, rytmitajua, liiketiheyttä, nopeusvoimaa, liikkuvuutta, elastisuutta (kimmoisuus) ja rentoutta (Hämäläinen ym. 2023,
+236–239).
+Ennen murrosikää ei suositella harjoittelussa varsinaisia (tulevat myöhemmin) lajinomaisia teknisiä
+nopeusharjoituksia, vaan opetetaan motorisia perustaitoja, rytmitajua, lihasten aktivointia, ketteryyttä ja liiketiheyttä. Aina tulisi muistaa oikeat tekniikat, nämä ovat valmentajien ja ohjaajien vastuulla, kun harjoitellaan esimerkiksi oikeita juoksu- ja liikkumisen tekniikoita. Mukana voi olla erilaisia lihaskunto, ketteryys ja koordinaatio ratoja ja missä käytetään muun muassa kartioita, tikkaita,
+aitojen ylityksiä ja alituksia, vastusnauhoja ja kuntopalloja. Hypyt ja loikat tulisivat ensin opettaa
+teknisesti ja turvallisesti, jos mahdollista niin paljain jaloin ja tällöin pehmeä alusta olisi suotavaa,
+koska se on hyvä tapa kehittää tasapainoa ja jalkaterän ja nilkan tukilihaksia. Esi murrosiässä painotukset ovat pitkälti samat, tässä vaiheessa harjoitteluun lisätään lajinomaisuutta, voidaan teettää
+lajinomaisia kilpailuja sekä lisää huomiota elastisuuteen, liiketiheyteen ja liikkuvuuteen. Nopeusvoima harjoittelua voidaan entisestään lisätä, kuten kuntopallo heitot, loivat ylämäki ja porras juoksut ja hyppelyt. Tärkeä olisi huomioida yksilöt ja kehitykseen liittyvät tekijät, myös suoritustekniikkaan tulisi edelleen kiinnittää paljon huomiota, näin vältetään mahdolliset rasitusvammat. PHV aikana elimistössä tapahtuu monia muutoksia, jotka saattavat vaikuttaa lihasten kehitykseen ja nopeuteen, nämä kaikki tapahtuvat yksilöllisesti. Hormonaalisten muutosten takia nopeusharjoittelusta saadaan mahdollisesti hyötyä suorituskykyyn. Tässä vaiheessa myös kehossa tapahtuu luustossa pituuskasvua, tällöin lihasten pituus ei kehity saman aikaisesti vaan tulee perässä, samoin
+ala- ja yläraajojen pituuden muutokset. Kaikki nämä tekijät vaikuttavat hetkellisesti liikkumiseen ja
+liiketiheyteen heikentävästi. Tämän takia olisi tärkeää harjoittaa rytmitajua ja liike tiheyttä, samoin
+liikkuvuutta, rentoutta ja liiketaitoja. Pitäisi edelleen painottaa suoritustekniikan tärkeyttä hypyissä,
+juoksuissa ja ketteryydessä, näin pyritään välttämään mahdolliset rasitusvammat. Lepo ja ravinto
+ovat tärkeät tässä vaiheessa. Murrosiän jälkeen harjoitteluun lisätään entisestään lajinomaisuutta,
+vaikka mukana tulisi edelleen myös olla motorisia perustaito harjoittelua, koordinaatio ja liiketiheys
+ja liikkuvuus harjoittelua. Nopeusharjoittelu muistuttaa enemmän aikuismaista tekemistä, kuitenkin
+tässäkin vaiheessa yksilöllinen huomiointi olisi tärkeää, samoin harjoitustaustat ja suoritustekniikat
+tulisivat tarkistaa. Lepo, ravinto ja palautuminen ovat tärkeitä tässäkin vaiheessa (Hämäläinen ym.
+2023, 236–239; Brennan, 2023).
+Lopputestien perusteella tutkijat suosittelevat plyometrisen harjoittelun sijoittamista lajiharjoittelun
+yhteyteen kehittämään lasten ja nuorten nopeusvoimia juoksussa, suunnanvaihdossa ja
+26
+ponnistusvoimassa (Bogdanis ym. 2019). Toisessa tutkimuksessa keskityttiin myös vertikaalihypyn
+biomekaniikkaan eli suoritustekniikkaan. Molemmat ryhmät paransivat vertikaalihypyn testin tuloksia, mutta yhdistelmä ryhmän tulokset olivat paremmat. Tutkijat suosittelevat lopputestien perusteella yhdistelmä harjoittelun sijoittamista lajiharjoittelun yhteyteen kehittämään ponnistusvoimaa
+eli räjähtävää nopeutta (Sánches-Sixto, Harrison & Floria, 2021). Zagatto ym. (2022) tutkimuksessa vertailtiin pudotushypyn ja raskaan kelkanvedon vaikutuksia nuorten koripallo poikien toistuvaan pikajuoksu nopeuteen. Tutkimuksen mukaan pudotushypyillä kyetään parantamaan nuorten
+koripalloilijoiden suorituskykyä sekä ponnistusvoimassa että lyhyissä sprinteissä ja nopeissa suunnanmuutoksissa. Kaikkia näitä osa-alueita vaaditaan koripallossa (Zagatto ym. 2022).
+Tutkijat eivät löytäneet eroja siitä, mitkä harjoitusmenetelmät olisivat tehokkaimpia ja kehittäisivät
+parhaiten ketteryyttä ja/tai suunnanvaihtonopeutta (COD). Toisaalta tutkijat toteavat, että kaikki
+katsauksessa mukana olleet menetelmät korreloivat hyvin tai merkittävästi COD kehitykseen. Lopputulos kaikesta on, että plyometrisiä harjoitteita, voimaharjoittelua, pikajuoksua, COD harjoituksia
+sinällään ja yhdistelmä harjoituksia voidaan käyttää ketteryyden ja suunnanmuutos nopeuden kehitykseen nuorilla urheilijoilla (Nygåård Falch, Guldteig Rædegård & Van Den Tillaar, 2019).
+Intervention tarkoituksena oli tutkia ja vertailla 1 ja 2 jalan plyometrisen ja kontrolliryhmän harjoittelun vaikutuksia lihas- ja räjähtävän voiman tuottoon, pikajuoksuun ja ketteryys elementtien välillä.
+Yhteenvetona tälle tutkimukselle on, että 1 jalan plyometrinen harjoittelu parantaa esimurrosiässä
+olevien nuorten lyhyitä (sprintti) juoksu matkoja, reiden etu- ja takaosan (quadriceps ja hamstrings)
+lihasten voimia sekä 1 jalan räjähtävää voimantuottoa. Tämän takia, 1 jalan plyometriset harjoitteet
+suositellaan ja niitä tulisi sisällyttää nuorten eri pallolajien pelaajien harjoitusohjelmaan, myös kauden aikana (Drouzas ym. 2020). Plyometrinen harjoittelu kehittää lihaksen jänneheijasteita, kimmoisuutta ja hermoston kykyä käskyttää ja käyttää lihaksia nopeasti. Plyometrisen harjoittelun saatavia hyötyjä ovat muun muassa side- ja tukikudosten, hermolihasjärjestelmän iskunsietokyvyn ja
+luuaineksen (mineraali tiheys) vahvistuminen (Athletica 9.9.2022; Verkhoshansky & Stiff 2009, 40–
+45, 268–273).
+Tutkimusten perusteella tiedetään, että ei ole vain yhtä ja oikeaa menetelmää parantamaan lastenja nuorten nopeus elementtejä, vaan kaiken takana on monipuolisuus. Samoin tutkimusten perusteella tiedetään myös, että eri menetelmiä nopeuden kehitykseen olisi suositeltavaa ottaa käyttöön
+eri lajien yhteydessä, myös kauden aikana ja valvottuna. Suositeltavaa olisi ammattilaisen konsultaatio, lisäksi yksilön fyysinen ja henkinen taso ja suoritustekniikat tulisivat aina tarkistaa, ennen
+voimakkaampien ja tehokkaampien menetelmien käyttöönottoa.
+27
+5 Vammojen ennaltaehkäisy
+5.1 Riskitekijät
+Liikunta- ja rasitusvammojen riskitekijät jaetaan yleisesti sisäisiin ja ulkoisiin tekijöihin. Yhdessä ne
+saattavat vaikuttaa vammamekanismiin ja riskitekijöihin. Sisäiset riskitekijät urheilussa ovat peräisin urheilijasta itsestään tai hänen kehostaan, ne saattavat aiheuttaa loukkaantumisia ja heikentää
+suorituskykyä. Näihin lasketaan kuuluvaksi esimerkiksi aikaisempi vammahistoria, alentunut fyysinen kunto, liian intensiivinen harjoittelu ilman riittävää palautumista, vääränlainen suoritustekniikka
+lajissa tai oheisharjoittelussa, riittävästä unesta huolehtiminen sekä psyykkiset tekijät. Ulkoiset riskitekijät urheilussa ovat tekijöitä, jotka tulevat urheilijan toimintaympäristöstä tai ulkoisista olosuhteista. Näihin lasketaan kuuluvaksi muun muassa sääolosuhteet, harjoituspaikan tai pelialueen
+huono valaistus ja epätasainen tai liian kova pelialusta, huonot varusteet, vastustajan tai tuomarin
+käytökset, harjoitus- ja kilpailumatkat sekä valmennuksen laatu (Mero ym. 2016, 667–669).
+Selkäkipujen taustalla saattavat olla suoritustekniset puutokset ja huono biomekaniikka (asennonja liikkeenhallinta). Toistuvat selän eli lannerangan ojennus suunnan liikkeet saattavat aiheuttaa
+mekaanista selkäkipua ja siitä edelleen osteopatian (selän rasitusmurtuman esiaste), spondylolyysin (nikamakaaren höltymä) ja sen seurauksen jossain ikävaiheessa jopa spondylolisteesin (nikamakaaren etusuunnan siirtymä). Pitkäkestoiset ja toistuvat lannerangan koukistus suunnan liikkeet
+saattavat aiheuttaa välilevyperäisiin kipuihin, apofyysin murtuman (luun kasvualue) tai Scheuermann taudin (nikaman kiilamainen häiriö).
+5.2 Erityispiirteitä
+Lapsilla ja nuorilla esiintyy suhteellisen paljon eriasteisia pienempiä akuutteja eli äkillisiä vammoja,
+ja näihin lukeutuvat muun muassa venähdys, ruhje, pienet haavat ja revähdykset. Vakavammat eli
+luunmurtumat aiheutuvat yleensä, koska lasten luusto on pehmeämpää kuin aikuisilla, se on vielä
+kehittyvää, mikä saattaa altistaa herkemmin murtumille. Aikuisten ja valmentajien tulisi kiinnittää
+huomiota nuoren murrosiässä tapahtuvan nopean pituuskasvun vaiheeseen. Tässä vaiheessa
+luustoa kuormittaessa liian intensiiviset hyppy ja loikka harjoitukset, sekä biomekaanisesti väärin
+tehtynä saattavat aiheuttaa apofyyseissa luun pituuskasvun häiriöitä. Pituuskasvun huippuvaiheessa apofyysit eli luiden kasvualueet ovat juuri herkimmillään vammoille. Yhden lajin liian varhainen valinta saattaa kuormittaa lapsen ja nuoren kehoa liian yksipuolisesti ja alistaa vammoille.
+Omaehtoisen liikunnan vähentyminen ja vastaavasti lajin harjoitusmäärän voimakas lisääntyminen,
+puutteelliset suoritustekniikat ja yksipuolien kuormitus altistavat herkemmin vammoille. Valmentajien rooli on tärkeä liikunta- ja rasitusvammojen ennaltaehkäisyssä. Valmentajien tulisi edistää urheilijan terveyttä, tähän liittyvät muun muassa yksilöiden huomiointi joukkueessa (Hämäläinen ym.
+28
+2023, 187–193; Hakkarainen ym. 2008, 7–8). Harjoittelun suunnittelussa ja ohjelmoinnissa tulisi
+huomioida monipuolinen lajia tukeva harjoittelu, se on avainasemassa eli fyysisten perusominaisuuksien ja motoristen taitojen kehittäminen. Oikeat suoritustekniikat ja perusliiketaidot, esimerkiksi
+punnerrukset, kyykyt, juoksut ja hypyt ovat kaiken perusta lajiharjoittelulle. Liikunta- ja rasitusvammojen riski suurenee alentuneesta asennon- ja liikkeenhallista ja suoritustekniikan puutteesta. Hyvin laaditut ja ohjatut alku- ja loppuverryttelyt pitäisivät kuulua sekä harjoitusten että kilpailujen yhteyteen. Harjoitusten välillä tulisi huolehtia riittävästä palautumisesta, samoin lepo, ravinto ja uni
+kuuluvat palautumiseen. Vamman sattuessa laaditaan yksilöllinen laji- ja urheilukielto. Lisäksi seurassa tai organisaatiossa olisi suositeltavaa teettää urheilijan lähtötason arviointi kasvu- ja kehityksen aikana (Hämäläinen ym. 2023, 191–193). Säännöllinen liikunta ja urheilu ja varsinkin biomekaanisesti oikeanlaiset suoritustekniikat harjoittelussa kehittävät nivelrustojen kuormitus kestävyyttä ja kehittymistä, sekä luumassan tiheyttä, varsinkin jos ne sisältävät hyppyjä, vääntöjä ja tärähdyksiä. On kuitenkin muistettava, että hyvinkin varhaisessa vaiheessa tehty biomekaanisesti
+vääränlainen suoritustekniikka saattaa myös aiheuttaa rustovammoja. Kasvu- ja kypsyysvaiheessa
+liikunnan ja urheilun myötä vahvistetaan myös muita tukirakenteita, kuten nivelsiteet (myöh. ligamentti), jänteet ja nivelkapselit. Ehkäiseviä tekijöitä on myös se, että yhdessä urheilijat ja valmentajat ja organisaatiot olisivat tietoisia ulkoisista riskitekijöistä ja pyrkisivät hallitsemaan niitä parhaansa mukaan. Hyvänä ohjeena pidetään myös sitä, että yhdessä urheilijat ja valmentajat olisivat
+tietoisia sisäisistä riskitekijöistä ja pyrkisivät hallitsemaan niitä omalta osaltaan asianmukaisilla toimilla. Spesifit harjoitteet vammojen ennaltaehkäisyyn tulisi olla säännöllistä ja ympärivuotista (Mero
+ym. 2016, 667–669; Hakkarainen ym. 2008, 7–8).
+5.3 Suositukset ennaltaehkäisyyn
+Jalkapalloon on (FIFA 11+) tehty tutkimus 9–12 vuotiailla. Tutkimuksessa tehdyn alkulämmittelyn
+todettiin parantavan dynaamista ja staattista tasapainoa sekä alaraajojen lihasvoimia. Tulosten
+mukaan suorituskyvyn kehittyessä sillä on myös vammoja ennaltaehkäisevä vaikutus (Palloliitto).
+Laajan meta-analyysin mukaan lapsille ja nuorille tarkoitetut ohjelmat, jotka sisälsivät hyppyjä sekä
+plyometrista harjoittelua vähensivät ACL (polven eturistiside) ja nilkkojen nivelsiteiden (ligamentti)
+vammoja. Tutkimuksen mukaan niitä olisi erittäin tärkeä sisällyttää harjoitteluun sekä ennen kautta
+että kauden aikana ennaltaehkäisemään vammoja lapsilla ja nuorilla (Weber, Lam & Valovich
+McLeod, 2016). Aiheesta on tehty myös laajempi kirjallisuus katsaus, missä tutkijat päätyivät siihen, että FIFA 11+ on tehokas ohjelma vammojen ennaltaehkäisyyn, koska se vähensi 30 % loukkaantumisia (Sadigursky ym. 2017). Meta-analyysista käy ilmi, että alkulämmittelyn pitäisi olla lajiharjoitteluun valmistava ja vammoja ennaltaehkäisevä tarkoitus. Siinä tulisi huomioida lihasten aktivointi ja lihastasapainon parantaminen, liikkuvuus osuus ja proprioseptinen stabiliteetti eli asentoja liikeaistien parantaminen (Soomro ym. 2015). RCT eli satunnaistetun kontrolloidun tutkimuksen
+29
+mukaan vammoja ennaltaehkäisevään harjoitteluun pitäisi sisältyä monipuolinen ja eri liikesuuntiin
+tapahtuvaa tasapaino ja voimaharjoittelua (Laursen, Andersen & Andersen, 2018). Toisen metaanalyysin mukaan ennaltaehkäisevään harjoitteluun pitäisi sisältyä esimerkiksi proprioseptiivinen
+harjoittelu, voimaharjoittelu ja plyometrinen harjoittelu. Viikkotasolla suositellaan vähintään 2–3
+harjoitusta, kestoltaan ne ovat 10–15 minuuttiin, tämä tarkoittaa viikkotasolla 30–60 minuuttia. Pidemmällä kuuden kuukauden aikana se tekee noin 20–60 harjoitusta (Steib, Rahif & Pfeifer, 2017).
+Kirjallisuuskatsauksessa nuorille suositellaan unta 8–10 tuntia yössä. Tasapainoilu esimerkiksi lajin, koulun ja pelimatkojen kanssa ei välttämättä saa riittävästi unta. Tällöin olisi suositeltavaa ottaa
+päiväunet, jopa lyhytkin alle 30 minuuttia, saattaa parantaa mielialaa ja yleistä vireyttä. Mikäli on
+kilpailujännitystä, eikä nuku riittävästi juuri kilpailuja edeltävänä yönä, niin tähän suositellaan unen
+laittamista ”pankkiin”. Esimerkiksi viikko ennen kilpailuja nukkuu extraa, tällä voidaan kohentaa
+mielialaa ja vähentää kilpailun aiheuttamaa jännitystä (Walsh ym. 2012).
+Alkulämmittelyn tarkoituksena on myös kehon lämpötilan nostaminen, kohottaa sydämen sykettä ja
+hengitys- ja verenkiertoelimistön toimintaa. Jalkapallossa, kuten myös useassa muussa pallolajissa, missä on nopeita suunnanmuutoksia pienessä tilassa ja leikkaavia voimia täysivauhtisesta
+juoksusta tai kamppailutilanteissa, niin keskivartalon, lantion alueelta ja alaraajoilta vaaditaan suuria voimia, että asentoa ja liikettä kyetään pitämään kontrollissa. PHV vaiheessa eli pituuskasvun
+huippuvaiheessa valmentajien olisi erittäin tärkeää harjoittaa säännöllisesti ja oikeilla suoritustekniikoilla juuri kyseisten alueiden lihasvoimia, jotta ne kestävät kovaa fyysistä rasitusta ja siten ennaltaehkäistään vammoja. Liikunta- ja rasitusvammoja ehkäisevän harjoittelun perusteita ovat muun
+muassa tekniikkaharjoittelu, sisältäen yleiset perusliiketaidot, oikeat nostotekniikat ja lajitekniikat.
+Näissä määrä ei korvaa laatua, jopa vähemmän on parempi. Omaehtoinen monipuolinen fyysinen
+aktiivisuus, liikkuvuuksien harjoittaminen ja ylläpito. Selän ja lantion hallinta sekä lannerangan
+neutraaliasennon harjoittaminen ja alaraajojen linjausten harjoittaminen. Laji- ja urheilu tai liikuntakielto käsitetään usein väärin. Yleensä se ei tarkoitta kuin hetkellistä kieltoa lajista, toki vakavammissa tapauksissa hieman pidempi tauko lajista. Tuona aikana ulkopuolinen kuntouttavan valmennuksen ammattilainen kartoittaa tilanteen ja yhdessä urheilijan kanssa laaditaan korvaavia harjoitteita. Näin nuori ei jää yksin, vaan häntä tuetaan prosessin aikana.
+30
+6 Fyysiset ominaisuudet
+6.1 Voima
+Fysiikassa voima määritellään tavallisesti kappaleeseen kohdistuvaksi työntäväksi tai vetäväksi
+kanssakäymiseksi. Voimaa tarvitaan esimerkiksi liikkeen aloituksesta hidastukseen ja aina liikkeen
+pysäytykseen asti. Voimalla selitetään sen kykyä aiheuttaa liikettä, muuttaa nopeutta tai suuntaa ja
+ilman lihaksen voimantuottoa näin ei tapahdu. Urheilussa voimaa tarvitaan lihasten työntövoimana
+esim. jääkiekossa laidassa kamppailu tilanne, missä pitää vastustajan laidassa työntäen ala- ja yläraajoilla tai vetovoimana esim. judossa vastustajan vetäminen lähelle ja edelleen teknisen heiton
+loppuun vienti. Voima on siis läsnä, kun liikutetaan itseään tai vastustajaa, lisäksi voimaa tarvitaan
+energian tuottajana eri lajeissa eli kaikkeen liikuntaan ja urheilusuorituksiin tarvitaan voimaa. Ilman
+perusvoimaa eivät myöskään lajissa vaadittavat voimat kehity tai se on ainakin rajoittava tekijä. Pitkäjänteisellä ja monipuolisella voimaharjoittelulla on paikkansa harjoittelun ohjelmoinnissa lajista
+riippumatta. Voiman kolme lajia ovat nopeusvoima, maksimivoima ja kestävyysvoima. Harjoittelun
+suunnittelussa ne jaotellaan edelleen näin eli maksimivoimaa harjoitellaan hermostollisesti ja hypertrofisesti, nopeusvoima harjoittelu keskittyy pikavoimaan ja räjähtävävoimaan ja kestovoimassa
+harjoitetaan lihaskestävyyttä ja voimakestävyyttä. Lajivoimalla tarkoitetaan niiden ominaisuuksien
+kehittämistä, mitä lajissa vaaditaan. Lihastyötavat jaetaan kolmeen osaan eli konsentrinen, isometrinen ja eksentrinen lihastyö. Konsentrisessa työtavassa proksimaaliset ja distaaliset lihasjänne
+kompleksit liikkuvat toisiaan kohti eli ”lihas lyhenee” vastusta vastaan. Isometrisessä työtavassa
+proksimaaliset ja distaaliset lihasjänne kompleksit eivät liiku suhteessa toisiinsa nähden eli nivelkulma pysyy vakiona ja lihaksen pituus ei muutu. Tällä kyetään tuottamaan enemmän voimia kuin
+konsentrisella lihastyötavalla. Eksentrisessä työtavassa proksimaaliset ja distaaliset lihasjänne
+kompleksit liikkuvat toisistaan poispäin eli ”lihas pitenee”. Tällä tavalla kyetään tuottamaan eniten
+voimaa, siitä käytetään kirjallisuudessa myös nimitystä negatiivinen lihastyötapa (Mero ym. 2004,
+251; Verkhoshansky & Stiff 2009, 51–54; Rytkönen 2018, 20–23¸ Hämäläinen ym. 2023, 212–243).
+Hermostollisella maksimivoimalla viitataan kehon kykyyn tuottaa tahdonalaisesti suurinta mahdollista voimaa lihasten kertasupistumisen kautta. Voimaharjoittelun avulla pyritään lisäämään urheilijan hermostollista maksimivoimaa. Hypertrofisella maksimivoima harjoittelu viittaa lihaskoon ja lihasmassan kasvattamiseen. Hypertrofisella maksimivoima harjoittelulla lihaksia altistetaan riittävän suurelle kuormitukselle, joka aiheuttaa mikrovaurioita lihakseen, tämän jälkeen keho adaptoituu ja se
+vuorostaan laukaisee lihassolujen kasvun reaktion. Maksimivoima harjoittelulla kehitetään lihasten
+voimantuottoa, mutta sillä myös kiistatta positiivisia vaikutuksia yleiseen hyvinvointiin, terveyteen ja
+tietenkin suorituskykyä edistämään, se myös vahvistaa tuki- ja sidekudoksia, kuten luustoa ja jänteitä (Verkhoshansky & Stiff 2009, 107, 400). Tehoharjoittelun kehitykseen reaktiivinen eli
+31
+vaistonvarainen harjoittelu on riippuvainen räjähtävyydestä ja tehon (power) tuotosta. Näitä menetelmiä ovat muun muassa Load Release ja Heavy-Light (raskas kevyt) menetelmät. Biologiassa superstimulaatiolla viitataan tilanteeseen, jossa ärsykkeen voimakkuus tai määrä ylittävät normaalin
+tason ja aiheuttavat voimakkaan reaktion elimistössä tai muissa aistijärjestelmässä (Verkhoshansky
+& Stiff 2009, 107, 400).
+Kontrasti voimaharjoittelu menetelmistä käsitellään ensin PAP (Post-Activation Potentiation), joka
+hyödyntää voimaa ja tehoja harjoituksissa. PAP liitetään epäsuorasti hermoston ja lihasten väliseen vuorovaikutukseen. Voimakas lihasharjoitus aiheuttaa lihassolujen ja niitä ympäröivien rakenteiden aktivoitumisen sekä hermostollisen aktivaation lisääntymisen. Tämä mekanismi saattaa parantaa yksilöllisesti hermolihasjärjestelmän toimintaa, mikä saattaa lisätä urheilijan suorituskykyä
+eli nopeus ja tehontuotto paranevat. Toisena menetelmänä käsitellään PTP (Post-Tetanic Potentiation). PTP mekanismiin liitetään solunsisäisten kalsiumionien (ravintoaine) pitoisuuden nousua
+synapsissa (liitoskohta, missä tapahtuu hermoimpulssien siirto) voimakkaan hermoimpulssin seurauksena. Hermoimpulssi (aktiopotentiaali) on sähköinen signaali, joka kulkee hermosoluissa (neuroneissa) ja mahdollistaa viestinnän kehon eri osien välillä. Kalsiumionit ovat tärkeitä signaalinvälityksessä ja niiden lisääntyminen synapsissa saattaa lisätä hermolihasliitoksen voimaa väliaikaisesti. Aikaikkuna tälle toiminnalle on sekunneista muutamaan jopa 10 minuuttiin. PAP ja PTP molemmat hyödyntävät raskaiden voimaharjoitusten jälkeen ilmenevää lyhytaikaista voimantuoton tehostumista, joka johtuu hermostollisista ja fysiologisista muutoksista. PAP tai PTP: ssa suoritetaan
+ensin raskas voimaharjoitus. Tämä stimuloi hermostoa ja valmistaa lihakset seuraavaa suoritusta
+varten. Lyhyen tauon (10–20 sekuntia) tai 3–10 minuutin kuluttua suoritetaan kevyempi harjoite,
+mutta nopeammin ja tehokkaammin. Toisaalta voidaan suorittaa mittauksia eri minuutti luvuilla esimerkiksi isometrisen lihastyön aikana. PAP tai PTP tekniikkaa voidaan käyttää erityisesti tukemaan
+voimaharjoittelua ja urheilusuoritusta, joissa nopeus ja voiman (tehon) tuotto ovat keskeisiä tekijöitä, kuten juoksu, hyppy ja heittolajit. Harjoittelussa huomioon yksilölliset ominaisuudet ja harjoitukset tulisi suorittaa oikealla tekniikalla ja turvallisuus huomioiden. Ennen uuden harjoittelumenetelmän aloittamista olisi aina suositeltavaa konsultoida valmentajaa tai asiantuntijaa. PAP ja PTP
+kyetään myös nuorilla hyödyntämään, varsinkin ennen murrosikää, koska tässä iässä kyetään rekrytoimaan (aktivointi) uusia lihassoluja ja tällä yritetään nopeuttaa niiden aineenvaihduntaa. Lisävastukset tulisi olla kevyet ja suoritustekniikat hyvällä tasolla (Walker, 2023¸ Dote-Montero 2022;
+Athletica, 9.9.2023).
+Usein maksimivoimalla määritellään myös urheilijan suorituskykyä, esimerkiksi kun hän nostaa ”eksentrisellä” takakyykyllä isoja (1 RM) yhden toiston maksimi painoja ylös ilman aikarajaa (alas menossa tai ylös tullessa), koska kyseessä ei ole räjähtävä voimantuotto. Toisena on etukäteen määritelty paljonko rautaa pitää punnertaa penkiltä, aikaisempiin harjoitus tulosten perusteella
+32
+esimerkiksi hermostollisesti kuormitettuna 1–3 toiston sarjoja 85–100 % 1 RM. Maksimivoimaa ei
+tule sekoittaa absoluuttiseen voimaan, koska siinä urheilija tuottaa esim. haastavan isometrisen harjoitteen omalla kehonpainollaan (Mero ym. 2004, 251; Mero ym. 2016, 250–263; Rytkönen 2018,
+20–23; Verkhoshansky & Stiff 2009, 107).
+6.2 Nopeus
+Nopeus on tärkeä ominaisuus monissa urheilulajeissa, kuten käsipallossa, koripallossa ja yleisurheilussa. Nopeus elementtejä tulisi harjoittaa paljon varsinkin lapsena ja nuorena, koska tuolloin
+hermolihasjärjestelmät kehittyvät parhaiten. Nopeus kehittyy myös luonnollisesti, geneettisen perimän ja lapsilla leikkien ja pelien kautta, toisin sanoen lapsena hankitut liiketaidot ja koordinaatio
+harjoitukset tukevat myös myöhemmällä iällä tapahtuvia nopeus harjoituksia tai uuteen lajiin siirtyessä. Nopeusvoiman harjoittelussa liikenopeudella ja voimantuotolla on merkitystä (Hämäläinen
+ym. 2023, 236–239; Mero ym. 2016, 242–249).
+Nopeuden lajien jaottelussa ja määrittelyssä on käytössä ainakin seuraava kaava eli reaktionopeus, räjähtävänopeus ja liikenopeus. Reaktionopeus tarkoittaa sitä, kuinka kauan menee liikkeen
+aloitukseen tai tuottamiseen ärsykkeen saatuaan. Räjähtävällä nopeudella tarkoitetaan yksittäistä
+ja nopeaa suoritusta ja siinä vaaditaan nopeusvoimaa. Liikenopeus jaotellaan edelleen submaksimaaliseen, maksimaaliseen ja supramaksimaalisen välillä. Submaksimaalisessa nopeudessa suoritetaan juoksut tai hypyt 85–95 % maksiminopeudesta tai vastuksella 60–80 % 1 RM. Submaksimaalisessa tilanteessa urheilija pyrkii ylläpitämään tiettyä nopeutta tai vauhtia muun muassa juoksussa, se on alle heidän maksimaalisen nopeutensa, mutta on silti riittävän korkea, jotta saavutettaisiin hyvä suorituskyky ja harjoituksella positiivinen vaikutus. Maksimaalisessa nopeusharjoittelussa käytetään nopeuksia 96–100 %. Supramaksimaalista nopeutta harjoitellaan myötätuuleen,
+kuminauhan avustuksella edestä tai alamäkeen, missä urheilija yrittää saavuttaa mahdollisimman
+suuren 101–103 % nopeuden lyhyellä matkalla (Mero ym. 2004, 293; Mero ym. 2016, 242; Verkhoshansky & Stiff 2009, 400).
+Toisen määrittelyn mukaan nopeusvoima voidaan jakaa räjähtävän voimaan, sykliseen pikavoiman
+ja plyometrisen harjoittelun välillä. Räjähtävässä voimantuotossa korostuu hermoston käskytysnopeus. Syklinen pikavoima on toistuvaa suoritusta, missä agonisti (päävaikuttaja) ja antagonisti
+(vastavaikuttaja) lihakset toimivat vuorotellen. Plyometrisen harjoittelun aikana korostuvat jänteiden
+ja muiden sidekudosten kyky varastoida ja vapauttaa elastista energiaa ja eksentrinen jarruttava
+lihastyö on tässä merkitsevässä roolissa, koska sen aikana tapahtuu voimakasta elastisen energian varastointia. Mikäli lisäkuorma (vastus) on suuri, niin sitä enemmän se vaatii maksimivoimaa,
+kun pienemmällä kuormalla taas voimantuottonopeus on se ratkaiseva tekijä. Voiman ja nopeuden
+suhde erotellaan kolmeen (3) eri harjoitusalueeseen eli voimanopeuteen, missä vastus
+33
+(lisäkuorma) on 60–85 % (1 RM), tehoalueen vastukset ovat 30–60 % (1 RM) ja nopeuspäässä liikenopeudella on ratkaiseva rooli, ei lisävastuksella (Athletica 9.9.2022).
+Plyometrinen harjoittelu on tehokas harjoittelumuoto, se keskittyy lihasten nopeaan supistumiseen
+ja venytyslyhenemissykliin (stretch-shortening cycle) perustuviin liikkeisiin eli se on ballistista (iskuttavaa) harjoittelua. Plyometrinen harjoittelu perustuu ensin lihaksen eksentriseen (venytys) lihastyön vaiheeseen, sitä seuraa isometrinen (pysäytys) lihastyön vaihe ja välittömästi perään voimakas konsentrisen lihastyön vaihe. Plyometriset harjoitukset auttavat kehittämään lihaksen jänneheijasteita, kimmoisuutta ja hermoston kykyä käskyttää ja käyttää lihaksia nopeasti. Nopeassa syklisessä eli SEC (series elastic component) liikkeessä jänteissä tapahtuu huomattavaa elastisen
+energian varastointia. Mitä suurempi on venytysnopeus eksentrisen vaiheen aikana, sitä suurempi
+on elastisen energian varastointi ja vapauttaminen konsentriseen vaiheeseen. Kaiken tarkoituksena on kehittää lihasjänne heijasteita ja vahvistaa jänne rakenteita. Harjoittelu tulisi myös sovittaa
+yksilöllisiin kykyihin ja fyysiseen kuntoon, sekä huolehtia riittävästä alkulämmittelystä (Athletica
+9.9.2022; Mero ym. 2016, 93–97, 269; Verkhoshansky & Stiff 2009, 40–45, 268–273). Aluksi olisi
+suositeltavaa harjoitella hyppy ja plyometriset liikkeet ohjatusti koulutetun asiantuntijan valvonnassa. Kaiken tarkoituksena on varmistaa, että tekniikka ja suorituskyky ovat varmasti oikeat. Tällä
+pyritään alentamaan myös mahdollisia rasitus- ja urheiluvammoja. Alkuun harjoitetaan matalatehoisia hallittuja 2 jalan ponnistuksia ja alastuloja, sen päälle 1 jalan ponnistukset 2 jalan alastulot ja
+sen jälkeen matalatehoisia 1 jalan hallittuja suorituksia. Näissä kaikissa olisi kiinnitettävä huomiota
+hallituun alastuloon ja alaraajojen linjaukseen. Nämä kun onnistuvat, voidaan siityä varsinaiseen
+tehokkaampaan plyometriseen harjoitteluun.
+Mikäli plyometrisessa harjoittelussa siirtymä tai kytkentävaiheen (transition or coupling) pituudeksi
+määritellään > 0.15–0.25 sekuntia, niin sitä voidaan nimittää tavalliseksi hyppyharjoitukseksi. Toisaalta tarkoittaen aikaa mikä menee eksentrisestä vaiheesta konsentriseen voimantuottoon. Hyppyharjoituksien nivelkulmat (ROM) ovat laajemmat ja suurempi suhteellinen osuus lonkkien, polvien ja nilkkojen osalta. Ne korreloivat kiihdytyksissä, suunnanvaihdoissa ja kahden (2) jalan hypyissä. Plyometrisen harjoittelun nivelkulmat (ROM) ovat pienemmät, suurempi suhteellinen osuus
+vain nilkasta. Ne korreloivat pikajuoksussa ja yhden (1) jalan loikissa (Verkhoshansky & Stiff 2009,
+268–273, outputsport 12.10.2023) Kirjallisuudessa tutkittiin muun muassa 3-loikan kontaktiaikoja
+(ground contact time). Tulokset olivat järjestyksessä kinkka 0.129 ± 0.007 s, loikka 0.157 ± 0.009 s
+ja hyppy 0.177 ± 0 (Perttunen, Kyröläinen, Komi & Heinonen, 2000). Kansainvälisen Olympia komitean julkaisussa tuotiin esille, että selkärangan reflekseillä saattaisi olla vaikuttava ja tehokas rooli
+juoksun korkeilla nopeuksilla, missä kontaktiaika on n. 120 ms (Komi 2003). Mero ym. (2016) mukaan pikajuoksussa nopeuden kasvaessa myös kontaktiaika lyhenee ja maksimaalisessa nopeudessa ne olisivat keskimääräisesti 0,080–0,085 sekuntia (Mero ym. 2016).
+34
+6.3 Kestävyys
+Kestävyys harjoittelu sisältää hengityselinten ja sydän- ja verenkiertojärjestelmän kehittymistä,
+sekä lihasten kykyä toimia pitkäaikaisesti ilman väsymystä. Fyysisen kasvun seurauksena myös
+hengitys- ja verenkiertoelimistö kehittyvät. Happi kulkeutuu työtä tekeville lihaksille esimerkiksi seuraavien tekijöiden takia eli punasolumassan ja plasmatilavuuden kasvut, ne muodostavat veritilavuuden. Tällä parannetaan muun muassa sydämen vasemman kammion laajenemista, joka mahdollistaa suuremman verenmäärän virtauksen verenkiertoon. Liikunta ja urheilu parantavat myös
+iskutilavuutta, mikä vaikuttaa positiivisesti minuuttitilavuuteen. Pidemmän harjoittelun tarkoituksena
+ohjataan verta niille lihaksille missä happea eniten tarvitaan. Liikunnan ja urheilun seurauksena
+myös valtimoiden läpimitta kasvavaa ja hiusverisuonten määrä lisääntyy. Liikunnan ja urheilun aikana lapset saavuttavat nopeammin tasausvaiheen, sen seurauksena palautuminen liikunnan jälkeen on nopeampaa, kuin aikuisilla. Lapsilla on tehokkaampi aerobinen kapasiteetti, kuin nuorilla
+ja aikuisilla, toisaalta iän lisääntyessä myös anaerobinen kapasiteetti kehittyy (Hämäläinen ym.
+2023, 272–286). Kestävyys kehittyy aerobisen lajiharjoittelun yhteydessä, sekä lapsilla myös leikkien ja pelien seurauksena. YPD mallin mukaan tyttöjen ja poikien välillä ei ole suuriakaan eroja.
+Lapsilla ja esi murrosiässä hormoni- ja lihastoiminnat eivät ole vielä täysin kehittyneet. Suositusten
+mukaan lapset ja esimurrosiässä olevat nuoret kuitenkin hyötyisivät myös lyhytkestoisista tehoharjoittelusta. Harjoittelun intensiteetti tulisi vaihdella yksilön kehityksen mukaan (Lloyd & Oliver,
+2012). Lapsille ja nuorille kestävyys harjoittelun ohjelmoinnissa ja harjoittelussa tulisi ottaa huomioon esimerkiksi harjoittelun kesto, frekvenssi ja millä intensiteetillä harjoitellaan. Harjoitukset tulisi
+teettää intervalli tyylisesti ja isoille lihasryhmille, kun tarkoituksena on kehittää lasten ja nuorten
+VO₂max: a. Pelkästään kestävyyttä, kun harjoitellaan, niin viikko tasolla tulisi olla 3–4 harjoitusta,
+40–60 min. kerrallaan ja kokonaiskestoltaan 12 viikkoa. Intensiteetti tulisi olla 85–90 % HR (Armstrong & Barker, 2011). Tässä opinnäytetyössä ei keskitytty erikseen kestävyys harjoitteluun, vaan
+voiman ja nopeuden kehitykseen. Toisaalta hengitys- ja verenkiertoelimistö kuuluvat myös osana
+kokonaisvaltaisesti fyysisten ominaisuuksien kehitykseen. Aerobista ja anaerobista kyetään harjoittelemaan rinnakkain. Lajiharjoittelun yhteydessä aerobinen kapasiteetti kehittyy. Opinnäytetyössä
+tehtiin nopeus harjoittelujen yhteydessä anaerobisen kynnyksen kehitykseen tähtääviä isojen lihasryhmien liikkeitä intervalliharjoitteluna.
+35
+7 Ohjelmoinnin käsitteet
+7.1 Vaiheet
+Yleinen valmisteluvaihe eli GPP (General Preparation Phase) tunnetaan myös kauden ulkopuolella
+tapahtuvaksi ja se on tärkeä osa jaksotettua harjoittelua eri urheilulajeissa. Yleisesti GPP tehdään
+siis kauden päätyttyä ja se toimii perustana urheilijan tulevalle kaudelle, siinä vahvistetaan heikkouksia ja tehdään vammoja ennaltaehkäiseviä harjoituksia. Seuraavaa vaihetta kutsutaan spesifiksi valmisteluvaiheeksi eli SPP (Sport Spesific Preparation) ja se tunnetaan ennen kauden alkua
+tapahtuvaksi ns. esivaiheeksi. SPP tavoitteena on siis hienosäätää urheilijan fyysiset ominaisuudet
+uuteen edelleen kehittävämpään suuntaan ja tukemaan heitä lajin asettamien vaatimuksien tasolle,
+huomioiden myös yksilölliset eroavaisuudet. GPP ja SPP siis tukevat toisiaan (Verkhoshansky &
+Stiff 2009, 317).
+7.2 Mallit
+Ohjelmointimalleja on useita erilaisia, mutta tässä kontekstissa käydään läpi vain lineaarisen, epälineaarisen ja bloggi periodisaation osalta. Lineaarinen periodisaatio on yksi harjoittelun perinteisistä
+menetelmistä, joka perustuu asteittaiseen kasvuun harjoittelun intensiteetissä ja kuormituksessa
+ajan myötä. Lineaarisen periodisaation etuja ovat sen selkeys ja suhteellisen yksinkertainen suunnittelumalli ja se saattaa sopia hyvin esimerkiksi aloittelijoille voimahankintaan asteittain, kuitenkaan se ei aina sovellu kehittävään monipuolisen harjoitteluun, koska yhdellä kertaa keskitytään
+vain yhden ominaisuuden kehittämiseen. Lineaarinen periodisaatio on siis perinteinen menetelmä
+ja monet valmentajat ovat siirtyneet muihin tai yhdistelmä periodisointimalleihin, jotka huomioivat
+paremmin harjoittelijan yksilölliset tarpeet ja vaihtelevat tavoitteet (Rytkönen 2018 146–150).
+Blokki periodisaation etu on sen monipuolisuus ja se voi olla erityisen tehokas, kun halutaan saavuttaa nopeita kehitysaskeleita tietyissä 1–2 pääominaisuuksissa sekä ylläpitää muita ominaisuuksia samalla blogilla. Tämä lähestymistapa on suosittu erityisesti huippu-urheilussa ja lajeissa,
+joissa vaaditaan monipuolisia taito ja muita ominaisuuksia. Bloggi periodisaatiota ei suositella aloittelijoille, lisäksi olisi aina huomioitava urheilijan yksilölliset tarpeet ja tavoitteet (Rytkönen 2018,
+152–155).
+Epälineaarinen periodisaatio tunnettaan myös nimillä "non-linear periodization" tai "undulating periodization" eli aaltoileva periodisaatio, joka poikkeaa perinteisestä lineaarisesta tai blokkiperiodisaatiosta. Tässä korostuu vaihteleva intensiteetti ja kuormitus lyhyellä aikavälillä, usein viikoittain
+tai jopa päivittäin. Tämän tavoitteena on ylläpitää urheilijan korkeaa suorituskykyä, kun intensiteetti
+ja kuormitus vaihtelevat säännöllisesti. Epälineaarinen periodisaatio on suosittu erityisesti
+36
+urheilulajeissa, jotka vaativat monipuolista suorituskykyä ja fyysisiä ominaisuuksia, kuten koripallossa. Tämä lähestymistapa pitää urheilijan yleensä motivoituneena, koska siinä on paljon vaihtelua ja sillä on positiivisia vaikutuksia nopealle kehitykselle (Rytkönen 2018, 151).
+7.3 Jaottelu
+Periodisoinnissa eli ohjelmoinnissa harjoituskausien jaotellussa ovat käytössä mikrosykli, millä tarkoitetaan harjoittelun lyhintä vaihetta, usein noin 5–10 päivää ja se on osa meso tai makrosykliä.
+Tämä taso huomioi yksityiskohdat, joilla saavutetaan viikoittaiset tavoitteet ja varmistetaan, että
+harjoittelun suunnitelma on monipuolinen ja tehokas ja sitä voidaan soveltaa valmistavana kautena
+esimerkiksi viikon tai kahden kuluttua oleviin kisoihin. Mesosykli on pidempi kuin mikrosykli, mutta
+lyhyempi kuin makrosykli. Mesosykli voi kestää 1–4 kuukautta, se sisältää useita mikrosyklejä. Mesosyklin avulla autetaan urheilijaa kehittymään monipuolisesti ja tämän aikana tulee varmistaa, että
+harjoittelussa olisi riittävästi vaihtelua eri ominaisuuksien parantamiseksi. Mesosyklin tarkka rakenne ja kesto voivat vaihdella lajin, urheilijan tason ja tavoitteiden mukaisesti. Makrosykli on pitkäkestoisin vaihe harjoittelun periodisoinnissa. Usein makrosykli kattaa kokonaisen harjoittelukauden
+eli 10–12 kuukautta ja auttaa määrittelemään pitkän aikavälin tavoitteet, etenemisen ja harjoittelun
+vaiheet. Siitä käytetään myös nimitystä isompi makrosykli, millä tähdätään esimerkiksi neljän vuoden harjoittelu jaksoon, jos kyseessä ovat tulevat Olympialaiset. Samoin useamman vuoden kehitys, kun tavoitteena on nostaa urheilija uudelle tasolle esimerkiksi juniorista aikuisten sarjaan. Makrosykli on suunnitelmallinen tapa rakentaa harjoittelukausi huomioiden eri vaiheet ja niiden tavoitteet, se mahdollistaa harjoittelun eri ominaisuuksien, kuten voiman, nopeuden, kestävyyden ja tekniikan tehokkaan kehittämisen eri vaiheissa. Makrosykli jakautuu useisiin mesosykleihin ja mikrosykleihin (Verkhoshansky & Stiff 2009, 316).
+37
+8 Tutkimusten kuvaus ja valinta
+Seurantatutkimuksen tuloksilla etsittiin eri ketteryys testien sopivuutta juniori koripalloon. Osallistujien ollessa n. 18 vuotiaita. Lane agility testi eli LAT sisäpelaajien KA oli 12,87 s ja ulkopelaajien
+KA 11,87 s. Modified Agility T-Testi eli MAT sisäpelaajien KA oli 5,8 s ja ulkopelaajien KA 5,5 s.
+Lane Agility Testi (LAT) ja Modified T-Testi (MAT) voidaan suositella ja asettaa luotettavuuden (reliable) ja kelpoisuuden (validity) takia ketteryys (agility) testeiksi juniori koripalloon (Seljakovič &
+Krneta 2020). Käsipalloon liittyvässä tutkimuksissa vertailtiin aamu- ja iltaharjoituksien eroja testien
+välillä. Mukana oli myös MAT testi. Sen osoitetaan sopivan pallolajeihin, missä vaaditaan toistuvia
+kiihdytyksiä, pienessä tilassa tehtäviä nopeita suunnanmuutoksia ja hyppyjä, sekä keskivartalon
+lihasvoimia kontakti tilanteissa (Mhenni ym. 2017). Työryhmä tutki ketteryystestien luotettavuutta
+college ikäisillä koripallo pelaajilla, ne suoritettiin tytöillä ja pojilla erikseen. Siinä todettiin LAT testin
+olevan luotettava testi lajiin, missä juostaan lyhyitä kiihdytyksiä, tulee nopeita jarrutuksia ja nopeita
+sivusuuntaisia liikkeitä, kuten koripallossa (Brown ym. 2012). LAT testissä on kolme suoritusta ja
+paras tulos huomioidaan. Testien viitearvoja käytetään NBA sarjassa ja varaus tilaisuuksissa ja ne
+ovat miehille ja naisille erikseen laadittu, sekä eri pelipaikoille. Tämän alla näkyvän taulukon on
+laatinut Chip Simon (2005), joka on toiminut Charlotte Hornets Athletic Trainerin roolissa (topendsport & FIBA assist magazine, 2005).
+Taulukko 4. NBA: ssa käytettävän Lane Agility T-Testin vaihteluväli eri pelipaikoilla (FIBA Assist
+Magazine, 2005, 61–62)
+PELIPAIKKA MIEHET NAISET
+Puolustaja 10,2–10.9 13,0–14,4
+Hyökkääjä 11,0–11,4 14,6–15,5
+Pelintekijä 11,5–12,3 14,6–15,5
+Kolmannessa tutkimuksessa tehtiin useita eri ketteryys testejä sekä hyppy testejä. Tutkimuksessa
+testattiin vain miehillä ja eri pelipaikoilla. Puolustajilla LAT testien KA oli 13,76 sekuntia, hyökkääjillä KA 13,92 s ja pelinrakentajilla KA 13,80 s (Mitić, Paunović, Ţivković, Stojanović, Bojić, Kocić,
+2019).
+1 jalan 3-loikka eli THD (triple hop for distance) on yleisesti käytössä ACL (anterior cruciate liqament) eli polven eturistisiteen ennaltaehkäisevänä kuin myös leikkauksen jälkeen eli post-op
+(post operative) vakioituna ja luotettavana testinä. Urheilulajit, joissa esiintyy paljon sivuttaisliikkeitä
+ja nopeita suunnanvaihtoja, paljon nopeita lyhyitä spurtteja sekä jarrutuksia yhdistettynä leikkaavana suunnanvaihtoon sekä hypyt ja alastulot, vieläpä kontaktilla, niin ne aiheuttavat suurta kuormitusta ja vääntövoimia polven alueelle ja polveen saattaa tulla virheasento (valgus) eli
+38
+kääntyminen ja/tai kiertyminen sisälle päin (pihtipolvi), tällöin on ACL kovilla (Chimera, Hoog, Smith
+& Warren 2016). Kotisifakin ym. (2022) tutkimuksessa tarkkailtiin kaikkien alaraajojen nivelien toimintaa THD aikana eli nilkan, polven ja lonkan nivelten sekä mahdollisia puolieroja. Tutkimuksessa
+todettiin THD testin antavan lisätietoa urheilijan tai ACL leikkauksen jälkeisestä urheilijan kyvystä
+suoriutua vaativimmista tehtävistä. THD siis hyödyntää venymis-lyhenemisen sykliä, sillä saadaan
+lisätietoa lihasten ja lihas-jänne järjestelmän kyvystä ladata ja vapauttaa elastista energiaa peräkkäiseen plyometriseen suoritukseen (Kotisifaki ym. 2022). Linköpingin yliopiston tutkimuksessa oli
+mukana myös THD-testi ja heidän tärkeimmät havaintonsa olivat, että juoksunopeus korreloi kohtalaisesti tai vahvasti hyppyjen ja ketteryyden kanssa, tämä tarkoittaa, että mitä nopeampi aika ketteryys ja juoksu testeissä (10 ja 20 metriä) sitä suurempi on räjähtävän voimantuotto ja päinvastoin
+(Sonesson, Lindblom & Hägglund 2020).
+Puolierot alaraajoissa saattavat altistaa rasitusvammoille ja heikentää suorituskykyä lajissa varsinkin, jos puoliero on >15 %. Tutkimuksessa keskityttiin change of direction (COD) eli suunnanvaihdon (505 ja arrowhead) sekä yhden jalan hyppyihin ja vertailtiin puolieroja dominantin (D) ja ei dominantin (ND) alaraajojen kesken nuorilla U 10 ja U 15 jalkapalloilijoilla. Tutkimuksessa todettiin,
+että puolierot alaraajoissa korreloivat suoraan suunnanvaihto testeihin negatiivisesti. Suosituksena
+olisi teettää Countermovement jump (SLCMJ) eli kevennyshyppyä U 15 ja Single leg triple jump
+(SLTJ) eli yhden jalan kolmiloikka U 10 ikäisille, jotta saataisiin selville puolierot, lisäksi näillä on
+positiivisia vaikutuksia myös lihasvoimien kehitykselle (Michailidis ym. 2020). Slovakialaisen tutkimuksen mukaan esimerkiksi juoksu (10 ja 30 metriä), THD ja ketteryys testien mukaan kiihdytyksiä, hyppyjä ja agility komponentteja pitäisi sisällyttää myös lajinharjoittelun ohessa, esimerkiksi
+alkulämmittelyn aikana (Šimonek, Horička & Hianik, 2017).
+Lane Agility Test (LAT) ja Modified Agility T-Test (MAT) eli LAT ja MAT testit voidaan suositella ja
+asettaa luotettavuuden (reliable) ja kelpoisuuden (validity) takia ketteryys (agility) testeiksi juniori
+koripalloon. THD eli 1 jalan 3-loikka voidaan asettaa luotettavuuden takia voimantuoton testiksi juniori koripalloon.
+39
+9 Tutorointi
+Tutorointi (myöhemmin sparraus) tarkoittaa vapaasti käännettynä neuvontaa, kannustamista ja toisen tukemista ja kuuntelemista. Sparrausta tapahtuu kaikkialla, kuten työ -ja yksityiselämässä sekä
+urheilussa. Esimerkiksi työelämässä sparraus voi tarkoittaa esimiehen tai kollegan antamaa ohjausta ja palautetta, joka auttaa työntekijää kehittymään ja suoriutumaan paremmin työtehtävistään. Urheilussa sparraus voi olla valmentajan ja urheilijan tai joukkuetoverien antamaa tukea ja
+ohjausta, joka auttaa urheilijaa parantamaan suoritustaan. Henkilökohtaisessa elämässä sparraus
+voi tarkoittaa ystävien tai perheenjäsenten antamaa kannustusta ja neuvontaa, kun henkilö pyrkii
+saavuttamaan omia tavoitteitaan ja unelmiaan. Valmentaja ja urheilijat, henkilöt tai ryhmät, saavat
+toisiltaan siis apua ja tukea kehittää omia taitojaan ja mahdollisesti se auttaa ratkaisemaan ongelmia. Siinä korostetaan yhteistyön merkitystä sekä avoimuutta, että rehellisyyttä. Usein se sisältää
+esimerkiksi kysymyksiä, esimerkkejä, keskustelua ja harjoituksia. siinä pyritään uusiin näkökulmiin
+ja lähestymistapoihin, yhteisen edun nimissä. Sparrauksen tarkoitus on auttaa henkilöä tai henkilöitä oppimaan, kehittymään ja onnistumaan omilla valitsemillaan aloilla tai urheilussa. Se voi sisältää avointa keskustelua, ohjausta, palautetta ja tukea eri muodoissaan (Roiha 2022, 6–14).
+40
+10 Projekti
+Projektin alkuun on tärkeä tehdä muistiinpanoja, käyttäen eri taltiointivälineitä, kuten tabletit, lehdet, vihko ja kassakuitti jne., niihin kannattaa laittaa ideoita ylös heti idean synnyttyä, koska aivot
+ovat kokoajan töissä ja tietoa tulee jatkuvasti, etteivät ne katoa (Järvilehto & Järvilehto 2019, 107).
+Toinen hyvä tapa on ns. mindmap, missä kirjoitetaan tyhjälle paperille ensin projektin nimi, sitten
+lisätään vaiheittain mitä kaikkea projektissa tarvitaan ja yhdistellään niitä viivoilla, poistetaan turhat,
+lisäksi tulee olla aina saatavilla, ihan kuten aikaisemmat ideat ja muistiinpanot, myös mielikuvaharjoittelu on hyvä keino projektin teosta ja valmennuksesta, tällöin ei kuitenkaan saa miettiä projektin
+lopputulosta (Järvilehto & Järvilehto 2019, 130–137). Tämän jälkeen alkavat projektin loppuun
+vienti eli tavoitteiden asettelu, suunnittelu ja ohjelman viimeistelyvaihe. Viimeisenä tulevat projektin
+ohjelmoinnin viimeistely, itse toteutus ja projektin lopetus (Järvilehto & Järvilehto 2019, 160–174).
+Projektin pitäisi sisältää aina jotain uutta tulosten valossa, yleensä se tehdään toimeksiantona. Ennen projektin alkua pitää selvittää esimerkiksi mielikuva projektista, mikä on itse projekti sekä miksi
+ryhtyä johonkin projektiin (Rissanen 2002, 13–16). Projektilla on monia eri vaiheita, kuten ideat ja
+visiot projektista, ne ovat pohjana hyvälle projektille. Taustatekijät on hyvät selvittää, kuten perehtyminen aiheeseen, kenelle tehdään ja missä tehdään sekä budjetti. Tavoitteet pitää määrittää ja
+se on projektin tärkein osa-alue. Mikäli kaikki edellä oleva on hyvin tehty, on aika siirtyä teoriasta
+käytäntöön eli rämän jälkeen on varsinainen suunnitteluvaihe, minkä jälkeen alkaa projektin toteutus. Lopuksi projektista saadut tulokset ja tuotos siirretään asiakkaalle ja projekti saatetaan loppuun (Rissanen 2002, 25–172).
+Tässä projektissa eri vaiheiden hallinta ja niiden läpivienti vaativat hyvää kokemusta, osaamista ja
+tietoa valmennuksesta, juniori urheilusta ja kasvutekijöistä sekä täytyy osata soveltaa teoria tietoa
+käytäntöön, koska kohderyhmänä ovat nuoret urheilijat ja heidän valmentajansa.
+41
+11 Projektin tavoite
+Tämän projektityö toteutettiin toimeksiantona ja ensisijaisena tavoitteena oli kehittää Turun
+NMKY:n nuorten U 13 koripalloilijoiden perusliiketaitoja, voimaa, ketteryyttä ja nopeutta sekä
+edistää nuorten pelaajien motivaatiota. Lisäksi koko valmennusprojektin aikana otettiin huomioon
+nuorten kehitys- ja kasvutekijät sekä vammojen ennaltaehkäisy. Ennen projektin alkua ja myös
+sen aikana hyödynnettiin Turun NMKY:n lajivalmentajien sparrausta, niissä saatiin selville muun
+muassa, että alaraajoissa on esiintynyt rasitusvammoja, sekä vastaavaa oheisharjoittelua ei ole
+seurassa aikaisemmin tapahtunut. Lisäksi fysiikkavalmentaja sai lisäinfoa koripallosta lajina ja
+sen vaatimuksista. Tavoitteiden saavuttamiseksi fysiikkavalmentaja teetti alku- ja lopputestit. Ne
+ovat tutkimusten perusteella nuorille koripalloilijoille sopivat eli Lane Agility testi ja Modified Ttesti (Seljakovič & Krneta 2020; Sonesson, Lindblom & Hägglund 2020) sekä 1 jalan 3-loikka
+(Kotisifaki ym. 2022; Michailidis ym. 2020).
+Fysiikkavalmentaja suunnitteli ohjelman ja valmensi alku- ja lopputestien välissä kahdeksan viikkoa, mikä toteutui kaksi kertaa viikossa. Fysiikkavalmennus toteutettiin kahdessa eri ympäristössä. Valmennus toteutui tiistaisin koulun liikuntasalissa ja torstaisin Kupittaan uudessa palloiluhallissa. Tämän seurauksena toisena tavoitteena oli laatia koko ohjelman kattavat kirjalliset ohjeet excel-taulukon muodossa ja liikekohtaiset videokansiot, mitkä jäävät lajivalmentajien ja seuran käyttöön. Lisäksi ohjattiin ja neuvottiin suullisesti lajivalmentajia ja lisättiin heidän tietämystään hyvästä ja nuorille suositeltavasta ja kehittävästä oheisharjoittelusta.
+42
+12 Projektin vaiheet
+Kuva 8. Projektilla tulokseen (mukaillen Rissanen 2002, 16)
+12.1 Valmentaja tapaaminen
+Ensimmäinen kontakti tapahtui puhelimen välityksellä, missä käytiin läpi projektiin liittyviä asioita,
+kuten Turun NMKY:n mielenkiinto ja kiinnostus tätä projektia kohtaan. Varsinainen valmentaja tapaaminen, lajiin ja pelaajiin tutustuminen toteutuivat 20.12.22 lajiharjoittelun yhteydessä. Samassa
+yhteydessä sovittiin alkutestien ajankohdaksi 10.1.23, lisäksi sovittiin, kuinka pitkästä projektista on
+kyse, missä itse valmennus toteutuu ja kuinka usein se tapahtuu viikkotasolla sekä milloin olisi lopputestien aika. Projektin pituuteen vaikutti hiihtoloma ja valmentaja omat aikaisemmin sovitut koulutuspäivät.
+12.2 Ideointi ja suunnitelma
+Ideointi on uuden luomista ja sillä etsitään ratkaisuja ongelmiin tai uuteen palveluun, kuten tähän
+projektiin. Projektin suunnittelussa kannattaa ensin asettaa sille tavoitteet ja mitä yritetään saavuttaa, sen jälkeen tulevat resurssit eli aika, raha, yhteistyökumppanit jne., sitten pitää sopia ja laatia
+aikataulut sekä työnjako. Idea oli jo syntynyt ja suunnittelu aloitettu pään sisällä ennen valmentaja
+tapaamista sekä tehtiin aivan projektin alkuun mindmap, jota käytetään yleensä ideoiden
+IDEA
+VISIOT
+TAUSTAT TAVOITTEET
+PERUSTAMINEN
+SUUNNITELMA TOTEUTUS
+TULOKSET
+PÄÄTÖS
+43
+järjestämiseen ja tietojen esittämiseen, missä pääkohde on keskellä ja muut erilaiset ideat tai aiheita eri kohtaan paperia. Käytettiin myös muistiinpanoja, luonnos ja hahmotelma paperille, sisältäen tulevat harjoitukset ja liike variaatiot nuoria kehittävällä tavalla. Varsinainen ohjelmoinnin toteutus aloitettiin välittömästi valmentaja tapaamisen jälkeen ja ensin tehtiin paperille päiväkohtaiset
+harjoitteet, sitten viikko ja lopuksi vielä kuukausi tasolla ja lopuksi karsittiin turhat pois ja tehtiin
+sekä viimeisteltiin paperilla olevat taulukot. Ennen lopullista versiota ohjelmoinnista päävalmentaja
+lähetti listan, kuinka monta nuorta koripalloilijaa osallistuu ja vasta tämän jälkeen viimeisteltiin varsinainen suunnitelma ja ohjelmointi excel hyödyntäen. Valmentajalle on tärkeä tietää missä itse
+valmennus tapahtuu eli mitkä ovat fasiliteetit. Tämän takia valmennuksessa päädyttiin tiistaina suoran eli lineaarisen suunnan harjoitteluun ja torstaisin suunnanvaihtoa ja ketteryyttä kehittävään harjoitteluun. Valmennuksessa piti ottaa huomioon nuoret urheilijat ja kehitys- ja kasvutekijät sekä
+vammojen ennaltaehkäisy.
+12.3 Ohjelmointi
+Ohjelmoinnin eri vaiheet piti tarkkaan suunnitella ja huomioida, koska kyseessä olivat nuoret urheilijat ja seuran puolelta heille ei ollut aikaisemmin vastaavanlaista ohjelmointia, valmennus ja oheisharjoittelua laadittu, missä huomioitiin myös rasitusvammojen ennaltaehkäisy. Tässä valmennuksessa GPP osassa kehitettiin perusliiketaitoja, minkä tavoitteena oli rakentaa vankka perusta tulevaan sekä vahvistaa heikkouksia ja korjata kehossa olevia mahdollisia puolieroja ja lihasten epätasapainoja. SPP vaihe siis on jatkumo GPP vaiheelle, se on suunniteltu ja tarkoitettu siirtämään urheilijat edellisessä vaiheessa rakennetusta perusliiketaidoista ja voimien kehityksestä entistä spesifisempään harjoitteluun. Tässä projektissa SPP toteutettiin GPP perään, koska aikataulut olivat
+niin sovittu, ei siis ennen kauden alkua tapahtuvaksi. Projektissa oli kyseessä laatia nuorille urheilijoille monipuolinen harjoittelu kokonaisuus, ja tämän takia projektissa ei ollut käytössä ns. perinteistä ohjelmointimallia. Blokki periodisaatiossa harjoittelu jaetaan jaksoihin eli blokkeihin, jokaisella
+niistä on erityinen ja omanlaisensa tavoite, lisäksi harjoittelun intensiteetti ja volyymi säädetään kyseisen tavoitteen saavuttamiseksi, tämän takia tässä projektissa se on mukana ohjelmoinnissa.
+Tiedon mukaan vaihtelevalla harjoittelulla saadaan nuoret urheilijat parempiin tuloksiin ja kasvuiässä olevan urheilijan motivaation ylläpitäminen ja valmennukseen sitoutuminen ovat tärkeitä.
+Tässä projektissa käytettiin siis yhdessä epälineaarisen sekä bloggi periodisaation mallia, koska ne
+antavat paremman mahdollisuuden vaihtelulle, lisäksi nuoret urheilijat ovat uuden edessä, vaikka
+koripalloa ovat jo vuosia pelanneet. Sovitusti Turun NMKY: valmentajat ottavat valmennus ohjelmoinnin ja videot käyttöön kauden alussa ja soveltavat sitä myös kauden aikana.
+44
+12.4 Toteutus
+Nuorten koripalloilijoiden lisäksi valmennustapahtumassa oli aina läsnä myös lajivalmentajia. Ulkopuolinen valmentaja sai sparraus tukea lajivalmentajilta ja päinvastoin, mikä taas vei lajivalmentajien osaamista eteenpäin kehittävästä ja tutkittuun tietoon perustuvasta oheisharjoittelusta. Kyseessä on Turun NMKY U 13 koripallojoukkueen pelaajat ja tarkoituksena oli kehittää heidän perusliiketaitojansa, voimaa ja nopeutta sekä edistää nuorten pelaajien motivaatiota, lisäksi koko valmennusprojektin aikana otettiin huomioon nuorten kehitys- ja kasvutekijät sekä vammojen ennaltaehkäisy.
+12.5 Testaus
+Kvantitatiiviset tiedot analysoitiin SPSS avulla. Laskentaan käytettiin Independent-Samples T-Testiä, sillä saatiin aikaan keskiarvot (KA) ja keskihajonta (KH). Myöhemmin näkyvässä kaaviossa
+ovat LAT ja MAT testien tulokset (results), keskiarvo (mean) ja keskihajonta (standard deviation).
+Testauksia ei tulisi tehdä vain testauksen takia, enemmän pitäisi miettiä mitä tuloksilla haetaan ja
+varsinkin ovatko ne lajin kannalta merkityksellisiä. Tässä projektissa alku- ja lopputestit valittiin mukaan tutkimusten perusteella nuorille koripalloilijoille sopiviksi ja ne olivat Lane Agility testi (LAT),
+Modified T-testi (MAT) ja 1 jalan 3-loikka (THD eli triple hop for distance). Alkutestit tehtiin
+10.1.2023 Peltola Haritun koulun liikuntasalissa, samassa paikassa tehtiin lopputestit kahdessa
+osassa 4.4.203 ja 18.4.2023, että saatiin mahdollisimman suuri määrä urheilijoita testattua. Testien
+aikana olivat läsnä aina samat testaajat ja he testasivat samat testit sekä alku, että lopputesteissä,
+näin saatiin luotettavammat tulokset aikaan.
+12.6 Valmennus
+Valmennuksessa pyrittiin hakemaan hyvää ja positiivista siirtovaikutusta monipuolisella toteutuksella, myös keskushermosta kuormittamalla. Nuoria pelaajia osallistettiin, pelaajille kerrottiin muun
+muassa miksi keskivartalon ja alaraajojen voimia harjoitetaan, kuinka tärkeää on alaraajojen linjauksien hallinta tai millä lihastyötavalla on eri vaikutuksia voimantuottoon. Valmennus toteutettiin
+kahdessa eri ympäristössä. Itse valmennus oli tiistaisin samassa liikuntasalissa ja torstaisin Kupittaan uudessa palloiluhallissa, osittain pitkällä käytävällä sekä koripallo kentällä. 1. päivänä valmennus kohdistui perusliiketaitojen, voimien, askeltiheyden, rytmitajun, koordinaation, syklisen pikavoiman, suunnanmuutosnopeuden ja plyometrisen elementtien kehitykseen. 2. päivänä keskityttiin
+perusliiketaitojen, voimien, askeltiheyden, rytmitajun, reaktionopeuden ja plyometrisen elementtien
+kehitykseen, sekä suoran eli lineaarisen nopeuden kehitykseen. Valmennus eteni progressiivisesti
+ja molemmissa huomioitiin yksilöt joukkueen sisällä, sekä vammojen ennaltaehkäisy. Alkuperäisen
+suunnitelman mukaan valmennuksen kesto oli kahdeksan (8) viikkoa, hiihtoloman ja valmentajan
+omien koulutuspäivien takia kokonaiskestoksi saatiin 10 viikkoa, mikä ei vaikuttanut negatiivisesti
+45
+urheilijoiden kehitykselle eikä valmennuksen onnistumiselle. Valmentajana tässä projektissa toimi
+fysioterapeutti, fysiikkavalmentaja VAT (valmentajan ammattitutkinto) ja liikunnanohjaaja YAMK
+(valmentaja) erikoistuva. Valmentajalla on pitkä kokemus fysioterapiasta, liikunta -ja urheiluvammojen ennaltaehkäisystä sekä näyttöön perustuvasta nuorten urheilijoiden fyysisten ominaisuuksien monipuolisesta kehittämisestä.
+12.7 Sparraus
+Sparraus ei ole vain kamppailu-urheilu termi, itse tunnistan sen työelämästä ja valmennuksesta,
+niissä vuorovaikutusta esiintyy paljonkin. Tarkoitan, että kaikkien tulisi jakaa tietoa ja taitoa, tukea
+ja kannustaa toisia, vain niin projektissa voidaan löytää yhdessä ratkaisuja ja kehittyä. Heti tämän
+projektin alussa valmentaja tapaamisessa se sai hyvän alun koko projektia ajatellen eli kemiat toimivat alusta asti ja tapaamisessa korostettiin yhteistyön merkitystä, avoimuutta ja rehellisyyttä, läpi
+koko projektin. Tämä toimi valmentaja lajivalmentaja akselilla, kuin myös valmentaja urheilija akselilla, kunhan saatiin nuoret urheilijat ensin luottamaan ulkopuoliseen valmentajaan. Ulkopuolinen
+valmentaja sai lajivalmentajilta tietoa mitä lajiharjoituksissa oli aikaisemmin tehty ja mitä oli jäänyt
+huomioimatta, mikä oli rasitusvamma historia, henkilökohtaisesti jaoin avoimesti tietoa sekä valmentajille että urheilijoille, miten, mitä ja miksi jokin harjoite tehdään sekä mihin mikäkin vaikuttaa,
+sama pätee toisinpäin eli lajivalmentajat saivat avoimesti kysellä, kun jotain oli mielessä. Kysymyksillä saa usein vastauksia, jos et kysy, jäät todennäköisesti epätietoon.
+46
+13 Tulokset
+13.1 Tiivistelmä
+Tässä tutkimusprojektissa tarkasteltiin voiman ja nopeuden kehittymistä vertaamalla alku- ja loppumittauksien tuloksia. Tutkimusprojektiin osallistui 17 nuorta, alle 13 vuotiasta koripalloilijaa. Aikaperusteisten ketteryystestien tulokset osoittivat merkitsevää ja erittäin merkitsevää kehittymistä alkuja loppumittausten välillä. Voimaperusteisen tulokset osoittivat merkitsevää ja erittäin merkitsevää
+kehittymistä alku- ja loppumittausten välillä.
+13.2 Johdanto
+Voiman ja nopeuden välisiä yhteyksiä on laajalti tutkittu urheilutieteissä. Tässä projekti tutkimuksessa keskityimme alku- ja loppumittausten välisen ajan harjoittamaan ja kehittämään voimaa ja
+nopeutta nuorilla koripalloilijoilla.
+13.3 Menetelmät
+Osallistujat kävivät alkumittausten ja kahdeksan viikon harjoitusohjelman jälkeen loppumittauksissa. Kvantitatiiviset analyysit suoritettiin SPSS ohjelmistolla. Laskentaan käytettiin IndependentSamples T-Testiä. Testillä saatiin aikaan keskiarvot (KA) ja keskihajonta (KH). Alla olevissa kaaviossa LAT, MAT ja 1 jalan 3-loikka eli THD testien tulokset (results), keskiarvo (mean) ja keskihajonta (standard deviation). Sininen väri tarkoittaa alkutestejä ja oranssi väri lopputestien tuloksia.
+13.4 Tulokset
+Aikaperusteisen ketteryystestin Lane Agility Test (LAT) alkutestien keskiarvo oli 15,50 sekuntia
+(keskihajonta 1,65, N=17) ja tilastollisesti se oli heikompi kuin lopputestien keskiarvot 14,77 sekuntia (keskihajonta 1,45, N=17). Ero osoittautui riippuvien otosten t-testillä merkitseväksi: t (16) =
+3,40, p = 0,004, 2-suuntainen.
+Aikaperusteisen ketteryystestin Modified Agility T-Test (MAT) alkutestien keskiarvo oli 8,01 sekuntia (keskihajonta 0,89, N=17) ja tilastollisesti se oli heikompi kuin lopputestien keskiarvot 7,36 sekuntia (keskihajonta 0,61, N=17). Ero osoittautui riippuvien otosten t-testillä erittäin merkitseväksi: t
+(16) = 4,10, p = < 0,001, 2-suuntainen.
+1 jalan 3-loikka (THD) eli triple hop for distance, diagrammissa näkyvissä THT, missä oikean alaraajan alkutestien keskiarvo oli 4,39 metriä (keskihajonta 0,79, N=17) oli tilastollisesti pienempi
+kuin lopputestien keskiarvon ollessa 4,65 metriä (keskihajonta 0,77, N=17). Ero osoittautui riippuvien otosten t-testillä merkitseväksi: t (16) = -3,02, p = 0,008, 2-suuntainen.
+47
+1 jalan 3-loikka (THD) eli triple hop for distance, diagrammissa näkyvissä THT, niin vasemman alaraajan alkutestien keskiarvo oli 4,37 metriä (keskihajonta 0,99, N=17) oli tilastollisesti pienempi
+kuin lopputestien keskiarvon ollessa 4,86 metriä (keskihajonta 0,61, N=17). Ero osoittautui riippuvien otosten t-testillä erittäin merkitseväksi: t (16) = -3,94, p = 0,001, 2-suuntainen.
+Kuva 9. Kaavio tuloksista, LAT (Lane Agility) ja MTT = MAT (Modified Agility T-test)
+48
+Kuva 10. Kaavio tuloksista, THT = Triple Hop Test, O = Oikea ja V = Vasen
+13.5 Johtopäätökset
+Tulokset osoittavat, että kahdeksan viikon harjoitusohjelman jälkeen osallistujien voima ja nopeus
+paranivat merkittävästi. Tämä viittaa siihen, että tämän kaltainen harjoitusohjelman integrointi lajiharjoittelun yhteyteen parantaa nuorten koripalloilijoiden voimaa ja nopeutta, sekä ennaltaehkäisee
+rasitusvammoja. Tulokset ovat tärkeitä valmentajille ja seuran johdolle, kun he suunnittelevat jatkossa harjoitusohjelmia nuorille koripalloilijoille. Lajivalmentajat ottavat suositusten perusteella tämän harjoitusohjelma käyttöön Turun NMKY:n kauden alusta. Lane Agility Testiä (LAT), Modified
+T-Testiä (MAT) ja 1 jalan 3-loikka (THD eli triple hop for distance) testiä voidaan suositella ja asettaa luotettavuuden (reliable) ja kelpoisuuden (validity) takia voima, nopeus ja ketteryys (agility) testeiksi juniori koripalloon. Lisäksi nämä kaikki ovat suositeltavia ja toimivia esimerkiksi alkulämmittelyssä tai heti sen jälkeen, aina ei tarvita kilpailua eli tehtäisiin osittain myös ilman ajanottoa.
+49
+14 Valmentaja palaute
+Päävalmentaja konsultoi apuvalmentajia ja he laativat kirjallisen palautteen ulkopuoliselle valmentajalle. Projektin ja valmennuksen aikana päävalmentaja teki omia havaintoja ja huomioita, kuten
+nuorten motivaation lisääntyminen lajia kohtaan, koska se näkyi nuorten lisääntyneenä osallistumisena lajiharjoittelua ja pelejä kohtaan.
+”Fysiikkavalmentajan projekti Turun NMKY:n U 13 joukkueen kanssa sujui erinomaisesti! Ohjelman
+suunnittelu ja sisältö perustuivat vahvaan osaamiseen sekä tieteellisyyteen. Ohjelman monipuolisuus oli vaikuttavaa. Se yhdisti erilaisia harjoitteita, kuten voimaharjoittelua ja liikkuvuusharjoitteita.
+Ohjelman monipuolisuus myös motivoi junioreita ja toiminta pysyi virikkeellisenä. Fyysinen valmentaja myös valmennusten sisällä yksilöi harjoitteita pelaajille sitä mukaan, kun tarve niin vaati”.
+”Fysiikkavalmentaja neuvoi ja auttoi lajivalmentajia koko projektin ajan. Lukuisat keskustelut veivät
+lajivalmentajien osaamista eteenpäin ja antoi luottamusta osaamiseen projektin päättymisen jälkeen. Ohjelmat, videot ja materiaalit projektin jälkeen ovat auttaneet jatkamaan valmennusta, jolloin tuloksia voidaan parantaa myös projektin jälkeenkin”.
+”Projekti vähensi huomattavasti vammoja jo projektin aikana ja pelaajien osallistuminen harjoituksiin ja peleihin kasvoivat. Fysiikkavalmentajan tapa kommunikoida pelaajien kanssa oli hienoa katsottavaa. Moni pelaaja motivoitui aivan uudella tavalla pitämään huolta kropastaan! Iso kiitos mahtavasta valmennuksesta!” (Harsu, P, Turun NMKY U 13 päävalmentaja).
+50
+15 Pohdinta
+Projektityö tehtiin Turun NMKY (YMCA) koripallojaoston tarpeeseen. Projektin tuotoksena nuoret
+pelaajat kehittyivät paitsi fyysisesti, niin myös henkisesti. Projektin saatiin käyntiin ensin puhelimen
+välityksellä päävalmentajan kanssa, siinä käytiin läpi projektiin liittyviä asioita. Varsinainen valmentaja tapaaminen, lajiin ja pelaajiin tutustuminen toteutettiin myöhemmin. Lajiharjoituksen yhteydessä sovittiin alkutestien ajankohdat ja kuinka pitkästä projekti olisi kyse, mikä olisi toimintaympäristö ja kuinka usein se tapahtuisi ja milloin olisi lopputestien aika. Ennen varsinaista projektin alkua ja sen aikana hyödynnettiin Turun NMKY:n lajivalmentajien sparrausta. niissä saatiin selville
+muun muassa, että nilkkojen ja polven alueella oli rasitusvammoja esiintynyt, eikä vastaavanlaista
+kokonaisvaltaista oheisharjoittelu ollut seurassa aikaisemmin toteutunut. Projektin alkuun tehtiin
+testit ja niiden välissä ulkopuolinen fysiikkavalmentaja vastasi harjoituksista. Kokonaiskestoltaan
+10 viikkoa, siinä harjoiteltiin kaksi (2) kertaa viikossa, jonka jälkeen tehtiin lopputestit. Tiistaina valmennuksessa keskityttiin perusliiketaitojen, voimien, suunnanmuutos nopeuden ja plyometristen
+elementtien kehitykseen. Torstaina keskityttiin perusliiketaitojen, voimien ja plyometristen elementtien kehitykseen sekä lineaarisen nopeuden kehitykseen. Molemmilla valmennus kerroilla huomioitiin yksilöt joukkueen sisällä.
+Ketteryys ja suunnanvaihto (liikkumisen nopeus) testit valittiin mukaan tutkimusten perusteella.
+Lane Agility Testiä (LAT) ja Modified Agility T-Testiä (MAT) voidaan suositella luotettavuuden (reliable) ja kelpoisuuden (validity) takia ketteryys (agility) testeiksi juniori koripalloon (Seljakovič &
+Krneta 2020). LAT testi on käytössä myös NBA varaustilaisuudessa (topendsport). THD eli 1 jalan
+kolmiloikka hyödyntää venymis-lyhenemisen sykliä, sillä saadaan lisätietoa lihasten ja lihas-jänne
+järjestelmän kyvystä ladata ja vapauttaa elastista energiaa peräkkäiseen plyometriseen suoritukseen. Lisäksi THD: lla on tutkimusten mukaan positiivisia vaikutuksia lihasvoimien kehitykseen, räjähtävän voiman tuottoon ja pikajuoksuun 10–20 m matkalla (Michailidis ym. 2020; Kotisifaki ym.
+2022; Sonesson, Lindblom & Hägglund 2020).
+Tutkimusten mukaan säännöllinen liikunta ja urheilu ja biomekaanisesti oikeilla suoritustekniikoilla
+toteutuneilla harjoitteilla kehitetään nivelrustojen kuormitus kestävyyttä ja kehittymistä ja luumassan tiheyttä, varsinkin kun niihin sisällytetään hyppyjä, vääntöjä ja tärähdyksiä. Muistutetaan tässä
+yhteydessä, että hyvinkin varhaisessa vaiheessa biomekaanisesti vääränlaiset suoritustekniikat
+saattavat aiheuttaa rustovammoja. Nuoren kasvu- ja kypsyysvaiheessa liikunnan ja urheilun todetaan vahvistavan myös muita tukirakenteita, kuten nivelsiteitä, jänteitä ja nivelkapseleita. Ehkäiseväksi tekijäksi luetaan myös se, että urheilijat, valmentajat ja organisaatiot yhdessä pyrkisivät olemaan tietoisia ulkoisista- ja sisäisistä riskitekijöistä, sekä hallitsemaan niitä parhaansa mukaan.
+51
+Spesifit harjoitteet vammojen ennaltaehkäisyyn tulisi olla säännöllistä ja ympärivuotista (Mero ym.
+2016, 667–669; Hakkarainen ym. 2008, 7–8).
+Nuoren hyvinvoinnin ja terveyden kannalta harjoittelun tulisi olla turvallista, tehokasta ja nuoren
+kypsyys ja kehityskaareen sopivaa. Suositeltavaa olisi, että ennen uusien harjoitusmenetelmän
+aloittamista tulisi konsultoida koulutettua asiantuntijaa varmistaakseen, että nuorten kyvyt ovat riittävät ja suoritustekniikat olisivat kunnossa. Nuorilla tulisi kehittää ei vain lajitaitoja, vaan monipuolisesti motorisia ja fyysisiä perustaitoja, koordinaatiota, liikkuvuutta, voimaa ja nopeutta, myös yksilöt
+tulisi huomioida joukkuelajeissa. Pitäisi huomioida myös filosofiset ja psykososiaaliset viitekehykset. Valmennuksessa olisi huomioitava monipuolisuus liike variaatioissa ja riittävä liikkeiden vaihtelu. Nuoria valmentaessa hyvät vuorovaikutustaidot ja didaktiikan hallinta ja osaaminen ovat tärkeitä (Brennan, 2023; Lloyd & Oliver, 2012; Lloyd ym. 2015; Hämäläinen ym. 2023, 125–126).
+Hermoston kehityksen kannalta, olisi suositeltavaa kaikkia taidon osa-alueita harjoittaa lasten ja
+nuorten valmennuksessa. Harjoittelussa tapahtuvan runsaan vaihtelun on todettu lisäävän oppimista. Taitoharjoitteluun luetaan kuuluvaksi liikkeenhallinta, havainto ja päätöksenteko taidot. Voidaan todeta, että koripallossa tarvitaan näitä elementtejä. Motorisiin perustaitoihin luetaan kuuluvaksi liikkumisentaito, kuten kävely, juoksu, hypyt ja loikat, tasapainotaidot, kuten pyörintä, heilunta, väistö ja pysähdys, sekä välineen käsittelytaidot, kuten lyönti ilmasta, heitto ja koppi, sekä
+pomputtelu pallolla. Tässä yhteydessä voidaan todeta, että pelkällä fysiikalla eivät nuoren urheilijan
+yleistaidot kehity ja vaadittava suorituskyky jää mahdollisesti saavuttamatta (Mero ym. 2016, 39,
+234–241; Hämäläinen ym. 2023, 194–199).
+Voimaharjoittelua on aikojen saatossa pidetty lapsille vaarallisena, koska sen on oletettu olevan
+vain bodausta eli lihasmassaa kehittävää tai levytanko tms. lisäpainoilla tapahtuvaa toimintaa raskailla vastuksilla. Toisaalta mikä tahansa urheilulaji on vaarallista ja vammariskit kasvavat, jos ei
+suoritustekniikkaan kiinnitetä huomiota, sekä huomioida kasvuun ja kehitykseen liittyviä tekijöitä.
+Voimaharjoittelulla on kuitenkin todettu monia terveyttä edistävää ja lapsien ja nuorien kehitystä
+tukevaa elementtiä, kuten hermolihasjärjestelmän kehitys, nivelrustojen kuormitus kestävyyden
+edistäminen ja luumassan tiheyden kasvu. Lapsilla pitäisi harjoittelu aloittaa jo ennen kouluikää,
+kunhan huomioidaan kasvuun ja kehitykseen liittyvät tekijät, harjoittelun tulisi tuottaa iloa ja olla
+hauskaa yhdessä tekemistä. Tuona aikana se tapahtuu pääasiassa leikkien ja pelien kautta. 7–12
+vuoden iässä harjoitellaan edelleen perusliiketaitoja ja oman kehon painolla tehtynä voimaharjoittelua. 12–13 vuoden ikäisenä olisi hyvä ohjata ns. keppi tekniikkaa, myöhemmin tapahtuvia voima ja
+levytanko liikkeitä silmällä pitäen, sekä harjoitella kevyillä vastusnauhoilla ja kuntopalloilla (Hämäläinen ym. 2023, 212–228; Mero ym. 2004, 274). Myöhäisessä murrosiässä 13-15 ± kaksi vuotta
+pitäisi aloittaa voimien kehittäminen lisävastuksilla. Intensiteetiksi suositellaan 60–70 % 1 RM.
+52
+Murrosiän jälkeen 14-16 ± kaksi vuotta, niin harjoittelussa tulisi keskittyä enemmän lajinomaisuuteen ja nopeusharjoitteluun. Harjoittelussa suositellaan painottamaan edelleen voimaa, nopeutta,
+tehoja, lihaskasvua, sekä aerobista kapasiteettia. Yksilöllisesti harjoitustaustat ja suoritustekniikat
+tulisivat kuitenkin tarkistaa (Brennan, 2023).
+Räjähtävä nopeus on yksittäinen nopea suoritus, jossa korostuu hermoston käskytysnopeus. Reaktionopeus mittaa aikaa, kuinka kauan menee liikkeen aloitukseen ärsykkeen saatuaan. Syklinen
+(ballistinen) pikavoima tai liike- ja etenemisen nopeus ovat toistuvia nopeita liikesuorituksia.
+Plyometrinen harjoittelu keskittyy lihasten nopeaan supistumiseen ja venytyslyhenemissykliin
+(stretch-shortening cycle). Plyometrinen harjoittelu perustuu eksentriseen lihastyön vaiheeseen,
+sitä seuraa isometrinen lihastyön vaihe ja viimeisenä välittömästi voimakas konsentrinen lihastyön
+vaihe. Tutkimusten mukaan harjoitukset kehittävät lihaksen jänneheijasteita, kimmoisuutta ja hermoston kykyä käskyttää ja käyttää lihaksia nopeasti. Plyometrisella harjoittelulla todetaan myös
+terveyttä edistäviä elementtiä, kuten lihaskasvua, side- ja tukikudosten, hermolihasjärjestelmän iskunsietokyvyn ja luuaineksen vahvistuminen. Plyometrista harjoittelua suositellaan lajiharjoittelun
+yhteyteen kehittämään lasten ja nuorten nopeusvoimia juoksussa, suunnanvaihdossa ja ponnistusvoimassa (Athletica 9.9.2022; Bogdanis ym. 2019; Verkhoshansky & Stiff 2009, 40–45).
+Monipuolinen harjoittelu ja motoristen perustaitojen opettaminen on avainasemassa lasten ja nuorten valmennuksessa, koska lapset oppivat, kun se vain heille mahdollistetaan. Motoriset perustaidot ovat liikkumisentaito, kuten kävely, juoksu, hypyt ja loikat, tasapainotaito, kuten pyörintä, heilunta, väistö ja pysähdys, sekä välineen käsittelytaidot, joita ovat muun muassa lyönti ilmasta,
+heitto ja koppi, sekä pomputtelu pallolla. Pelkällä fysiikalla ei nuoren urheilijan yleistaidot kehity ja
+vaadittava suorituskyky jää mahdollisesti saavuttamatta. Taitoharjoittelu jaotellaan yleis- ja lajitekniikka tai lajitaidoksi. Taitoharjoittelun dynamiikan tulee toimia oppijan, tehtävän ja ympäristön sujuvalla yhteispelillä. Tietoinen (eksplisiittinen) ja tiedostamaton (implisiittinen) oppiminen sisältyvät
+molemmat taitojen oppimiseen. Eksplisiittinen tarkoittaa sitä, että valmentaja välittää ymmärrettävästi ja selkeästi taito ohjeen tai suullista tietoa, mistä urheilija ammentaa itselleen tietoa ja yrittää
+sisäistää sen mahdollisimman hyvin. Urheilijan oppiessa tieto tai taito elementtejä enemmän kiertoteitä, kuten havainnoinnin, kokemusten ja huomaamattoman oppimisen kautta, sillä tarkoitetaan
+implisiittistä oppimista (Mero ym. 2016, 41, 233; Mero ym. 2004, 241–243; Hämäläinen ym. 2023,
+194–198).
+Lasten keskuudessa pihapelit ovat valitettavasti vähentyneet ja samoin lasten lajin ulkopuolinen
+aktiviteetti. Liikunta on erittäin tärkeä osa lapsen kehitystä ja säännöllinen liikunta edistää lapsen
+fyysistä terveyttä, vahvistaa lihaksia ja luita, parantaa sydän- ja verisuonijärjestelmän toimintaa.
+Liikunta kehittää myös motorisia taitoja, kuten tasapainoa ja koordinaatiota. Sosiaaliset taidot
+53
+kehittyvät liikunnan ja leikkien kautta, koska lapsi on vuorovaikutuksessa muiden kanssa, tämä
+saattaa auttaa lapsia muodostamaan ystävyyssuhteita ja ryhmässä toiminta kehittyy. Säännöllinen
+liikunta voi auttaa vähentämään stressiä, ahdistusta ja masennusta. Se voi myös parantaa unen
+laatua ja edistää positiivista itsetuntoa. Hyvän kehityksen kannalta pidempi aikajänne on urheilijalle
+turvallisempi vaihtoehto, kuin liian aikainen ja liian heppoinen valinta lajiin vain fyysisten ominaisuuksien perusteella. Harjoittelun lisäksi hyvän ryhdin ja asennon säilyttäminen arjessa, riittävä
+energiansaanti ja ravinto, uni ja palautuminen sekä nikotiini tuotteiden välttäminen kuuluvat ennaltaehkäisyyn.
+Nuorella saattaa olla murrosiän kynnyksellä painonnousua ja hän vaikuttaa hitaalta, toisella on huomattava pituuskasvu menossa ja hän vaikuttaa kömpelöltä. Kolmannella ei ole vielä tapahtunut mitään konkreettista kasvun suhteen ja kognitiivisella tasolla saattaa olla vaikeuksia esimerkiksi keskittymisessä. Kaiken tämän lisäksi nuoren keho on kovassa rasituksessa kasvun aikana. Tuossa
+vain osa siitä, mitä kaikkea eroavaisuuksia joukkuelajeissa saattaa harjoituksen aikana nähdä ja
+kokea. Tämän takia valmentajilla on iso rooli ja kaikki ne ketkä toimivat lasten- ja nuorten valmentajina eli kasvu- ja murrosiässä olevien kanssa, tulisi huomioida kaikki yllämainitut biologiset ja fysiologiset tekijät, koska niillä on jatkossa merkittäviä vaikutuksia lasten- ja nuorten harjoitteluun sekä
+vammojen ennaltaehkäisyyn.
+Todettakoon, että nuorten koripalloilijoiden perustaidoissa oli paljon kehitettävää. Tämän takia olisi
+perusteellista panostaa monipuoliseen alkulämmittelyyn ja integroida niihin motorisia perustaitoja.
+Perustaitojen ja tekniikkaharjoittelun avulla saadaan luotua hyviä urheilusuorituksia. Suoritustekniikkaan tulisi kiinnittää huomiota, samoin kasvuun ja kehitykseen, näin saatetaan välttyä rasitusja urheiluvammoilta. Toisaalta peleissä ulkoisiin tekijöihin ei aina kyetä itse vaikuttamaan, voidaan
+kuitenkin todeta, että niitä kyetään kehittämään havaintomotorisilla ja reaktiokyky harjoitteilla.
+Koripallossa, kuten useassa muussakin pallolajissa tarvitaan voimaa. Voimalla pyritään vaikuttamaan urheilijan suorituskykyyn, toisaalta myös vammojen ennaltaehkäisyyn. Voidaan myös todeta,
+että perusvoimissa ja vartalon hallinnassa oli kehitettävää ja harjoitettavia osa-alueita oli suhteellisen paljon. Harjoituksien aikana tehtiin paljon monipuolisia kokovartalon harjoituksia, missä keskityttiin samalla ongelma alueisiin. Jalkaterän ja nilkan tukilihaksia, lantion ja keskivartalon sekä alaraajojen lihaksia vahvistettiin. Nuori pyrittiin kehittämään voimaharjoittelujen edetessä teettämällä
+vaativampia liikevariaatioita. Fysiikkavalmennuksessa hyödynnettiin eri lihastyötapoja.
+Nopeuden eri osa-alueissa oli myös paljon kehitettävää. Voidaan todeta, että pelkkä lajiharjoittelu
+tuo lajitaitavuutta ja nopeutta omalta osaltaan. Rytmitajuun ja liiketiheyteen sekä juoksunopeuteen,
+reaktio- ja räjähtävään nopeuteen kyetään vaikuttamaan systemaattisella ja progressiivisella harjoittelulla. Nopeuden harjoittamisessa keskityttiin muun muassa reaktio- ja räjähtävään nopeuteen,
+54
+sekä sykliseen pikavoimaan ja plyometriseen harjoitteluun. Reaktionopeutta harjoitettiin esimerkiksi ilman visuaalista aistia, kuten käsimerkistä tai äänimerkistä liikkeelle lähtöjä. Syklisen pikavoiman, rytmitajun ja liiketiheyden harjoittamisessa hyödynnettiin esimerkiksi eri tyylisiä juoksudrillejä,
+viivoja pelikentässä ja kartioita. Räjähtävän voiman harjoittelussa hyödynnettiin muun muassa koulun liikuntasalin pitkiä 30 cm korkeita puupenkkejä ja plyometrista harjoittelua. Nopeusharjoittelun
+hypyt aloitettiin matalan kynnyksen harjoitteilla, asteittain nuorien pelaajien kehityksen ja suorituskyvyn mukaan haastetta lisättiin ja kontakti aikaa pyrittiin vähentämään ja tehtiin plyometrista harjoittelua.
+Tutkimuksen tavoitteena oli nuorten koripallo pelaajien perusliiketaitojen, voiman, nopeuden ja ketteryyden parantaminen. Tutkimukseen osallistui 17 pelaajaa, tutkimuksessa oli mukana vain koeryhmä, eikä tuloksia täten vertailu kontrolliryhmän kesken. Tutkimusmenetelmä oli kvantitatiivinen
+eli tietoa kerättiin numeerisessa muodossa ja analysoitiin tilastollisesti SPSS avulla. Aineistonkeruu
+tapahtui alku- ja lopputestien avulla, sekä niiden välissä tapahtuvan kahdeksan viikon valmennuksen aikana. Alkutestit olivat 10.1.2023 ja lopputestit tehtiin kahdessa osassa 4.4.203 ja 18.4.2023.
+SPSS tilastollisen analysointi ohjelman perusteella kaikkien testien tulokset paranivat. Erittäin merkitsevästi ketteryys Modified Agility T-Testi, MAT (p < 0,001), merkitsevästi ketteryys Lane Agility
+Test, LAT (p 0,004) ja merkitsevästi molemmat alaraajat 1 jalan 3-loikka eli Triple hop for distance
+(THD) testissä oikea (p 0,008) ja vasen (p 0,001). Tutkimuksen luotettavuudesta kertoo se, että
+alku- ja lopputestit suorittivat aina samat henkilöt. Fysiikkavalmentaja neuvoi ja ohjasi lajivalmentajat osaksi testiryhmää. Valmennuksen ja testien tulkinnan perusteella voidaan todeta, että kyseisiä
+testejä voidaan käyttää esimerkiksi kauden loputtua ja kauden alussa, lajeissa missä vaaditaan
+ketteryyttä, reaktionopeutta ja syklistä pikavoimaa sekä juoksu nopeutta, toisaalta niitä voidaan
+teettää jopa harjoitteena. Toki luotettavuutta voidaan pohtia, koska kyseessä oli pieni ryhmä, vain
+17 urheilijaa, eikä lainkaan kontrolliryhmää, toisaalta tämä ei ollut vertaileva tutkimus.
+Projektityön tuloksena saatiin myös laadittua harjoitusohjelma ja videopankki lajivalmentajien käyttöön ja tueksi. Turun NMKY:n juniori koripallojaosto kertoi, että he ottavat ohjelman käyttöön kauden alusta. Pää- ja apuvalmentajat pitivät fysiikkavalmennusta hyödyllisenä. He huomasivat muun
+muassa nuorten kehityksen voimassa ja nopeudessa, rasitusvammat vähenivät sekä nuorten kiinnostus lajiharjoituksia ja pelejä kohtaan lisääntyivät. Kirjalliset ohjeet ja videokirjastot hyödyttävät
+lajivalmentajia kauden aikana. Fysiikkavalmentaja kykenee hyödyntämään näitä testejä jatkossa
+omissa projekteissaan. Pitkälti toista sataa luettua tieteellisestä tutkimusartikkelia ja useita kirjoja
+liittyen aiheeseen tuovat varmuutta fysiikkavalmentajan tekemiseen. Fysiikkavalmentaja on toiselta
+ammatiltaan fysioterapeutti ja suorittanut useita fyysiseen harjoitteluun liittyviä lisäkoulutuksia. Tämän perusteella voidaan olettaa, että suoritustekniikat harjoitetaan, kuten pitäisi ja vammojen ennaltaehkäisy otettiin huomioon.
+55
+Nyt valmennettu harjoitusohjelma soveltuu nuorille koripallon pelaajille ja eri pallolajeihin, joissa
+vaaditaan perusliiketaitoja, voimaa, nopeutta ja ketteryyttä. Tämän kaltaiset harjoitteet olisivat suositeltavia teettää alkulämmittelyssä, silloin nuoren mieli ja keho ovat läsnä ja harjoittelusta saadaan
+enemmän irti. Mikäli ne tehdään väsyneenä lajiharjoituksen jälkeen, kun nuoren lihaksia ja hermostoa on jo kuormitettu, niin ei se ole enää kehittävää ja rasitusvammojen riski kasvaa. Toisaalta liian
+suuret toistomäärätkään eivät aja tarkoitustaan, kun puhutaan hyvästä suoritustekniikasta. Varsinkaan, jos ei ole varmistettu nuoren pelaajan suoritustekniikoita ja harjoittelutaustaa.
+Kehitys ehdotuksena olisi teettää laajempi tutkimus nuorille vastaavasta aiheesta, missä olisi mukana sekä koe että kontrolliryhmä. Toisena ehdotuksena olisi kartoittaa, esimerkiksi kysely tutkimuksella, käytetäänkö näitä testejä Suomessa juniori puolella, entä miten eri seuroissa huomioidaan kasvun ja kehityksen vaiheet nuorilla.
+56
+Lähteet
+Aapro, V. 2015. Nopeuden ja ketteryyden harjoittaminen salibandyssä, Valmentajan opas.
+Armstrong, N & Barker, A. R. 2011. Endurance Training and Elite Young Athletes. Med Sport Sci.
+Basel, Karger, 56, 59–83.
+Baker, J., Schorer, J & Wattie, N. 2018. Compromising Talent: Issues in indentifying and Selecting
+Talent in Sport. Quest, 70, 1, s. 48–63.
+Balyi, I & Hamilton, A. 2003. Long-Term Athlete Development: Trainability in Childhood and adolence. Windows of opportunity, Optimal Trainability. This article is based on the presentation given
+at the Scottish Strength and Conditioning Seminar in Largs, 2010, 02.
+Behm, D.G, Faigenbaum, A.D, Falk, B & Klentrou, P. 2008. Canadian Society for Exercise Physiology position paper: resistance training in children and adolescents. Appl. Physiol. Nutr. Metab., 33,
+s. 547–561.
+Behringer, M., Vom Heede, A., Matthews, M & Mester, J. 2011. Effects of Strength Training on Motor Performance Skills in Children and Adolescents: A Meta-Analysis. Pediatric Exercise Science.
+Human Kinetics, Inc., 23, s. 186–206.
+Ben, S. 12.10.2023. Outputsport. Sähköposti.
+Bogdanis, G.C., Olyvia Donti, O., Papia, A., Donti, A., Apostolidis, N & Sands, W.A. 2019. Effect of
+Plyometric Training on Jumping, Sprinting and Change of Direction Speed in Child Female Athletes. Sports Performance Laboratory. School of Physical Education & Sport Science, 7, 116.
+Brennan, C.T. 2023. Practical considerations for physical develompent during growth and maturation in youth. Journal of Australian Strength & Conditioning, 31, 3, s. 22–33.
+Brown, A.E., Gibson, M., Wright, G & Mally K. 2012. The Reability and Validity of the Lane Agility
+Test. College of Science and Health, Human Performance. Univercity of Wisconsin-La Crosse.
+Côte, J., Baker, J & Abernethy, B. 2007 Practice and Play in the Development of Sport Expertise.
+Handbook of sport Physiology. 3 painos. Hoboken, NJ: Wiley., s. 184–202.
+Dote-Montero, M., Pelayo-Tejo, I., Molina-Garcia, P., Carle-Calo, A., García-Ramos, A., ChirosaRíos, L.J., Chirosa-Ríos, I.J & Amaro-Gahete, F.J. 2022. Effects of post-tetanic potentiation induced by whole-body electrostimulation and post-activation potentiation on maximum isometric
+strength. Biology of Sport, 39, 2, s. 451–461.
+57
+Drouzas, V., Katsikas, C., Zafeiridis, A., Athanasios Z. Jamurtas, A.Z & Bogdanis, G.C. 2020. Unilateral Plyometric Training is Superior to Volume-Matched Bilateral Training for Improving Strength,
+Speed and Power of Lower Limbs in Preadolescent Soccer Athletes. Journal of Human Kinetics,
+74, s. 161–176.
+Ericsson, K.A. Krampe, R & Tesch-Römer, C. 1993. The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100, 3, s. 363–406.
+Fiba assist magazine. 2005. Luettavissa: https://ukts.s3.amazonaws.com › FIBA › pdf. Luettu
+21.10.2023.
+Finni, J., Aarresola, O., Jaakkola, T., Kalaja, S., Konttinen, N., Kokko, S & Sipari T. 2012. Asiantuntijatyö urheilijan polun lapsuusvaiheen määrittelemiseksi tutkimustiedon pohjalta.
+Hakkarainen, H., Härkönen, A., Niemi-Nikkola, K., Mäenpää, P., Potinkara, P., Kujala, A., Jaakkola, T & Kantosalo, K. 2008. Selvitysraportti, Urheilevien lasten- ja nuorten fyysis-motorinen harjoittelu.
+Hoog, P., Warren M., Smith C.A & Chimera, N.J. 2016. Functional hop test and tuck jump assessment scores between female division 1 collegiate athletes participating in high versus low acl injury
+prone sports; a cross sectional analysis. The International Journal of Sports Physical Therapy, 11,
+6, s. 945.
+Human Kinetics. 2023. Luettavissa: https://us.humankinetics.com/blogs/excerpt/understanding-motor-learning-stages-improves-skill-instruction. Luettu 27.10.2024.
+Hämäläinen, K., Danskanen, K., Hakkarainen, H., Lintunen, T., Forsblom, K., Pulkkinen, S., Jaakkola, T., Pasanen, K., Kalaja, S., Arajärvi, P., Lehtoviita, T & Riski, J. 2023. Lasten ja nuorten hyvä
+harjoittelu. VK-kustannus Oy. Lahti.
+Jaimesa, D.A.R, Petro, J.L, Diego, A, Bonillab, D.A, Cárdenasd, J.G, Duartee, A.O & Contreras, D.
+2022. Effects of three 8-week strength training programs on jump, speed and agility performance in
+prepubertal children. Isokinetics and Exercise Science, Colombia, 30, s. 157–166.
+Järvilehto, P & Järvilehto L. 2019. Pim! Olet luova. Tuumakustannus. Jyväskylä.
+Komi, P.V. 2003. strength and power training for sports. Volyme III of encyclopaedia of sports medicine an IOC medical commission publication.
+Kotsifaki, A., Van Rossom, S., Whiteley, R., Korakakis, V., Bahr, R., Sideris, V., Smith, P.G & Jonkers, I. 2022. Symmetry in Triple Hop Distance Hides Asymmetries in Knee Function After ACL
+58
+Reconstruction in Athletes at Return to Sports. The American Journal of Sports Medicine, 50, 2, s.
+441–450.
+Lauersen, J. B., Andersen, T. E & Andersen, L. B. 2018. Strength training as superior, dose-dependent and safe prevention of acute and overuse sports injuries: A systematic review, qualitative
+analysis and meta-analysis. British Journal of Sport Medicine, 52, s. 1557–1563.
+Libretext s.a. Luettavissa: https://chem.libretexts.org/Bookshelves/Biological_Chemistry/Supplemental_Modules_(Biological_Chemistry)/Metabolism/ATP_ADP. Luettu 8.9.2023.
+Lloyd, R.S & Oliver, J.L. 2012. The Youth Physical Development Model: A New Approach to LongTerm Athletic Development. Article in Strength & Conditioning Journal, s. 61–72.
+Lloyd, R.S., Oliver, J.L., Faigenbaum, A.D., Howard, R., De Ste Croix, M.B., Williams, C.A., Best,
+T.M., Alvar, B.A., Micheli, L.J., Thomas, D.P., Hatfield, D.L., Cronin, J.B & Myer, G.D. 2015. LongTerm Athletic Development – Part 1: a pathway for all youth. Journal of Strength and Conditioning
+Research, 29, 5, s. 1439–1450.
+Mhennia, T., Michalsikc, L.B., Mejri, M.A., Yousfi, N., Chaouachia, A., Souissi, N & Chamar, K.
+2017. Morning–evening difference of team-handball-related short-term maximal physical performances in female team handball players. Journal Of Sport Scienses, 35, 9, s. 912–920.
+Michailidis, Y., Savvakis, C., Pirounakis, V., Mikikis, D., Margonis, K & Metaxas, M. 2020. Association between jump assymmetry and reduced performance in the change of direction tests of
+youth soccer players. Journal of Physical Education and Sport, 20, 3, s. 1362–1368.
+Mitić, M., Paunović, M., Ţivković, M., Stojanović, N., Bojić, I & Kocić, M. 2019. Differences in agility
+and explosive power of basketball players in relation to their positions on the team. Faculty of Sport
+and Physical Education, University of Niš, Serbia.
+Mononen, K., Aarresola, O., Sarkkinen, P., Finni, J., Kalaja, S., Härkönen, A & Pirttimäki, M. 2014.
+Tavoitteena nuoren Urheilijan Hyvä Päivä. Urheilijan polun valintavaiheen asiantuntijatyö.
+Moran, J., Sandercock, G.R.H., Ramírez-Campillo, R., Meylan, C., Collison, J & Parry, D.A. 2016.
+A meta-analysis of maturation-related variation in adolescent boy athletes’ adaptations to shortterm resistance training. Journal of Sports Sciences.
+Nygåård Falch, H., Guldteig Rædegård, H & Van Den Tillaar, R. 2019. Effect of Different Physical
+Forms on Change of Direction Ability: a Systematic Review and Meta-analysis. Sport Medicine ·
+Open.
+59
+Olli, K. 9.9.2022. Athletica. Sähköposti.
+Palloliitto. Opi ja kehity. Luettavissa: https://www.palloliitto.fi/opi-ja-kehity/valmentajalle/. Luettu
+20.9.2023.
+Perttunen, J., Kyröläinen, H., Komi, P & Heinonen, A. 2000. Biomechanical loading in the triple
+jump. Journal of Sports Sciences, 18, 363–370.
+Pichardo, A.W., Oliver, J.O., Harrison, G.B., Maulder, P.S., Lloyd, R.S & Kandoi, R. 2019. The Influence of Maturity Offset, Strength, and Movement Competency on Motor Skill Performance in
+Adolescent Males. NIH. Sports Basel.
+Pichardo, A.W., Oliver, J.O., Harrison, G.B., Maulder, P.S., Lloyd, R.S & Kandoi, R. 2019. Effects
+of Combined Resistance Training & Weightlifting on Motor Skill Performance of Adolescent Male
+Athletes. The Journal of Strength and Conditioning Research.
+Rees, T., Hardy, L., Güllich, A., Abernethy, B., Côte, J., Woodman, T., Montgomery, H., Laing, S &
+Warr, C 2016. The British Medalists Project: Knowledge on the Development of the World’s Best
+Sporting Talent. Review Article. Sport med, 40, s. 1041–1058.
+Rissanen, T. 2002. Projektilla tulokseen. Gummerus Kirjapaino Oy. Jyväskylä.
+Roiha, J. 2022. Hyvän sparrauksen elementit: case kasvu open. Ylempi AMK. Jyväskylän ammattikorkeakoulu, liiketalous, verkostojohtaminen.
+Rytkönen, T. 2018. Voimaharjoittelun käsikirja. Fitra Oy.
+Sadigursky, D., Braid, J.A., De Lira, D.N.L., Machado, B.A.B., Carneiro, R.J.F & Colavolpe, P.O.
+2017. The FIFA 11+ injury prevention program for soccer players: a systematic review. BMC
+Sports Science, Medicine and Rehabilitation, 9, 18, s. 1–8.
+Sánches-Sixto, A., Harrison, A.J & Floria, P. 2021. Effects of Plyometric vs. Combined Plyometric
+Training on Vertical Jump Biomechanics in Female Basketball Players. Journal of Human Kinetics.
+77, s. 25–35.
+Seljakovič, N & Krneta, Ž. 2020. Reliability and validity of change-of-direction speed test for junior
+basketball players. Physical education and sport, 18, 3, s. 535–545.
+Šimonek, J., Horička, P., & Hianik, J. 2017. The differences in acceleration, maximal speed and
+agility between soccer, basketball, volleyball and handball players. Journal of Human Sport and
+Exercise, 12, 1, s. 73–82.
+60
+Solunetti. 2006. Luettavissa: https://www.solunetti.fi/fi/solubiologia/mitokondrio/2/. Luettu 8.9.2023.
+Sonesson, S, Lindblom, H & Hägglund, M. 2020. Performance on sprint, agility and jump tests
+have moderate to strong correlations in youth football players but performance tests are weakly
+correlated to neuromuscular control tests. Knee Surgery, Sports Traumatology, Arthroscopy, 29, s.
+1659–1669.
+Soomro, N., Sanders, R., Hackett, D., Hubka, T., Ebrahimi, S., Freeston, J & Cobley, S. 2016. The
+Efficacy of Injury Prevention Programs in Adolescent Team Sports. The American Journal of
+Sports Medicine, 44, 9, s. 2415–2424.
+Steib, S., Rahlf, A. L., Pfeifer, K & Zech, A. 2017. Dose-Response Relationship of Neuromuscular
+Training for Injury Prevention in Youth Athletes: A Meta-Analysis. Frontiers in Physiology, 8, 920.
+Topendsport. 2023. Luettavissa: https://www.topendsports.com/testing/tests/agility-lane.htm. Luettu 21.10.2023.
+Turun NMKY. 2023. Luettavissa https://www.ymcaturku.fi/liikunta/koripallo/aloita-koripallo/. Luettu
+1.11.2023.
+Verkoshansky, Y & Stiff, M. 2009. Supertrainig. Sixth Edition Expanded Version. Verkhoshansky
+SSTM. Rome.
+Verywellhealth. 2023. Luettavissa: https://www.verywellhealth.com/atp-6374347. Luettu 8.9.2023.
+Walker, O. 2023. Post-Activation-Potentiation. Luettavissa: https://www.scienceforsport.com/postactivation-potentiation/. Luettu 24.10.2023.
+Walsh, N. P., Halson, S. L., Sargent, C., Roach, G. D., Nédélec, M., Gupta, L., Leeder, J., Fullagar,
+H. H., Coutts, A. J., Edwards, B. J., Pullinger, S. A., Robertson, C. M., Burniston, J. G., Lastella,
+M., Le Meur, Y., Hausswirth, C., Bender, A. M., Grandner, M. A & Samuels, C. H. 2021. Sleep and
+the athlete: Narrative review and 2021 expert consensus recommendations. British Journal of
+Sports Medicine, 55, 7, s. 356–368.
+Weber, L.M., Lam K.C & Valovich McLeod, T.C. 2016. The Effectiveness of Injury Prevention Programs for Youth and Adolescent Athletes. Human Kinetics, 21, 2, s. 25–31.
+Zagatto, A.M., Claus, G.M., Dutra, Y.M., De Poli, R.A., Lopes, V.H.F., Goodall, S., Loturco, I &
+Boullosa, D. 2022. Drop jumps versus sled towing and their effects on repeated sprint ability in
+young basketball players. BMC Sports Science, Medicine and Rehabilitation. 14. 4, s. 1–11.
+61
+Liitteet
+Liite 1. Turun NMKY Ohjelma
+PERUSTEET 1 pvä 1VK 2VK 3VK 4VK
+Boxi nilkka pomppu etu sivu 10 O/V 10 10 10
+Jousihypyt oikealle 2*5 2*6 2*7 2*8
+Jousihypyt vasemmalle 2*5 2*6 2*7 2*8
+Päkiähyppely oikea 2*5 2*6 2*7 2*8
+Päkiähyppely vasen 2*5 2*6 2*7 2*8
+LIHASTYÖ + TAITO
+2 jalan kyykky, kumi säärellä 3*6 3*8 3*10 3*12
+Askelkyykky, kumi polvissa 3*6/p 3*8 3*10 3*12
+Päkiäkyykky, progressio 3*6 3*8 3*10 3*12
+Rotatio heitot, peliasento
+2*10
+O/V 12 14 16
+TAITO + NOPEUS
+Rytmikäs side hopping
+1 ylös 2 alas diagonal 2*4/p 2*5/p 2*6/p 2*7/p
+1 ylös 2 alas sivut 2*4/p 2*5/p 2*6/p 2*7/p
+Sivutyöntö + pieni pomppu 2*5 2*6 2*7 2*8
+Sivutyöntö jatkuva nopea 2*5 2*6 2*7 2*8
+62
+HUOM! 110 % keskittyminen keskivartalon kotrolliin ja aktivointiin
+"palmu ei heilu tuulessa"
+HUOM! 110 % keskittyminen Polvi varvas linjaukset -kyykky lasku ja
+ylöstulossa ja hidas tempo laskuissa sekä hyvä stoppari alhaalla
+HUOM! 110 % keskittyminen polvi varvas linjaukset - hypyt ja varsinkin
+alastulot
+HUOM! Helpoimmasta vaikeampaan ja toistomäärät maltilla, koska lajissa pelaajat saavat kestävyys harjoittelua
+PERUSTEET 2 pvä 1VK 2VK 3VK 4VK
+Jousihypyt eteen 2*5 2*6 2*7 2*8
+Jousihypyt taakse 2*5 2*6 2*7 2*8
+Päkiähypyt eteen 2*5 2*6 2*7 2*8
+Päkiähypyt takse 2*5 2*6 2*7 2*8
+LIHASTYÖ + TAITO
+2 jalan lantiosilta, kumi polvet 3*6 3*8 3*10 3*12
+2 jalan lantiosilta kantapäät, pitkä 3*6 3*8 3*10 3*12
+Seinä lonkan koukistus, päkiä + kumi 3*6/p 3*8 3*10 3*12
+Punn as syötä pallo edestä O/V 2*10 2*10 2*10 2*10
+TAITO + NOPEUS 1-2 VK
+Hip Flip komennosta 2*4/p 2*4/p
+paikalla, 2 ylös 2 alas, pysy päkiällä 2*6 2*8
+45⁰ hyppy paikalla, pysy päkiällä 2*3/p 2*5/s
+90⁰ hyppy paikalla, pysy paikalla 2*3/p 2*5/s
+63
+TAITO 3-4 VK
+45⁰ palautuksella, pysy päkiällä 2*3/p 2*5/s
+90⁰ palautuksella, pysy päkiällä 2*3/p 2*5/s
+1 jalan päkiä eteen stoppari, nilkka 2*6 O/V 2*8
+1 jalan jousi eteen stoppari, polvi 2*5 O/V 2*7
+64
+PERUSTEET JATKO 1 pvä 5VK 6VK 7VK 8VK
+etenevä pyörivä pakiä 2*3/s 2*4/s 2*5/s 2*6/s
+skipit sivuttain ulkojalka o/v 2*5 m 2*6 m 2*7 m 2*8 m
+skipit sivuttain sisäjalka o/v 2*5 m 2*6 m 2*7 m 2*8 m
+luistelu hypyt stopilla 2*4/p 2*5/p 2*6/p 2*7/p
+LIHASTYÖ + TAITO
+askeljk ristikkäinen kopittelu 2*10/p 2*12 2*14 2*16
+Bulgarian split, penkillä, päkiällä 3*5/p 3*6/p 3*7/p 3*8/p
+penkille nousut edestä 3*5/p 3*6/p 3*7/p 3*8/p
+penkille nousut sivulta 3*5/p 3*6/p 3*7/p 3*8/p
+TAITO +NOPEUS 1-2 VK
+hip flip 2 pompulla, käskystä 2*3/p 2'4/p 2*5/p 2*6/p
+askel eteen päkiällä vastaan 3*5/p 3*6/p 3*7/p 3*8/p
+viiva sivuaskel tikkaus o/v 2*6 sek 2*8 sek 3*6 sek 3*8 sek
+viiva eteen-taakse 2*6 sek 2*8 sek 3*6 sek 3*8 sek
+viiva saksihypyt 2*6 sek 2*8 sek 3*6 sek 3*8 sek
+TAITO + NOPEUS 3-4 VK
+viiva sivuaskel liikkeessä 2*4 m 2*5 m 3*4 m 3*5 m
+viiva eteen-taakse liikkeessä 2*4 m 2*5 m 3*4 m 3*5 m
+viiva saksihyppy liikkeessä 2*4 m 2*5 m 3*4 m 3*5 m
+3 kartiota etu-taka-sivu, 3 m välit 2* 2* 3* 3*
+3 kartiota shuttle, 3 m välit 2* 2* 3* 3*
+65
+PERUSTEET JATKO 2 pvä 5VK 6VK 7VK 8VK
+etenevä kirppu sormet maahan 2*5/p 2*5/p 2*6/p 2*6/p
+1 jalan päkiä pomppu eteen 2*5/p 2*5/p 2*6/p 2*6/p
+1 jalan jousihyppy eteen 2*5/p 2*5/p 2*6/p 2*6/p
+luistelu hypyt edeten 2*5/p 2*5/p 2*6/p 2*6/p
+LIHASTYÖ + TAITO
+1 jalan lantiosilta + psoas työ 3*5/p 3*6/p 3*7/p 3*8/p
+1 jalan kyykky seinällä + kumi abuktio 3*5/p 3*6/p 3*7/p 3*8/p
+1 jalan soleus seinällä 3*5/p 3*6/p 3*7/p 3*8/p
+Ankka kävely, eteen ja taakse, ympyrä jne. 2*matka 2*matka 3*matka 3*matka
+HUOM! E jalan heittoja sivulta, mieluummin korkeampi esento ja rinta pystyssä, EI
+kiskota päätä / leukaa rintaan, kädet vaikka ohimolla, EI raahata varapita jne.
+TAITO + NOPEUS 1-2 VK
+skip taakse polven nostot rytmikäs 2*4 m 2*5 m 3*4 m 3*5 m
+takaperin skip ja avaus 2*4 m 2*5 m 3*4 m 3*5 m
+kiihdytys eteen + stop jatkuva, 3 m välein 2*3--5 k 2*3--5 k 3* 3*
+kiihdytys taakse + stop jatkuva, 3 m välein 2*3--5 k 2*3--5 k 3*3-5k 3*3-5k
+kiihdytys eteen + takaskeleet, 3 m välein 2*3--5 k 2*3--5 k 3*3-5k 3*3-5k
+66
+TAITO + NOPEUS 3-4 VK
+kiihdytys eteen polviasento + käskystä 2*5 m 2*5 m 2*10 m 2*10 m
+HUOM! takajalan päkiä ponnistaa,
+tarkkana EI polvi sisälle, malttia alkuun!
+kiihdytys eteen vatsallaan + käskystä 2*5 m 2*5 m 2*10 m 2*10 m
+HUOM! Keskivartalon jännitys
+2 kartio eteen-taakse, 3 m välit 2*3 2*4 3*3 3*4
+2 kartio 8 ja 4 m välit O/V aloitus suunta 2*3 2*3 4*3 4*4
