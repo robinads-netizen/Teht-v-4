@@ -1,0 +1,961 @@
+Development Problems and Countermeasures of Youth
+Campus Football in Guangzhou
+LinYuan Li
+Bachelor ' s Thesis
+Degree Programme in Sports
+Coaching and Management
+2023
+Author(s)
+LinYuan Li（Kenny）
+Degreeprogramme
+Degree Programme in sports coaching and management
+Report/thesistitle
+Development Problems and Countermeasures of Youth Campus
+Football in Guangzhou
+Number of pages + number of appendices
+47
+Abstract
+Since 2015, the country has launched a reform plan for campus football in primary and secondary
+schools, aiming to promote campus football culture and improve the football skills and competitive
+level of primary and secondary students through measures such as improving the level of football
+education, strengthening the faculty, and improving venue facilities. As an important city in the
+south, Guangzhou has also actively participated in this plan and has continuously promoted campus football work in recent years. Based on this, in order to explore the development path of
+Guangzhou youth campus football, improve the development path of Guangzhou youth campus
+football, and cultivate excellent football reserve talents for the country, this thesis takes Guangzhou
+A Middle School as an example to study the existing problems and solutions of Guangzhou youth
+campus football.
+Keywords
+Guangzhou; teenagers; Campus football; Problems and countermeasures
+1 Introduction ................................................................................................................................ 1
+1.1 Research Background....................................................................................................... 1
+1.1.1 National level..................................................................................................................... 1
+1.1.2 Guangzhou level ............................................................................................................... 2
+1.2 Research Purpose................................................................................................................ 3
+1.3 Research significance .......................................................................................................... 3
+1.4 Research content ................................................................................................................. 4
+1.5 Research Methods ............................................................................................................... 4
+1.5.1 Literature method .............................................................................................................. 4
+1.5.2 Case analysis method ....................................................................................................... 4
+1.5.3 Survey ............................................................................................................................... 5
+2 Theoretical basis.......................................................................................................................... 6
+2.1 The Concept of Football ....................................................................................................... 6
+2.2 The concept of teenagers ..................................................................................................... 7
+3 Literature review .......................................................................................................................... 8
+3.1 Domestic research status ..................................................................................................... 8
+3.2 Research status abroad........................................................................................................ 9
+3.2.1 United Kingdom................................................................................................................. 9
+3.2.2 Japan ................................................................................................................................ 9
+4 Analysis of the current development situation of youth campus football in Guangzhou .............. 11
+4.1 Investigation and analysis of school football team building ................................................. 11
+4.2 Status of campus football teachers in Guangzhou.............................................................. 12
+4.2.1 Survey and analysis of professional theoretical level ....................................................... 13
+4.2.2 Survey and analysis of professional skill levels................................................................ 14
+4.3 Financial support and hardware facilities for campus football ............................................. 16
+4.3.1 Investigation and analysis of hardware facilities .............................................................. 16
+4.4 Training status of youth campus football............................................................................. 17
+4.4.1 Survey and analysis of training time and frequency ......................................................... 17
+5 Existing Problems of Guangzhou Youth Campus Football ......................................................... 20
+5.1 Lack of excellent football coaches ...................................................................................... 20
+5.2 Teaching methods are outdated and teaching content is simple ..................................... 21
+5.2.1 The teaching content is simple ........................................................................................ 21
+5.2.2 Obsolete teaching methods ............................................................................................. 21
+5.3 Backward football infrastructure.......................................................................................... 21
+5.4 Campus football management mechanism is imperfect...................................................... 22
+TableofContents
+5.4.1 Incomplete campus football assessment system ............................................................. 22
+5.4.2 Inadequate implementation of campus football policies ................................................... 22
+5.5 Youth's enthusiasm for participating in football needs to be improved............................. 23
+5.5.1 Teenagers pay low attention to football ........................................................................... 23
+5.5.2 Teenagers lack interest in football ................................................................................... 23
+6 Strategies for Improving Guangzhou Youth Campus Football.................................................... 24
+6.1 Increase capital investment to cultivate excellent football teachers..................................... 24
+6.2 Enrich teaching content and innovate teaching forms......................................................... 25
+6.2.1 Enrich teaching content ................................................................................................... 25
+6.2.2 Innovative teaching forms................................................................................................ 25
+6.3 Increase capital investment and improve football infrastructure.......................................... 25
+6.4 Improve the management mechanism of campus football and improve the management
+level 26
+6.4.1 Clarify the main management position of the education department and improve the
+football assessment system...................................................................................................... 26
+6.4.2 Promote the specific implementation of campus football policies..................................... 27
+6.5 Strengthen publicity and education to enhance the enthusiasm of young people to
+participate in football ................................................................................................................ 28
+6.5.1 Improve the importance of youth to football ..................................................................... 28
+6.5.2 Realizing Interesting Teaching......................................................................................... 28
+7 The Significance of Developing Guangzhou Youth Football....................................................... 30
+7.1 Football can improve the physique and physical fitness of your teenagers ......................... 30
+7.2 Football is conducive to tempering the will of young people and cultivating their spirit of
+enduring hardship and hard work ............................................................................................. 30
+7.3 Football can strengthen the teamwork ability of teenagers ................................................. 31
+7.4 Football can help release the pressure of teenagers and enhance their psychological quality
+31
+7.5 Football is conducive to improving the aesthetic ability of teenagers .................................. 31
+7.6 Football helps teenagers stimulate their potential and promote their all-round development
+32
+8 conclusion.................................................................................................................................. 34
+9 Evaluation and Outlook ............................................................................................................ 36
+9.1 Learning Plan ..................................................................................................................... 36
+9.1.1 Pre-work.......................................................................................................................... 36
+9.1.2 Mid-term work.................................................................................................................. 36
+9.1.3 Post-work ........................................................................................................................ 36
+9.2 Learning gains.................................................................................................................... 36
+9.3 Self evaluation.................................................................................................................... 37
+9.4 Future outlook .................................................................................................................... 37
+References ................................................................................................................................... 38
+Appendix....................................................................................................................................... 40
+1
+1 Introduction
+1.1 Research Background
+1.1.1 National level
+Modern football is known as "the world's first sport.". Football has a development history of more
+than 100 years and is widely concerned and loved by people around the world. With its continuous
+development, football has not only been limited to an ordinary sport, but has become a highly representative cultural phenomenon. The influence of football is gradually deepening in human factors
+such as politics, economy, and spiritual life. Football has many positive meanings for human development. For personal development, participating in football is not only conducive to comprehensively improving physical qualities such as speed, strength, endurance, agility, and flexibility of the
+human body, achieving the goal of enhancing physical fitness and promoting health; It is also conducive to cultivating the willpower of courage, tenacity, and hard work, as well as the moral qualities of unity and cooperation, discipline observance, fair competition, and positive progress. For
+national development, carrying out football can improve national cohesion and pride, while also
+promoting the development of regional sports economy and creating wealth for society. In short,
+football has become an important indicator of national sports development and comprehensive
+national strength.(Chen 2021)
+Since the reform and opening up, China's social productivity has entered a stage of vigorous development. In just a few decades, China has made remarkable achievements in political and economic aspects. In 2010, China's GDP reached 40 trillion yuan, surpassing Japan for the first time
+and becoming the world's second largest economy(Li 2017). With the continuous growth of economic level and increasing international status, China has also created brilliant achievements in
+sports. In particular, the convening of the 2008 Beijing Olympic Games not only fully demonstrated
+China's cultural soft power, but also made more and more citizens begin to realize the importance
+of physical health, and actively participate in sports, which undoubtedly promoted the development
+of China's sports industry. China occupies an important position in the international sports arena,
+especially in table tennis, diving, weightlifting, and other aspects. China has strong competitive
+advantages. However, it is regrettable that Chinese football has been difficult to improve, and the
+poor performance of the national team has attracted the common attention of the entire society.
+2
+The experience of foreign football developed countries shows that strengthening the cultivation of
+young football reserve talents is an important link in promoting the long-term development of national football. Therefore, in recent years, China has increasingly attached importance to the development of youth campus football. On December 31, 2021, the seventh meeting of the National
+Youth Campus Football Leading Group was held in Beijing, which emphasized the need to further
+promote the reform and development of campus football.
+1.1.2 Guangzhou level
+Guangzhou is one of the layout cities for "campus football" activities. With the successful holding of
+the "Mayor's Cup" campus football league in Guangzhou and the smooth progress of the related
+work of "Guangzhou needs to popularize the campus football project and promote the construction
+of campus football culture", the "campus football" activity in Guangzhou has made certain progress.
+In 2021, Guangzhou stood out from 38 national youth campus football reform pilot zones, winning
+the title of Excellent Reform Pilot Zone, and winning a total of 9 unit and individual awards. The
+number of awards ranked first in Guangdong Province. The Guangzhou Municipal Bureau of Education has been doing a solid and concrete job in campus football, "managing well, teaching well,
+playing well, practicing well, integrating well, and running well." The "six good" model of Guangzhou campus football with Guangzhou characteristics has been highly praised and has a typical
+exemplary role in the country. This cannot be separated from the tireless efforts of many primary
+and secondary schools in Guangzhou to create a good campus football environment for students
+in the process of developing campus football (Bin 2021).
+After years of unremitting struggle and efforts, Guangzhou has made significant progress in the
+field of youth campus football, but there are still many shortcomings that restrict its further development. Taking Guangzhou a Middle School as an example, this paper uses research methods
+such as literature review, case analysis, and questionnaire survey to analyze the current development situation, existing problems, and solutions of youth campus football in Guangzhou, with a
+view to improving the development level of youth campus football in Guangzhou, providing reference and reference for the development of campus football in other domestic cities, and promoting
+the cultivation of national football reserve talents, Promote the development of China's football industry and further accelerate the construction of China's sports power.
+3
+1.2 Research Purpose
+Promoting and developing Guangzhou youth campus football is an important way for Guangzhou
+to promote the integration of sports and education and deepen educational reform. To a large extent, it will also affect the future direction of Guangzhou's football level. Taking Guangzhou a Middle School as an example, this paper conducts an investigation and research on the current situation of campus football activities in Guangzhou, discovers and summarizes the shortcomings of
+youth campus football in Guangzhou, and provides reasonable opinions and suggestions for formulating and improving the development strategy of campus football. The purpose is to promote
+the high-quality development of youth campus football in Guangzhou, and provide reference and
+reference for campus football activities in other first-tier cities in China, In order to cultivate and tap
+more football talents and contribute to the development of China's sports industry.
+1.3 Research significance
+This paper studies the existing problems and solutions of Guangzhou youth campus football, which
+has guiding significance for the actual development of Guangzhou campus football. The specific
+research significance includes the following aspects:
+First of all, to ensure the physical and mental health of young people through football. As the pioneer of campus sports, campus football shoulders the important mission of strengthening students'
+physique and cultivating all-round development talents. Studying the development strategy of football and developing campus football can maximize the educational function of football and achieve
+comprehensive development of "morality, intelligence, physique, beauty, and labor" (Wei 2021).
+Let sports people have culture, and make readers healthy. Campus football not only enriches
+campus cultural life, but also cultivates students' teamwork spirit and hard-working qualities
+through football, from which they can experience the physical and mental health and spiritual
+wealth brought by the value of football.(Wei 2021)
+Secondly, play the role of football in promoting social economy. Studying campus football strategies can promote the development of future football matches. Football can drive the tourism, catering, hotels, hotels, and so on in a region. It can also provide visitors with a sense of their own country's culture and customs, as well as direct economic benefits. Selling tickets can drive the economic development of the entire region. Football advertising can stimulate national consumption,
+4
+stimulate the growth of national television sales, and provide an opportunity for enterprises to enter
+a broader market. After some football matches, the host country's gross domestic product can be
+multiplied, leading to a decline in unemployment and wage growth. In addition, it can also repay
+the country's debts and enable the economy to recover. Now the income of football matches is
+also diversified.
+Finally, it provides strong support for the great idea of achieving a strong sports country. Football is
+a manifestation of soft power for a country. Studying football strategies, developing youth campus
+football, and cultivating youth campus football are of great significance for improving national prestige and national prestige.
+1.4 Research content
+This thesis takes the development of youth campus football as the theme, and takes Guangzhou a
+Middle School as the research object. The main research contents include: the development history and current situation of youth campus football in Guangzhou (including the establishment of institutions, venues and facilities, teacher teaching, and student participation), existing problems, and
+improvement suggestions.
+1.5 Research Methods
+1.5.1 Literature method
+This thesis extensively collects policy support for "Youth Campus Football" activities through
+search and query on the official website of the Ministry of Education, the official website of the
+General Administration of Sport, and other Internet platforms; Using the method of literature review,
+a large number of journals and monographs from the Guangzhou Library were consulted, and relevant literature on the development of campus football was collated to assist in research and improve the quality of papers.
+1.5.2 Case analysis method
+Case analysis method, also known as case analysis method or typical analysis method, is a scientific analysis method that thoroughly and carefully studies representative things (phenomena) to
+obtain an overall understanding, and is also a systematic and in-depth research method. This article takes Guangzhou a Middle School as an example to conduct a study of adolescent campus
+5
+football, which can help the author better understand the research issues and provide valuable
+suggestions.
+1.5.3 Survey
+Aiming at the situation of youth football on campus in Guangzhou, a questionnaire (Appendix) was
+designed based on the survey of students from a Middle School in Guangzhou from four aspects:
+the establishment of football institutions, football venues and facilities, teacher teaching, and student participation.
+6
+2 Theoretical basis
+2.1 The Concept of Football
+Football is a sport where the feet are the main player, controlling the ball and allowing two teams to
+attack or defend each other on the same football field. The predecessor of modern football originated in Zizhou, Shandong, ancient China. It was formerly called Cuju and was a ball game. After
+being introduced to Europe by Arabs from China, modern football originated in England.
+(Haugaasen 2012)
+The positions on the field in modern football are goalkeeper, full back, center back, midfielder, center forward, and winger. The responsibility of a goalkeeper is to guard their own goal, observe
+changes on the field, organize offense and defense. The responsibility of a full back is to defend
+the opponent's winger or other players, and to cooperate with the center back in defense. The center back is the backbone of defense, playing a role in stopping the opponent from shooting, directing, and organizing the offense and defense. The responsibility of a forward is to control the midfield, capable of both attacking and defending. The responsibility of a center forward is to drive the
+ball through and shoot, respond from the left and right sides, disrupt the opponent's defense, and
+create shooting opportunities for oneself or his companions. The responsibility of a winger is to
+break through the defense of opponents on the sidelines. Football is known as the world's number
+one sport due to its strong adversarial nature, varied tactics, and large number of participants.
+(Zhong 2023)
+The FIFA World Cup, which is held every four years, is the most well-known and influential event in
+the football industry, and symbolizes the highest honor of the football industry. The global television broadcasting audience exceeds 3.5 billion, making it the most watched and closely watched
+sports event in the global sports industry. Due to the fact that compared to basketball, rugby, athletics, swimming and other sports, football does not require specialized modifications to athletes'
+physique, height, weight, etc., the suitability of football is relatively broad, and it can be said that it
+is a sport designed for the public, so football has a wide audience. (Dobson 2001)
+7
+2.2 The concept of teenagers
+Adolescents refer to people in adolescence and adolescence, usually young people between the
+ages of 13 and 19. This stage marks the important transition from childhood to adulthood and involves physical, psychological, and social changes. (Zhong 2023)
+In terms of body, adolescents experience the peak period of physical development. Male and female sexual characteristics gradually emerge, and height, weight and sexual characteristics develop significantly. They typically have high levels of energy and athleticism, but also face physical
+challenges and changes.
+Psychologically, adolescents go through important stages of cognitive and emotional development.
+They begin to think about abstract concepts, form their own values and worldview, and gradually
+think and make decisions independently. At the same time, adolescence is also a period of frequent mood swings. Due to the increase in internal and external pressure, they may face problems
+such as emotional instability and self-identity confusion.
+Socially, teenagers begin to interact more with peers and form their own social circles and relationship networks. They begin to realize their roles and responsibilities in society and face important
+decisions such as academic and career choices. Adolescence is also an important period for exposure to various social issues and values. They need to gradually establish their own values and
+interact with society.
+For the healthy development of adolescents, family, school and society all play important roles.
+Families should provide them with care and support and provide them with a safe and stable environment; schools should provide good educational resources and guidance to cultivate their comprehensive qualities; society should create a positive and healthy cultural atmosphere and pay
+attention to the needs and rights of young people.
+8
+3 Literature review
+3.1 Domestic research status
+Through a search on the Chinese Knowledge Resources Database using the keyword "football", it
+was found that in the past decade, Chinese scholars have tended to conduct research on football
+competition techniques and tactics, and have paid little attention to school football, which belongs
+to the basic level of football (Yao 2022) . This has led to an imbalance in the scientific research of
+football in China. Through literature review, it is found that the existing research on school football
+mainly analyzes the current situation and influencing factors of school football development in China, providing some methods and ideas for the scientific development of school football in China (Li
+2022).
+Primary and secondary schools in Guangzhou are not sufficient in terms of teachers and facilities;
+Primary and secondary school students have a low level of football foundation, lack of understanding of football rules, and have certain difficulties in developing football. At present, there are still
+physical education teachers in Guangzhou whose scientific research ability is generally not high in
+the development of football in primary and secondary schools. However, the management investment in football teams is slowly increasing, and physical education teachers' extracurricular teaching and training remuneration is increasing, with high enthusiasm. School leaders are gradually
+enthusiastic about football. Primary and secondary school football is gradually receiving attention
+from schools, laying a certain foundation for the future development of football (Wu 2015).
+A good environment is an important guarantee for the sustainable development of football talents
+in China. The environmental factors that affect the development of youth football include social
+attention, competition environment, employment environment, and player mobility environment. At
+present, the social attention level of juvenile football in Guangzhou is relatively low, and it has not
+received due attention. The environment for fair competition and player mobility also needs to be
+improved.The employment problem of players is troubling the cultivation of athletes (Shang 2019).
+9
+3.2 Research status abroad
+3.2.1 United Kingdom
+Britain mainly trains young football players. The United Kingdom has not only improved the rules
+and game system of modern football, but also established a sound football talent training system.
+The most prominent feature of English football is the effective combination of football and school
+education. British outdoor sports, represented by football, have effectively improved the physique
+of young people and promoted the overall development of British education. The British government sponsors funds for the cultivation of young football players in the UK, and formulates corresponding laws and regulations to advocate healthy competition between social organizations in the
+football industry. Due to the support of the government and the cultivation of social organizations,
+young football players in the UK have received attention from all walks of life, making them present
+an extraordinary spiritual outlook compared to young football players in other countries. In training
+young football players, the UK also pays attention to comprehensive development, not only allowing players to receive necessary professional football training, but also arranging reasonable curriculum arrangements for comprehensive training. The cultivation of young football players in the
+UK is not directly aimed at cultivating professional athletes, but rather at providing British youth
+with more opportunities to engage in football and increasing the participation base of football players during their growth. The British education system is responsible for training high-level football
+players, who focus on professional football players. Therefore, there will be strict requirements for
+selection, and the selected players will receive high-level training (Jiang 2019).
+3.2.2 Japan
+Japan's soccer team, whether men's or women's, has seen a spiral upward trend in the past decade, which is indeed worth studying and learning from. Japan adopts different training models for
+primary, secondary, and university football players. In training, Japan has a complete selection
+system and training system for football players, and selects talents with talent for football to cultivate. The cooperation between Japan's football association and the Ministry of Education has effectively solved the problem of poor compatibility between the competitive system and the popularization system. Japan is also a country that focuses on comprehensive development. While cultivating athletes' professional skills, it also pays attention to academic training. Players can directly
+enter their work positions at the end of their career, so Japanese athletes are very actively involved
+in football training. Japan pays special attention to the training of football players' skills, so Japan
+does not lack back-to-back talents, which is far beyond China's training methods. In addition, Ja-
+10
+pan has formed a relatively reasonable and complete layout and mechanism in terms of coach
+training. Its large-scale training of children's instructors, retraining of coaches at all levels, and
+training of coaches and lecturers are important measures to promote the continuous improvement
+of its coach coaching level. The development of Japan's football industry also relies mainly on the
+support of the government and the development of social organizations, which are generally managed by amateur football clubs. Japanese primary and secondary schools also occupy an important position in the football system, and the football association is mainly managed and developed by the Japanese association. Schools regularly hold football matches to attract social attention, allow more people to participate in football associations, and increase the training base of
+football players (Yao 2022).
+11
+4 Analysis of the current development situation of youth campus football in
+Guangzhou
+I am a college student who loves football and has a persistent pursuit of this sport. In order to gain
+a deeper understanding of football training and teaching, I participated in an internship program at
+a school in Guangzhou.
+During the internship, I gradually integrated into the coaching team and established good communication and interaction with the players. Every morning, I work with other coaches to develop training content and then lead the players through various technical and tactical drills. I pay attention to
+each player's performance and provide personalized guidance and development based on their
+different needs.
+Through the internship, I not only deepened my understanding of football training and teaching, but
+also improved my organizational and teamwork skills. But at the same time, through investigation,
+many problems in youth campus football in Guangzhou were also discovered.
+4.1 Investigation and analysis of school football team building
+Currently, 130 primary and secondary schools in Guangzhou have established school football
+teams, 39 of which have been rated as the National Youth Football Team. Campus football specialty schools, some schools have formulated football syllabus and are independently developing
+football school-based courses.
+Table1 A survey on the formation time of school football teams
+time quantity Percentage
+1-3 years 42 58%
+3-6 years 12 16%
+6-10 years 11 15%
+12
+More than 10 years 7 9%
+According to the analysis in Table 1, schools that have established football teams in the past one
+to three years account for nearly 60% of the total. These schools did not formally form football
+teams three years ago. Campus football activities were limited to students' self-entertainment.
+However, in the past year or two, the number of football teams in Guangzhou has increased significantly in a short period of time. This is due to Campus football has received more and more attention. Higher-level departments have vigorously requested the popularization of campus football,
+which has received a high degree of response from most schools. Secondly, 12 schools have established school football teams from 2012 to 2015. These schools Basically, the schools with better
+student sources in Guangzhou include the vast majority of reformed schools and boarding schools.
+Because of the complete resource allocation and priority in capital investment, campus football
+activities have been started since the beginning of the policy of bringing football into campus; there
+are 11 schools. (accounting for about 15%) have 6 to 10 years of campus football experience.
+These schools usually use the age of league participation as a definition, and set up teams in
+Groups A, B, and C to train separately, and transfer them upward in the form of echelons. Maintaining a systematic training and scientific selection management system can basically guarantee
+that they will enter the finals in major competitions in Guangzhou. They are the backbone of campus football in Guangzhou; finally, nearly 10% of 7 schools have a long football history , they are
+also famous football schools in Guangzhou and the cradle of cultivating outstanding football players.
+4.2 Status of campus football teachers in Guangzhou
+The main body of education is students, and teachers are in a dominant position in teaching activities. Especially in educational activities for teenagers, because teenagers' brains and bodies are
+not yet fully developed, they often need a good guide to guide their learning. Therefore, teachers
+play a very important role in educational activities. In the development process of campus football
+activities, the coach, as an enlightening educator, plays a particularly important role in the longterm accumulation from discovering young talents to daily training and then to competitions. Therefore, the quality of football coaches directly affects the quality of campus football development. The
+differences between football teachers in various schools are mainly reflected in their academic
+qualifications, professional backgrounds and coaching levels. Their theoretical and practical levels
+directly affect the overall training level of the student team, and also have a great impact on the
+students' personality growth and the team's cohesion building. Influence.
+13
+4.2.1 Survey and analysis of professional theoretical level
+Theoretical knowledge mainly includes sports training, football-specific theory, sports physiology
+and biochemistry, sports psychology, etc. This theoretical basis is a powerful guarantee for guiding
+practical training. As we all know, in the physical education majors of major universities, students
+are required to learn these theoretical knowledge as required professional courses. Therefore, the
+accumulation of theoretical knowledge of football teachers mainly focuses on the study of professional courses in college. The author conducted a questionnaire survey on 84 primary and secondary football teachers in Guangzhou (including 54 primary school coaches and 30 middle school
+coaches). The statistical results are shown in Figure 1:
+Figure 1 Statistics on the academic qualifications of campus football teachers in Guangzhou
+At present, football teachers with a bachelor's degree (about 62%) account for the majority. The
+age range of this group of teachers is relatively large, and three generations of teachers, old, middle and young, are basically involved: Secondly, nearly 24% of football teachers have a master's
+degree or above. , most of these highly educated teachers are young teachers who need to accumulate teaching experience; a small number of football teachers (about 15%) have a college degree or below. Some of these teachers are veteran physical education teachers who have taught
+for many years, and some are retired professional football players. Campus football teacher. Judging from the academic background of these football teachers, in different eras, they all experienced
+14
+the training of higher sports education at that time. From a theoretical perspective, it can basically
+meet the development needs of youth campus football.
+4.2.2 Survey and analysis of professional skill levels
+The practical skills of football teachers are mainly determined by their own professionalism. Professional abilities include technical and tactical proficiency, teaching methods and means, special
+physical training methods and means, and the ability to interpret training and games. By understanding the professional background and coaching level of campus football teachers, the level of
+their professional skills can be directly reflected.
+Figure 2 A survey on the professional background of campus football teachers in Guangzhou
+It can be seen from Figure 2 that among the 84 football coaches surveyed, more than half of the
+football teachers have received professional football training, and about 17% of them are professional football players who have retired and worked at the grassroots level. For football work, this
+group has received professional football training since childhood, has mastered rich training experience, and also has superb technical and tactical levels and practical experience, so it can handle
+the daily training of students with ease; the other 38% of the coaches are from sports colleges For
+those who have graduated from football specialties, this group of coaches themselves have good
+basic sports literacy. In addition, they have received three to four years of football specialization
+courses in colleges and universities, and can master the basic football skills and scientific training
+methods and physical training methods. For the school The coaching requirements of the team can
+15
+also be met; there is also a small number of football teachers who have not received professional
+football training. The level of these coaches varies. 31% of them have a professional background
+in sports majors other than football. Some of them love football. They play sports and learn football
+in their spare time, but their technical, tactical and coaching levels are basically amateur. There are
+also about 14% who do not know much about football and are temporarily appointed football
+coaches purely to complete higher-level tasks.
+Figure 3 Grade situation of campus football coaches in Guangzhou
+As can be seen from Figure 3, among the 84 coaches, there are only 4 high-level coaches such as
+B-level and C-level coaches, less than 5%. These 4 coaches are all from Guangzhou football specialty schools. They are all professional coaches hired by the school and are not included in the
+teacher establishment; 25 coaches (30%) are on-the-job physical education teachers. After working, they obtained the grassroots E-level by participating in coach training courses organized by
+various districts. Most of the coaches are young teachers who lack practical experience; another
+quarter of the coaches have obtained D-level coaching certificates, and these 25% of coaches are
+the mainstay of campus football development.
+In the survey, 40% of football teachers did not have any coaching certificates. According to interviews, it was learned that more than half of these coaches have many tasks in the school. They not
+16
+only have to complete the full class schedule arranged by the school, but also have to play football
+after school. Training, there is almost no time to attend coaches training sessions. They said it didn't matter much if they had a trainer rating as long as they could perform the activity well. The other
+half is because the school only carried out campus football activities with an attitude of responding
+to national policies and completing tasks. The school did not invest much in the school's football
+construction, and did not have clear requirements for coaches, or even only temporarily before
+participating in the league. Forming a football team is just about participating in the game.
+Based on the above investigation and research on the theoretical level and practical skills of football teachers, it can be seen that the theoretical level of most football teachers can meet the needs
+of campus football development. There is indeed room for improvement at the professional skills
+level, and many coaches are obviously deficient at this level. At this stage, there is an extreme
+shortage of excellent coaches, especially football teachers who possess both theoretical and practical qualities. Most teachers with high academic qualifications are relatively young and lack practical experience in leading teams. Football teachers who have retired from professional teams generally do not have academic qualifications. high. Only by organically combining theoretical
+knowledge and practical skills can we have high-quality football teachers and use scientific and
+effective training methods to cultivate comprehensive football talents.
+4.3 Financial support and hardware facilities for campus football
+4.3.1 Investigation and analysis of hardware facilities
+For schools to carry out football, the first thing they need is a football field, which is the most basic
+guarantee for the development of campus football. Secondly, training equipment is also a necessary condition to ensure students’ daily football training. Without sufficient training equipment, the
+quality of students’ football training cannot be guaranteed. When youth campus football activities
+are ongoing, the hardware facilities requirements are simple: training venues and training equipment. The main requirements of the football field are to ensure space and quality, and the equipment only includes: football, logo tube, logo plate and team uniforms. Theoretically speaking,
+things with relatively simple requirements often have a series of difficulties in implementation. After
+a survey of football venues in Guangzhou, it was found that the vast majority of youth football training is limited to their own schools, and the school playground is The main place for students to
+conduct football activities.
+17
+After investigation, we learned that most schools can barely support the development of campus
+football. They basically have one or more 5-a-side football fields, which can accommodate it in
+terms of space. The difference in quality is very large. Most schools lay plastic floors, while a few
+schools build standard turf football fields. With increased investment in the past five years, the
+playgrounds of most schools have been significantly improved, and more and more school football
+fields are covered with artificial turf. However, the venue problem of a small number of schools has
+always been difficult to solve. They are unable to solve the problem because the school playground space is limited and the school cannot provide a football field to carry out campus football
+activities. At present, even though most schools have football fields, it is still far from enough to
+carry out campus football. The school playground is a complex, which is not only used for football,
+but also often needs to be provided for other sports activities in the school. Therefore, in order to
+get more students to join football and to ensure the quality of campus football development, it is
+imperative to increase investment in venue construction.
+4.4 Training status of youth campus football
+4.4.1 Survey and analysis of training time and frequency
+The first period of the entire sports training process is the enlightenment period. Often, the shaping
+of an athlete is inseparable from the initial basic training stage. Some experts point out that the
+growth characteristics of an excellent athlete are one year to get started, three years to take shape,
+five years to become a talent. 8 years into production. Although the goal of campus football development is not only to cultivate outstanding athletes, in an environment where sports and education
+are vigorously promoted into campus, outstanding Chinese football players will inevitably emerge
+from the existing campus football in the future. From a physical perspective, teenagers will go
+through a sensitive period of speed, strength, endurance, agility, flexibility, and coordination. From
+a technical perspective, the basic skills of football will be finalized. Therefore, the scientific nature
+of training in the enlightenment stage is worthy of our discussion. First, we need to explore whether
+the time and weekly frequency of football training are scientific and reasonable, and football training must be guaranteed to be carried out without affecting learning. This must be done within the
+training time and the student's physical condition. Reasonably arrange training time and training
+frequency based on coordinated recovery time.
+Since there is no systematic youth football training syllabus in China, we can only use the German
+youth training syllabus as a reference. In the syllabus, the amateur football training for youth foot-
+18
+ball recommends that the football training time for children aged 6 to 9 is 40-60 minutes per session. , the frequency is 2-3 times/week, the recommended football training time for children aged
+10 to 12 is 60-100 minutes/each time, the frequency is 3-4 times/week is more appropriate. The
+training duration for young middle school students aged 12 to 18 years old is recommended to be
+more than 90 minutes and no more than two hours, and the training time should be no less than 4
+times and no more than 6 times per week.
+Table 2 Survey on training time of campus football teams
+age group Training time (minutes) Training frequency (number of weeks)
+<40 40-60 60-100 >100 0 1 2 3 4 5 6 7
+Children
+aged 6-9
+10 39 22 1 10 5 7 34 11 4 1 0
+Children
+aged 6-9
+2 19 46 5 24 13 15 25 10 3 0
+Teenagers
+aged 12-18
+0 1 8 11 0 0 0 0 9 6 5 0
+As shown in Table 2, the training of school football teams in 20 middle schools can basically meet
+the requirements given by the youth training syllabus, and the training time and frequency are relatively reasonable. Judging from the training duration of 72 primary schools in the table, 39 schools
+in grades 1 to 3, accounting for 54% of the total, plan training strictly in accordance with scientific
+duration, and there are 23 schools whose training time exceeds 60 minutes. A total of about 32%
+of the total, and there are 10 schools (13.9%) where the training time of the football teams does not
+meet the scientific training requirements. In the survey of grades 4 to 6, there were 46 schools
+whose football teams trained for 60 to 100 minutes, a proportion of 64%, and 21 schools had training times of less than 40 minutes and 40 to 60 minutes in total ( A total of 30%), and the training
+time of the remaining 5 schools is more than 100 minutes.
+In terms of training week frequency, the 20 secondary schools also have a good grasp of the frequency. The frequency of science training for primary school students in grades 1 to 3 is 1 to 2
+times. Only 12 schools, accounting for 17%, meet this requirement. In addition, nearly 70% of
+19
+schools exceed the frequency of training twice a week. Among primary school students in grades 4
+to 6, only 28 schools (38%) arrange training frequency 2 to 3 times.
+This shows that the school still has big problems in the frequency and duration of football team
+training. There is a tendency to act too hastily in grades 1 to 3 of primary school. Due to the young
+age of children aged 6 to 9, on the one hand, they cannot concentrate for a long time, and even
+long-term training is not efficient. On the other hand, the children's physical condition is not suitable.
+Support long-term football training; from the perspective of sports training, children's body function
+recovery ability is not enough to withstand high-frequency training. There is a shortage of training
+time in grades 4 to 6 of primary school. The above two phenomena are largely due to the fact that
+some schools do not train football teams according to age for various reasons, resulting in excessive training time for grades 1 to 3. long, too short for grades 4 to 6, and too frequent training for
+students in grades 1 to 3. Therefore, it is recommended that schools group football team training
+according to age levels to ensure the scientific rationality of training time and make the development of campus football benign.
+20
+5 Existing Problems of Guangzhou Youth Campus Football
+5.1 Lack of excellent football coaches
+According to the survey on the current situation of teachers, there are currently a large number of
+football coaches in Guangzhou middle schools with undergraduate degrees, and the overall academic level is relatively high. However, some coaches still do not have undergraduate backgrounds. The employment rate of football professional teachers is not high, and football training in
+some schools is still carried out by non-football professional teachers. Through interviews, some
+teachers also reported that the current teaching staff for “campus football” activities in Guangzhou
+is relatively weak and the number of teachers needs to be increased. Coaches play an important
+role in youth football classroom teaching and amateur training and have a core position. Therefore,
+the level of teachers directly affects the quality of football training. If the teacher's professional
+skills are not up to par, the students' foundation will be weak, and basic movements such as passing, catching, heading, and tackling may not even be up to standard. "If teachers only teach professional skills but lack teaching methods and professional qualities, then the potential of young
+people will not be stimulated, and it will be difficult for us to cultivate a truly excellent football team."
+The main reasons for the lack of excellent football coaches in Guangzhou are as follows. First, the
+school does not pay much attention to it. Influenced by traditional ideas such as exam-oriented
+education, many schools in Guangzhou focus on cultural subjects, and many schools spend a lot
+of time and energy introducing and training excellent teachers for cultural courses. However, in
+terms of football, teacher training is not high enough, and many schools have not yet realized the
+importance of football to the all-round development of young people and the development of national sports. Second, the intensity of capital investment is low. Adequate funding is the prerequisite and guarantee for cultivating a team of outstanding teachers. Although the Guangzhou Municipal Government allocates a large amount of funds to support campus football every year, this is far
+from enough. Whether it is hiring coaches, updating equipment, organizing events, or constructing
+venues, a stable source of funds is needed.
+21
+5.2 Teaching methods are outdated and teaching content is simple
+5.2.1 The teaching content is simple
+In football teaching, although most coaches are healthy and energetic, this is only their own physical quality and cannot meet the requirements of football teaching in the new era and new situation.
+"If we fail to keep up with the times, we will easily be eliminated by the times. There are many
+problems in youth football teaching in Guangzhou, such as the traditional teaching model, average
+teaching level, and backward teaching methods." In football teaching, the coach is still the center
+and not enough attention is paid to the players. Some coaches have a perfunctory attitude towards
+training and only regard it as a task to complete. This can easily lead to players having negative
+emotions about football, affecting their performance in training and games.
+5.2.2 Obsolete teaching methods
+Campus football players need to master a large number of different technical knowledge and
+movements, and the training objectives and requirements for different technical movements are not
+entirely the same. Therefore, it is necessary to adopt different methods for targeted training to ensure the actual training effect. However, in the practice of football teaching on campus for teenagers in Guangzhou, the method of "one move, one bite, one bite" is often adopted, often through a
+combination of explanation and demonstration for teaching, and then guiding young athletes to
+conduct long-term training. The training method is relatively simple. A single training method cannot fully adapt to all technical training needs, and various errors are prone to occur during the training process. The actual training effect cannot fully meet expectations.
+5.3 Backward football infrastructure
+In 2015, the "Opinions on Strengthening the National Youth Campus Football Work" jointly issued
+by the General Administration of Sport and the Ministry of Education mentioned measures such as
+"increasing investment in all aspects, strengthening the construction and utilization of venues and
+facilities"("Opinions on Strengthening the National Youth Campus Football Work", 2015).Today,
+with the rapid development of the economy, the rapid pace of urban life, the increase in the construction of high-rise buildings, the continuous increase in roads, and the continuous increase in
+hardware facilities, people's requirements for venues are also becoming higher and higher. This
+phenomenon has made the venue for campus football in Guangzhou City crowded out, making the
+space for youth activities smaller. As far as the current situation is concerned, there are many factors restricting football teaching in many areas of Guangzhou, such as football facilities, venues,
+22
+and teaching time. Therefore, the teaching effectiveness is very poor. The venue and equipment
+are important material guarantees for improving the quality of football teaching. Although the
+Guangzhou government has invested a lot of money in football teaching, both in terms of quality
+and quantity are far from meeting the requirements of the new situation. There are still significant
+limitations in football teaching, and inadequate hardware facilities can also lead to team members
+being vulnerable to injury during learning and training. How to make teenagers participate in football more pleasantly, and how to make more effective use of football venues, are currently urgent
+issues to be resolved in the development of campus football in Guangzhou.
+5.4 Campus football management mechanism is imperfect
+5.4.1 Incomplete campus football assessment system
+To a large extent, the development of football cannot be separated from the attention of society,
+education, sports, schools, and other sectors. At present, due to the imperfect evaluation system,
+the venue, equipment, and funding cannot be fully implemented, and football is in a lagging state.
+Due to insufficient training funds, the training hardware facilities and logistical support cannot be
+improved, which hinders the communication and learning between football fans in our school and
+the outside world. Physical education teachers' welfare benefits are not guaranteed and their enthusiasm cannot be mobilized, which in turn affects their enthusiasm to participate in and organize
+"campus football" activities. "Whether the development of campus football affects learning and education" has always been the concern of many principals and parents. There is also controversy
+over whether to carry out campus football activities in primary schools to "discover young children
+and cultivate football talents" or to "make football a lifelong activity for students to benefit from and
+cultivate healthy and fully developed students.". In order to successfully carry out football in
+Guangzhou, it is necessary to obtain everyone's support, so that schools, parents, teachers, and
+students correctly understand the important role of carrying out campus football in the overall development of students' morality, intelligence, physical fitness, beauty, and labor, and actively participate in campus football activities. At the same time, the education department should reform the
+management and evaluation system, fundamentally mobilize the enthusiasm of grassroots school
+leaders and teachers to carry out the "campus football" campaign, and strive for the smooth implementation of funding support activities.
+5.4.2 Inadequate implementation of campus football policies
+Campus football contains a new concept of football education. According to the survey, some
+schools in Guangzhou do not have relative policies and norms when conducting football activities.
+23
+Although relevant education departments and the General Administration of Sports have issued
+relevant policies, some schools have not strictly implemented them, and have not met corresponding requirements in terms of relevant facilities and supporting programs. The physical education
+teachers in schools also have shortcomings in football. Training excellent football reserve players
+for our country is an important development goal of youth football. However, at present, most
+schools do not attach importance to the development of youth football, the skills of relevant teachers are not skilled enough, and there is no strict training of youth football in accordance with the
+norms, greatly weakening the significance of youth campus football development, so there is still a
+need to improve relevant management policies.
+5.5 Youth's enthusiasm for participating in football needs to be improved
+5.5.1 Teenagers pay low attention to football
+In recent years, although quality education has been carried out in full swing in our country for
+decades, under the influence of traditional education, "examination-oriented education" is still the
+mainstream of current development. Students in Guangzhou are primarily evaluated based on test
+scores in cultural courses. It is under the influence of this background that students naturally devote more energy to the study of cultural courses. Over time, they will ignore the study of physical
+education courses, which directly leads to low enthusiasm for football learning and lack of corresponding football awareness. After entering high school or even college, many students still have
+no knowledge of football and believe that football courses are optional, making it difficult for students to realize the importance of football skills.
+5.5.2 Teenagers lack interest in football
+Interest is the best teacher. Many teenagers are able to participate in football teaching with a
+strong interest in the sport. However, if young people lack sufficient self-awareness and relax their
+self-requirements in football teaching, they will only regard football as a kind of leisure and will not
+be able to learn some professional knowledge and skills wholeheartedly. Over time, their enthusiasm no longer increased, which also greatly affected the progress of football teaching.
+24
+6 Strategies for Improving Guangzhou Youth Campus Football
+6.1 Increase capital investment to cultivate excellent football teachers
+Building a team of high-level football teachers plays a very important role in the smooth development and popularization of youth campus football in Guangzhou. An excellent football coach must
+have a keen insight and be good at discovering talented young players; Be good at maximizing the
+potential of players; Good at handling relationships with players; Good at integrating players to
+achieve a 1+1>2 effect; Be good at reversing the game situation through replacement adjustment
+when the team is in a passive position; Be good at learning and absorbing the most advanced
+football concepts, and find the most suitable football tactics for your team.
+In addition, under the security mechanism of all sectors, Guangzhou also needs to establish a
+standardized training system for campus football coaches and instructors, and regularly train them
+to improve their professional skills and theoretical knowledge. In addition, it is also necessary to
+adhere to the principle of combining introduction and cultivation, not only to train professional football teachers, but also to have a football philosophy of "going out, please come in", promoting the
+steady improvement of grassroots coaches, thereby improving the level of football teachers, enhancing the working ability of coaches and management personnel, and promoting the rapid popularization and development of youth campus football.
+The prerequisite for cultivating a contingent of outstanding teachers is the investment of funds.
+Nowadays, the quality of students playing football in schools is basically stagnant. For many
+coaches, the students trained by the school basically fail to meet the selection standards for professional coaches, because many teachers in the school do not understand football at all, so the
+foundation laid for the students is not reliable. If Guangzhou campus football is to truly get on track,
+it is still necessary to increase investment and hire some professionals to coach students, laying a
+solid foundation. Schools should actively create conditions, offer optional football courses, encourage more young people to participate in football activities and master the corresponding basic
+knowledge and skills of football, and strive to gradually ensure that each school has at least three
+professional football coaches. At the same time, financial incentives can also be used to train more
+retired athletes to enrich the campus football teaching team, creating conditions for retired athletes
+to transfer to football teachers or part-time football teaching.
+25
+6.2 Enrich teaching content and innovate teaching forms
+6.2.1 Enrich teaching content
+It is imperative to break tradition and innovate in football teaching mode. Guangzhou should slowly
+transform the traditional teaching model with a single structure into a rich and diverse teaching
+model, and consider issues from the standpoint of the trainees. In football teaching, many coaches
+still follow the traditional teaching mode, explaining the knowledge and skills of football to the players step by step, lacking the innovative spirit of teaching methods, which cannot promote the development of the football teaching system. Therefore, when teaching, coaches should proceed
+from reality and combine their own conditions and the conditions of each student to formulate reasonable and effective teaching plans. In terms of teaching methods, they should have the courage
+to innovate and try. Only by constantly challenging themselves can they find suitable teaching content.
+6.2.2 Innovative teaching forms
+In the traditional football teaching mode, they only focus on the technical training of football, often
+ignoring the personality development of students, making them always in a passive state in football.
+In the innovation of football teaching in Guangzhou, it is necessary to change concepts and focus
+on cultivating students' personality development. It is necessary to establish a teaching concept
+that focuses on the initiative of students and supplemented by guidance from coaches. Innovative
+teaching is to fully respect and ensure the dominant position of students, but at the same time, it is
+not necessary to deny the role of the coach, give full play to the leading role of the coach, actively
+guide students to play their subjective initiative in teaching methods and teaching content, make
+students' personality become distinct, and mobilize their enthusiasm and interest in football teaching. Football teaching should pay more attention to learning in practice. Football itself is a highly
+competitive sport. It is necessary to allow more competition and practice among students, bringing
+every sports technology into play on the field, so that students truly understand what "learning for
+use" is. In teaching, more simulation scenarios close to real games should be designed, and the
+experience of practical teaching should be strengthened, so that students can truly master and use
+football combat skills.
+6.3 Increase capital investment and improve football infrastructure
+In terms of hardware facilities, it is unrealistic to build a large number of football fields and add related equipment and facilities in a short period of time. Therefore, we must first seek help from pub-
+26
+lic sports venues and centers, and rely on relevant policies to increase the number of hours each
+week that public sports venues and centers are open to young people free of charge. While gradually improving school infrastructure construction, we can also tap the potential of existing school
+sites, develop school roof or underground spaces, and expand campus football fields. At the same
+time, it is necessary to give full play to the diversity of football forms and the reasonable and efficient allocation of venue time, and actively carry out five-man or eight-man football games, which
+not only improves the fun and confrontation, but is also one of the effective ways to solve venue
+problems; in addition, fully Use lunch break and class time to maximize the utilization of the venue;
+the school should also strengthen and refine the campus football culture so that some students can
+write, draw, talk about football, design team emblems, flags, etc., even if they cannot play football.
+Football has become an integral part of campus life. .
+Of course, from a long-term perspective, Guangzhou still needs to increase capital investment,
+improve football infrastructure, build football stadiums, and equip relevant equipment to provide
+more comfortable football venues for teenagers, and promote the high-quality development of
+youth campus football training. The Guangzhou government should increase funding for campus
+football year by year in a planned manner by allocating sports lottery public welfare funds, financial
+earmarks, and other forms, providing financial support for the construction of venues and facilities,
+teaching and training, teacher training, and organizing competitions, providing guarantee for the
+normal development of campus football activities, and supporting the construction of football featured schools. At the same time, enterprises, institutions, social organizations, and individuals are
+encouraged to subsidize and support the development of campus football through various means,
+and social forces are encouraged to establish youth football training institutions. Strengthen the
+safety management of campus football, establish a student sports injury insurance system, and
+further improve the security mechanism.
+6.4 Improve the management mechanism of campus football and improve the management
+level
+6.4.1 Clarify the main management position of the education department and improve the
+football assessment system
+According to the relevant theories of management, leaders have a very important responsibility,
+based on power, and related interests promote and constrain related organizations. Youth campus
+football needs to establish an interest structure that is compatible with the power structure, so as to
+27
+unify responsibility, power, and interests. Therefore, under the premise of taking the realization of
+common goals as the main task, it is also necessary to break through the limitations of goal development and not continue to be bound by traditional sports education concepts. We should rectify
+the development of campus football with sports bureaus and football associations as the main
+body, and implement a management method with the administrative department of the Ministry of
+Education as the main body. The Ministry of Sports and the Ministry of Education complement
+each other, with the two leading and interconnected management systems. In short, various relationships should be well coordinated within the campus football organization and management
+system, giving full play to its control and integration mechanism, and providing protection for the
+normal operation of the entire system.
+Mr. Cai Yuanpei once proposed that "complete personality, first in sports". School leaders must
+change their concepts and clearly recognize that "developing campus football requires achieving
+three major goals, namely, promoting physical education reform, becoming a channel for the
+growth of competitive talents, and making physical education an important component of school
+education that cannot be ignored.". (Cai 1916).Only with correct concepts can the development of
+school physical education improve students' physical health and cultivate their healthy personality.
+Guangzhou needs to establish and improve a football management organization to strengthen
+work inspections, regularly conduct field visits to the construction units of campus football characteristic schools, and each school must have a dedicated school leader responsible for campus
+football work. The superior departments should incorporate the quality of school football into the
+institutional assessment of leaders, so as to enhance the importance of school leaders. In this way,
+schools will develop an effective incentive system to stimulate the enthusiasm of school football
+practitioners, work hard to solve specific problems encountered in the development of campus
+football, and improve efficiency.
+6.4.2 Promote the specific implementation of campus football policies
+Currently, economic development is the main aspect of Guangzhou's development, and improving
+the balance of youth campus football characteristics is an important issue that we must face. It is
+understood that when creating the layout of designated residential areas, relatively weak schools
+should be expanded to fundamentally change the scale of the establishment. However, unlimited
+expansion and increase will also affect the overall basis of schools. Therefore, the number of layout areas in relevant areas should be gradually increased to a certain extent within the scope,
+greatly narrowing the gap between the facilities in the front row areas, and it is also necessary to
+28
+formulate relevant written policies to maximize the balance of regional facilities. On the one hand, it
+can make a certain contribution to the educational cause of our country. On the other hand, it can
+popularize the new campus football for teenagers in Guangzhou, explore talents in football, and let
+more students come into contact with the game of football.
+6.5 Strengthen publicity and education to enhance the enthusiasm of young people to participate in football
+6.5.1 Improve the importance of youth to football
+Guangzhou City should conduct special publicity aimed at teenagers' lack of understanding of
+campus football activities, which is conducive to improving the importance of youth to football.
+Through publicity forms such as speech contests, blackboard newspaper displays, theme class
+meetings, video lectures, and competition organizations, teenagers can understand that participating in campus football can not only exercise their bodies and develop their skills, but also combine
+work and rest to improve school efficiency. Currently, the country's openness to the sports market
+is gradually increasing, and clubs can provide professional training for young players. Teenagers
+participating in football matches can not only continuously improve themselves, but also receive
+significant rewards. In the future, the country will provide a wider channel for the development of
+football talents, and teenagers can also develop towards professional football when planning their
+career paths. In short, football is one of the effective ways for teenagers to realize their life values.
+Carrying out positive publicity in this direction and trying to eliminate the cognitive gap among
+teenagers can improve their understanding of campus football, thereby enabling them to establish
+stronger confidence in conducting campus football activities, promote them to consciously complete training tasks, work hard, and make campus football in Guangzhou develop more smoothly.
+6.5.2 Realizing Interesting Teaching
+Football is a highly competitive sport. When students are studying, they will inevitably have a certain degree of fear, so they dare not compete, dare not pass the ball boldly, and cannot experience
+the fun of playing football. So, how can students have a strong interest in football training? First,
+guide students to fully understand and understand football. Teachers can make good use of publicity channels such as school bulletin boards and radio stations to let each student understand football related knowledge and characters, thereby stimulating their curiosity. In football class, students
+can first watch the exquisite footwork, wonderful dribbling, beautiful passing, and accurate shooting
+of the soccer star through video, so that they can gain spiritual strength, thereby mobilizing their
+29
+enthusiasm and consciousness for learning, and laying a foundation for improving their interest in
+learning. Secondly, teachers should play a leading role. Teachers are role models for students to
+learn and imitate. Football teachers should have full emotions, uplifting spirits, and good personal
+psychological qualities in class, so that students can feel the charm of football. In addition, teachers should also create the best training environment for students, be good at grasping the age
+characteristics of students, and conduct training scientifically. Teachers should treat students with
+appreciation and affirmation. During the process of football training, they should constantly affirm
+their strengths and progress, encourage and praise them more, and give them more opportunities
+to see their progress and experience the joy of success. This should enable students to transition
+from "I want to learn" to "I want to learn", and stimulate their awareness of autonomous learning.
+Finally, add fun through games and competitions. In football teaching, there must be various football games and competitions. Organizing football games and competitions can help eliminate students' negative emotions such as boredom and depression during training, allowing them to realize
+that football is a happy sport, thereby achieving the goal of stimulating learning interest. Students
+can be asked to compare who dribbles the ball better, stops the ball better, plays accurately, and
+holds the ball longer than others. Over time, students will become more proficient in ball skills, and
+many people can still have their own "unique skills.". Teachers can also organize class football
+teams, school football teams, etc., and organize various forms of football games in their spare time
+to maintain students' interest in learning football.
+30
+7 The Significance of Developing Guangzhou Youth Football
+7.1 Football can improve the physique and physical fitness of your teenagers
+Football, as one of the modern popular sports, has experienced the test of practice and the witness
+of The Times. It is of great significance in cultivating human physique. Football is a high-intensity,
+diverse physical activity that requires participants to make fast runs, sudden changes of direction
+and continuous jumps during the game, and compete with opponents for strength. This whole-body
+movement requires the development of exceptional physical qualities such as speed, strength,
+endurance and agility. Therefore, student participation in football has the following benefits: Benefits:
+（1）Enhance physical fitness: By participating in football, students can develop their overall physical fitness, including improving speed, strength, endurance and agility. This has important implications for promoting overall health and preventing chronic diseases.
+（2）Develop a team spirit: Football is a team sport that requires close cooperation and cooperation between players. Students' participation in football can improve their team spirit, strengthen
+their communication and collaboration skills, take responsibility in a team and give play to their
+individual strengths.
+（3）Improve psychological quality: football is a highly competitive activity, participants need to
+have good psychological quality, such as concentration, pressure, emotion regulation. Through
+football training and competition, students develop the confidence, tenacity and determination to
+support their studies and future careers.
+7.2 Football is conducive to tempering the will of young people and cultivating their spirit of
+enduring hardship and hard work
+As a competitive sport, football has obvious confrontational and technical requirements. Participants need to demonstrate a tenacious mental state and a spirit of fighting despite difficulties in
+order to win the game and gain psychological satisfaction. In addition, in terms of mastering the
+various techniques required for the competition, participants need to practice and improve unrelentingly, which is also of great significance for cultivating students' hard-working spirit.
+31
+The competitive nature of football will encourage the participants to form a benign sense of competition virtually, thus stimulating their fighting spirit and fighting spirit. This helps students develop
+courage, perseverance and determination to be more confident and strong in the face of various
+challenges in the future. At the same time, football also requires participants to constantly hone
+and improve their skills. In this process, students need to devote a lot of time and energy, and often suffer setbacks and failures. However, by enduring these difficulties and challenges, students
+can gradually cultivate the spirit of perseverance and perseverance, so as to deal with various difficulties and challenges more effectively in the future study and work.
+7.3 Football can strengthen the teamwork ability of teenagers
+Football has been a multi-player team sport from the beginning, so it has strict requirements on the
+number of players and the composition of the team. The collective nature of football means that it
+is essentially a process of fighting between two teams. Only a team with a high degree of coordination, proper strategic skills, strong collective consciousness and excellent organizational style can
+occupy a dominant position. Therefore, by participating in football games, students can not only
+effectively improve their football skills, but also experience the collective atmosphere, cultivate
+teamwork ability, learn how to better communicate and coordinate with teammates, cooperate
+closely, and rely on collective strength and wisdom to win.
+7.4 Football can help release the pressure of teenagers and enhance their psychological
+quality
+In addition to its strong adaptability, antagonism, combat and collectivity, football also has unique
+entertainment, interest and appreciation. As students grow older, they not only face academic
+pressure, but also worry about their future job development. This heavy psychological burden is
+not conducive to the development of students' physical and mental health. Therefore, students can
+release pressure and add fun to boring study and life by taking an active part in football. At the
+same time, the competitive nature of football can help college students correctly view the process
+and result of things, understand the truth that "winning or losing is a matter of daily life", and cultivate strong psychological quality.
+7.5 Football is conducive to improving the aesthetic ability of teenagers
+With the development, improvement and innovation of sports, the strategy, tactics, technology and
+attack methods of football are increasingly diversified and comprehensive, which has improved the
+popularity of football matches. The dynamic beauty of football and the morphological beauty of
+32
+athletes can not only stimulate students' senses, immerse them in a beautiful cultural and artistic
+atmosphere, enhance their artistic experience and psychological pleasure, but also enhance their
+aesthetic ability and emotion, improve their ability to analyze football matches and sports laws, and
+enhance their independent thinking spirit and observation ability.
+7.6 Football helps teenagers stimulate their potential and promote their all-round development
+With the development of the times, the demand for compound talents is becoming more and more
+urgent. As a competitive sport, football can help students fully develop their potential and realize
+their personal value in a fierce competitive environment. In addition, football can also become part
+of students' sports specialties, promote their all-round development, and thereby improve their core
+competitiveness.
+First of all, participating in football can cultivate students' competitive consciousness and ability. In
+football games, students need to interact with other team members through cooperation, coordination and competition, and exercise their teamwork and leadership skills. In this process, they will
+also face the competitive pressure from their opponents, thus inspiring a stronger fighting spirit and
+fighting spirit. This competitive environment allows students to constantly challenge themselves,
+explore their potential, and improve their abilities and skills.
+Secondly, football, as a sports specialty, can provide opportunities for students' all-round development. In addition to academic achievement, students' sports specialty is also one of the important
+indicators to evaluate their comprehensive quality. Through participation in football, students can
+develop physical coordination, agility and responsiveness, and enhance physical health. At the
+same time, they can also improve their technical and tactical level in football through training and
+competition, and become professionals who are good at this sport. This comprehensive development is not only beneficial to the students personally, but also helps to enhance their core competencies and have more advantages in their future academic and career development.
+Therefore, as a competitive sport, football can not only help students maximize their potential and
+realize their self-value in a highly competitive environment, but also promote their all-round development as a part of students' sports expertise, so as to improve their core competitiveness.
+33
+Through football, students can develop a sense of competition and ability, practice teamwork and
+leadership skills, and improve their physical fitness and technical level. All these will have a positive impact on students' personal growth and future development.
+34
+8 conclusions
+To sum up, this paper analyzes the development problems of youth campus football in Guangzhou
+through investigation and research, and puts forward corresponding solutions. At present, there
+are several problems in Guangzhou youth campus football:
+（1）The supervision mechanism of campus football is imperfect. At present, many campus football development agencies are hybrid emergency agencies. Many relevant responsible persons
+are part-time employees of school leaders, and the division of labor is unclear.
+（2）There is a great deal of arbitrariness in event organization, qualification review, and competition management systems: there is a lack of professional organizational and management talents,
+and there are no overall and long-term reform measures, which will affect the future development
+of campus football.
+（3）The number of campus football teachers is small and their academic level is low, which affects the theoretical level of campus football research and the process of campus football reform.
+The number of teachers with intermediate and senior professional titles is small and their scientific
+research capabilities and experience are insufficient, resulting in great limitations in the development of campus football.
+（4）The source of funds for the development of youth campus football is relatively single. Currently, it mainly comes from government financial allocations for campus football development.
+Schools relying on government funding accounted for 100% of the total number of schools surveyed, while enterprises and social organizations have less investment in campus football. A single
+funding method cannot satisfy the current rapid development of campus football. In addition, in the
+development of youth campus football, the demand for hardware facilities is far greater than the
+supply, which directly affects the development of youth campus football.
+（5）The goals of the youth football competition system are unclear, the system is imperfect, the
+competition management structure is unscientific, and students cannot achieve a balance between
+training and learning. Some school leaders still pay more attention to cultural courses than to
+sports education. The organizational structure of campus football is unreasonable, and the school
+lacks a reward and punishment mechanism for the development of campus football.
+35
+In short, football, as a sport with educational value, is playing an increasingly important role in the
+development of Guangzhou. In order to further promote the development of campus football,
+Guangzhou needs to take comprehensive measures to solve the current problems and focus on
+cultivating students' interest and love. Only in this way can campus football truly play its potential
+and lay a solid foundation for students' future healthy growth and comprehensive quality improvement.
+（1）Improve the supervision mechanism, clarify the work functions of campus football management agencies, and promote the integrity and consistency of campus football development.
+（2）Establish a coordinated online and offline teacher training system, conduct regular training
+and football teacher experience exchange meetings, and strengthen the continuing education and
+training of campus football teachers: actively organize teachers to participate in football referee
+course training and participate in grading examinations. Improve the professionalism of football
+teachers and ensure the smooth organization and development of football events: increase the
+number of school teacher football skills competitions held each year to improve the skill level of
+football teachers themselves
+（3）Strengthen the faculty of campus football, improve the academic level of teachers, and improve the rigor of teachers' scientific research on campus football: coordinate the gender balance
+of campus football teachers, and increase the enthusiasm of teachers to advance to professional
+titles.
+（4）Establish a complete youth campus football management system to coordinate the reasonable and scientific allocation of students' football training and cultural class study time: promote the
+rapid development of my country's four-level football league, timely selection of talents, and timely
+training.
+36
+9 Evaluation and Future
+9.1 Learning Plan
+9.1.1 Pre-work
+Before starting to write the thesis, the preparatory work I have done includes: determining the topic
+under the guidance of the teacher, reviewing the relevant literature, organizing and extracting the
+literature, writing the outline of the thesis, determining the questionnaire topic and distributing the
+questionnaire.
+9.1.2 Mid-term work
+After the questionnaires were collected for the thesis, I officially started the thesiswriting work.
+Based on the results of the questionnaire survey to understand the current situation of the development of youth school soccer in Guangzhou, combined with the relevant literature to summarize
+the problems of youth school soccer in Guangzhou, and develop thinking to find solutions. Add the
+content of the thesis according to the thesis outline.
+9.1.3 Post-work
+After the completion of the paper, it should be systematically checked and improved to ensure that
+the paper is well-structured and logical, and that the research content is relevant to the topic. If
+problems are found, they should be corrected in time. The paper should then be submitted to the
+supervisor so that the supervisor can review and make useful suggestions to improve the paper, a
+process that is essential to ensure the quality of the paper. This process is essential to ensure the
+quality of the paper.
+9.2 Learning gains
+Through the writing of this paper, I have learned the principles and research methods of the paper,
+which has consolidated my professional theoretical knowledge and exercised my observation,
+hands-on research, and critical thinking abilities. Through the research on campus football among
+young people in Guangzhou, I have gained a certain understanding of the current development
+status of campus football among young people in Guangzhou and China. At the same time, I can
+37
+also provide suggestions for solving problems, which enhances my ability to analyze and solve
+problems, and improves my practical level.
+9.3 Self evaluation
+This article mainly takes A Middle School in Guangzhou as an example to study the current development status and existing problems of campus football for teenagers in Guangzhou, and proposes relevant countermeasures. I believe that the research in this paper has certain practical significance, which is conducive to promoting the further development of campus football for young people in Guangzhou and promoting the cultivation of football reserve talents in China. Of course,
+there are still many shortcomings in the research of this paper, such as not comparing it with other
+first and second tier cities, and lacking a certain degree of scientificity.
+9.4 Future
+From the current development form, the development of campus football for young people in
+Guangzhou will become increasingly perfect in the future. The national and local governments will
+increase their financial support, and the football infrastructure in Guangzhou will become increasingly sound. The football teaching team will also become stronger, and professional football clubs
+will become one of the employment choices for young people.
+38
+References
+Chen Bin, 2021 Research on the Development and Dilemma of Football Featured Schools in Primary and Secondary Schools in Guangdong Province [D]. South China University of Technology,
+DOI: 10.27151/d.cnki.ghnlu.2021.000236
+Dobson S, 2001 Goddard J A, Dobson S. The economics of football[M]. Cambridge: Cambridge
+University Press.
+Haugaasen M, Jordet G. 2012 Developing football expertise: a football-specific research review[J].
+International review of sport and exercise psychology, 5(2): 177-201.
+Jiang Minglang, Li Wei. 2019 The Enlightenment of English Football Talent Training on Chinese
+Football Education [J]. Journal of Xianyang Normal University,34 (06): 107-111
+Li Keliang, Zhang Yao, Shen Yuquan, Wang Zijuan. 2022 Experiences, Difficulties, and Paths in
+the Development of Youth Campus Football in China [J]. Sports Culture Guide, (12): 98-104
+Li Sijia. 2017 Research on the Current Situation of Youth Campus Football Development in
+Huangpu District, Guangzhou City [D]. Guangzhou Institute of Physical Education.
+Liao Pei 2019 Research on the Current Situation and Development Countermeasures of Youth
+Campus Football in Shenzhen [J]. Sports Fashion, (12): 74+76
+Shang Xia. 2019 Research on Environmental Factors Affecting the Cultivation of Youth Football
+Talents in Guangzhou [J]. Contemporary Sports Science and Technology, 9 (12): 180-181.
+Wei D. 2021 Research on the Culture Connotation of Campus Football[J]. Journal of Human
+Movement Science, 2(1): 13-17.
+Wu Jianping. 2015 On the Current Situation and Analysis of the Development of Football in Primary and Secondary Schools in Zengcheng District, Guangzhou City [J]. Contemporary Sports Science and Technology,5 (27): 139-140.
+Yao Qiushuang. 2022 Under the background of the "double reduction" policy, the research on the
+development path of youth campus football [C]//The Sports Culture Development Center of the
+General Administration of Sport of the People's Republic of China, the Sports History Branch of the
+Chinese Sports Science Society. Summary of the 6th China Football Culture and Campus Football
+Development Conference in 22:276.
+39
+Zhong S. 2023 A Brief Discussion on the Problems and Countermeasures of Chinese Football[J].
+Open Journal of Social Sciences, 11(1): 429-439.
+40
+Appendix
+A questionnaire survey on the current situation of campus football development in Guangzhou Youth A Middle School
+1 ：What is your gender?
+A.male
+B.female
+2： What is your grade?
+A. Senior One
+B. Senior Two
+C. Senior Three
+3：How much importance does the leadership of your school attach to campus football?
+A. make much account of
+B. commonly
+C. Neglect
+4： Do you think the school's funding for the campus football team is reasonable?
+A. reasonable
+B. commonly
+C. unreasonable
+5：Do you think the football facilities in the school are complete?
+A. Very complete
+B. Relatively complete
+41
+C. Relatively backward
+6： Do you think the number of coaches in the school football team is sufficient?
+A. Very abundant
+B. Relatively abundant
+C. Not enough
+7： What do you think are the problems with the teaching content and methods of the school football team? (Multiple choice)
+A. Single teaching content
+B. Obsolete teaching methods
+C. There are other issues
+D. no problem
+8： What is the distribution of training years of football team members on your school campus?
+A. 0—3years
+B.3—6years
+C.over 6 years
+9：How often do you think it is reasonable for members of the campus football team to train?
+A. 0-7 hours per week
+B. 8-21 hours per week
+C. Over 21 hours per week
+10：Do you think the time and frequency of football training for school football teams are reasonable?
+A. reasonable
+B. commonly
+42
+C.un reasonable
+11： If there is a chance, would you like to join the campus football team?
+A.be willing
+B.uncertain
+C.unwilling
+1 2：Are you satisfied with the awards of the school campus football team?
+A. satisfied
+B. general
+C.dissatisfied
+1 3：What do you think of the level of players on the school football team?
+A. high level
+B. general
+C. low level
+1 4：Do you think the setup of school football institutions is perfect?
+A. Relatively complete
+B. general
+C. Imperfect
+15： Do you think there are any problems such as poor management in school football institutions?
+A. existence
+B. uncertain
+C. non-existent

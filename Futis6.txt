@@ -1,0 +1,1471 @@
+THE ATTITUDES AND PERCEPTIONS OF
+USERS ON INDOOR FOOTBALL FACILITIES
+AND CONTINIOUS TRAINING PLACES: Case,
+Jyväskylä, FINLAND
+Gökhan Ates
+Bachelor’s Thesis
+May 2014
+ Degree Programme in Facility Management
+School of Business and Services Management
+
+DESCRIPTION
+Author(s)
+Gökhan Ates
+Type of publication
+Bachelor´s Thesis
+Date
+12.05.2014
+Pages
+59
+Language
+English
+Permission for web
+publication
+( X )
+Title
+THE ATTITUDES AND PERCEPTIONS OF USERS ON INDOOR FOOTBALL FACILITIES AND CONTINIOUS TRAINING
+PLACES: Case Jyväskylä, FINLAND
+Degree Programme in Facility Management
+Tutor(s)
+Simon Kay-Jones
+Assigned by
+Abstract
+The objective of the research was to find out the attitudes and perception of users on how to adopt Finnish
+football facilities to permanent training places for players to increase the quality of Finnish football. It is known
+that football is not the number one sport in Finland because of long winter break that makes it challenging for
+football to play on the outside pitches.
+The goal was to find out football players’ and experts` perspective whether indoor football facilities could improve
+the quality of Finnish football or not. The findings might lead to football players being provided with indoor
+pitches. After that, the quality and ability of Finnish players could be improved, which could, eventually, have
+positive effects on national team.
+The study was based on qualitative research method. Thus, a survey questionnaire was sent to football players and
+interview with experts in order to gather reliable information. And, also different analysis methods such as
+`blueprints` and `service journeys` were used in the research process. Participants were Finnish and international
+people who are related to the central Finnish football industry.
+Participants found access to appropriate place for training in winter season as a major barrier improvement.
+Likewise, successful sports athletes in any field are perceived by the participants, to require continuous training
+facilities at the elite level, by removing the lack of indoor facilities.
+As a recommendation, future researches can be conducted for the whole Finland to see how Finnish football
+should be promoted for the future success of the Finnish national football team.
+Keywords
+Finnish football, indoor football facilities, players` ability, quality in football, interview, survey, recommendation
+Miscellaneous
+1
+Contents
+1. Introduction………………………………………………………………3
+2. Background……………………………………………………………....6
+2.1Football in general…………………………………………………….6
+2.2Finnish football………………………………………………………..7
+2.3Development of sport in Finland………………….…………………9
+2.4 A brief introduction to football in winter season…………………..12
+2.5Existing indoor football facilities: case Jyväskylä………………….14
+2.5.1 Killeri indoor football pitch……………………………………17
+2.5.2 Hipposhalli convertible indoor football pitch………………..19
+3. Research problem...……………………………………………………...20
+3.1Research questions…………………………………………………...22
+3.2Objectives and motives………………………………………………..23
+4. Methodology………………………………………………………………23
+4.1 Choice of case study………………………………………………….27
+5. Collection of data……….………………………………………………..29
+6. Research Results………………………………………………………...30
+6.1 Survey questionnaire results………………………………………...30
+6.2 Interview results…………………………………………………….....38
+7. Reliability / Validity………………………………………………………39
+8. SWOT analysis of indoor football facilities in Jyväskylä based on
+qualitative research results……………………………………………41
+8.1Strengths………………………………………………………………42
+8.2Weaknesses…………………………………………………………..42
+8.3Opportunities……………………………………………………….....43
+8.4Threats…………………………………………………………………43
+2
+9. Discussion on the reliability of the research and future research
+areas…….…………………………………………………………………44
+10.Conclusion and discussion…..…………………………………….....45
+References……………………………………………………………......48
+Figures…………………………………………………………………….50
+Appendixes……………………………………………………………….51
+ Survey questions…………………………………………………..52
+ Interview questions and answers………………………………..53
+3
+1. Introduction
+“In the past two decades, sport has moved from being a pastime
+to a business as a result of the process of commercialization,
+which has led sports managers and organizations to become
+concerned with business principles. This commercialization
+process has led sports organizations to be described as
+business-like as they become market orientated, pursue
+operational strategies that maximize profit or revenue, and
+become responsive to needs of customers”
+ Robinson (2008, p 308)
+In today`s world, sports has become one of the biggest industries that involves
+a great number of fans and athletes. It is not only an activity that athletes do
+but also people all around the world do it on a daily basis in order to stay fit
+and healthy.
+“Throughout, a sport is defined as an activity requiring direct physical
+competition with an opponent, has established procedures and rules, and
+defined criteria for determining victory” (Poliakoff, 1987). The most important
+and motivating aspects of sports are trophies, medals or money for victory
+because competitors have the immediate goal of winning the contest.
+“The most watched sport in the world is football reporting some 3.5
+billion fans across the world with a heavy concentration of those
+fans in Europe, Asia and Africa. The International Football
+Federation (FIFA) is reportedly valued at $1 billion with equity of
+$1.061 million. At the last World Cup in 2010, television rights were
+valued at $650 million”
+ (FIFA (2014).
+These numbers are tremendous when compared to other sports such as
+basketball, baseball, cricket, ice hockey or volleyball. That is why football is
+the biggest sport with its equity and assets.
+4
+Although, football is so important in most countries, some countries like
+Finland face the cold winter season that affects football culture negatively.
+“The position of football in Finland is affected by the climate. Winters are long
+and cold, inevitably directing people’s interest towards winter sports, in which
+Finnish athletes have been successful at the Olympics and else- where”
+(Itkonen&Nevala,2012, 579.) Numerous of players are not able to play for a
+whole winter season because of the weather that makes it impossible to play
+out in the open pitches. Also, weather plays an essential role in how often
+players can attend training sessions.
+“Another dimension of quality of viewing is weather conditions. One
+robust finding from studies of the relation between weather and
+attendance is that types of weather conditions that are known to
+disrupt play in a sporting contest will have a negative effect on
+attendance”
+ (Borland & Mcdonald, 2003, p 488).
+Therefore, players who play and practice only during a limited number of
+months do not have the same as those, for example, in Spain where efficient
+training is possible all year round.
+On the other hand, as for Finland, success and quality are lower in Finnish
+football. One factor may be the lack of indoor football facilities restricts training
+resulting in less able players. However, since the weather cannot be changed
+completely, Finnish football facilities may need to be adapted to the winter
+season by building more indoor facilities in order to offer the potential to
+increase the skills of players.
+“Football will remain a low-cost sport, but will move towards a more
+realistic charging system in order to be able to provide better quality
+playing environments. Formats of football will have changed, with a
+far broader range on offer and different ‘entry points’ into the game
+– both recreational and affiliated. These flexible formats will require
+5
+that facilities are similarly flexible and capable of supporting new
+and emerging game formats.”
+ The FA, (2013-2015, P 11)
+According to survey respondents whose team has to pay approximately 80
+Euros per hour, the prices of indoor football facilities are high which means
+that the more training there is the greater the cost will be. Therefore, it would
+be logical to lower the prices to provide a better access to the facilities. This
+could be helpful to improving Finnish football because families have to pay a
+considerable amount of money to teams for their children` yearly fees.
+Therefore, many families cannot offer football as a hobby to their children
+because it is too expensive for them. “Another parent, who said they pay
+between 7,000 and 8,000 euros per year for three kids to play football in
+Espoo “(Yle, 2013.)However, if football would be cheaper hobby for children,
+then families could send their children to football teams, which would be vital
+for the teams to produce better players and raise their level of success both
+nationally and internationally in the long run.
+The mixed research methodology was applied in order to collect data on the
+development of indoor football facilities. Moreover, all the data was collected
+through related academic articles, books, observations, surveys and
+interviews with experts. The survey was sent to three different
+semiprofessional football players groups to receive different opinions of
+individuals about indoor football facilities.
+The goal was to find out active football player’s and professionals`
+perspectives on whether indoor football facilities could improve the quality of
+Finnish football or not. Attention was also tried to pay to the possible lack of
+indoor football facilities in Jyväskylä. This may assist football players by
+providing the initial research into the need for indoor pitches during winter
+periods. Based on these findings, a discussion will follow to interpret the
+relationship between an access to indoor winter sports facilities and the quality
+and ability of players in the Finnish football field.
+6
+2. Background
+2.1 Football in General
+Football refers to sports that involve kicking a ball with foot to score a goal.
+The most popular of this sport is generally known as ``football`` or soccer. It is
+a sport played between two teams of eleven players with a spherical ball. The
+game is played on a rectangular field with a goal at each end. The object of
+the game is to score by using any part of the body besides the arms and
+hands to get the football into the opposing goal. The goalkeepers are the only
+players who allowed to touch the ball with their hands or arms while it is in
+play and then only in their penalty area. Outfield players mostly use their feet
+to strike or pass the ball, but may use their head or torso to strike the ball
+instead. The team that scores the most goals by the end of the match wins.
+The Laws of The Game were originally codified in England by The Football
+Association in 1863. Association football is governed internationally by the
+International Federation of Association Football (FIFA; French: Fédération
+Internationale de Football Association) which organizes a World Cup every
+four years (FIFA, Rules, 2014).
+Football has been one of the most attractive sports for fans and athletes in
+many countries. “There are about 38 million registered football players
+worldwide, with some 270 million people being involved in football. It is also
+the worlds’ most significant team sport in economic terms” (Iho & Heikkilä,
+2008, p3). This makes football one of the most popular sports in the world.
+“Football has successfully outmaneuvered many other team sports, such as
+ice hockey, basketball or handball, and has been accepted as the number one
+sport with regard to media attention and audience reception worldwide”
+(Horne & Manzenreiter, 2002b). According to FIFA (the football international
+governing body, Fédération Internationale de Football Association) statistics,
+the FIFA World Cup Korea against Japan set a new record for a sports event
+of 49.2 billion people worldwide in terms of viewer hours. The 2002 Final
+between Brazil and Germany was the most viewed match in FIFA World Cup
+history, with 1.1 billion individuals watching the game, and being broadcasted
+in 213 countries worldwide.
+7
+2.2 Finnish football
+FIGURE 1: Four pillars of Finnish Football (Van der Aar, 2011)
+Football is a sport that it is followed by people from different nations, age
+group and sex all around the world. “Football has been the world’s most
+popular sport, at least since the late nineteenth century and its international
+diffusion by the British. The global game spans culturally diverse societies in
+all continents “(Giulianotti&Robertson, 2004, p 2). However, this sport is not
+the number one in Finland because Ice Hockey is preferred to watch rather
+than football in this country. “The main series of ice hockey is the only Finnish
+ball sport that can be regarded as a professional sport. All other ball games
+are played either semi-professionally or on a completely amateur basis”
+(Itkonen&Nevala, 2012, p579). Because of the low population of Finland which
+is approximately 5.4 million people, there is not that much interest of football.
+”Sport in Finland, in general, is not as commercialized and professionalized as
+in other parts of Western Europe or in the US. This is due to historical, cultural
+and socio-economic reasons that caused the prevalence of the public and
+volunteer sector in the country. Additionally, the number one sport is not
+football, as being the case in most European countries, but ice-hockey, of
+which the highest division is the only fully professional league in Finnish sport”
+8
+(Szeróvay, 2010, p9). That is why; it gives challenge to both clubs and football
+association to promote football in any kind of Finnish media. Finnish football
+structures and regulations have been controlled by the Finnish football
+association and top division is managed by Veikkausliiga ry.
+Finnish football consist of one professional league, one semi-professional
+league and three amateurs leagues with their own sub-ordinate leagues. The
+professional league called Veikkausliiga which exists of twelve teams and all
+teams play against each other three times during one season. The first
+division league is called Ykkönen and it is semi-professional which consists of
+thirteen teams, with all teams playing each other twice in a season. Below the
+first division, there is a second division which is called Kakkonen and it is an
+amateur division, separated in three geographic areas, all including fourteen
+teams that play each other twice in one season.
+The media for football in Finland is different than other countries because all
+the games which are played in Veikkausliiga are streamed online but the
+system is through a pay-per-view server which means that two or three games
+of every round are broadcasted live on television through pay-tv sports
+channels which is called UrhoTV 8 and Canal Plus. However, customers who
+pay for these services are not satisfied with services that they receive
+because they think that video quality and football expertise of the
+commentators are being below average compared to other European
+countries. The public broadcasting channel is called YLE which has the
+sources to provide quality broadcasting, but it does not focus on Finnish
+football games and only broadcasts games from the UEFA Champions
+League
+9
+2.3 Development of Sports in Finland
+Since it is already mentioned that football is not number one sport in Finland, it
+would be logical to compare it with the most popular sport which is ice hockey
+in order to see the difference between these two sports in this country for last
+50 years. Recent developments of these two sports could provide an
+informative context on how Ball sports and the industry more generally has
+changed in Finland during the last 50years.
+Firstly, the first hockey game played in Helsinki on Pohjoisranta (the Baltic
+Sea) in 1899. However, there was no association until 1927, at that time
+Finnish Skating Association introduced ice hockey as part of its program. After
+that ice hockey adopted into teams and in 1928 the first club game is played in
+Tampere on January 15 between Pyrintö vs. Palloilijat. Reipas from Viipuri
+became the first national champion in ice hockey by winning over KIF with 5-1
+in a six team tournament hosted by The Finnish Football Association. Also
+that year first national team game played: Finland vs. Sweden 1-8. Through
+The Finnish Skating Association Finland was approved as a member of LIHG
+(Ligue Internationale de Hockey sur Glace).
+Since growing, from these beginnings in Finland, in 1929 the Finnish Ice
+Hockey Association has been founded on January 20 and features 17 clubs.
+HJK Helsinki wins the first championship. After it became more professional
+sport with association, success also came with different competition. Example,
+1962 Finland gains its first medal in IIHF championship: a silver medal at
+European Championships. And also Finland won the Euro Hockey
+Tournament for the sixth time. But none of the success was as glory as world
+ice hockey championship which Finland won two times. All the information
+above proves that Finland has been successful with ice hockey and there is
+perhaps a relation between why it became one of the most popular sports in
+this country. Furthermore, giving numerical number of players would be good
+prof about ice hockey, it is considered as hobby for more than 195 000 Finns.
+There are 67 463 registered players and 428 clubs with 2976 teams.
+Approximately 40 000 games played in one season and there are 2 257
+referees and linesmen including 469 officials. As a facility, there are 249 rinks
+10
+in 217 ice halls. More than 50 full time employees located in eight areal
+divisions and central office in Helsinki. (Finnish Ice Hockey Association, 2014)
+Finnish ice hockey development can be seen through following figure:
+FIGURE 2: Finnish ice hockey`s development process map for over years
+(Ates, 2014)
+On the other hand, Football was not as successful as ice hockey but it also
+preferred by many people. Football history started when it was brought to
+Finland in the 1890s by English sailors and the first Finnish football club was
+set up in 1897. The FA of Finland was established in 1907 and became a
+FIFA member the following year. Finnish FA is more popularly known as SPL,
+after its local name of Suomen Palloliitto. The highest division of professional
+football in Finland was formed in 1930 and was called Mestaruussarja. It was
+professionalized in 1990 and was renamed Veikkausliiga. Competed by 12
+teams, the lowest-ranked club at the end of the season plays a two-legged
+match against the top team of the second division to determine relegation or
+promotion. Because of the harsh winter in Finland, regular season usually
+runs during spring, summer, and autumn (usually from April to October). The
+Finnish national football team played their first international match in 1911, a
+2-5 defeat to Sweden. The following year, Finland made its best performance
+by finishing fourth in the 1912 Olympics. Finland is yet to qualify for the two
+biggest international competitions in football: the UEFA European
+Championship and the FIFA World Cup. However, the team nearly qualified to
+11
+Euro 80, only failing to do so by a point. They were also close to qualifying in
+the 1986 World Cup, but came two points short (Veikkausliiga, 2014.)
+Although, football started roughly the same time as ice hockey in Finland, it
+could not develop as much as ice hockey due to factors of climate, culture
+together with financial investment being focused on ice hockey development
+rather than football. Ice hockey has had in historical terms better finance
+investment which has led to better facilities. It professionalized with this
+support and developed at a greater rate than football over the same period.
+Finnish football development over the years can be seen from following figure:
+FIGURE 3: Finnish football`s development process map over years (Ates,
+2014)
+Ice hockey is traditionally the most popular sport in Finland but football is
+increasing its popularity over recent years, especially among kids, youth, and
+women players. According to information that has taken from central Finnish
+Football Association, the number of registered football players in whole
+Finland is about 119 000 and number of players in central Finland is 6003.
+The most surprising information is that number of adult players in central
+Finland is 1220 but this number is almost four times bigger if it considered for
+U19 and younger 4783 (Palloliitto, 2014).
+12
+“The popularity of football has increased continuously in Finland.
+Measured by the number of players, football is the most popular
+youth sport. In 2009, there were 217,000 children and young people
+aged 3–18 mentioning football as their hobby. The next most
+popular ball games were floor ball (144,000) and ice hockey
+(101,000). The growth of girls’ and women’s football has been
+particularly strong, fuelled no doubt by the success of Finnish
+women football players in international tournaments. The holding of
+Women’s European Championships in Finland in 2009 also had an
+effect on the popularity of football.”
+ (Itkonen&Nevala, (2012, p, 11)
+Itkonen and Nevala show the level of interest by the young towards Football in
+Finland. As the summary numbers show; the interest by young sport athletes
+for football is more than ice hockey with the number of registered players for
+Football being almost double of its comparable ice hockey figure. However,
+successes of these two sports are not even Ice hockey has been more
+successful than football and this relates to appropriate facilities and
+professionalism of ice hockey which football has not yet, been adapted within
+a Finnish context. While revenue and investment compared between football
+and ice hockey is large mainly due to the sport of ice hockey being a spectator
+sport and the number one sport in Finland.
+2.4 A Brief Introduction to Football in the Winter Season
+“The position of football in Finland is affected by the climate.
+Winters are long and cold, inevitably directing people’s interest
+towards winter sports, in which Finnish athletes have been
+successful at the Olympics and else- where”
+ (Itkonen & Nevala (2012, 579).
+Football is considerably affected by the cold winter season in Finland so it is
+considered as a summer sport by a remarkable number of people. The most
+prevalent perception of football is; `it cannot be played while there is still snow
+outside`. That is because Palloliitto is trying to make football to be played out
+13
+in the open earlier than is typical by organizing earlier tournaments. However,
+football fans are not willing to go to watch early football games because they
+prefer to go stadia to watch football when Ice hockey season is over. It is a
+interesting context to which football must operate, as it seems inappropriate
+for the Finnish football league to start earlier when there are not enough fans.
+However, it seems that the season should be one to two months longer even if
+the facilities and fans are not yet ready for that because the more football
+season is longer the more players can improve and train in their maximum
+level.
+The change has to be started with the junior football teams because this point
+was raised earlier by FIF in their analysis of entry points and providing more
+opportunities to developing athletes early to increase the competitiveness of
+Finnish Football. Providing football field for athletes is the most important
+factor where they can train to increase their performance but it is difficult to
+provide suitable facilities due to cold winter in Finland because it should be
+indoor facilities where provide athletes continuous training places. There is a
+trend that enables people to train and play football even in the winter season
+thanks to synthetic grass and indoor facilities which have been used in the
+countries where it is difficult to take care of real grass because of the effect of
+the weather. “With football’s ongoing popularity only checked in some
+countries by extreme weather conditions, Finland 2003 was seen as the ideal
+location and the perfect opportunity to try out the synthetic turf and assess its
+performance” (ESTO, 2014). With the help of indoor football facilities, young
+football players can focus on the game throughout the year against which
+there was a strong opposition just 10 years ago, when you could only play in
+the summer time. “A Finnish Coach Jyrki Heliskoski said that “I believe this is
+the solution for the future of football in Finland,” he added, “With our long, hard
+winters, it could extend our season by two or three months and that could be
+invaluable for Finnish football.”
+Indoor football facilities and synthetic grass pitches with under”soil” heating
+system can be found in many cities of Finland. However, according to
+blueprinting of indoor football facilities in Jyvaskyla and semiprofessional
+football players perception, there is not sufficient amount of indoor football
+14
+facilities for the young and existing football generation to provide continues
+training pitches for the whole year round because the number of young
+players for U19 is 4783 in central Finland.
+The existing capacities of these facilities which are only, Killeri and
+Hipposhalli, are inadequate for this demand. Improving and increasing the
+number of these kinds of facilities will not only provide a place where to train
+but will also change the eagerness of young players completely because they
+will eventually bring their families as spectators;
+“Young people who believe they are competent and have the skills
+to be physically active are more likely to be active. Likewise, young
+people who feel supported by friends and families or are
+surrounded by others interested in physical activity, activity are
+more likely to participate in both structured and non-structured
+activities. These social norms are powerful in determining people’s
+actions”
+ ([Increasing Physical activity] 2009).
+2.5 Existing Indoor Football facilities: case Jyväskylä
+According to second Finnish football division team Gnistan’s head of youth
+development Sipi Ulvas, there are not enough indoor football facilities and
+stating that: “There has been an increase in the number of heated pitches in
+Finland, but we still don’t have enough. Gnistan are fortunate in that our home
+ground is well-equipped to deal with the cold and we can carry on playing
+even when the temperature gets to -10 or -15, when many Finnish clubs have
+to play indoors on inadequate surfaces. Our pitch is FIFA 2 star accredited,
+and is very different to the old style astro-turf. It can take a stud and is quite
+similar to natural grass.”
+According to Ulvas, unfortunately many Finnish clubs, have to play
+inadequate surfaces and there is no doubt that short football season affect
+15
+Finnish football negatively because quality cannot be improved as much as
+other countries unless there are more investment for indoor football facilities
+and changing people`s mindset about football.
+The thesis case city of Jyväskylä is located in the lake district of Central
+Finland. Jyväskylä´s population growth rate is one of the highest in Finland.
+With the population of 135 000, city of Jyväskylä is the seventh largest city in
+Finland. In order to prove the lack of indoor football facilities, it would be better
+giving example of existing facilities in Jyväskylä. Also, it would be good
+example to see Jyväskylä on the map of Finland in order to see where it is
+exactly located in. Jyväskylä location can be seen on following figure:
+FIGURE 4: Jyväskylä`s location on Finland map
+There are limited amounts of indoor football facilities available for people who
+live in Jyväskylä. According to central Finnish football association, there are
+16
+over 50 football teams from different division in central Finland but there are
+only two indoor football facilities in the city. In order to understand more
+deeply of services that players receive while they use the facilities, it can be
+good evidence to show blueprint of facilities. Blue print of facilities is as
+follows:
+FIGURE 5: Blueprint of indoor football facilities in Jyvaskyla (Ates, 2014)
+There are only two indoor football facilities in Jyväskylä which are not enough
+for all teams; existing facilities in Jyvaskyla are following:
+17
+2.5.1 Killeri Indoor football Pitch
+FIGURE 6: Killeri indoor Football
+Killeri indoor Football facilities are located in Jyväskylä and it is approximately
+15 km away from city center. It is available for indoor football all year round
+but there is a huge problem that there are many football teams in Jyväskylä
+which are playing for first, second, third, fourth and fifth division of Finnish
+Football and most of the teams would like to reserve place to start training at
+winter season but there are not enough reservation time slots available for all
+teams. The following appendix is taken from Killeri indoor football field`s online
+schedule:
+18
+FIGURE 7: Reservation schedule of Killeri Indoor football
+The schema that attached above shows that most of the accessible times has
+been reserved for the JJK` juniors team and there are only limited amount of
+places left which are reserved by some other amateur teams. However, even
+if there are some times available for reservation, teams do not have enough
+money to reserve time because the prices are comparatively high between 90
+€ to 100 € per hours. There are some summer season offer in Killeri which are
+around 30 € per hour but none of the teams interviewed (and generally
+Finnish teams more widely, given the popularity of booking evidenced) want to
+play inside in summer time due to convenience of outside facilities. The
+service journey of the Killeri indoor football facility shows more detail of the
+customer journey while they use Killeri. The following figure is about service
+journey of the customer:
+19
+FIGURE 8: Service journey of Killeri indoor football facilities` customers (Ates,
+2014)
+2.5.2 Hipposhalli convertible indoor football Pitch
+The Hipposhalli convertible indoor football pitch is located nearby the city
+center and it cannot be considered as full time indoor football facility because
+there are so many other sports performed that is why it cannot be converted
+whenever teams want to play. Therefore, it is not convenient for all football
+teams that really limited time can be reserved for the trainings. According to
+central Finnish football association`s officer Mika Järvinen, number of football
+teams are increasing which requires more indoor facilities for them to train.
+Also, players are not happy about the size and surface of the Hipposhalli
+because it is small field and the surface is hard (resulting in injury of players).
+Because of the location, it is a good place to train and if it is modified such as
+changing artificial grass, then can be considered as good place just for
+training. The interview respondent R1 stated that “There is a Hipposhalli, but
+there is only certain days that can be played otherwise it is a running truck and
+surface of the football field is hard and burning your skin”. Hipposhalli can be
+seen on following figure:
+20
+FIGURE 9: Hipposhalli convertible indoor football field
+3 Research Problem
+“Indoor soccer is a great way to get extra training sessions in while
+in the off-season. We roll through each of the benefits of playing
+indoor soccer and the main reasons you should have your team
+play indoor soccer in the off-season”
+ Johnson, (2014.)
+Finnish football`s future depends on indoor football facilities where young and
+existing generation can improve their skills and train in off season to be fit for
+the actual season. There are indoor football facilities in most cities in Finland
+however they lack adequate provision for the demand because players should
+have the possibility to train 2 or 3 times in a week in order to maintain fitness.
+For example, stages between the ages of fourteen to seventeen are the
+period when players need to be trained in order to learn how to compete. “At
+this stage the ratio of competition in training is increasing. The focus is in
+developing complete football players which means that all of the sectors of
+technical, tactical, physical and emotional development and the life style of the
+athlete are in balance “(Beswik 2001, p15.)
+Moreover, some football players shift to `futsal` for winter season due to the
+lack of indoor football facilities. Futsal might be helpful to maintain fitness but
+21
+it will not improve their football skills. The rules and contexts are completely
+different between futsal and football; therefore, the biggest barrier for Finnish
+football is not having enough indoor football pitches to cater for demand which
+compromises players` ability to improve skills. If however, there would be
+enough spaces for people, it could improve the quality level in the Finnish
+football league.
+According to the second Finnish football division team Gnistan’s head of youth
+development Sipi Ulvas, “Gnistan’s home pitch is called the Fair Play Arena,
+and thanks to a heated artificial pitch and snow clearing machinery, Gnistans
+team, play and train throughout the winter. With an average temperature in
+Helsinki of -7 during February, the facilities are crucial for player development
+and the rapid improvement of the club’s youth programme in recent years”.
+In addition, football seems to be a high-cost hobby in Finland the opposite of
+other countries because families have to pay considerable amount of money
+to clubs for their children which prevent families in sending their children who
+cannot afford these prices. However, in many countries, football remains lowcost sport where most of the children can join the teams easily. Since, football
+is already an expensive sport in Finland;
+“The report said Finland’s most expensive children’s sports
+pastimes are horse riding and figure skating, the least being floor
+ball, soccer (football) and the Finnish version of baseball. It added
+the cost of hobbies for children, in particular competitive hobbies,
+has risen by 300 percent over the past ten years”
+ (Upi, 2014.)
+It has to move towards to be able to provide better quality playing
+environments because there will be different “entry points” where it requires
+better recreational and affiliated facilities.
+As a summary, athletes need to train for whole year round in order to be fit
+and increase their talents but it seems impossible for most of the teams in
+22
+Jyväskylä to train in winter season because they do not have enough space
+for trainings. Therefore, most of the players are resting for 4 months of the
+year which has a negative impact upon their performance. The following
+chapter is a more detailed definition of the research problem regarding this
+question of `entry points` and indoor football facilities.
+3.1 Research Questions
+By taking in consideration both cultural and seasonal factors, the goal of this
+thesis is to ascertain an answer to the main research question:
+ From the perspective of young active football players, will developing
+indoor football facilities help to improve the quality in Finnish football?
+This question was chosen as a main question and also improvement and
+suggestion will be found out through research objectives which are as follow:
+The research objectives to meet this question are:
+“What are the needs, aspiration and attitudes of young active footballers in
+Finland? “
+“From `a young active footballer`s` perspective, what are the ways to meet
+demand of indoor football facilities for the young generation?”
+“How can improvements of indoor football facilities affect the Finnish football
+in general?”
+23
+3.2 Objectives and motives
+The objective of the work is to assist the Finnish football association in seeing
+the importance of indoor football facilities to players` ability and the success of
+Finnish football in the international competition. It is essential to see how
+indoor facilities can be help a young generation to have an active football
+culture. According to researches that Finnish football association made and
+football professionals who are former professional football player and Finnish
+football referee, there seems to be a high demand for football among
+members of the younger generation, if continuous training places are provided
+for them the whole year round.
+The reason of choosing this topic was that the author has been playing
+football in his home country for a long time and when he arrived in Finland, he
+could not find any place where he could play football in the winter season.
+Therefore, it was surprising for the author that most players were resting for a
+period of months, a factor that affects the players’ ability negatively. That is
+why, through studying facility management, the author thinks that he could
+apply his knowledge into sports facility management which is related to this
+topic.
+4 Methodology
+“In primary data analysis the individuals who collect the data also
+analyze it; for meta-analysis an investigator quantitatively combines
+the statistical results from multiple studies of a phenomenon to
+reach a conclusion; in secondary data analysis individuals who
+were not involved in the collection of the data analyze the data.
+Secondary data analysis, may be based on the published data or it
+may be based on the original data”
+ Church (2001, 32.)
+24
+Research methodology process includes a number of activities to be
+performed in order to find data. These are arranged in proper sequence of
+timing for conducting research and one activity after another is performed to
+complete the research work. The main source for data is usually primary and
+secondary data.
+According to this explanation of primary and secondary data, both research
+methods will be used in order to find solution to the research questions. As
+primary data, a questionnaire to be filled out by active football players, and
+also an interview with professionals with expert opinions who are actively in
+football in central Finland and will be used as basis of raw data to answer the
+research questions and objectives.
+“A survey is way to collect information directly from people in a
+systematic, standardized way. Survey use questionnaires that ask
+the same question in the same way to all respondents. Data
+collected this way can then be used to make inferences about the
+population of interest (e.g. farmer in your country, parents who
+attend a parenting workshop, etc.) Information can be collected
+about people` s opinions, knowledge, attitudes, beliefs, behaviors,
+plans and background”
+ Powel&Hermann, (2000, P 3).
+The reason for author to choose a survey and interview method was to collect
+data for a better understanding of a certain research problem.
+On the other hand, Vartanian, (2010, p. 3), states “Analysis of secondary data,
+where secondary data can include any data that are examined to answer a
+research question other than the question(s) for which the data were initially
+collected” and the author will in this research utilize secondary data, of which
+includes sports literatures and theories to gather more information about the
+topic generally and to provide a contextual base to the Primary data.
+25
+This research design is based on “inductive” research strategies because its
+aim is to establish universal generalization to be used as a pattern explanation
+by using accumulative observation “Observations can be conducted on nearly
+any subject matter, and the kinds of observations you will do depend on your
+research question” (Driscoll 2011, 160) and data which based on survey and
+interviews. Inductive research strategy was the best suited method for this
+study because the attitudes and perceptions of the user of indoor facilities was
+the main focus that needed to be carried out. The information that was
+gathered through research strategies produce generalization for Finnish
+indoor football and pattern to explain further observations.
+“The primary purpose of the inductive approach is to allow
+research findings to emerge from the frequent, dominant, or
+significant themes inherent in raw data, without the restraints
+imposed by structured methodologies. In deductive analyses, such
+as those used in experimental and hypothesis testing research,
+key themes are often obscured, reframed, or left invisible because
+of the preconceptions in the data collection and data analysis
+procedures imposed by investigators”
+ (Thomas (2006, 2.)
+Moreover, the research case can be considered as “exploration” because it is
+associated with inductive strategy which requires finding out answers to
+questions like the “what” of subject matter, (regarding indoor football facilities).
+“Exploratory case study research is often regarded as little more than a
+preliminary step toward specific and focused causal research to generate
+required hypotheses” (Streb 2010, 6.) The size of the respondents that aimed
+to receive was around (25-35) responses from three different groups which
+was successfully achieved by collecting 30 responses. Thus, this gave
+chances to author for data saturation which is necessary for qualitative
+research but much less than a quantitative research. All the respondents of
+the survey and the interview had the experience by using indoor football
+facilities in Jyvaskyla which enabled author to use data saturation. Types of
+the respondent were young football players between the ages of 18 to 26 from
+two different teams in Jyvaskyla. There were different types of questions
+26
+concerning interview because author wanted to widen the perspective of
+current situation about indoor football facilities in Jyvaskyla and answer the
+research question and objectives. However, most of the respondents had the
+same ideas on current situation about indoor football facilities in central
+Finland region. The interview questions were as follows:
+ What is your general opinion about Finnish football?
+ How do you think Finnish football can be improved?
+ How would you describe indoor football facilities in Jyvaskyla?
+ Do you think that current indoor football facilities meet demand of the
+teams from Jyvaskyla?
+ How are the demands for football in younger generation?
+ How important to build new indoor football facilities for Finnish football?
+Can this increase quality in general?
+ What are the biggest factors that prevent Finnish football to develop as
+much as other European countries?
+The reason of choosing each question was to understand Finnish football
+more deeply and see the perspectives of expert about development of football
+facilities. Respondents were experienced about football industry in central
+Finland area which gave insight ideas as response to interview.
+In addition, football players are the most important aspect in football business
+so it is essential to receive their opinions about indoor football facilities.
+Quality in football starts with players and they are the main focus to improve
+the level. Therefore, it is important to know what the players think of the
+current situation in football facilities in Jyvaskyla.
+27
+4.1 Choice of case study
+There are two main reasons of choosing Jyväskylä as a case city. The first,
+one is that the author saw the struggling nature of the football teams through
+first hand observation. It was observed that teams were not able to find places
+or time schedules to train in warm-up sessions in order to prepare for the main
+season. And the second; that Jyväskylä is neither a big nor a small city in the
+context of the average Finnish city size and population, density. Jyväskylä is a
+regional center and problem solutions for indoor football facilities in Jyvaskyla
+can also be applied for other cities and regions.
+The city of Jyväskylä is located in the lake district of Central Finland.
+Jyväskylä´s population growth rate is one of the highest in Finland. With the
+population of 135 000, City of Jyväskylä is the seventh largest city in Finland.
+The Jyväskylä region is easily reached by land and air: the distance of 270
+kilometers from Helsinki takes only 35 minutes by plane and some 3 hours by
+car or by rail. Jyväskylä is a school and university city with 47 000 students
+during the academic year. That is why it has relatively young population where
+they do so many different sport activities including Football.
+Finland has not been in the interests of football researchers internationally.
+The 100-year history of FIFA has no mention of Finland, nor does the recent
+special issue on Scandinavian football of Soccer and Society (Itkonen &
+Nevala, 25 Apr 2012, P 2), Since there is not that much research available
+about Finnish football facilities It is understandable, then, that it is important to
+focus on this unexplored phenomenon and select the right research strategies
+in order to reach sufficient information to answer the research questions
+correctly and provide an emerging understanding of the Finnish context in
+Football.
+All the questions that have been asked to people are designed to obtain an
+insight in the ideas and suggestions, as well as the overall level of satisfaction
+of football players. By getting result of the questions, different factors in
+football player’s satisfaction are supposed to be covered. This thesis will
+provide different aspects on the subject of needs to be improved with the help
+28
+of indoor football facilities which are; players` ability; improvement of
+satisfaction and quality of football in Finland.
+It is important to create relevant and appropriate questions in order to provide
+sufficient surety (reliable and credible) of answers for what is looked for in the
+research. For the survey, there are a variety of different ways to apply but in
+this thesis, the online questionnaire survey was used due to its accessibility to
+people and provision of graphs and analytical data of the answers. Using the
+online survey was also good for the participants because most of the
+participants are studying and working so it is difficult to gather the entire
+participants in same place. Therefore, participants were given two weeks’ time
+to respond the survey and most of them were able to take part in the research.
+Google doc which is online software programs that enable people to create,
+share survey and receive all the relevant data will be used.
+Questions, mentioned above in the research question section, are going to be
+asked to people who play football or associated with football in order to collect
+reliable information. The author has expert knowledge about the subject
+matter of football and he has conducted pilot interviews to establish the
+appropriate participants who were interested in answering questions were
+invited to the research. Two weeks provide adequate time for all interested
+participants to fill out the questionnaire, after which the form was closed and
+final data was collected. Custominsight (2010) suggests giving a window of 7
+to 10 days, with a follow-up reminder sent a few days before the end date, is
+an effective method of using online survey questionnaires.
+In addition to the survey questionnaire, it is also important to carry out semi
+structured interviews with football experts to provide different opinions on the
+Finnish football context and experts who can see the situation much wiser
+than anyone else. The structure of the interview was semi-structured interview
+because open ended questions were used in order to receive answers from
+respondents:
+“Semi-structured interviews were selected as the means of data
+collection because of two primary considerations. First, they are
+29
+well suited for the exploration of the perceptions and opinions of
+respondents regarding complex and sometimes sensitive issues
+and enable probing for more information and clarification of
+answers. Second, the varied professional, educational and personal
+histories of the sample group precluded the use of a standardized
+interview schedule”
+ (Barriball & While (1994, 330.)
+Also, the respondents were semi-elite experts who knew football well in the
+central Finland areas. The results of the interview with the results from the
+survey questionnaire gave an insight in the areas that both Finnish indoor
+football facilities and Finnish football as a whole need to be improved upon.
+By collecting data from both the questionnaire and the interview, the right
+solutions can be found to fit the needs of both indoor football facilities and
+Finnish football as a whole. This can be considered as 'data triangulation'.
+“Data triangulation also referred as data sources triangulation depicts the use
+of multiple data sources in the same study for validation purposes” (Hussein
+2009, 3.)
+5. Collection of data
+The qualitative data which conducted through questionnaires, interviews,
+academic books and articles was used in order to gather related research. A
+questionnaire survey was sent to three different groups in Jyväskylä which
+were the third Finnish football division team players of JPS (Jyväskylän
+Seudun Palloseura), a Finnish futsal second division team Fs.Feeniks` players
+and football related people who know the situation about football in Jyväskylä.
+The questionnaire survey was conducted on 26 March to 7 April in 2014. The
+purpose of the survey was to get a deep understanding and gather
+perceptions of those who are involved in football. The respondents gave their
+own ideas about their perception on indoor football facilities in Jyväskylä.
+30
+The goal was to receive 25-35 responses to gain reliable data. The deadline
+for collecting the data was the end of the first week of April because usually
+after March, most of the football teams are starting to play outside football
+pitches and they already had experience the indoor facilities for training in the
+winter season.
+After the data had been collected, two different football professionals with
+expert opinions who were former JJK professional football player and Finnish
+futsal & football referee were interviewed in order to have deeper
+understanding of the Finnish indoor football facilities more in deep. Ethical
+questions and informed consent was asked to the interviewees and they
+'exercised their right to anonymity'. Therefore, interview responded names are
+not on the research and they are called as respondent (R1) and R (2). The
+contents of the interviews were sent to the respondents approximately one
+week before the interview to give them time to read them through before the
+actual interviews. The interviewers were carried out in the middle of April, at a
+suitable time for the respondents and taking approximately 30-40 minutes per
+interview.
+6. Research Results
+6.1 Survey questionnaire results
+This online survey questionnaire consists of 13 questions which was online
+questionnaire prepared by using Google Docs for designing survey and
+delivered to three different target group in order to find out the views of each
+individuals. Although, author tried to do his best to receive more responses,
+he could manage to receive (30) responses which also can be considered as
+a reliable number for qualitative research which could enable author for data
+saturation. (30) Responses were adequate for data saturation because
+quantitative research requires much larger numbers of data. The result from
+the survey is as follows:
+31
+Survey Figure 1: Gender
+Figure 1 shows that all the respondents who took part in the survey were male
+because target groups were men football and futsal teams which were from Fs
+Feeniks, JPS and semiprofessional football players.
+Survey figure 2: Occupation
+As it is already mentioned above that Jyväskylä has young population where
+attract large amounts of students from all around the Finland and different
+countries. Most of the football teams have many players who also study at the
+same time. In this survey case, target group teams also had many students
+which consist of 70 % of occupation.
+32
+Survey figure 3: Experience of respondent
+According to above survey chart, most of the respondents have been playing
+football more than 10 years which makes them expert about many aspects
+related to football subject. It also shows that those target groups were chosen
+correctly in order to receive reliable data which were gathered through survey.
+Survey figure 4: Respondent`s teams
+In this survey, three different target groups were questioned because
+comparison between different teams` players perspective on situation of
+indoor football facilities in Jyväskylä would be good evidence to see
+satisfaction of different teams` member. This is because, some teams can
+reserve better schedule time for training in winter season and some teams
+cannot reserve place which would bring different result on perception.
+33
+Survey figure 5: Best suited words for Finnish Football
+Question 5 was designed to find out, what words can be best suited to
+characterize Finnish football because a single word can easily explain a topic.
+The survey results show that, people think that Finnish football is still in the
+process of development and still has not been successful. However, according
+to number of the young football players proof that football will be more popular
+thanks to new generation because there are huge demands for football in
+young generation.
+Survey figure 6: Best indoor Football facility
+34
+To question 6 which dealt with the perceptions of the best indoor football
+facilities, the respondents gave many answers which a `good` indoor facility
+must have. The responses to the survey questions also show that people are
+not satisfied with the maintenance and services of the facilities. Also, location,
+temperature, lights and prices seems to be other factors that are have not yet
+been sufficiently improved in Jyväskylä.
+Survey figure 7: Satisfaction on indoor Football experience
+Figure 3 above showed that most survey respondents have been playing
+football for more than 10 years and they know what they really need to get
+better football. According to these answers, 90 % of the respondents are not
+satisfied with the current situation of indoor football facilities in Jyväskylä.
+Survey Figure 8: Schedule of indoor Football satisfaction
+In the schedule (figure 7 pg 19) Killeri indoor football facilities: most of the time
+has been reserved to JJK`s juniors teams to train and free times when are
+generally in a day time are not adequate for the people who work and study
+due to daytime commitment such s work or schooling. It is understandable
+35
+that they give importance to young generation but there should appears a
+need for more facilities that enable other people to train regardless of age.
+Survey figure 9: Overall experience of indoor football in Jyvaskyla
+The earlier question was in relation to capacity of facilities and if there was
+enough or not. While, this question was designed to find out if people are
+happy with the existing facilities and their qualities. It seems that people have
+not voted for good grade in general and almost half of the respondent 45 %
+vote for 2 which is below average. This result clearly says that people are not
+satisfied with the quality of existing football facilities which need to be
+improved.
+Survey figure 10: People` perception to train in winter season
+Most people in Finland think that football players are not willing to train in
+winter season but in this figure, it is proved that most of the respondents 93 %,
+would like to train in winter season if they would have enough facilities where
+they can train whole year round to improve their talent and stay fit.
+36
+Survey figure 11: Effect of indoor football on player`s ability
+According to survey, most of the respondents who took part in the survey
+mentioned that building or providing indoor facilities for players, would help
+them to improve their abilities and if this starts with junior teams, that would
+also improve quality in national level naturally. Moreover, respondents think
+that providing these kinds of opportunities, would motivate people to go there
+to train more and more to achieve their goals. However, some of the
+respondents recommended that only building facilities would not help because
+there should more investment and interest on football which can make football
+culture in society rather than ice hockey.
+Survey figure 12: Can indoor Football facilities improve quality of Finnish
+Football
+37
+Currently, Finnish football is not as successful as other countries and there
+has to be solutions for this situation since football is the number one sport in
+other countries. Indoor football seems to be one of the biggest options for this
+situation because as much as people find space to train more and more, their
+talents and abilities will increase automatically. Therefore, this would help
+Finnish football to be more successful in international competition. Also, it can
+be seen that most survey respondents think the same way as author and they
+vote for 4 and 5 which are highest grade to vote by 80 %.
+Survey figure 13: Recommendation on football facilities in Jyväskylä.
+The respondents to the last question, which was about the recommendations
+on the facilities in Jyväskylä, gave a lot of constructive feedback. There were
+advices on different subjects such as investment, commercialization, facilities,
+education, location and maintenance of football facilities in Jyväskylä.
+However, the biggest recommendation percentage was on building new
+facilities (44, 2 %) and improving the maintenance of the existing ones (25,
+6%). Also, half of the respondents mentioned that there are two outdoor
+football fields near Kortepohja area which is called Vehkalampi football field.
+One of them could be covered to meet the demand of the teams for the winter
+season because the location and the artificial grasses are suitable for training
+there.
+38
+6.2 Interview results
+First, two professionals with expert opinions who are a former JJK`s
+professional football player and Finnish football & futsal referee were
+interviewed. Each interview took approximately 30 minutes. The respondents
+had many different ideas about the football situation in Jyvaskyla because
+they have been active participants there for a long time. There were three
+different aspects, adaptation, problem solving and encouragement
+emphasized by the respondents during the interview. Correlation between
+these three aspects is shown in the following figure:
+Interview figure 1: Three different aspects that can improve the indoor football
+facilities in Jyvaskyla (Ates, 2014)
+According to the interview, adaptation including facilities, climate, opinions,
+aspects and differences is the most important subject about improving football
+and the related facilities because winter is really harsh in Finland which makes
+it difficult to adapt football to these conditions. Accordingly, there must be
+better indoor facilities to improve the quality of Finnish football. Furthermore,
+football is popular as participatory sports but not so popular as spectator sport
+in Finland. Therefore, the adaptation of football to the culture and climate is
+essential for future improvements.
+39
+Secondly, problem solving which includes recommendation, international
+relations and educations is another vital factor that can be effective in
+improving football in Finland. There were many recommendations that
+mentioned by the respondents such as a full size indoor football facility in
+Jyvaskyla, converting one of the Vehkalampi football fields and modifying the
+old ones to improve the facilities. Also, international relations were mentioned
+by the respondents as important sources of the different point of view of
+players or coaches from other countries. And then, local players and
+foreigners can learn from each other and improve their performance. The last
+point in problem solving was that young coaches are generally working as
+volunteers and they do not have the motivation to improve themselves. If the
+Finnish football association can offer them a good education we might have
+more talented young players.
+Thirdly, encouragement was also mentioned many times in the interview
+which requires more involvement of people to football as their hobby. It is
+known that hobbies are expensive in Finland, if families want to send their
+children to a football team, then they have to pay for it. Therefore, involvement
+is not high because all the families cannot afford to give their children this
+opportunity. This also why there is no football culture in society. If football was
+a free or cheaper hobby, there would be more involvement in society which
+could lead to better players and greater popularity of football. All the above
+factors are effective tools for improving the status football in the Jyväskylä
+regions which could be a good example for other cities considering the quality
+of Finnish football.
+7. Reliability / Validity
+The reliability and validity issues of an experimental study are essential since
+they provide information on credibility for the thesis. “Fundamentally, reliability
+concerns the extent to which an experiment, test, or any measuring procedure
+yields the same results on repeated trials” (Carmines & Zeller, 1979, 1.) On
+the other hand, validity concerns more about relationship between concept
+40
+and indicator. It is more difficult to have reliability and validity in qualitative
+research than quantitative because in quantitative research, there are large
+amounts of numbers of data and people that can be transformed into useable
+statistic. However, qualitative research provides insights into the problem or
+helps to develop ideas or hypotheses for potential quantitative research. “This
+relates to the concept of a good quality research when reliability is a concept
+to evaluate quality in quantitative study with a “purpose of explaining” while
+quality concept in qualitative study has the purpose of “generating
+understanding” “(Stenbacka 2001, 551.)
+In order to make sure validity of the interview and its result, only experts with a
+certain status such as former professional football player and official referee
+with multiple years of experience in the football field and overall good
+knowledge base on the subject were chosen. A good qualitative study can
+help us “understand a situation that would otherwise be enigmatic or
+confusing” (Eisner 1991, 58).
+In addition, semi-professional football players who know the situation in
+Jyvaskyla about the indoor facilities took part in survey questionnaire.
+However, those belonging to the target groups were not interested in taking
+part in this research. The reason seems to be that most of the respondents
+were students, who were working at the same time. Therefore, they could not
+have time to respond to the survey questionnaire. However, enough
+responses (30) were received, which was sufficient for the research purposes.
+All the above aspects were taken into consideration in this research study.
+However, based on the target groups of this survey`s questionnaire which was
+about people` opinions on indoor football facilities, respondents think
+development of Finnish football may come with indoor football facilities in near
+future. This also could affect the outcomes of national Finnish football team
+which could raise their level of success both nationally and internationally.
+For the future research, football players` and professional` points of views on
+the situation would be recommended to be gathered in 5 or 10 years so that
+the results can be benefited according to the Finnish football needs. The
+survey questionnaire which was already mentioned can be applied to different
+41
+target groups and research data can be bigger to have more trustful
+understanding.
+8. SWOT Analysis of indoor Football facilities in Jyväskylä based on
+qualitative research results
+SWOT is an acronym which stands for strength; weakness; opportunity and
+threats. SWOT is a toll to assess a business or a proposition. This should not
+be restricted to a business you own, but also to use it for your competitor’s
+business (G Fine, p8). This business tools can help company or any
+organization to see whether current situation of the business or industry is
+going well or not.
+There are so many different aspects in this thesis case that need to be
+considered when it is evaluated about the attitudes and perceptions of users
+on indoor football facilities and continuous training places because the ideas
+of each individuals are affected by different elements such as price, location or
+accessibility. However, the easiest way of narrowing down of these elements
+was using SWOT analyses which enable this research to find out
+opportunities and threat. “Important decisions are made every day by each of
+us. There are times when we have to make a quick judgment, and we will
+base those decisions on the information we have available. Yet, there are
+other times when we have to look at lots of different factors available, and this
+is one of the times when we need to use a SWOT analysis” (G Fine, p4). That
+is why; SWOT analysis would cover all those aspects by showing strength,
+weakness, opportunity and threat of indoor football facilities in Jyväskylä. The
+following appendix simply explains SWOT analysis tolls:
+42
+FIGURE 10: SWOT (ConceptDraw, 2014)
+8.1 Strengths:
+These are the positive factors of indoor football facilities that enable industry
+or organization to have advantages over others within control. “These internal
+strengths help to either exploit potentials and opportunities or they may be an
+asset to ward off threats and potential difficulties “(Schall, p5).
+ High demand for indoor football in young generation
+ High profit
+ Good management system
+ Growing popularity of football
+ Multiple purpose use of facilities
+ Quality of artificial grass
+9.2 Weaknesses:
+These can be considered the negative factors showing which area of
+organization should be improved. “An internal condition which supports the
+reduction of the factors which erode the consultant’s competitive position in
+43
+the consultancy industry or the weakness hampers the effective exploitation of
+the existing or future market opportunities” (Schall, p5).
+ Not enough indoor football facilities
+ Time scheduling
+ Ineffective use of facilities
+ Cost of building facilities
+ Not enough funds to be invested in football facilities
+ Long distance from the city center
+ High prices
+8.3 Opportunities:
+These show what we have in order to expand our current facilities and how it
+should be utilized and expanded. Opportunities are generated by different
+environments. If the process is maintained well, the advantages of
+environment can be improved and profit can be maximized.
+ Long winter season
+ Different activities can be organized in facilities
+ Number of football teams in Jyvaskyla
+ Less expensive, more customers
+ Dealing with professional teams in order to get more customer for free
+times
+8.4 Threats:
+These are external factors which can be controlled. It would be logical to be
+well-aware of the new trends in the field in order to control the threats.”
+Factors which need not be seen only from negative side, a threat can also be
+a posed by an unfavorable situation in the environment” (Schall, p6).
+44
+ Facility should be built for multi-purpose where different sports groups
+can be attracted
+ Energy expenses
+ High taxes
+ Variable costs
+ Competitors` facilities
+9. Discussion on the reliability of the research and future research areas
+The ideas exchanged with football players and professionals were one of the
+main factors that can be found in the research and that is the most important
+aspect to see how people think about current situation.
+The feedback which was received from different targets not only told where
+the development of indoor football is at but also clarified what should be done
+to improve people` satisfaction and quality of facilities. After that, feedbacks
+indicated the people` expectations vs. experiences over the development
+processes.
+Although, there were three different target groups in this research, it would be
+much more effective if Finnish football association also involve in the research
+and receive more feedback from different locations and target groups.
+Furthermore, all the information that would be gathered in further research
+could be good evidence to raise authorities’ awareness in lack of indoor
+football facilities for people who need continues training place to improve their
+talents.
+The same application which was used in this research process about indoor
+football facilities could be applied again in future research to find out if there
+are major changes over the years because the process may take from 5 to 10
+years.
+45
+10. Conclusion and Discussion
+The primary aim of this research was to find out different target groups`
+perceptions of and satisfaction with the quality of indoor football facilities in the
+city of Jyväskylä. In order to be able to gather valuable and reliable data for
+the thesis, it was relevant to explore those players’ attitudes that are using
+indoor football facilities.
+According to the research, it shows that Finnish athletes preferred to do
+individual sports such as running or skiing in the past because there were not
+enough facilities to do team sports. However, this situation has changed over
+the years because team’s sports such as ice hockey or football became more
+popular in Finland. Ice hockey developed well with facilities and all the other
+supportive tools. On the other hand, football also developed remarkably in
+Finland but it could not improve as much as other countries because three
+different aspects that facilitate football which are climate, culture and finance
+did not support football in Finland. Moreover, the main reason was that
+players were not able to play four months because of cold winter season. The
+solution to this problem is indoor football facilities where players can train in
+winter season without taking a break. Indoor football facilities with artificial
+grass can be found many cities of Finland but numbers of facilities are not
+even close to meet the demand because there are many teams in each cities
+and high demand from young generation which requires more indoor facilities
+to provide those better places to train for whole year round.
+There are many aspects that are positive side of Finnish football which
+encourage football association to develop football and facilities. Firstly, there
+are high demands for football in young generation which encourage
+authorities to assist with new indoor facilities for young generation because
+number of adult players in central Finland is (1220) but this number is almost
+four times bigger if it is considered for under 19 years old (4783) (Palloliitto,
+2014). Moreover, since there are high demands for the indoor facilities, there
+is a high possibility to profit because there are not many facilities in central
+Finland and if there would be new facilities with multi-purpose, the owner
+would maximize its profit with both football and other sports. Also, long winter
+46
+season would be plus for this kind of facilities because athletes have to train
+inside until the weather get better to train outside. On the other hand, there
+are also weaknesses of indoor football facilities but it occurs if it is not
+managed well, located far from center, expensive prices and cost of facilities.
+However, all these negative aspects can be disappeared, if it is considered
+and managed well, then all the needs of the players would be met by the
+facilities.
+In summary, the respondents’ answers for the survey and interview, especially
+supported the hypothesis about the lack of indoor football facilities in
+Jyväskylä and about people`s satisfaction with and experiences of the existing
+facilities. The respondents also thought that building new indoor facilities for
+football can affect Finnish football positively and minimize the negative effects
+of the winter season.
+In addition, the respondents also clarified the problems, for example that most
+football players are unhappy about their performance which is negatively
+affected by the cold winter season. Nonetheless, the respondents gave so
+many positive recommendations such as converting some of the old outside
+pitches to indoor football facilities, for the city administration to build a multipurpose hall as community service and to find some funds to build new ones
+at good location. As the main themes that came out from research was that
+there is a problem to train in winter season and there has to be more indoor
+facilities to give opportunities to young football generation to improve their
+talent and quality of football. However, the finance seems to be the biggest
+problem for investment of football in Finland since it is considered only as
+summer sport. This might be changed cooperation between football
+association and the Veikkausliiga to have better quality because stadiums are
+old fashioned and the fans` mindset is not ready for a longer football season
+unless the outside temperature is more than 20 degrees. Therefore, this
+mindset should change because young generation is interested in football and
+they should be provided better and appropriate places where they can train
+whole year round. And then, success might come in a long run with the young
+generation which train as much as other players from different countries.
+However, it seems that it might take more than a few years for us to see the
+47
+effects of the new generation of young football players to make football more
+popular.
+Moreover, according to the respondents, it is said that this issue has been
+discussed for a long time but no action has yet been taken by the football
+authorities. However, the increasing popularity of and demand for football
+among members of the young generation, will finally convert Finnish football
+facilities into continuous training places to give players an opportunity to be
+some of the next Finnish football legends as Jari Litmanen or Sami Hyypiä.
+The results give hope for the future of Finnish football because people`
+interest is increasing every day. The ice hockey culture will probably not
+change completely but football can be as popular as ice hockey in this
+country.
+As for further studies, it would be also beneficial to do also quantitative
+research about the subject to see different points of views of a large number
+of people. Also, applying the survey questionnaire to different age groups or
+girls` football players in the future could be good evidence to see their overall
+satisfaction
+48
+REFERENCES
+Ammon,Richard&Nagel, 2010. “Sport Facility Management “, West Virginia
+University, America
+Antti Iho & Jaakko Heikkilä, 2008. “Has selling tickets in advance increased
+attendance in the Finnish football league”, University of Helsinki, Finland
+Babatunde Wusu, 2013. “Player development guidebook for JJK Jyväskylä
+football club”, Helsinki, Finland
+Barriball & While, 1994. “Collecting data using a semi-structured interview: a
+discussion paper”, King’s College London, Department of Nursing Studies,
+London, England
+Borland, J. & MacDonald, R. 2003. “Demand for Sport “, Oxford Review of
+Economic Policy 19(4): 478-502.
+Chris Johnson, “Indoor Soccer: The Benefits of Indoor Soccer” Soccer Expert
+Christoph K. Streb, 2010, “Encyclopedia of Case Study Research: Exploratory
+Case Study” Thousand Oaks, Berkeley, California.
+"Customer Satisfaction Surveys: Maximizing Survey Responses." 24 Nov.
+2010, Accessed on April 22, 2014 www.custominsight.com
+Dana Lynn Driscoll, 2011 “Introduction to Primary Research: Observations,
+Surveys, and Interviews”.
+David R. Thomas 2006. “A General Inductive Approach for Analyzing
+Qualitative Evaluation Data”, University of Auckland, New Zealand
+Edward Carmines & Richard Zeller, 1979, “Reliability and validity assessment
+“, Beverly Hills, London
+Egan Richardson, Feb 27, 2009. “Gnistan sign co-operation deal with
+Sheffield Wednesday”, Nordic Football news, Finland
+Eisner, E. W. (1991). “The enlightened eye: Qualitative inquiry and the
+enhancement of educational practice”. New York, NY: Macmillan Publishing
+Company
+Esto European Synthetic Turf Organization, 2014. “Synthetic Turf
+development in Finland”, Brussels.
+FIFA, 2014 “Football history “Accessed on February 25, 2014
+http://www.fifa.com/classicfootball/history/
+49
+Golafshani, N. (2003). “Understanding reliability and validity in qualitative
+research”, The Qualitative Report, 8(4), 597-606.
+Hannu Itkonen & Arto Nevala, 2012. “A popular game in Father Christmas
+Land? Football in Finland”, University of Eastern Finland, Joensuu, Finland
+Harald Dolles & Sten Söderman, (2005) “Globalization of Sports - The Case of
+Professional Football and its International Management Challenges”, Tokyo,
+Japan
+Hussein Ashatu 2009. “The use of Triangulation in Social Sciences Research:
+Can qualitative and quantitative methods be combined?” University of Agder,
+Norway
+“Hockey too expensive for many Finnish kids, report says”, Accessed on May
+9th, 2014. http://www.upi.com/Top_News/World-News/2014/04/11/Hockeytoo-expensive-for-many-Finnish-kids-report-says/6751397231657/
+Information on Finnish Football structure, Accessed on March 3, 2014.
+http://www.veikkausliiga.com/Statistic.aspx?id=6 http://www.palloliitto.fi/
+Information on Ice hockey in Finland, Accessed on March 5, 2014.
+http://www.finhockey.fi/info/in_english
+“Increasing Physical activity” accessed on March 14th, 2014
+www.Health.gov.com
+Lawrence G Fine, 2009. “The SWOT Analysis, Using your Strength to
+overcome Weaknesses, Using Opportunities to overcome Threats” by Kick It,
+LLC
+Mihály Szeróvay, February 2010. “Marketing Analysis of JJK Jyväskylä, A
+First Division Football Club in Finland”. University of Jyväskylä, Finland
+Mihály Szerovay, July 9, 2013. “Sport SponSorShip in finland: the caSe Study
+of fc JJK JyväSKylä “, University of Jyväskylä, Finland
+“One in five says cost has forced kids to give up a hobby”, Accessed on May
+9, 2014.
+http://yle.fi/uutiset/one_in_five_says_cost_has_forced_kids_to_give_up_a_ho
+bby/6607009
+Poliakoff, M. B. (1987). “Combat sports in the ancient world: Competition,
+violence, and culture”. New Haven, CT: Yale University Press
+Richard Giulianotti and Roland Robertso, 2004. “The globalization of football:
+a study in the globalization of the ‘serious life’. London School of Economics
+and Political Science, England
+Robinson, L.A. (2008). The business of sport, in Sport and Society (2nd ed.),
+Houlihan, B.M.J.H. (Ed.), London: Sage
+50
+Russell M. Church, 2001. “The Effective Use of Secondary Data” Brown
+University, p33, 32–45.
+Stenbacka, C. (2001). Qualitative research requires quality concepts of its
+own. Management Decision, 39(7), 551-555
+Schwarz, Hall, Shibi, 2010. “Sport Facility Operation management “, Oxford
+England
+Taylor-Powell, Hermann, May 2000. “Collecting Evaluation Data: Surveys
+“Madison, Wisconsin, America
+The Author Journal compilation, 2008 “Environmental characteristics relevant
+to young people’s use of sports facilities: a review”, Bodø, Norway
+The FA National Facilities Strategy 2013 – 2015, (2013) “Building, Protecting
+and enhancing sustainable Football Facilities”
+Von Franz & Schall, “Practitioner`s Guide: Strengths, Weaknesses,
+Opportunities & Threat (SWOT) “
+51
+FIGURES:
+FIGURE 1: Four pillars of Finnish Football (Van der Aar, May, 2011)
+FIGURE 2: Finnish ice hockey`s development process map over year
+FIGURE 3: Finnish football`s development process map over years
+FIGURE 4: Jyväskylä`s location on Finland map
+FIGURE 5: Blueprint of indoor football facilities in Jyvaskyla
+FIGURE 6: Killeri indoor Football Jyväskylä
+FIGURE 7: Reservation schedule of Killeri Indoor football
+FIGURE 8: Service journey of Killeri indoor football facilities` customers
+FIGURE 9: Hipposhalli convertible indoor football field
+Survey Questionnaires FIGURES:
+ Survey Figure 1: Gender
+ Survey figure 2: Occupation
+ Survey figure 3: Experience of respondent
+ Survey figure 4: Respondent`s teams
+ Survey figure 5: Best suited words for Finnish Football
+ Survey figure 6: Best indoor Football facility
+ Survey figure 7: Satisfaction on indoor Football experience
+ Survey Figure 8: Schedule of indoor Football satisfaction
+ Survey figure 9: Overall experience of indoor football in Jyvaskyla
+ Survey figure 10: People` perception on train in winter season
+ Survey figure 11: Effect of indoor football on player`s ability
+ Survey figure 12: Can indoor Football facilities improve quality of
+Finnish football
+ Survey figure 13: Recommendation on football facilities in Jyväskylä.
+Interview FIGURES:
+ Interview Figure 1: Three different aspects that can improve indoor
+football facilities in Jyvaskyla
+FIGURE 10: SWOT Analyses (ConceptDraw, 2014
+52
+APPENDIXES
+Appendix 1: Survey Questionnaires
+1) What is your gender?
+2) Which of the following best describes your current occupation?
+3) How many years have you been playing football?
+4) Are you member of any Football or Futsal team? If yes please specify
+your team!
+5) Can you describe Finnish football with best suited word? E.g (popular)
+6) In your view what makes best indoor football facility?
+7) Are there enough indoor football facilities (not futsal) to train in winter
+season for Jyväskylä?
+8) How do you feel about schedules of existing indoor football facilities in
+Jyväskylä?
+9) Please rate your overall experience of indoor football facilities for
+Jyväskylä?
+10)If there would be enough and better indoor facilities, would you like to
+train in winter season?
+11)Do you think building new indoor facilities for continuous training; can
+improve football players` ability in general?
+12)How do you think providing this kind of facilities affects quality of
+Finnish football?
+13)What kind of suggestion would you like to give to improve football
+facilities in Jyväskylä?
+53
+Appendix 2: Interview questions and answers
+Respondent 1 and 2:
+1) What is your general opinion about Finnish football?
+R1: Well, Finnish football has developed a lot last 10 or 15 years but if it is
+compared to other countries, unfortunately they have developed more than
+Finland. Therefore, level for football in Finland is not high compare to other
+countries and mostly Finnish football can be considered as semi-professional.
+Also, players cannot earn enough money even if they play in top division.
+R2: Finnish football is kind of developing football and although Finland is rich
+country, football culture is not so good. Football has not been the number one
+sport in Finland but ice hockey has been. Earlier times, other sports were
+popular like individual ones such as skiing, running and etc. and team sports
+started to be popular maybe in 60`s or 70`s but still football was not popular
+at that time. However, football has been very popular as participant sport but
+not a spectator sport. Football became more global and also in Finland it is
+getting more and more popular in terms of participation but in term of
+spectator and interests it not popular yet. If it looked level of Finnish football,
+they are around 50`s in FIFA`s ranking.
+2) How do you think Finnish football can be improved?
+R1: In my opinion, key point is competition because younger teams should
+play harder games as possible which prepare them for more challenging
+games. Also, I think that they have to be divided in different groups according
+to their level such as better player play together and normal ones play with
+each other’s. After that, competition can increase the level of Finnish football.
+R2: First of all, I think that Finnish football has a chance to be better but you
+have to take into consideration that Finland is a small country and it does not
+have tropical weather, football culture .Also, it has been researched that what
+are the good factor that makes football better are that GDP (Finland is okay),
+size of the country (Finland is small) and tradition (Finland does not have
+that). In those three it affects football a lot but Football association of Finland
+54
+doing very well to improve football like couching education which is going to
+right direction but still need to be improved and facilities because you cannot
+play football for whole year. If you think about football players who is 20 years
+old and started to play football at the age of 8 and played for 12 years, every
+year he or she was playing football only 8 months in 12 months. In 15 year
+just multiply this 4 months with 15, it is kind of sad back so if you compare
+other countries like Spain or Turkey, they play whole year round. If you
+consider this for couching as well, he has less experience because they can
+play less time. Facilities, couching education are the most important. In
+Finland couching system is voluntarily but now it is changing to shifting system
+because even junior team, there are professionals are working in the club as
+head coach for example. It was like civil activity and now it is going right
+direction. Also minister of education gives some kind of support that you can
+get some money for education. Also there are some young couches that are
+not experienced; they get some kind of pocket money. One more thing is also
+that international relations are quite important relates to couching. For
+example, young couch can go abroad and get experience or foreign coaches
+can come here to participant some seminar, congress. For example there
+have been some coaches from Barcelona and Ajax in Finland. Let`s see how
+teams improve junior team because there is a tendency for professional
+coaches and employees so if you just have look at the improvement and
+development of the performance, you definitely need more professional
+coaches. On the other hand, I have a critical approach because also prices
+are more expensive for parents. In Finland, there is a big discussion that all
+kind of sports are getting more expensive and if you want to involve more and
+more people like public sports then it should be cheaper but dilemma is if you
+want to have better coaches, you have to pay for that and it is not easy to
+solve this problem. Government gives some kind of support but it is still not
+enough
+3) How would you describe indoor football facilities in Jyvaskyla?
+R1: One word to describe indoor facilities would be “poor”. We have some
+facilities but they are not even close to good enough. For example, in Killeri
+indoor football field turf is good but it is not big enough and there are not
+dressing rooms or shower. In Hipposhalli, there are dressing rooms but the
+55
+turf is so hard and field is too small so it is not good for competitive teams.
+Also, multi-use of Hipposhalli is good and efficient but it is cannot be reserved
+all the time.
+R2: Yes, indoor football facilities in Jyvaskyla definitely are not enough. If you
+think about that there is a professional team but this year they for 1st division,
+there is no full size indoor football facilities in Jyvaskyla where official games
+also can be played. It has been that official games in winter time, JJK had to
+go some other cities to play. At the moment there is only Killeri which is good
+for practicing and junior teams but it is not own by the city, it is private facility
+and it has a monopoly situation. Although some team has some deal to player
+there, it is still expensive and there are many teams in central Finland over 50
+so it is not enough for all of them at all. Also there is a Hipposhalli, but there is
+only certain days that can be played otherwise it is a running truck and surface
+of the football field is hard and burning your skin. However, there is possibility
+that outside pitch where is called Vehkalampi might be covered for next winter
+but it is not official yet.
+4) Do you think that current indoor football facilities meet demand of
+the teams from Jyvaskyla?
+R1: No it doesn’t because there is not enough training shift for all the teams.
+And also, there is no full size indoor field with turf in Jyvaskyla. Best
+accessible times in Killeri are reserved by the JJK junior’s teams because they
+have money and resources to reserve the place in winter season which is
+current best indoor football in Jyvaskyla.
+R2: It is already answered in question 3.
+5) How are the demands for football in younger generation?
+R1: I think that the amount of young football players in central Finland will not
+increase much maybe just a little but that would be all.
+R2: Finnish youngster are doing a lot of physical activities until age of 12, but
+until the age of 18 football is the most popular sports to practice now. I think I
+can say it for sure because I have checked it from official statistics.
+56
+6) How important to build new indoor football facilities for Finnish
+football? Can this increase quality in general?
+R1: Yes, if we have full size indoor football facilities with good turf in central
+Finland, quality of the training would make a big leak in central Finland. This
+can affect national level maybe little bit but not so much in general.
+R2: I was mentioning that quality is definitely should be improved on the
+other hand it should be though that does everyone has a chance to
+participate to activities and everyone should be given a change to practice so
+solution need to be found about level need to be improved but at the same
+time for everyone. However, it is really challenging task. Also, it is important to
+have indoor facilities, I am not sure situation in other cities but in Turku,
+Helsinki area they have enough but in Oulu they are also complaining that
+they do not have enough indoor facilities. At the moment there is an economic
+crisis still, and municipalities do not have so much money and try to save
+money by cutting from sports and other activities. For example city of
+Jyvaskyla is giving support for the clubs, maybe around 2 to 5 thousand yearly
+but this number is going down. Therefore, when you think about improving
+facilities, it is about money, priorities and you have to find some kind of ways
+financing these facilities. The way can be cooperation between public and also
+municipalities can involve as well but there is a crisis for companies as well.
+Also, Jyvaskyla still has a chance because football association is planning to
+Jyvaskyla to be city for coaching centre so that it can create better chances for
+the facilities because funding is not ready for that kind of facilities but if they
+decide to that in Jyvaskyla, it might be easier to get companies to fund
+facilities because the facilities that we have now are not enough that there
+should be more facilities with dressing rooms and stuff like that. If Vehkalampi
+is covered, it can be good solution to right direction.
+7) What are the biggest factors that prevent Finnish football to
+develop as much as other European countries?
+R1: Finnish players are not playing competitive enough and training seasons
+are longer than competition season. At least competition season should be
+longer to improve quality. Or there can be summer season league and winter
+57
+season league to make competitive season longer but obviously it requires
+more indoor facilities in order to do that.
+R2: If I go back little bit early that I mentioned about sociology, culture has to
+change. Certain sports were popular earlier because Finland location is in the
+north and it has an impact of climate, facilities are not good so doing individual
+sports were much easier. Also tradition that I talked about, success depend on
+the how rich is the country and how many games the national team played,
+what kind of coach the teams had, international relations are easy now but in
+1920 ,geographically, It was not easy to involve other people from different
+countries. For example, Finland is always compare to Sweden, Sweden is
+little bit closer to central Europe and little bit different financing for football as
+well but in term of coaches, they had coaches from England, Hungary and
+other country earlier than Finland and of course this also affects the situation
+of improvement in Finland.
+8) What would you recommend about indoor football facilities in
+Jyvaskyla?
+R1: If we want to be respectable football region in Finland, full size indoor
+football facilities must be constructed as soon as possible. Existing facilities
+are doing well with their resources but Hipposhalli turf can be renewed with
+better turf to be better. And also there must be at least one more full size
+football field for winter season.
+R2: As I said that if Vehkalampi converted to indoor facilities which can be
+good option. Although it is not easy situation, city does his best because when
+they are dividing the shift for teams they are trying to be really fair that
+everybody has a chance to train. And when Vehkalampi is converted they
+have to count as well if the times scheduling are enough for all teams or not. I
+think that still it would not be enough, because of course, most accessible
+shits are after 16:00 o clock, not so many hours in a week, so probably there
+should be more shifts which require building new ones. However, like I said
+financial situation is not good so, probably public and government should
+cooperate to build facilities like building ice hockey field Synergy Arena. In
+football, it is quite different because we talk about so many small clubs which
+would be difficult to organize and cooperate to build new facilities.

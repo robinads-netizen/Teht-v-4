@@ -1,0 +1,613 @@
+Kalle Jokinen
+Finnish football clubs' understanding and
+goals regarding e-football
+Bachelor of Business
+Administration
+Esports Business
+Autumn 2023
+Abstract
+Author(s): Jokinen Kalle
+Title of the Publication: Finnish football clubs’ understanding and goals regarding e-football
+Degree Title: Bachelor of Business Administration, Esports Business
+Keywords: esports, e-football, the Football Association of Finland, football
+This thesis investigated the Football Association of Finland’s member clubs. The aim was to find out about
+their understanding and goals regarding e-football. Quantitative research was conducted by a voluntary
+survey, which was sent to every member club of the Football Association of Finland. The total of respondents was 54. It was then processed to Microsoft Excel for easier analysis using graphs and percentages.
+The results showed that Finnish football clubs have a good understanding of esports and e-football. The
+goals varied, but the conclusion was that the more guidance and resources the clubs would have at their
+disposal, the more likely they would practice e-football. It is worth noting that no research had been done
+on Finnish e-football prior this study, so this thesis can be used as a cornerstone for e-football in Finland.
+Glossary
+Esports – Electronic sports, video games that are played in a highly organized competitive environment
+E-football – Football esports, a term for competitive football video games
+FAF – Football Association of Finland, football governing body in Finland
+EA – Electronic Arts, an American video game company
+EA FC - Series of association football simulation video games developed and published by EA
+FIFA – International Association Football Federation, international governing body of football
+Table of Contents
+1 Introduction...........................................................................................................................1
+1.1 Background..................................................................................................................1
+1.2 Structure of the Thesis................................................................................................1
+2 Theoretical Framework .........................................................................................................3
+2.1 Phenomenon of Esports..............................................................................................3
+2.2 E-football .....................................................................................................................4
+2.2.1 E-football in Finland ........................................................................................4
+2.3 Football Clubs’ Interest in Esports...............................................................................5
+2.4 How Sports Attract New Members.............................................................................6
+3 Methodology .........................................................................................................................8
+3.1 Data Collection Methods.............................................................................................8
+3.2 Data Analysis...............................................................................................................8
+3.3 Reliability and Validity.................................................................................................9
+4 Results .................................................................................................................................10
+4.1 Baseline of Respondents...........................................................................................10
+4.2 Perspective and Interest in E-football.......................................................................12
+4.3 The Club’s Attitudes Towards E-football...................................................................15
+4.4 The Club’s Opportunities and Passion for E-football ................................................18
+5 Discussion ............................................................................................................................21
+List of References...........................................................................................................................23
+Appendices.......................................................................................................................................1
+1
+1 Introduction
+The aim of this study is to understand the general view of Finnish football esports from the point
+of view of Finnish football clubs and what kind of future it holds. For the empirical part of this
+study, survey on a voluntary basis was sent to all the member clubs of the Football Association of
+Finland. The Football Association of Finland can use the survey conducted in this thesis to grow
+the field of Finnish football esports and gain cooperation projects with Finnish football clubs.
+1.1 Background
+This topic was selected due to personal interest and work experience. E-football is relatively new
+addition to esports and holds very little of previous researches. Therefore, this research has paramount importance in the field of Finnish e-football. This research could be beneficial whether to
+invest and grow the Finnish e-football scene and, in the midst of it all are Finnish football clubs,
+which without them a systematic rise in e-football could not happen. This thesis along with the
+survey can be looked at as a cornerstone of Finnish football esports.
+Football esports refers to competitive video gaming that simulates the sport of football. Players
+control virtual football teams, competing against each other in popular video game titles like EA
+FC, formerly known as (FKA) FIFA. Football esports, the virtual counterpart of the world's most
+popular sport, has experienced exponential growth in recent years as have esports in general,
+which is why the topic is timely. Although in Finland it has not grown to the same levels as some
+of the most prominent e-football nations. Since there is not much research on esports yet, and
+none on e-football in Finland, this research focuses its theoretical part of what football clubs in
+other countries have done in the field of esports, which bolster the study's conclusions and make
+analogies to the esports industry.
+1.2 Structure of the Thesis
+The theoretical background is covered in the first section of this thesis. It helps the reader to
+understand esports and e-football in their entirety, and also how football clubs have implemented
+2
+esports to their businesses. After that is followed by rundown of the methodology used in this
+research. Next, the results are displayed in various graphs followed by a discussion of the results
+and what conclusions can be drawn from them. The complete collection of survey questions and
+the survey foreword are included in the research appendix.
+3
+2 Theoretical Framework
+A theoretical framework is an overview of current theories that provide a solid foundation upon
+which to build the arguments in research. In research, a theoretical framework aids in the planning, execution, analysis, and interpretation of the findings. It highlights knowledge gaps and illustrates how variables relate to one another. There is not much research conducted on esports,
+and even less on e-football. First, an overview of esports and e-football in Finland is made, so that
+the reader understands which area is being studied in the thesis. Then especially sport games are
+studied and how football clubs have implemented esports in their activities. Also, how traditional
+sports get more members to their respected sports and could e-football possibly implement the
+use of same methods.
+2.1 Phenomenon of Esports
+When first delving into esports, one needs to understand its meaning. It is simply put a type of
+sports in which players' and teams' input is mediated by human-computer interfaces, and the
+main components of the sport are enabled by electronic technology. More practically speaking,
+competitive online video gaming. (Hamari and Sjöblom, 2017.) Despite being a newcomer in the
+global landscape, esports tracks its first steps as far back in time as in 1972. On October 19th the
+very first video game competition was held at Stanford University’s Artificial Intelligence Laboratory in which about two dozen students competed playing Spacewar. (Larch, 2023.) Since that
+esports has seen tremendous growth in revenue and viewership. Its global market value was valued at USD 1.45 billion in 2022 and it is projected to grow to USD 6.75 billion by 2030 (Esports
+Market, 2023).
+Traditional sports could be looked as almost the same as esports. Esports have different genres
+of games, for example, first person shooter games and role-playing video games, traditional
+sports have also different sports, for example, football and swimming. Both are also watched by
+millions of spectators every week and in both, contestants are trying to win and be better than
+everyone else. Because of this, there are noticeable similarities between the two. As esports has
+grown a formidable force especially among children and young people, there has been many
+times claims that esports should not be treated and called a sport. However, its inclusion in the
+4
+Olympics was a strong statement that public opinion favors its integration closer to sports. Esports differ from traditional sports in several significant ways, including the role of game developers and publishers, the possibility of becoming outdated, and game distribution and accessibility. (Leroux-Parra, 2020).
+2.2 E-football
+As a rather new addition to the vast pool of esports genres, e-football has risen its impact in
+recent years. Esports football is competitive playing of digital football games, such video game
+series like EA FC (FKA. FIFA) and Pro Evolution Soccer. E-football is gaining popularity and there
+are an increasing number of players worldwide. One reason for this is that football is the world’s
+most popular sport. In terms of structure and reach, international competitions are comparable
+to the most well-liked contests for the greatest e-sports titles. Every year as the e-football has
+become more well-known, prize pools have also taken steps to higher amounts. This has been
+noticed by International Association Football Federation, most commonly known as FIFA. In order
+to construct a long-term perspective on gaming, esports, and interactive entertainment sectors,
+FIFA is interacting with a variety of industry stakeholders, including developers, investors, and
+analysts. As a result, FIFA will have access to a variety of qualified parties with specialized skills to
+actively develop the finest experiences and products for customers and supporters. (International
+Association Football Federation (FIFA), 2021.) The total prize money awarded in 2023 in e-football
+was almost USD 6.1 million (Esports Earnings).
+2.2.1 E-football in Finland
+In Finland, e-football has relative long history. Community of Finland’s best players started to
+form between 2011 – 2013, when they started to compete in online tournaments. Since then, the
+FAF has taken more interest and started to organize everything that happens in Finland regarding
+e-football. The FAF has a clear view on how they want to develop the ecosystem of Finnish efootball. Their approach is grassroots-like, which means foundational, local-level, communitydriven, and primarily recreational social movement (Harris, 2019). By this they want to try piloting
+football clubs' e-football operating model. (Sopanen, 2022.) In another words, their aim is not to
+focus on the current professional e-football players, but to create the rise of Finnish e-football
+5
+from the grassroots level up. Although, they strive to keep the competitive level fierce. Throughout the season, the FAF hosts multiple competitions. The largest tournament of the season is the
+Finnish Cup of e-football. The competition lasts anywhere from one to two months, and the players play for Finnish football teams. The top teams take home money awards. The FAF also hosts
+monthly events where participants can win product prizes over the course of one day of play. The
+Finnish national e-football team participates in tournaments and matches for national teams organized by FIFA and UEFA.
+2.3 Football Clubs’ Interest in Esports
+As said earlier traditional sports and esports have a lot of similarities. This is of course highlighted
+in the relationship between football and e-football. Esports can assist football teams in their marketing efforts by drawing in younger fans and sustaining their enthusiasm in the game. Entering
+the esports market ensures brand durability and fosters fan devotion among younger audiences.
+A younger audience is drawn to esports teamsrather than to traditional sports. With each passing
+year, the average age of a Premier League supporter has increased to 42. On the other hand, 26
+is the average age of esports watchers. (Warburton, 2022.) This also brings benefits through visibility to the sponsors of football clubs, which will enable them to connect with a younger fan base.
+E-football audience is usually a mix up between football audience and esports audience. Potential
+audiences for sports simulation games are restricted by a required degree of interest in traditional
+"offline" sports.
+The interest towards esports from football clubs started a while after esports got popular in author’s point of view. Its strong growth in user and fan numbers and the economic development
+and appeal of its audience were the main reasons football clubs started to create penchant towards it. In terms of reaching out to new demographics, bringing in fresh money, or even establishing their own club brands. (European Club Association (ECA), 2021, 3.) The football clubs that
+have joined esports industry are usually from countries where esports is more accepted from
+social and political point of view.
+The most notable way football clubs are associated with esports is that they have founded their
+own esports teams. Most of the football clubs have taken a more certain approach by having efootball teams. Some bigger clubs have gone even beyond. For example, Paris Saint-German F.C.
+and Manchester City F.C. have created esports divisions within the club and are competing in
+6
+various esports games not just e-football. Due to the rise of e-football, many national leagues
+have established their own e-football leagues, which will help the club make its first step towards
+esports. Even if a football club does not want to have an esports team, it has been seen that they
+utilize esports social media influencers in their social media activities. This shows that the interaction between football clubs and esports is not always competitive gaming, but seeking new fans
+and making revenue other ways. Even though e-football is becoming more popular among football clubs, there are also threats why some are more hesitant to join the others. Football teams
+that engage in a competitive and professional e-football mostly rely on prize money and sponsorships as their revenue streams from e-football. The small prize pools that teams are able to earn
+in comparison to other esports games makes it unnecessary for football teams to play the game.
+Apart from club products, the only other way to make money right now is to promote in-game
+panel advertising, as long as the relevant league contract specifies the regulations for this. (ECA,
+2021, 56.)
+2.4 How Sports Attract New Members
+One of main reasons for this thesis is that the FAF can find methods to grow the Finnish e-football
+scene and allure more younger people to start e-football. Attracting new people to e-football can
+be challenging with many different esports games being popular.
+Sports, especially football has seen so called “drop off”- phenomenon, where young people tend
+to quit their respective sport or hobby and therefore the number of members of sports clubs has
+decreased. Sports have been using methods perceived as good for decades now. The main aspect
+is that the sport needs to be fun, allow participants to learn new things and doing so together
+with friends. Feeling of social connectedness at sport clubs is the glue that sticks young people to
+continue with the sport longer. This feeling is created through companions, partnership, and encounters of safety, as well as basic reassurance from coaches. (Lindgren et al., 2017.) The FAF has
+started many different development programs and tools that Finnish football clubs can use to
+increase the number of players. These include for example, family football, school and kindergarten football and club coaching to increase the number of players. (Football Association of Finland
+(FAF), n.d.)
+7
+One popular way to attract new members is no other, than famous athletes. Many children have
+seen spectacular performances though TV from the likes of Lionel Messi, Michael Phelps and Rafael Nadal and decided that they want to be like their idol and start practicing that sport. Of
+course, those role models are not always the best ones, but it remains the responsibility of each
+sport to translate the success of one top athlete into a growing number of enthusiasts within the
+sport.
+Method that has risen its head in recent years is social media. Numerous sports teams utilize
+social media platforms to publicize events or initiatives and connect individuals with sports-related content. These entities leverage social media platforms to inform the audience about upcoming matches, disclose the rosters for a forthcoming game, and spotlight a player's achievements. (Social Media in Sports: Driving Fan Engagement, n.d.) This can be seen as an opportunist
+way to attract new members, but it does not remove the fact that sports clubs create a connection with the individual in this way and it contributes to the awakening of interest in that individual.
+8
+3 Methodology
+This chapter looks closer to the research part of the thesis. It covers the process of the research,
+how data was collected and the analysis of the data. Research hypothesis for the survey was as
+following; Clubs that have previously participated in e-football activities understand and experience e-football more positively than clubs that have no experience with it. The appendices at the
+end of the thesis contain the list of research questions that were employed on this survey.
+3.1 Data Collection Methods
+For this research a quantitative survey was sent to every football member club of the Football
+Association of Finland, which consists of 866 clubs. A selection of quantitative survey for this research was valid, because a quantitative approach enables the use of statistical tools and methods
+to analyse data systematically. Also, a quantitative approach allows for the collection of data from
+a large and diverse sample, as in this case the participation numbers could have gone to very lofty
+numbers.
+Survey was assembled through the Football Association of Finland’s system, which had readymade survey bases on seasonal surveys they use. The first part of the survey gathers information
+about the respondent. In the next part respondents answer questions about club’s perception
+and interest towards esports and e-football. At this point the answer options are on a numbered
+rating scale from one to five, with one being completely disagree and five being strongly agree.
+Third part of the survey process club's attitudes towards e-football. In the final part the respondents are asked to answer questions about club's opportunities and passion for e-football. There
+was also open feedback at the end of the survey.
+3.2 Data Analysis
+The data collected from the survey was processed into Microsoft Excel for easier analysis. The
+results are analysed after being visually represented using various graphs for easier consumption.
+9
+The results in the graphs are in percentages and a couple of questions have "yes" and "no" options. Analysis of the data was studied in the same order as the survey. Gathering information
+started by dividing the respondents by area and size of their football club they were associated
+with. On that point forward observes were made about how positively or negatively football clubs
+feel about e-football. Also, taking into account the answers of clubs that have participated in efootball activities compared to clubs that have not participated in e-football activities.
+3.3 Reliability and Validity
+Reliability and validity are two essential concepts in research. Reliability is the level of consistency
+demonstrated when research is made again under the same circumstances (Porta, 2014). Validity
+is being used as how effectively research results reflect genuine findings among similar respondents outside the research (Patino & Ferreira, 2018).
+Considering that the response rate was only 6.2 percent, the results could differ if different Finnish football clubs would attend following researches from the same topic. On the other hand,
+clubs from all of the regions that FAF regulate participated to the research. These regions are
+northern, western, southern, eastern and Åland. It can be also argued, that clubs in the same
+regions would have approximately the same opinions and also, clubs that are at the same level in
+the Finnish football pyramid. One big factor is also how many clubs that have already participated
+in e-football activities in the past would participate in future surveys, as their response would
+likely differ from clubs that have no experience with e-football.
+Regarding the results of this research, they do present relevant accurate results of Finnish football
+club’s understanding and goals about e-football. Meaning that survey questions were correctly
+formulated to match the issues sought in the research. It could be said that since the survey had
+plenty of scale-based questions the results are not hundred percent accurate.
+10
+4 Results
+The research survey received 54 respondents out of 866, therefore the response rate was quite
+low. The survey has been conducted in Finnish because it is intended for operators in the Finnish
+industry. For this thesis, the presentation of the results has been translated into English.
+The baseline for the survey respondents is presented in the first section of the results. Those
+figures will show the geographical area and size of their respective football clubs. The first section
+is finalized by a figure of their participation to e-football activities. The club's perspective and
+interest in esports and e-football will be the showcase of the second section. The third section of
+the results shows club's attitudes towards e-football. The final section will cover club's opportunities and passion for e-football.
+4.1 Baseline of Respondents
+Figure 1 will show that the respondents associated with their respected football clubs mainly
+were located either in the southern or western area of operation of Finnish Football Association.
+Figure 1 – Geographical area
+39%
+19%
+39%
+4%
+The geographical area of the club
+Southern
+Eastern
+Western
+Northern
+Åland
+11
+As seen in Figure 2, most of the football clubs were small clubs in terms of number of players
+they have. 75 percent of the clubs have 0-249 registered players.
+Figure 2 – Number of players
+Only a third of the respondents' clubs had previously participated in the e-football activities organized by FAF seen in Figure 3. Meaning that the numerical portion was 13 out of 54. Also, two
+percent of respondents did not know whether their respected club had participated in e-football activities.
+Figure 3 – Prior participation in e-football activities
+35%
+30%
+19%
+7%
+4%6%
+Number of players in the club
+0-99 players
+100-249 players
+250-499 players
+500-749 players
+750-999 players
+1000 players or more
+22%
+76%
+2%
+Our club has previously participated in efootball activities organized by the
+Football Association of Finland
+Yes
+No
+I do not know
+12
+4.2 Perspective and Interest in E-football
+One of the main reasons for this research was to examine the understanding Finnish football clubs
+have regarding e-football. The next figures will show how divided the answers were, but the percentages in both were almost the same. Figures 4 and 5 tell us that in both questions almost 70
+percent of the respondents had a clear understanding of esports and e-football.
+Figure 4 – Understanding of esports
+Figure 5 – Understanding of e-football
+11%
+20%
+39%
+30%
+Our club understands what esports is
+1
+2
+3
+4
+5
+2%
+15%
+17%
+41%
+26%
+Our club understands what e-football is
+1
+2
+3
+4
+5
+13
+The respondents have differing opinions regarding their interest in participating in e-football activities as shown in figures 6 and 7. The majority are not interested, although 26 percent of respondents had a neutral answer. As seen in figure 7 only 26 percent of respondents’ respective
+clubs would like to participate to e-football tournaments and events.
+Figure 6 – Interest in e-football
+Figure 7 – Will to participate in e-football activities
+Figure 8 tells that 65 percent of the respondents do not want to organize e-football hobby activities themselves and 53 percent of the respondents say that they would need guidance and support from the FAF or another organization to organize e-football activities shown in Figure 9. That
+20%
+24%
+26%
+22%
+7%
+Our club is interested in e-football
+activities
+1
+2
+3
+4
+5
+24%
+35%
+15%
+19%
+7%
+Our club wants to participate in e-football
+tournaments and events
+1
+2
+3
+4
+5
+14
+tells football clubs do not have the capacity and resources to organize e-football activities themselves.
+Figure 8 – Will to organize e-football activities itself
+Figure 9 – Need of guidance and support to organize e-football activities
+Only fifth of the respondents’ respected clubs are going to participate in e-football competitions
+in the 2023-2024 season shown in Figure 10
+43%
+22%
+22%
+7%6%
+Our club wants to organize e-football
+hobby activities itself
+1
+2
+3
+4
+5
+53% 47%
+The club needs guidance and support
+from the Football Association of Finland or
+another organization to organize e-football
+activities
+Yes
+No
+15
+Figure 10 – Intention to participate in e-football competitions in the 2023-2024 season
+4.3 The Club’s Attitudes Towards E-football
+The next part of the survey dives into what are the attitudes of Finnish football clubs. It also investigates the financial possibilities of e-football and how clubs would react if e-football were part
+of the club's daily operations. Esports has grown exponentially in recent years and people tend
+to deal it with better. Recent study shows that video game playing time has little to no effect on
+wellbeing. As Figure 11 indicates most of the respondents feel positively about esports/e-football.
+Only 15 percent of the clubs do not consider esports or e-football to be a positive thing. This
+further explains that esports is already generally perceived as a positive thing next to normal
+sports.
+20%
+80%
+Our club or its team(s) intend to
+participate in e-football competitions
+organized by the Football Association of
+Finland in the 2023–2024 season
+Yes
+No
+16
+Figure 11 – Perceiving esports / e-football as a positive thing
+Figure 12 shows that over half of the respondents feel that they can utilize e-football to connect
+with new partners and target audiences. The market value of esports and e-football has been
+understood in the club and possible economic growth as a result.
+Figure 12 – Reaching new target groups and partners through e-football
+The respondents share the same opinion when considering the inclusion of e-football in the club's
+activities. Figures 13 and 14 show that a larger part perceives it as a negative rather than a positive
+thing. 39 percent of the respondents have a neutral view of e-football providing support for the
+vitality of the club and the increase in the number of players making it the most popular answer
+6%
+9%
+57%
+22%
+6%
+Esports / e-football is generally perceived
+as a positive thing in the club
+1
+2
+3
+4
+5
+6%
+9%
+31%
+33%
+20%
+E-football can be used to reach new target
+groups and partners
+1
+2
+3
+4
+5
+17
+as seen in Figure 13. Regarding e-football as an additional benefit for the football hobby of children and young people, 33 percent of respondents feel like it does not benefit it. Figure 14 shows
+also that 43 percent of the respondents have a neutral opinion about it.
+Figure 13 – Vitality of the club and the increase in the number of players e-football can bring
+Figure 14 – Perceiving e-football as an additional benefit for children and young people
+13%
+20%
+39%
+20%
+7%
+E-football provides support for the vitality
+of the club and the increase in the number
+of players
+1
+2
+3
+4
+5
+9%
+24%
+43%
+20%
+4%
+E-football is perceived in the club as an
+additional benefit for the football hobby of
+children and young people
+1
+2
+3
+4
+5
+18
+4.4 The Club’s Opportunities and Passion for E-football
+The last part of the survey delves into how willing the clubs are to participate FAF’s e-football club
+pilots and organize e-football events themselves. Next two figures will showcase the respondents’
+respected football club’s eagerness to organize e-football activities and how it would supplement
+the club's selection of sports. Slightly more than half of the clubs share an opinion that e-football
+does not complement the club's sports selection well if the club could organize guided activities
+with e-football seen in Figure 15. The answers differ a lot when asked about the club's willingness
+to organize e-football activities if the club received enough resources. Figure 16 shows little over
+quarter would like to organize them, while 38 percent do not.
+Figure 15 – E-football complements the club’s range of sports well
+20%
+18%
+35%
+20%
+6%
+E-football complements the club's range
+of sports well, if the club could organize
+guided activities for juniors in e-football
+1
+2
+3
+4
+5
+19
+Figure 16 – Will to organize e-football activities if club could get enough resources
+Figure 17 will show a more detailed picture of what kind of e-football activities clubs would like
+to organize. It was possible to select more than one option. The most popular e-football activities
+are training events and ancillary activities during football matches or tournaments, of which the
+latter makes sense, because of its ease and prominence.
+Figure 17 – E-football activities club would like to organize itself
+Half of the respondents’ respected football clubs are not interested in participating in the club
+pilots regarding e-football organized by the FAF. However, 22 percent of clubs would be willing
+to participate as Figure 18 shows.
+32%
+21% 17%
+17%
+13%
+If the club could get enough resources
+(technology, know-how, training) it would
+like to organize e-football activities for
+juniors in the area
+1
+2
+3
+4
+5
+Training events Gaming events Tournaments Own league Ancillary activities
+as part of football
+matches or
+tournaments
+0%
+20%
+40%
+60%
+80%
+100%
+What kind of e-football activity would the
+club like to organize itself?
+20
+Figure 18 – Interest in participating in the club pilots organized by FAF
+In the final survey question, respondents are asked why the club decided to participate in the
+Finnish Cup of e-football. Figure 19 shows that the biggest reason for the clubs to participate was
+to try something new, which confirms the fact that football clubs are curious about esports.
+Figure 19 – Main reason for participating in the Finnish Cup of e-football organized by the FAF
+26%
+28% 24%
+15%
+7%
+The club is interested in participating in
+the club pilots organized by the Football
+Association of Finland, where operating
+models for starting e-football are tested
+1
+2
+3
+4
+5
+33%
+53%
+7%7%
+If the club has participated in the Finnish
+Cup of e-football organized by the Finnish
+Football Association, what was the main
+reason for participating?
+The players themselves
+contacted the club
+Trying something new
+Increasing the visibility of the
+club
+Something else, what?
+21
+5 Discussion
+This thesis was conducted to find out about Finnish football clubs’ understanding and goals regarding e-football. The results reflected clear trends about the attitudes clubs’ had and results of
+the survey showed clearly that the hypothesis for this research was true. Indeed, football clubs
+that have previously participated in e-football activities understand and experience e-football
+more positively than clubs that have no experience with it.
+Figures 4 and 5 show that Finnish football clubs have a good understanding of esports and efootball. This was one of the most important pieces of information that this study tried to find
+out. It supports the theory that football clubs are intrigued by the possibilities esports generally
+offer, which can already be seen in other countries. The results indicate clearly that football clubs
+perceive e-football as a positive thing in the club. All the clubs that have had participated in efootball activities before valued it three or higher. That data suggests that you need to have experience in the matter to value it more positively. Studies have been done on the benefits and
+harms of playing. Video game playing time is not expected to have an adverse effect on wellbeing
+(Vuorre et al.,2022). That could be a major reason why esports and e-football are seen as a positive thing as seen in the Figure 11. On the other hand, results showed that Finnish football clubs
+do not see e-football giving additional benefits for the football hobby of young people. This interesting difference in the answers can indicate that the financial benefits of e-football are wanted
+to be utilized, but the clubs feel that it is harmful to the hobby of football.
+The results indicate that e-football is a good market area to reach new target groups and partners,
+which correlates the economic upswing of esports since it started to be popular. The results in
+Figure 16 showed that football clubs would like to organize e-football activities for juniors in the
+area if they had enough resources. Over half of the respondents valued it three or higher and
+nearly third of them four or higher. This indicates that respondents probably represented smaller
+clubs that would not have extra resources at their disposal. From this it can also be concluded
+that football clubs would need more financial support, which would lead to the club's esports
+goals and, therefore the popularity of e-football would grow. Regarding Finnish football clubs’
+goals towards e-football, the results indicate that most of the clubs see e-football as part of their
+future as Figure 18 showed that half of the football clubs would like to participate in club pilots
+organized by the FAF. This can also be seen from the results that were shown in Figure 15, where
+22
+61 percent of the respondents answered third or higher when asked that e-football complements
+the club's sports selection well if the club could organize guided activities for juniors in e-football.
+As formerly stated in chapter four, the participation rate was relatively low. This could be due to
+many things. It seems that the survey was not perceived as interesting and probably in some cases
+time consuming. It is also likely that the survey was not answered if the topic was unknown for
+football clubs. Despite the fact that this research clearly showed enthusiasm and positive attitude
+towards e-football, the scale-based questions make it difficult to draw reliable conclusions. Although the results stand alone, they should be seen as a first step toward future studies on the
+same or related topics, in order to enable a more precise set of criteria for the sample of respondents.
+23
+List of References
+Esports Earnings. (N.d.). Esports Earnings FIFA 23. Retrieved November 27, 2023, from
+https://www.esportsearnings.com/games/828-fifa-23.
+Esports Market. (2023, May). Esports Market By Revenue Resource (Media Rights, Game Publisher Fee, Sponsorship, Digital Advertisement, Tickets, And Merchandise), And By Region - Global
+And Regional Industry Overview, Market Intelligence, Comprehensive Analysis, Historical Data,
+And Forecasts 2023 – 2030. Retrieved November 27, 2023, from https://www.fortunebusinessinsights.com/esports-market-106820
+European Clubs Association (ECA). (2021). ESPORTS – CURSE OR BLESSING FOR FOOTBALL CLUBS?
+Retrieved November 28, 2023, from https://www.ecaeurope.com/media/4883/eca_esportscurse-or-blessing-for-football-clubs.pdf
+Greenfly. (N.d.). Social Media in Sports: Driving Fan Engagement. Retrieved November 28, 2023,
+from https://www.greenfly.com/blog/social-media-insports/#:~:text=Many%20sports%20teams%20have%20social,even%20highlight%20a%20player's%20performance
+Hamari, J & Sjöblom, M. (2017). What is eSports and why do people watch it? Retrieved November 27, 2023, from https://www.emerald.com/insight/content/doi/10.1108/IntR-04-2016-
+0085/full/html
+Harris, S. (8.10.2019.) The global challenge of growing sports. Retrieved November 27, 2023, from
+https://www.playthegame.org/news/the-global-challenge-of-growingsports/#:~:text=In%20sporting%20terms%2C%20the%20term,%2Ddriven%2C%20and%20primarily%20recreational.
+International Association Football Federation (FIFA). (2021). FIFA set to widen gaming and esports
+portfolio. Retrieved November 27, 2023, from https://www.fifa.com/news/fifa-set-to-widengaming-and-esports-portfolio
+Larch, F. (2023). In 70 years: The evolution of eSports into a billion-dollar market, eSports History:
+How it all began. Retrieved November 27, 2023, from https://www.ispo.com/en/sports-business/esports-history-how-it-all-began#!
+24
+Leroux-Parra, M. (2020). Esports Part 1: What are Esports? Retrieved November 27, 2023, from
+https://hir.harvard.edu/esports-part-1-what-are-esports/
+Lindgren, E-C., Annerstedt, C. & Dohsten, J. (2017). “The individual at the centre” – a grounded
+theory explaining how sport clubs retain young adults. Retrieved November 28, 2023, from
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5613911/
+Patino, C. & Ferreira, J. (2018). Internal and external validity: can you apply research study results
+to your patients? Retrieved November 30, 2023, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188693/
+Porta, M. (2014). A Dictionary of Epidemiology. Oxford University Press. Retrieved November 30,
+2023, from https://www.oxfordreference.com/display/10.1093/acref/9780199976720.001.0001/acref-9780199976720-e-1630
+Sopanen, T. (6.4.2022). E-jalkapallon webinaari (webinar). YouTube. Retrieved November 27,
+2023, from https://www.youtube.com/watch?v=OiVicrK5bL8&t=2s
+The Football Association of Finland. (N.d.). E-JALKAPALLO HARRASTUKSENA. Retrieved November
+27, 2023, from https://www.palloliitto.fi/harrastaminen/e-jalkapallo-harrastuksena
+The Football Association of Finland (FAF). N.d. PELAAJAMÄÄRIEN KASVATTAMINEN. Retrieved
+November 28, 2023, from https://www.palloliitto.fi/seurakehitys/pelaajamaarien-kasvattaminen
+Vuorre, M., Johannes, N., Magnusson, K & Przybylski, A. (2022). Time spent playing video games
+is unlikely to impact well-being. Retrieved November 29, 2023, from https://royalsocietypublishing.org/doi/10.1098/rsos.220411
+Warburton, M. (5.1.2022). EUROPEAN FOOTBALL CLUBS ARE INVESTING IN ESPORTS TEAMS.
+HERE ARE THE BEST OF THEM… Retrieved November 27, 2023, from https://www.pokerstars.eu/poker/learn/news/european-football-clubs-are-investing-in-esports-teams-here-arethe-best-of-them/
+Appendix 1 1/8
+Appendices
+APPENDIX A: Survey Foreword and Questions
+Appendix 1 2/8
+Appendix 1 3/8
+Appendix 1 4/8
+Appendix 1 5/8
+Appendix 1 6/8
+Appendix 1 7/8
+Appendix 1 8/8

@@ -1,0 +1,962 @@
+Existing problems and solutions of Jinhua campus football
+Xinyu Zhang
+Haaga-Helia University of Applied Sciences
+Bachelor’s Thesis
+Degree Programme in Sports Coaching and Management
+2022
+Abstract
+Author(s)
+Xinyu Zhang
+Degree
+Degree Programme in Sports Coaching and Management
+Report/Thesis Title
+The existing problems and solutions of Jinhua campus football
+Number of pages and appendix pages
+33+7
+Abstract
+Since the State General Administration of Sport and the Ministry of Education proposed the term
+"school football", school football has been booming in the whole country and the number of youth
+football participation has increased significantly compared with before 2014, which shows that the
+effect of the national youth football plan is obvious, campus football has become an essential way
+of our football reserve personnel training, but in the youth period, students' thought is not mature,
+and do not have independent choice. As a result, teens' willingness to participate in on-campus
+football largely depends on parents' attitudes. Therefore, parents' attitude towards children's participation in campus football plays an important role in the implementation of campus football
+plans. At the same time, Jinhua is a city with the largest number of football characteristic schools
+in Zhejiang Province. The attitude and influencing factors of students' parents participating in
+school football in Jinhua can reflect the problems existing at the parent level in the school football
+plan of Zhejiang Province and even the whole country.
+This paper conducted a survey of parents of primary school students in Jinhua City to discuss their
+opinions on their children's participation in campus football, and conducted a field study of medical
+treatment, equipment, and field activities at the school, using literature, questionnaires, and field
+research methods.The following conclusions are drawn:
+1. Students' parents generally support their children's participation in campus football, and the vast
+majority of students have been exposed to campus football.
+2. Students' physical and mental health is an important factor in parental support for football on
+campus. Whether students will be injured in school football matches and the severity of the injury
+are the primary reasons for parents to worry about their children's physical and mental development. Second, school football coaches, on-field infrastructure and medical facilities are another
+important factor in the involvement of parents in school football activities.
+3. Learning-training contradiction is one of the important factors affecting parents' attitude.One of
+the factors affecting parents' support for campus football is the way schools solve the contradiction
+of learning and training.
+4. The "Combination of education with sport" has been well implemented in Jinhua. Physical education teachers and coaches serve as the link between athletes and the school, so that athletes
+can have a "green channel" for further study.
+5.The professional ability of football coaches is an important factor in ensuring healthy training of
+students. The interaction between "teaching" and "practicing" in football training is the essential
+knowledge of professional coaches.
+Key words
+Campus football; Parentalattitude; Fieldresearch; Combination of education with sport
+Table of contents
+1 Introduction ................................................................................................................................ 1
+1.1 Topic Selection Basis ........................................................................................................ 1
+1.2 Research purpose ............................................................................................................. 2
+1.2.1 Theoretical Significance ......................................................................................... 2
+1.2.2 Practical significance ............................................................................................. 2
+1.3 Research schedule............................................................................................................ 3
+2 Literature Review ....................................................................................................................... 4
+2.1 Campus definition ............................................................................................................. 4
+2.2 Domestic research status .................................................................................................. 4
+2.3 Overseas research status.................................................................................................. 7
+2.3.1 Youth football development in Japan ..................................................................... 7
+2.3.2 Youth football development in Korea...................................................................... 8
+3 Research .................................................................................................................................. 10
+3.1 Study object .................................................................................................................... 10
+3.2 Research method ............................................................................................................ 10
+3.3 Research emphasis and innovations ............................................................................... 10
+3.3.1 Research emphasis ............................................................................................. 10
+3.3.2 Research innovations .......................................................................................... 11
+3.3.3 Research process ................................................................................................ 12
+4 Results ..................................................................................................................................... 14
+4.1 Analysis of parental attitude data ..................................................................................... 14
+4.2 Student health problems ................................................................................................. 16
+4.2.1 Physical and psychological health ........................................................................ 16
+4.2.2 Site facility............................................................................................................ 16
+4.3 Conflict between learning and training ............................................................................. 19
+4.3.1 Traditional ideology .............................................................................................. 19
+4.3.2 Football specialty policy ....................................................................................... 20
+4.4 Coach.............................................................................................................................. 22
+4.4.1 Coaching team ..................................................................................................... 22
+4.4.2 Teaching ability .................................................................................................... 23
+4.5 An analysis of the important work history of campus football ........................................... 23
+5 Conclusions .............................................................................................................................. 25
+6 Discussion and Suggestions..................................................................................................... 28
+6.1 Discussion ....................................................................................................................... 28
+6.2 Suggestions .................................................................................................................... 30
+7 Evaluation of the study ............................................................................................................. 31
+References ................................................................................................................................... 32
+Appendices ................................................................................................................................... 34
+Appendix 1.A questionnaire on campus football research ........................................................ 34
+1
+1 Introduction
+1.1 Topic Selection Basis
+Football is the biggest sport in the world, which not only attracts tens of thousands of people to
+participate in it, but also most countries in the world regard football as one of the standards for
+sports power. On March 16, 2015, The General Office of the state Council issued the "Overall Plan
+for the Reform and Development of Chinese Football", which emphasizes the role of football in
+cultivating students. Promote the spread of football on campus, promote the joint development of
+culture and football skills, promote the mass growth of youth football talent, and expand the teaching staff. It shows that the country takes the development of football on campus very seriously. On
+the other hand, China's men's soccer team again failed to make it out of the group stage of the
+Asian qualifying round for the 2022 World Cup. The average age of the Chinese men's soccer
+team in this World Cup qualifying campaign is 29.5 years, compared with 27 years for the South
+Korean men and 27.85 for the Japanese men. This shows that the completeness of the youth reserve talent system is the main means of improving football performance. Campus football is one
+of the ways to train China's football reserve talent, which directly influences the level of youth training in Chinese football. The orderly development of football on campus sets the stage for our football talent training.
+Before the rise of campus football, China's reserve football players were mainly trained by clubs
+and sports schools in various cities. These schools tend to be performance-driven and produce
+only elite athletes. This is not in line with the rules of the game, which has resulted in a small population base and a small pool of talent in Chinese football. This will not provide a suitable and scientific training environment for children with potential, aptitude and talent. And implementing a campus football program can leverage school educational resources to engage students in football in a
+wide variety of ways. The school actively carries out football education and football carnival activities to raise the interest of students in football and find the right way to revitalize football in China.
+Nowadays, the development of campus football in China is in a nascent state. Compared to Japan,
+South Korea and other countries, our on-campus football is still way behind. At this stage, there is
+a lack of venues, differing views of football among parents, an insufficient number of high-level
+coaches and a lack of an effective link between football and education. The CFA has also taken
+steps to address the issue.OnJanuary 18, 2017, the third mobilization conference of the 10th Chinese Football Association was held, and the "165" action plan for the construction of the Chinese
+Football youth Training System was adopted. The plan calls for exploring the establishment of
+amateur football clubs in schools, launching home-and-away leagues for youth, changing the former tournament system to a home-and-away system, strengthening the construction of talent
+2
+teams with coaches as the mainstay, revising the Youth Football Training Syllabus, and establishing archives of youth football players and coaches in primary schools across the country. In summary, the CFA is aware of the problems in Chinese campus football and has proposed some solutions. However, for the implementation of these schemes, there have not been numerous success
+stories, and research around specific approaches to the development of campus football has been
+relatively weak.
+In terms of the development of football on campus, Jinhua has achieved certain results. When the
+CFA did not propose a campus football league, Jinhua launched a campus football league in 2008
+with groups ranging from elementary to high schools. Not only that, in the process of the development of campus football in Jinhua city, it also formed a campus football model with its own characteristics, schools with good football level to drive the development of schools in remote areas, Jinhua Jiangbin Primary School and Jinhua Ruoyang Primary School is the new football model of
+Jinhua City. Jinhua Jiangbin Primary School is the 2015 national pilot school for youth campus
+soccer featured. Students at Jiangbin Primary School have a weekly football creative program to
+get students involved and interested in soccer, and an intramural soccer league is organized every
+year. From 2012 to 2014, the Jiangbin Primary School football team won the final of the Zhejiang
+School Football League three times in a row and successfully qualified for the 2013 national final, a
+record that has not been broken until now.
+1.2 Research purpose
+1.2.1 Theoretical Significance
+Through the Jinhua city part of the parents of students, as well as the current situation of campus
+football training investigation. Clarify parents' attitude towards students' participation in campus
+football and explore the factors affecting parents' attitude. Draw conclusions based on investigation
+and research., at the same time, in combination with the practical situation of Jinhua city, provide a
+reference for Jinhua city campus football reserve talent training advice, promoting parents on the
+correct cognition of the campus football and encourage more students into the campus football or
+soccer training, improve the level of the popularity of Jinhua city youth football, for our country soccer enterprise contributes an own strength.
+1.2.2 Practical significance
+From a theoretical point of view, modern football is the number one sport in the world. Football has
+a long history in our country. With the implementation of a campus football program, campus foot-
+3
+ball has become a current research focus. China's youth football population has shrunk dramatically, directly leading to a dramatic drop in the number of football reserve talent. During the period of
+puberty, the adolescent's self-thought is not mature and correct ideas are not formed. Whether or
+not a student plays campusfootball is primarily a matter of parental decision. As a result, parents'
+attitudes towards student participation in campus football play an essential role in the development
+of campus football. Therefore, this paper will focus on the analysis of parents' attitude towards students' participation in campus football and its influencing factors, draw relevant conclusions and
+propose corresponding constructive suggestions, which will be conducive to enrich the theory of
+campus football and have certain guiding significance for the long-term development of campus
+football.
+On a practical level, parents supporting students in campus soccer activities will undoubtedly increase the number of youth soccer participants, help select more good soccer talent, and bring
+about a significant improvement in the development of campus soccer in Jinhua City and the country as a whole. Campus football, meanwhile, is at the cutting edge of soccer reform in China. It
+affords a means of improving the physical qualities of the adolescent, and of developing their excellent moral character. This is conducive to the physical fitness of our nation's youth and, more
+importantly, to the development of the tenacious qualities of the indomitable and battle-hardened
+youth.
+1.3 Research schedule
+The study began in early November 2021 and ended in November 2022.
+The purpose and direction of the research were determined in November 2021.
+From November 2021 to May 2022, I officiated 47 campus football matches in Jinhua City as a
+football referee.
+At the beginning of April 2022, I determined the research method (Figure 1), and then I used literature, survey and field study methods.
+I released a questionnaire on campus football in April 2022, starting on April 5 and ending on April
+12.
+In May 2022, I summarized and analyzed the results of this study, and from September to November, I revised the paper and completed the study.
+4
+2 Literature Review
+2.1 Campus definition
+The term "campus football" was jointly proposed by the General Administration of Sport of China
+and the Ministry of Education in 2009 (SSAC. 2009). Daily football and physical education classes,
+as well as different forms of after-school training activities, are commonly mentioned to enhance
+the physique of students, cultivate good references of their qualities, and promote the development
+of football in China.
+Liu Fuli points out in "On the Basic Concepts of Campus Football" that campus football is a general
+term for a variety of football activities carried out in various schools with games or matches as the
+core and leading. It is a part of school sports, and part of school education. (Liu, F.L. 2018, 83-87)
+Jiang Shenfei believes that the purpose of promoting campus football is to promote the game and
+bring pleasure to people. It is an event to popularize football knowledge and store China's football
+reserve talent. (Jiang,S.F. 2011)
+2.2 Domestic research status
+China's football career is undergoing constant reform, but the national team's performance has yet
+to reach the trend consistent with fans' expectations, indicating that China's football reserve talent
+training construction model is still imperfect. As one of the essential ways to train and transport
+reserve talent in the modern era, the level of development and efficiency of campus football directly
+affects whether China can select high-quality reserve talent from the youth football population.
+On July 11, 2014, General Secretary Xi Jinping issued a key directive on football reform and development, which stressed that campus football should do a great job in terms of top-level signings. In March 2015, The General Office of the State Council issued and distributed the Overall
+Plan for The Reform and Development of Chinese Football, which systematically designed the
+development of Chinese football from the national level and listed the project of "revitalizing football" as the national development strategy. In June 2015, the Ministry of Education and additional
+six departments jointly issued the Implementation Opinions on Accelerating the Development of
+Youth Campus Football, which stated that "the development of youth campus football is an essential measure to implement the fundamental task of moral education and cultivate and practice socialist core values. (PRC.2015) Full roll-out of education system-led work on youth soccer on campus. In September 2020, with the promulgation and implementation of the National Action Plan for
+5
+the Construction of Eight Major Societies of Youth Campus Football, China's youth campus football
+has entered a new era with the development of a positive connotation as the main task.
+Contextual football strategy, scholastic football is considered one of the important forces in youth
+scholastic football. According to Ding and Dai, as young people are in a critical period of physical
+development, football training can temper the qualities of young people to endure hardship and
+endure hard work, foster a sense of unity, and promote the full development of their abilities. (Ding,
+R. & Dai, J. 2021) Luo Yu points out that the value orientation of campus football under the goal of
+be-coming a strong sports country is to promote the physical and mental health and all-round development of teenagers, and then train and cultivate abundant reserve talents for football. (Luo, Y.
+2019) In today's football situation, came in pus football has become an important part of youth
+football. The development of schoolyard football, first and foremost, can temper the will of teenagers, train their qualities to endure hardship and endure hard work, and at the same time, effectively
+foster a sense of unity among teenagers. The so-called young are strong, then the country is
+strong. The development of football on campus will have its developmental value only when the
+young man's body and mind are fully developed. It is only when on-campus football gains steady
+development that our nation will have an adequate football reserve pool of talent.
+Wang Dengfeng of the Ministry of Education noted: Promoting football on campus is about getting
+students to participate in football activities, enjoy the joy of football, master football skills, form a
+football culture and then develop a sound personality and healthy physique. (Wang, D.F. 2017)
+Football is the world's largest sport, which requires a high technical level and a complete training
+system. Football training is a long, arduous, repetitive process. It is only when teenagers develop a
+strong interest in football, a strong internal drive, active practice and overcome various setbacks
+and difficulties in training that they can finally achieve their training goals.
+Chinese footballers are technically fair, but typically lack creativity. They are unable to play (Bu,
+Y.F) and lack of observation and decision-making, adaptability and creativity during matches, especially the instantaneous decision-making based on the match situation mirror. (Liu, D & Zhao, G.
+& Bu,Y.F, et al. 2011.) This is closely related to the cultivation of reserve talents in China. Football
+training is an interactive process of teaching and practice, with training design and coaching at the
+heart of it. China's youth football training is still based on the "transmission-acceptance" type, emphasizing the process of "imitation, repetition and reinforcement", focusing on strengthening
+through "stimulus-response". (Bu, Y.F) Ding Rui and Dai Jie pointed out that the comprehensive
+quality of football coaches plays a decisive role in the effect of youth football training. (Ding, R &
+Dai, J. 2021) On the one hand, in the process of practical training, some football coaches' training
+level is low and cannot meet the needs of youth football training, so they still use traditional training
+6
+methods. On the other hand, some coaches do not train properly or too monotonously, and occasionally they use overloaded methods to train teenagers. If this goes on for a long time, teenagers
+will tire of football training, which is not conducive to their healthy development.
+Sun Jian, Chen Xiaoke in "from the perspective of education in our country juvenile football training
+problems and measures of" pointed out that if parents for their children in the early to enter the profissional football team, finally failed to become a successful professional football player, but because of the delayed the socialization process of normal study, numerous parents may be looking
+at and stopped. (Sun,J.&Chen,X.K. 2018) Wang Chen and Zhang Ting ‘a point out in Research on
+The Training of Reserve Football Talents in Beijing that the learning of junior high school football
+team members is influenced by teachers, parents, coaches and administrators, and timely and
+effective communication and contact networks should be established to improve students' performance. (Wang,C.& Zhang, T.A. 2011) In China, most parents believe that junior middle school is
+the key period for their children to become talented. As a result, whether they succeed in getting
+into an excellent high school may determine whether they get into a key college. Junior middle
+school and primary school students between the ages of 12 and 16 years old, is to improve the
+football tactics golden age, at the same time is sensitive period of development of the physical
+quality, but because the parents of students cultural expectations of higher grades, studying the
+contradictions in front, make parents urged their children in their spare time cultural learning put
+additional energy and time, school football practices or activities are affected as a result. It can be
+seen that the practical contradictions of learning and training affect parents' attitudes towards student involvement in campus football. In our country, most parents of test-oriented education are
+influenced by traditional ideas. They believe that getting into a higher school through academic
+achievement is the child's only way out, ignoring the importance of other skills. Most parents are
+unaware of the role football can play in building character, boosting intelligence and enhancing
+people's ability to think logically.
+Through a study of literature, it was found that educational departments and institutions are
+needed in the development of football on campus Education Department to work together to better
+develop football on campus. Moreover, the establishment of the School of Football Characteristics
+is on track.
+The mode of "combination of education and physical education" is based on education and supplemented by physical education. During the retrieval, however, it was discovered that
+1) the connotation of "teaching-body combination" is not clear.
+7
+(2) The concrete practice style of campus football from the perspective of "combination of teaching
+and sports" lacks successful experience.
+2.3 Overseas research status
+2.3.1 Youth football development in Japan
+The starting point for the development of Chinese football is roughly the same as that of Japanese
+soccer. Before the 1990s, the Chinese football team finished ahead of Japan in the overall standings, with both countries in contention. The Chinese team was definitely superior. Since the
+1990s, however, Japan has made great strides, not only catching up but gradually pulling away
+from China. The professionalization of Japanese football was implemented in 1993, and the momentum of its development has been rapid. The Japanese football team not only reached the
+World Cup, but also won the Asian Cup to become the leader of Asian football.
+The development of campus football in Japan started early and has formed a relatively mature
+system. In 2005, jay put forward the JFA2005 declaration, also known as the declaration of
+dreams, which has far-reaching significance for the development of Japanese football. Although
+only a few short words, but it has become a Japanese soccer field adhere to a direction for more
+than ten years. The declaration proposes to integrate sports into people's lives through the popularization and promotion of football, so as to improve the performance of Japanese football in world
+competitions. (Chen,X.T&Kang,T. 2017) In Japan, campus football mainly exists in the form of
+amateur clubs and is divided according to the "Football Club training Center system" in Japan.
+Based on the large school football population, around 20,000 primary and secondary schools in
+Japan participate in various types of school football games each year, with a total of 100,000 participants.
+Research on campus football in Japan has found that the development of campus football in Japan
+does not take up normal study time, except on Saturdays,
+Outside of Sunday practice, on-campus football practice time has largely remained between one
+and a half to two hours a day. Youth is the critical period for the cultivation of interest in football,
+and the large amount of training which necessarily occupies the hours of study leaves the student
+with no time to take formal cultural education can also cause players to gradually lose interest in
+football and even conflict with it.
+8
+2.3.2 Youth football development in Korea
+School soccer in South Korea initially focused only on soccer results, but in 2006, the Korea Football Association and the Ministry of Education jointly declared the year as "The First Year of Cultivating learning Soccer players," the development goal of youth soccer in South Korea.
+Table 1. The list of Korea campus football goals
+Phase Goal of development
+Primary school Through the fun football activities to cultivate football interest, improve the
+basic skills, expand the sports population
+High school Cultivate students' interest in football, improve their basic football skills, and
+create a football with both fun and practical content
+Collegial Train and transport high-quality football talents.
+South Korea campus football teacher training is the core of South Korea campus football. The level
+of school football depends on the coaches, which is a common understanding among South Korean schools, parents and coaches. South campus football mainly taking the coaches of strict
+grading system, to cultivate teachers for south Korean football coaches are divided into class C, B,
+A, P, and the goalkeeper grade 2 and grade 1, all levels of coaches corresponding level is different
+also, elementary school is at least A C grade, high school is at least A class B, while coaching university team is at least A grade.(Wang, L.H. 2020) The coaches of schools at all levels are both
+teachers of the school and contract coaches, that is, external coaches, but they must have the
+qualification certificate of Korean football, and no one is allowed to work without the certificate.
+Through reading, summary and research of domestic scholars and foreign campus football data
+found that parents and school pay attention to humanistic care education abroad, from the longterm perspective students to participate in the activities of the campus football or other forms of
+football, not too much pursuit of immediate interests, schools will by forcing the student to carry on
+the academic to ensure students' future development, To solve the parents' concerns that students
+will not be able to embark on a career path and not receive the corresponding cultural knowledge
+learning.
+9
+However, after a period of reform and development, the number of studies related to campus football in China has increased, and there is a certain research basis and results. However, there is no
+in-depth study on parents' attitude and what factors will affect the cultivation of students' interest.
+10
+3 Research
+3.1 Study object
+The main focus of the study was on the attitudes and influence factors of parents of some primary
+school students in Jinhua City regarding football on campus and student participation in football.
+3.2 Research method
+(1) Literature method
+Through the library, the network literature database to school football, parents' attitude and the
+youth football training related literature materials are sorted out and summarized, to provide theoretical basis for the writing of the full text.
+(2) Survey method
+While standardizing the theory, researchers use unified questionnaire design to understand the
+situation of the respondents and seek their opinions, so as to provide relevant scientific basis for
+relevant countermeasures. Please see appendix I for the questionnaire content.
+(3) Field research method
+In November - December, 2021, on the normal teaching in school period, the researcher’s use’s
+chances of becoming Jinhua campus football referees, visited three schools, for the school football
+infrastructure facilities, medical facilities and football culture construction measures and so on carries on the field observation, and for Jinhua city campus football league teams must understand.
+3.3 Research emphasis and innovations
+3.3.1 Research emphasis
+In primary and secondary schools, students are dominated by their parents' consciousness.
+Whether they participate in campus football depends on their parents' attitude. Therefore, it is necessary to find out the factors of parents' attitude towards students' participation in campus football
+and solve the contradictions so as to further develop China's football, expand the population base
+of China's football and provide a strong guarantee for the reserve of football talents. In the actual
+implementation process of campus football plan, the part that parents can control and intervene
+11
+whether their children participate in campus football is other forms of after-school sports besides
+daily sports. Therefore, to explore parents' attitude towards children's participation in campus football and its influencing factors, we should focus on parents' attitude towards children's participation
+in after-school football training and its influencing factors.
+3.3.2 Research innovations
+Through searching the database of CNKI with the keyword "campus football", the researcher found
+that the research on campus football focused on the concept, development, existing problems and
+countermeasures of youth football training. There is limited data on parents. However, in the implementation of the schoolyard football scheme in primary and secondary schools, the student is
+clearly at the mercy of the parental consciousness, and whether or not the student is allowed to
+play schoolyard football is essentially dependent on the subjective attitude of the parent. Therefore,
+starting from the attitudes of the parents of some of the students in Jinhua, this study explores the
+issues that exist at the parental level of campus football in Jinhua and presents constructive proposals for the development of campus football in Jinhua based on real-world issues.
+12
+Standard
+Collation and analysis of questionnaire data
+Finding the Cause of the problem
+Clarify the topic of campus football research
+Design paper Framework
+Selection of Research Methods
+Design a Questionnaire for Parents
+Verify
+Distribute questionnaires
+Below
+standard
+Write a thesis
+3.3.3 Research process
+Figure 1. Technical route
+Step 1, following, is to consult the relevant literature to understand the current state of research on
+parental attitudes, both at home and abroad.
+Step 2, using a combination of self-design and compilation based on research needs, and citing
+previous research to confirm
+finalize research tools.
+13
+Step 3: Questionnaires are sent to the respondents.
+Step 4: Data collation
+Step 5 The results of the questionnaire are statistically processed to discover the problem and thoroughly understand the cause.
+Step 6: Draw relevant conclusions and make relevant recommendations.
+14
+4 Results
+4.1 Analysis of parental attitude data
+Since 2017, numerous schools in Jinhua City have won the title of "Campus Football Characteristic
+Schools"By analyzing the attitudes of some parents to campus football in Jinhua City, the researchers investigated the factors that restrict parents' attitudes to students' participation in campus football, providing experience and reference for the development of campus football in Jinhua
+City and even the development of campus football in China. The researchers analyzed data collected from questionnaires. The results are presented in table 2 below.
+Table 2. Do you support children to participate in school football after school training?
+Options People Per centum
+Yes 417 97.7%
+No 10 2.3%
+Dimness 0 0%
+Total 427
+From Table2, we can see that 97.7% of parents support their children's participation in after-school
+training, while only 2.3% do not.
+Table3. Factors analysis table of parents' support for children's participation in school football
+extracurricular training.
+Options People Per centum
+Children are interested in football 353 96.2%
+I am interested in football 144 39.2%
+Enhance children's physical and psychological
+quality
+348 94.8%
+Rely on football skills to get into a good school 65 17.7%
+Football has good prospects for the future 70 19.1%
+15
+Respondingtonationalpolicy 84 22.9%
+The child is gifted at football 41 11.8%
+Relax stress and promote children's learning 323 88%
+Total 367
+Table4. Parents do not support their children to participate in after-school training factors analysis
+table.
+Options People Per centum
+You don’t like football 49 81.7%
+The child has no interest in football 59 98%
+Football affects children's physical and mental
+health
+12 20%
+It's hard to get into a good school on the
+strength of football
+19 31.7%
+The child has no talent for football 16 26.7%
+Football can interfere with children's studies 17 28.3%
+Total 60
+Based on the above analysis, it can be seen that the factors that influence the attitude of parents
+towards supporting the participation of students in after-school football training include: the children's interest in football or the interest of the parents in football. At the same time, some parents do
+not support it because the parents themselves do not like football, or the children themselves are
+not interested in football, among other reasons.
+Based on the above, it can be seen that most parents support their children's participation in campus football after-school practices, while only a few parents do not support students' participation in
+campus football after-school practices. Secondly, the factors that influence parents' attitudes are
+concentrated. On the whole, they can be divided into factors of need for physical and reference
+health development of students, factors of interest and talent of students, conflicting factors of
+learning and training, guiding factors of national policy, and factors of parental perception of foot-
+16
+ball on campus. Therefore, this paper will expand on the factors of health development needs, student interest and aptitude factors, learning and training contradictions, national policy guidance
+factors, and on-campus football cognitive factors for parents from the student body.
+4.2 Student health problems
+4.2.1 Physical and psychological health
+Table 5. How does your child get involved in sports?
+Options People Per centum
+School sports 265 62.1%
+Spare time 149 34.9%
+Never attended 13 3%
+Total 427
+The role and value of school sports to the country, to the nation, to education itself, and to everyone is not trivial. Wang Dengfeng pointed out in "Sports in Education" and "Education in Sports"
+that school sports are first and foremost sports in education, which is responsible for improving the
+physical and mental health of every youthful student. (Wang, D.F. 2017)
+Li Bai and Wei Hui mentioned in the Research on the Value of Campus Football in Cultivating Students' Core Physical Literacy that participating in campus football league can cultivate teenagers'
+communicative ability, teamwork ability and willingness to challenge, which is conducive to promoting students' mental health, setting up lofty ideals and establishing sound personality. (Li, B. & Wei,
+H. 2019)
+Campus football assumes the critical responsibility of improving the physical skills and quality of its
+students. For students, a strong body, physical and mental health, excellent social adaptability,
+comprehensive personality development, indomitable spirit and indomitable will are the basis of
+normal student development. Table 3 shows that the majority of students participate in physical
+activity, while there are still some students who do not.
+4.2.2 Site facility
+Table6. If your child is injured while participating in school football, will you continue to support your
+child's participation in school football.
+17
+Options People Per centum
+Continued support 189 44.3%
+No longer supported 5 1.2%
+Depending on the injuries 221 51.8%
+Do not fill 12 2.8%
+Total 427
+The table 6 shows that 44.3% of parents chose to support their child's participation in physical activities after their child's injury. In addition, 51.8% of parents choose whether their child would continue to participate in physical activities based on the severity of the injury.
+The severity of an accidental injury depends primarily on the severity of the injury on the spot and
+the timeliness and correctness of post-injury treatment. Scholars Chen Fadong and Zheng Langlang pointed out in the Prevention of Sports Injury in Football Teaching and Training of Primary
+and Secondary Schools that one of the objective factors affecting the campus football injury of primary and secondary school students is the field facilities and equipment. The standard of football
+field facilities (artificial, natural, soccer, etc.) and football equipment (professional soccer shoes,
+protective clothing, clothing, etc.) is related to the occurrence of football injuries. (Chen, F.D 2017)
+The quantity and modernization level of football infrastructure are the basic conditions for the development of campus football. This is not only a fundamental guarantee for the teaching of football
+sports and extracurricular football activities, but also a prerequisite for the sustainable and stable
+development of the football culture in schools. Therefore, in order to prevent serious injury accidents caused by the ground infrastructure during football activities on campus, it is important to first
+ensure that the school has a good football infrastructure.
+The researchers made a statistical analysis of the influence of venues and facilities on parents'
+attitudes from the data level, and the results are shown in Table 6
+Table 7. Do the football facilities (training ground) and training equipment (football, sign plate, etc.)
+of the school affect your attitude towards children participating in after-school football training?
+Options People Per centum
+Yes 186 43.6%
+18
+No 66 15.5%
+Dimness 175 41%
+Total 427
+According to the Table 6, 41% of parents said that the existing infrastructure did not affect their
+support for their children's participation in after-school football practices on campus. Meanwhile,
+43.6 % of parents said their attitude to their child's involvement in out-of-school football training
+had been affected. This suggests that existing venues and facilities have influenced the attitudes of
+some parents towards their children's involvement in after-school football training. So, a wellestablished football infrastructure will go some way to encouraging parents to support their children's participation in extracurricular football practices on campus.
+In order to really understand the actual situation of the existing site facilities in Jinhua, a site survey
+was conducted in November 2021 for three schools in Jinhua.
+1. One school has an irregular football field shaped like a square.
+2. The medical clinics at the two schools are far from the stadiums, and the medical facilities at
+the schools are inadequate, staffed by only one medical officer.
+In summary, the severity of accidental injuries depends on the severity of the injury site and the
+timeliness and correctness of post-injury treatment, which requires schools to be equipped with
+well-established medical facilities. When a student is injured, school staff and medical facilities
+should intervene in time to protect the student's physical and mental health to the maximum extent.
+Table 8.Will the medical facilities for school football affect your attitude towards letting children participate in after-school football training?
+Options People Per centum
+Yes 187 43.8%
+No 64 15%
+Dimness 176 41.2%
+Total 427
+As can be seen from Table 7, 43.8% of parents believe that the existing medical facilities will affect
+their attitude towards their child's participation in off-campus training, suggesting that improved
+19
+medical facilities will drive parents to some extent to support their child's participation in on-campus
+football activities.
+The following points can be determined in the communication with the parents of the students.
+1. Some medics are not involved in or have not been taught first aid professionally for football injuries.
+2. Medical personnel are not involved in after-school football training activities or courses.
+3. When students are injured in training, they are left to rely on medical kits carried by their coaches for simple treatment.
+Sports injury after first carries on the effective and proper emergency treatment, not only can reduce the damage degree, ensure that students physical health level, and in the survey found that
+in the clinic are far away, in the event of a serious accident harm accident, medical staff may not
+rush to the scene disposal, may cause the student physical damage degree aggravating.
+4.3 Conflict between learning and training
+4.3.1 Traditional ideology
+Table 9. What will you do if your child's participation in after-school football training affects his or
+her academic performance?
+Options People Per centum
+Communicate with your child about the problem
+323 75.7%
+Reduce or stop after-school football practices
+on campus
+100 23.4%
+Reduce children's other extracurricular time
+and supplement football training time
+98 23%
+Sign up for after-school training classes 57 13.6%
+Do not fill 10 2.3%
+I will not let my child participate in school football practice
+1 0.2%
+Total
+A comprehensive analysis of Table
+ditional and closed educational thought of parents, the prevailing educational thought is still "
+oriented education", and the thought of "quality
+position. Although some parents can properly recognize and understand the important role of ca
+pus football in the comprehensive development of children, in the conflict between study and foo
+ball training, parents are afraid of taking part in camp
+learning, and want their children to take part in campus football to learn football culture, forming
+conflict avoidance. Therefore, addressing the cultural learning issues of students participating in
+off-campus soccer training will, to some extent, promote parents to improve their children's att
+tudes towards after-school soccer training and promote the development of on
+Jinhua City.
+4.3.2 Football specialty policy
+Figure 2. Are you aware of the current specialty admission policy?
+40 %
+23 %
+Are you aware of the current specialty admission
+427
+A comprehensive analysis of Table 9 shows that the root cause of this phenomenon is still the tr
+ditional and closed educational thought of parents, the prevailing educational thought is still "
+education", and the thought of "quality-oriented education" still cannot occupy a d
+position. Although some parents can properly recognize and understand the important role of ca
+pus football in the comprehensive development of children, in the conflict between study and foo
+ball training, parents are afraid of taking part in campus football to delay their children's cultural
+learning, and want their children to take part in campus football to learn football culture, forming
+conflict avoidance. Therefore, addressing the cultural learning issues of students participating in
+us soccer training will, to some extent, promote parents to improve their children's att
+school soccer training and promote the development of on
+Football specialty policy
+the current specialty admission policy?
+10 %
+25 %
+40 %
+2 %
+Are you aware of the current specialty admission
+policy?
+20
+shows that the root cause of this phenomenon is still the traditional and closed educational thought of parents, the prevailing educational thought is still "examoriented education" still cannot occupy a dominant
+position. Although some parents can properly recognize and understand the important role of campus football in the comprehensive development of children, in the conflict between study and footus football to delay their children's cultural
+learning, and want their children to take part in campus football to learn football culture, forming
+conflict avoidance. Therefore, addressing the cultural learning issues of students participating in
+us soccer training will, to some extent, promote parents to improve their children's attischool soccer training and promote the development of on-campus football in
+Are you aware of the current specialty admission
+Acquaint entirelyClear understandingSmatter
+IncomprehensionNothing
+21
+It can be seen from the data in Table 8 that only 10% of parents fully understand the policy and 40%
+only partially. Through conversations with parents, it was found that whether or not parents supported their children's participation in on-campus football was normally considered from the perspective of their children's long-term educational plans. From the perspective of the average parent,
+the long-term training goal for their children is to get them successfully into a top-quality college.
+In the course of my correspondence with the Jinhua B coaches, I learned that there were plans to
+get students with special talent in football into secondary school.
+So, the admissions system for soccer majors from high school to college should be improved, and
+parents in secondary schools should be encouraged to recognize the importance of soccer. Judging by the current policy of relying on football skills to get into college, there are two types:
+1. Separate Gaokao examinations;
+2. Recruit high-level athletes. Tables 10 and 11 are online statistics of schools that recruit highlevel athletes.
+Table 10. Number of high- level football schools development table
+Table 11. Football single enrollment university number development table
+Year quantity growth rate
+2016 74 0
+2017 77 4
+2018 153 98.7
+2019 181 18.3
+Year quantity growth rate
+2017 37 0
+2018 92 5.75
+2019 97 4.12
+2020 99 2.06
+22
+To sum up, we can conclude that although the establishment of a perfect football enrollment incentive policy at the national level is related to the enrollment of Jinhua City, the enrollment policy
+does not play its incentive role in the publicity process of parents, nor does it improve parents' attitude towards campus football students participating in off-campus training.
+4.4 Coach
+4.4.1 Coaching team
+The ability of physical education coach to teach football plays an essential role in fostering interest
+and athletic ability in their students. To this end, the researchers conducted a statistical analysis of
+parents' understanding of physical education coach in schools, and the results are presented in the
+following table.
+Table 12. Do you know the number of physical education teachers or coaches in your child's
+school?
+Options People Per centum
+Yes 253 59.3%
+No 36 8.4%
+Dimness 138 32.3%
+Total 427
+In his correspondence with the coach of the Jinhua men's B team, researcher Jeff determined that,
+1.School can implement the number and length of extracurricular footballactivitiesclasses reasonably and in a normal way by relying on the school body based on the actual situation and plan of
+the school.
+2. Most of the coaches for the school's soccer extracurricular club classes are under third-party
+labor dispatch contracts, and the school's partner units are commercial clubs. Most coaches work
+part-time teaching soccer after-school club classes. The mode of cooperation is typically for commercial clubs to provide association coaches to schools and schools to provide commercial clubs
+with commercial training grounds on Saturdays and Sundays. In this respect, while the financial
+burden on students who participate in extracurricular soccer clubs on campus can be reduced, the
+quality of club courses cannot be guaranteed. Extracurricular football club classes will be useless if
+the poor quality of the club sessions fails to interest students and properly improve their ability to
+23
+play football. Instead, it will affect parents who support their children's participation in school football after school training.
+4.4.2 Teaching ability
+The coaching level of the coach is a testament to his coaching abilities. The assessment of a PE
+teacher's ability to teach football should be in line with the level of coaching the instructor has.
+Football training is an interactive process of teaching and training, the core of which is the training
+design and guidance of coaches and the "training" of athletes. Influenced by the traditional education concept, Chinese youth football training is still dominated by the "pass-receive" type, emphasizing the process of "imitation, repetition and reinforcement" and focusing on the "stimulusresponse" reinforcement. In the process, the coach is central.
+4.5 An analysis of the important work history of campus football
+Researchers Jeff have catalogued the development of the important work of national youth school
+football:
+Work on a national youth campus football program started in 2009.
+On November 26, 2014, the State Council held a teleconference on the work of the National Youth
+School Football, and the Ministry of Education officially organized and took charge of the work of
+the National Youth School Football.
+From May to June 2017, the Ministry of Education and 102 pilot counties (districts) identified in recent years signed memorandums to promote the reform and development of campus football,
+promoting the campus football teaching and training competition system within the county.
+In December 2017, the leading Group of National Youth Campus Football Work and the reform
+pilot zone signed the memorandum of promoting the reform and development of campus football.
+Since 2014, Chinese campus football has been under the leadership of the Department of education from "have" to "strong" constantly.
+Over the years, the education department has continuously improved the top-level design and improved the system mechanism; Adherence to generalization for the purpose of optimizing layout;
+Increased capital investment, site strengthening, teacher base; We will lay a solid foundation for
+teaching and improve the system of after-school training and competition. For now, on-campus
+football is thriving. The National Youth Campus Football Teaching Guide and Student Football Skill
+Rating Standard provide theoretical support for the development of campus football. The annual
+24
+winter summer camp and "Full Star" training camp are in full swing, forming a prosperous scene
+across the country
+25
+5 Conclusions
+Parents of students in the Jinhua region have expressed widespread support for their children
+playing football after school.
+The physical and mental health development of trainees is a critical factor in influencing parents'
+attitudes. Whether or not a student will be injured and the severity of the injury are the primary reasons affecting parents' attention to the development of the student's physical and mental health.
+Second, the school's existing on-field infrastructure and medical facilities are another critical factor
+influencing parents' attitudes towards student participation in on-campus football activities. Contradictory learning is one of the main factors influencing parents' attitudes.
+The main reasons affecting parents' attitudes are that schools are too single-minded in their solutions to the contradiction between learning and training and that schools are not strong enough in
+their solutions to the contradiction between learning and training. Second, parents' attitudes toward
+football have become one of the most critical factors influencing parents' attitudes toward student
+participation in football activities on campus. The failure of the education authorities and schools to
+communicate the football policy to parents is an essential reason for the failure of the promotion
+policy.
+Parents believe that the teaching ability of physical education teachers to develop the interests and
+talents of their students plays an influential role. Coach is the central position for football development throughout the campus.Then, the coaches of the school's soccer extracurricular club classes
+are mostly third-party labor dispatch contracts, and the school's partner units are commercial
+clubs. Most coaches work part-time teaching football at clubs outside of school. That has affected
+parental support for football on campus to some extent.
+Table13. The link between research results and conclusions.
+Research Finding Research conclusions
+Data analysis of parent attitudes
+Data analysis of student physical
+and mental health development
+factors was an important factor in
+influencing parent attitudes, as
+was the school's existing on-site
+infrastructure and medical faciliThe school has established a timely communication network with parents and holds regular parent-teacher conferences on football development
+on campus. The school and parents have exchanged views on issues related to the development of football on campus and discussed
+policies on the development of football on cam-
+26
+ties, another important factor in
+influencing parent attitudes towards student participation in
+campus football activities.
+pus together. Continue to improve the field,
+equipment and medical infrastructure, ensure
+the normal development of daily football physical
+education class and extracurricular community
+classes, improve the safety awareness of
+coaches, prevent the occurrence of accidental
+injury accidents, improve the medical staff and
+coaches to deal with accidental injury accidents,
+prevent secondary injuries after accidental injury
+accidents.
+Student interest in football and
+student talent in football are important factors in influencing parental
+attitudes. Daily football and PE
+classes and after-school clubs are
+important ways to develop pupils'
+interest and football talent, but
+some parents are not aware of the
+daily football and PE classes and
+clubs that are carried out in
+schools. At the same time, parents
+believe that the teaching ability of
+PE teachers plays an important
+role in nurturing the interests and
+talents of students.
+Training courses for school-based in-service PE
+teachers and football coaches will be conducted
+on a regular basis, the number of on-campus
+football coaches will be expanded and popularized, the coaching capacity of coaches will be
+improved, and the results of PE teachers' training will be linked to the promotion mechanism of
+their professional designation; At the same time,
+the cooperation between the Football Association and the education department should be
+strengthened, and the registered coaches of the
+Football association should be sent to the school
+to teach football extracurricular club classes, and
+the assessment of the teaching should be included in the promotion mechanism of the
+coaches, so as to improve the course quality and
+learning efficiency of the daily football physical
+education class and the reasonable length of
+football extracurricular club classes, and to exert
+the training influence in line with the current
+physical and mental development characteristics
+of students. Promote the cultivation of interest in
+football and encourage students to show their
+talent for football.
+27
+The conflict of academic training is
+one of the important factors affecting parents' attitudes.The main
+reasons for the change in parents'
+attitudes were that the school's
+solution to the conflict of school
+training was too simplistic and that
+the school's propaganda to parents was not strong enough.
+Schools and parents discussed training solutions
+based on the actual situation, actively provided
+after-school cultural tutoring for students participating in after-school soccer training, and expanded cultural tutoring channels, such as video
+replay of lectures, to ensure the comprehensive
+development of students' soccer skills and cultural learning.
+National policy-oriented factors
+have emerged as one of the important factors influencing parents'
+attitudes toward student involvement in football on campus. Education authorities and schools are
+not doing enough to publicize football promotion policies to parents,
+which is a significant reason why
+promotion policies do not give full
+play to the role of incentives.
+Strengthen promotion policies and advertise
+them on the official websites of the Education
+and Sports Bureau and schools. We should also
+hold corresponding awareness sessions for parents on football promotion policies.
+28
+6 Discussion and Suggestions
+6.1 Discussion
+The education department will continue to increase the investment in football infrastructure, continue to improve the infrastructure required for football training, and urge schools to establish a "usemaintenance" management mechanism to avoid the situation of only use without maintenance;
+teaching safety supervision will be strengthened, with regular inspections and timely detection of
+hidden dangers.
+Perfect the medical facilities, appropriate to increase the number of medical staff, make the conditional schools cannot conflict to work in the medical "team" training measures, strengthen the
+school staff in football accident treatment of special learning, improve the ability of handling medical professional football injury.
+Training sessions were held for coaches, skills training sessions were organized, and safety
+awareness of coaches in teaching was raised; regularly launch training courses on the safety disposal skills of football accidental injury accidents for football coaches to improve the ability of
+coaches or physical education teachers to dispose of students' accidental injury accidents in the
+"first time", so as to avoid the occurrence of secondary injuries leading to the increase of students'
+injury degree.
+Parents on a regular basis for a football accident harm talk, let parents understand the theory and
+the accident harm accident harm after the rehabilitation process, reduce the degree of parents'
+scare of students happening accidents, improve the parents' attitude toward students focusing on
+common harm, to further improve the parents' attitude toward children to actively take part in campus football activities.
+Campus football planning is in line with the current Chinese football development requirements. It
+is also an influential way to build sporting power. The national level will continue to vigorously promote the sustainable development of campus football, continue to introduce policies that are
+29
+adapted to the current situation and can promote the development of campus football, and guide
+and direct the sound and rapid development of campus football. Jinhua City departments have
+earnestly implemented relevant policies, and their active implementation depends on relevant
+measures and methods to learn soccer skills. Therefore, the following should be done: Junior and
+senior high schools should continue to implement and improve the corresponding football enrollment policies, adhere to the ideological unity of sports bureaus and schools and adopt practical
+measures and methods. Strengthen the publicity of the admission policy, push the popularity of
+football to the public on the official account of the school or the corresponding public admission
+policy, and make the corresponding announcement of the football parents' policy, so that the cognition of the parents on the football admission policy cannot start from the parents. "Only if parents
+are familiar with the football admission policy can the policy incentive effect be used to encourage
+their children to participate in school football.
+Regular in-service teachers in schools for football coaching skills upgrading courses for professionals, and full-time football for physical education teachers; at the same time, training outcomes
+and responsibilities.
+Improving the teaching outline, encouraging teachers to play a major role, complementing and improving the teaching content, and engaging students in football activities, will stimulate interest in
+football.
+Keep up the football association lessons. At the same time, schools should strengthen cooperation with the association, send registered coaches to schools to teach the association's courses,
+and incorporate teaching assessment into the coaching promotion system.
+Schools need to establish communication networks with parents in a timely manner so that parents
+know, understand, and understand the strengths of school teachers and the developing trends in
+school football. Through various initiatives, we will improve the quality of daily sports and soccer
+after-school club classes, attract more students to campus soccer activities, stimulate interest in
+soccer among students, and then promote parents to support their children to participate in campus soccer after-school training.
+30
+6.2 Suggestions
+Schools and parents have set up online group chats to exchange views on issues related to the
+development of school football and to discuss policies on the development of school football
+together.
+Schools to improve the site, equipment and medical infrastructure, ensure that the physical
+education and community class daily campus football accurately, increase awareness of the
+safety of the coaches and sports teachers, prevent the happening of accident harm accidents,
+improve the ability of dealing with medical staff accident harm accidents, ensure that students
+in a healthy, safe environment for campus football training.
+Schools and parents should communicate according to the actual situation. Schools should pay
+attention to students' football training, increase extracurricular tutoring culture, expand cultural
+counselling channels, such as the implementation of teaching video playback, the implementation of "cultural level standard system", etc., to ensure students' football skills and culture of the
+overall development.
+Football matches are held regularly to strengthen the professional ability of coaches, and football Association lecturers are appointed to improve the professional level of football coaches in
+schools, improve the coaching ability of coaches, and link coach training with performance.
+31
+7 Evaluation of the study
+My primary school is called Jiangbin Primary School. I fell in love with football when I was in the
+first grade at primary school. In my third year of primary school, I joined our school's football team
+and began representing our school in football games. At that time, campus football had not started
+to develop, therefore the coach found players from the women's teams of Zhejiang Normal University and Jinhua Football Club to accompany us to practice. We made rapid progress and won three
+consecutive titles in the Zhejiang campus Football League.
+In 2021, I was invited by my former coach to play as a referee in the Jinghua Campus Football
+League. However, what I saw was that most of the players could not even make a basic pass and
+knew nothing about football rules. That is one of the big reasons I chose campus football for my
+research.
+In addition to field research, I also found a lot of information on campus football online to make my
+paper more reliable. Literature review resources come from major Chinese authoritative publishing
+houses and news media, which provide authoritative and reliable data. All resources are standardized and reliable.
+As someone who has played campus football, I can commonly relate to the issues of campus football. However, digging into it, I learned something new. In writing this paper, I have gained a clearer understanding of campus football, a deeper understanding of the idea of a lengthy panel, and a
+more comprehensive understanding of the development of Chinese football.
+This study was also a test of my study plan and time allocation. I have been planning this study
+since 2021, but the successive COVID-19 outbreaks in Zhejiang province have disrupted my plans.
+It took me a year to come to a conclusion. After that, I will continue to study campus football and
+make a modest contribution to Chinese football.
+32
+References
+Bu, Y.F. Methodology of youth football training practice: Theoretical cognition and Model application [J]. Physical Education Research, 201, 35 (3), 58-66.
+Chen, F.D. & Zheng, L.L. 2017. Prevention of Sports Injury in Football Teaching and training in
+Primary and secondary schools [J]. Sports, (3): 126-127 + 79.
+Chen,X.T&Kang,T. 2017. Comparative study on the development of campus football in China
+and Japan [J] journal ofNanjing university of physical education, 31 (2).
+Ding, R & Dai, J. 2021. Problems and Suggestions of Youth Football Training in China. Chinese Sports Coach 29(03), 73-74.
+Jiang,S.F. 2011. Research on the Current situation and Development of Campus football in
+Yangpu District of Shanghai [D]. Shanghai University of Sport.
+Li, B. & Wei, H. 2019. Research on the value of Campus football in cultivating students' Sports
+core Accomplishment [J]. Liaoning sports science and technology, 41(06):97-100.
+Liu,D & Zhao, G. &Bu,Y.F, et al. 2011. Youth Football Training Program and Teaching Method
+Guidance [M]. Beijing: People's Sports Press.
+Liu,F.L. 2018. Journal of Beijing sport university 41(09), 83-87.
+Luo, Y. 2019. Value orientation and realization of campus football in China under the goal of
+sports power [J]. Journal of Guangzhou university of physical education, 39(04), 14-17.
+Ministry of Education, PRC, etc. 2015. The Implementation opinions of the Ministry of Education and other 6 departments on accelerating the development of youth campus football, 06.
+SSAC&MOE. A notice on the development of national youth campus football activities[Z]. 2009.
+
+Sun,J.&Chen,X.K. 2018. Problems and solutions of youth football talent training in China from
+the perspective of education [J]. Journal of Beijing sport university, 41(11):110-115.
+Wang,C.& Zhang, T.A. 2011. Research on the training of reserve football talents in Beijing [J].
+Guide of Sports Culture, (12), 79-82.
+Wang, D.F.2017. Physical education in education and education in physical education [J].
+Sports science 37(12), 3-6.
+33
+Wang, L.H. 2020. Development experience and inspiration of Campus Football in South Korea
+[J]. Journal of Nanjing University of Physical Education, 20, 19 (4), 60-63.
+34
+Appendices
+Appendix 1.A questionnaire on campus football research
+Dear parents,
+Hello!
+I'm a student in Haaga-Helia, Finland, and I'm doing research on school football.Before starting
+the questionnaire, thank you for your support to my academic research.This questionnaire is only
+used as research data and will not affect your privacy. Please feel free to fill it out. There is no
+right or wrong answer in this questionnaire,
+lease fill in according to your and your child's actual situation.Please tick √ and fill in the relevant
+information in ().
+Question 1 Your child's name: ____________ Gender: ___
+Grade: ________ School: ____________
+Question 2. has your child ever been involved in school football?
+A. yes
+B. no
+Question 3. How does your child participate in school football?
+A. School sports
+B. Spare time
+C. Nothing
+Question 4. what is your child's motivation to participate in school football activities?
+35
+A. Interest
+B. Classroom activities
+C. Show yourself
+D. Unconsciousness
+E. Nothing
+Question 5. Does your child's school have special football education on campus?
+A. Yes
+B. No
+C. Dimness
+Question 6. Do you support children to participate in school football after school training?
+
+A. Yes
+B. No
+C. Dimness
+Question 7. What is your reason for supporting children to participate in school football after-school
+training?
+A. Children are interested in football
+B. I am interested in football
+C. Enhance children's physical and psychological quality
+36
+D. Rely on football skills to get into a good school
+E. Football has good prospects for the future
+F. Respondingtonationalpolicy
+G. The child is gifted at football
+H. Relax stress and promote children's learning
+Question 8. What is the reason why you do not support your children to participate in school football after-school training?
+A. You don’t like football
+B. The child has no interest in football
+C. Football affects children's physical and mental health
+D. It's hard to get into a good school on the strength of football
+E. The child has no talent for football
+F. Football can interfere with children's studies
+Question 9:If your child could get into a better school through football, would you agree to him/her
+playing campus football?
+
+A. Yes
+B. No
+C. Dimness
+Question 10 Are you aware of the current specialty admission policy?
+
+A. Yes
+37
+B. No
+C. Dimness
+Question 11 Do you know the number of physical education teachers or coaches in your child's
+school?
+
+A. Yes
+B. No
+C. Dimness
+Question 12 Whether the grade of physical education teacher or coach will affect your attitude towards children's participation in campus football culture?
+
+A. Yes
+B. No
+C. Dimness
+Question 13 Do the football facilities (training ground) and training equipment (football, sign plate,
+etc.) of the school affect your attitude towards children participating in after-school football training?
+
+A. Yes
+B. No
+C. Dimness
+38
+Question 14: Will the medical facilities for school football affect your attitude towards letting children participate in after-school football training?
+
+A. Yes
+B. No
+C. Dimness
+If you support your child's participation in school football, please continue to complete
+questions 15-18.Thank you very much!
+Question 15 What will you do if your child's participation in after-school football training affects his
+or her academic performance?
+A. Reduce or stop after-school football practices on campus
+B. Reduce children's other extracurricular time and supplement football training time
+C. Sign up for after-school training classes
+D. Communicate with your child about the problem
+E. I will not let my child participate in school football practice
+Question 16 do you worry about your child's injury in the process of participating in campus football
+and affecting his future sports and life live?
+
+A. Very worried
+39
+B. A little worried
+C. Not worried at all
+Question 17 If your child is injured while participating in school football, will you continue to support
+your child's participation in schoolfootball?
+A. Continued support
+B. No longer supported
+C. Depending on the injuries
+Question 18 if you stop your child from attending school football training, what reasons will you
+consider?
+A. Children lose interest in football
+B. Parents lose interest in football
+C. Influence the children's cultural learning performance
+D. Children are not talented enough in football
+E. Children are injured in the process of participation, which affects their physical and mental
+health
+F. Football admission policy changes
+G. The football culture in the school the child attends is not good, resulting in discrimination
+Question 19 What do you think is the deficiency of campus football culture in our city?
+40
+Question 20 what suggestions do you have for the development of campus football culture in our
+city?
+Thank you again for your cooperation! I wish you all the best! 
